@@ -1,35 +1,44 @@
 {
   "main": {
-    "id": "6c558424d77a11fc",
+    "id": "1462954cc9817765",
     "type": "split",
     "children": [
       {
-        "id": "0768939cdb588181",
+        "id": "9de162f5daf4fd01",
         "type": "tabs",
         "children": [
           {
-            "id": "2bea103bf8dbf00b",
+            "id": "c0cdc89b3c47f58b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4192fb1f98f2a9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/Frontend Web Developer Roadmap.md",
-                "mode": "source",
+                "file": "English/English Shadowing.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cc122c45796b1de1",
+    "id": "821129d87bfa1fc7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "55ca4f1cce6e193a",
+        "id": "741fb01c2f6fec58",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +48,7 @@
         }
       },
       {
-        "id": "b621d1e4002775b0",
+        "id": "7c9a0d4979131a6a",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +63,7 @@
         }
       },
       {
-        "id": "e5ae94b2968679b8",
+        "id": "7405e148fe0ca94d",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +74,7 @@
         }
       },
       {
-        "id": "c5c70c740b407ad6",
+        "id": "dbcfef296a1e099b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +85,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "7665af80f6418019",
+    "id": "38f48e8ad3fab1e5",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9cb38f656848f8d5",
+        "id": "ceca5c5be38424fa",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DEV/Frontend Web Developer Roadmap.md",
+            "file": "English/English Shadowing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,41 +106,25 @@
         }
       },
       {
-        "id": "e612e3c31b157dee",
+        "id": "7cf07134b634da41",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DEV/Frontend Web Developer Roadmap.md",
+            "file": "English/English Shadowing.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "129d55cb5e21cbdf",
+        "id": "f86f74f4fd3266bf",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "DEV/Frontend Web Developer Roadmap.md"
+            "file": "English/English Shadowing.md"
           }
-        }
-      },
-      {
-        "id": "327b32b71878426d",
-        "type": "leaf",
-        "state": {
-          "type": "todo",
-          "state": {}
-        }
-      },
-      {
-        "id": "5d160c1709721bda",
-        "type": "leaf",
-        "state": {
-          "type": "QUICKSHARE_SIDE_VIEW",
-          "state": {}
         }
       }
     ],
@@ -144,30 +137,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2bea103bf8dbf00b",
+  "active": "c4192fb1f98f2a9c",
   "lastOpenFiles": [
-    "DEV/Meetup/10월 2일 네트워크 발표.md",
-    "DEV/Frontend Web Developer Roadmap.md",
-    "DEV/Git 기초강의.md-4",
-    "DEV/Frontend Web Developer Roadmap.md-2",
-    "DEV/Meetup/10월 2일 네트워크 발표.md-2",
-    "DEV/Frontend Web Developer Roadm.md",
-    "DEV/Git 기초강의.md-3",
-    "DEV/Git 기초강의.md-2",
-    "DEV/Git 기초강의.md",
-    "Development/모던JS튜토리얼_정기모임/2022-09-04 모던JS튜토리얼_정기모임.md",
-    "Development/모던JS튜토리얼_정기모임/2022-08-21 모던JS튜토리얼_정기모임.md",
-    "Development/모던JS튜토리얼_정기모임/2022-08-14 모던JS튜토리얼_정기모임.md",
-    "Development/Udemy React Course - The Complete Guide/Section 17.md",
-    "Others/일일일지/2022-08-22 일지.md",
-    "Development/프론트엔드 면접.md",
-    "Others/일일일지/2022-08-19 일지.md",
-    "Development/모던 자바스크립트 튜토리얼 정독하기.md",
-    "Development/개발일지/2022-08-19 개발일지.md"
+    "Template/Basic Metadata.md",
+    "English/English Shadowing.md",
+    "Untitled",
+    "React/Udemy React The Complete Guide.md",
+    "React/Udemy React The Complete Guide Section 19.md",
+    "React",
+    "Diary/원하는 기업.md",
+    "Diary/Free Happiness.md",
+    "Diary/2023 Restrospective.md",
+    "Diary/2023 Timeline.md",
+    "Diary/2023 Mistakes Listup.md",
+    "Diary/2023-07.md",
+    "Diary",
+    "Algorithm/Problems/Sales by Match.md",
+    "Algorithm/Problems/Repeated String.md",
+    "Algorithm/Problems/Counting Valleys.md",
+    "Algorithm/Problems/Jumping on the clouds.md",
+    "Algorithm/Arrays & Hashing.md",
+    "Algorithm/Algorithm List.md",
+    "Algorithm/Algorithm Roadmap.md",
+    "Algorithm/How to Solve Algorithm Problems from Scratch.md",
+    "Algorithm/Problems",
+    "Algorithm",
+    "English/영어 전치사 연구 의미와 용법.md",
+    "English",
+    "Readwise/Tweets/Tweets From Emiko.dev ☀️.md",
+    "Readwise/Tweets/Tweets From Shane Parrish.md",
+    "Readwise/Tweets/Tweets From 곁.md",
+    "Readwise/Books/Rising Strong.md",
+    "Readwise/Books/누구도 나를 파괴할 수 없다.md",
+    "Readwise/Books/How to Avoid a Climate Disaster.md",
+    "Readwise/Books/Less.md",
+    "Readwise/Tweets",
+    "Readwise/Books",
+    "Readwise/Articles",
+    "Readwise",
+    "Attachments/Screenshot 2023-07-20 at 11.58.36 AM.png",
+    "Attachments/Screenshot 2023-07-14 at 1.33.35 PM.png",
+    "Attachments/Screenshot 2023-07-17 at 9.51.59 PM.png",
+    "Attachments/Screenshot 2023-09-22 at 21.34.43.png",
+    "Attachments/Screenshot 2023-09-20 at 16.24.34.png",
+    "Attachments/Screenshot 2023-09-20 at 16.44.59.png",
+    "Attachments/Screenshot 2023-09-20 at 16.22.55.png",
+    "Attachments/Screenshot 2023-07-04 at 11.58.59 PM.png",
+    "Attachments/Screenshot 2023-07-15 at 12.25.19 AM.png",
+    "Attachments/F0U8bRfaIAA4YGW.jpeg"
   ]
 }
