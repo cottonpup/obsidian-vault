@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "6c558424d77a11fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "59d29f46aca8f326",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0acdc1c46296545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV/Meetup/10월 2일 네트워크 발표.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bb54fd7282b88b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d16ddd5ad1d6673c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc8b191b2f2d3ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "c62d3717da803e98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b72f489297bb43b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "07ba8c6f1020750a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "168f1139124b42f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc9b707daeb22ea2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b404d7ffd25a792c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DEV/Meetup/10월 2일 네트워크 발표.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "06c444191a2d260e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DEV/Meetup/10월 2일 네트워크 발표.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "076a624753dac954",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "1140ff79f749f6b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DEV/Meetup/10월 2일 네트워크 발표.md"
+              }
+            }
+          },
+          {
+            "id": "e8430724c7ef92f8",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e717de97faff763",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4189ab4de15b730e",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dfba779894f19ec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c0acdc1c46296545",
+  "lastOpenFiles": [
+    "DEV/Meetup/10월 2일 네트워크 발표.md-2",
+    "DEV/Git 기초강의.md-4",
+    "DEV/Git 기초강의.md-3",
+    "DEV/Git 기초강의.md-2",
+    "DEV/Frontend Web Developer Roadmap.md-2",
+    "DEV/HTTP? HTTPS? Internet?.md",
+    "DEV/Interview/투인피니티 면접 대비.md",
+    "DEV/Meetup/겁쟁이들을 위한 스터디.md",
+    "DEV/Meetup/프론트엔드 면접 스터디.md",
+    "DEV/Meetup/10월 2일 네트워크 발표.md",
+    "Attachments/Screenshot 2023-09-27 at 0.51.11.png",
+    "DEV/Frontend Web Developer Roadmap.md",
+    "Attachments/Screenshot 2023-09-23 at 21.08.34.png",
+    "DEV/Full Stack Web Developer Roadmap.md",
+    "DEV/How to study as a developer (매우 효과적인 방법!).md",
+    "Attachments/Screenshot 2023-09-22 at 12.36.36.png",
+    "Attachments/Screenshot 2023-09-22 at 21.34.43.png",
+    "DEV/Middleware?.md",
+    "DEV/JWT(JSON Web Token)?.md",
+    "DEV/Redux toolkit?.md",
+    "DEV/SPA?.md",
+    "Interview/Javascript Interview Questions.md",
+    "Readwise/Books/누구도 나를 파괴할 수 없다.md",
+    "Untitled.md",
+    "Morning Page",
+    "Morning Page/2023-09-21.md",
+    "Readwise/Books/도둑맞은 집중력.md",
+    "Readwise/Books/이유 없이 고통스러운 밤은 없어....md",
+    "Readwise/Books/Solve for Happy.md",
+    "Readwise/Quotes.md",
+    "DEV/Reudx vs Redux Toolkit?.md",
+    "DEV/Interview/신입 개발자 면접 가이드.md",
+    "DEV/Interview/면접 질문 아카이브.md",
+    "DEV/주니어 개발자 이력서 가이드.md",
+    "DEV/useEffect() Hook.md",
+    "Attachments/Screenshot 2023-09-20 at 16.44.59.png",
+    "Attachments/Screenshot 2023-09-20 at 16.44.41.png",
+    "Attachments/Screenshot 2023-09-20 at 16.27.40.png",
+    "Attachments/Screenshot 2023-09-20 at 16.27.11.png",
+    "Attachments/Screenshot 2023-09-20 at 16.26.03.png",
+    "Attachments/Screenshot 2023-09-20 at 16.25.18.png",
+    "DEV/Interview",
+    "DEV/Meetup",
+    "DEV/Untitled.canvas",
+    "DEV",
+    "English",
+    "Readwise/Tweets",
+    "Untitled.canvas"
+  ]
+}

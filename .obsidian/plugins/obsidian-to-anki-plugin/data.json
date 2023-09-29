@@ -1,0 +1,214 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "10 Questions": "",
+      "Basic": "",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Basic-96d88": "",
+      "Cloze": "",
+      "Cloze-AnKingMaster": "",
+      "Cloze-AnKingMaster-v2": "",
+      "Image Occlusion Enhanced": "",
+      "Vocabulary-8962d": "",
+      "면접": "",
+      "영어": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "10 Questions": "A",
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Basic-96d88": "Front",
+      "Cloze": "Text",
+      "Cloze-AnKingMaster": "Text",
+      "Cloze-AnKingMaster-v2": "Text",
+      "Image Occlusion Enhanced": "ID (hidden)",
+      "Vocabulary-8962d": "Word",
+      "면접": "메인질문",
+      "영어": "Front"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "English/Untitled.md": "27bd7dd839abf09f6aee7ba67470be44",
+    "Template/TODO.md": "be2027ca955826034341bcda3436c593",
+    "Template/Tweet.md": "0ca9b1b6542e8f23bf4c7a385a52308c",
+    "Template/Timeline.md": "8b2439e8b503350b320fc27c79ae0f6c",
+    "Template/Restrospective.md": "79900115453a66754db9fb3e42d63667",
+    "Template/Callout.md": "dcebc4b40f516b39d336b23f838c82e5",
+    "Template/Basic Metadata.md": "44dc3b858101a691e11c03c5d13de37a",
+    "Template/Algorithm Metadata.md": "852b67ec4eb450e0157becfc33adb04a",
+    "Interview/React Interview Script.md": "72c256f6623fd0d3425a4d3baf4a55db",
+    "Interview/Prepare for an Interview.md": "6cf6614454f8300a9e59450fcdf5c87c",
+    "Interview/google.com을 치면 일어나는 일.md": "a734929b5ac865c2b1332ea0f06a33b6",
+    "Interview/Computer Sicence Interview Questiosns.md": "1a30ff881fd574d133029ea1e5f9ad4f",
+    "Interview/Interview Listup.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Interview/Javascript Interview Questions.md": "3c64b6087a7d9e15915fba42102e94e8",
+    "TIL/깃 커밋 영어 레퍼런스.md": "52f21cff0161c054bdd6289f18147e67",
+    "TIL/~ meaning in command.md": "790ec1439ca732e9b4d6a8b2967685f7",
+    "TIL/Tailwind class 와 className 차이.md": "ca6ac853fd05cc80cf1fc261fb382bbc",
+    "Readwise/How Food May Improve Your Mood.md": "508f3b8a56e4173968f8df56e0e3efb3",
+    "Readwise/Articles/The pursuit of calm.md": "6a1d6799a312fd0898e5f0c125b496fb",
+    "Readwise/Books/이유 없이 고통스러운 밤은 없어....md": "80ba7a1c37e6166cdff4e4797b944b15",
+    "Readwise/Books/도둑맞은 집중력.md": "b938dc84fbc288ab2914d283e3ec0045",
+    "Readwise/Books/Less.md": "57fa4876eb5326a4b8d8dcc1e53c4b1e",
+    "Readwise/Books/Solve for Happy.md": "327876a36306b466f817f1046fb2a8c7",
+    "Readwise/Books/The Guest List.md": "1fff4c528063053dd0dc3d78a438ee5b",
+    "Readwise/Books/Rising Strong.md": "d78189379f8ec93a2de4c30d8a5fa7f6",
+    "Readwise/Books/How to Avoid a Climate Disaster.md": "e2a236563c20d84592a5931266a23a2f",
+    "Readwise/Quotes.md": "36acbb139df0e956c81344919367da55",
+    "React/Udemy React The Complete Guide Section 19.md": "428b0f7c5e407becd0b9bab5398fcc04",
+    "React/Udemy React The Complete Guide.md": "8577e3b06015f8e297d9c3549b4afa87",
+    "Meetup/Git 기초강의.md": "390473f701466466291d369b2281bd3f",
+    "Meetup/2023 Seoul Women Hackathon.md": "d7ca27017c61617c58881bf93ca2c7e2",
+    "JavaScript/Basic Backend Project.md": "7e9b88e8e330d12bc14e461572cf38c1",
+    "Diary/Free Happiness.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Diary/원하는 기업.md": "c5556ef4e4c7729a979c153cab12abd5",
+    "Diary/2023 Timeline.md": "0bfe80268f333db803dbab38e56688f2",
+    "Diary/2023 Restrospective.md": "64ad76a6468efd4f5f10ad9db97b862a",
+    "Diary/2023 Mistakes Listup.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Algorithm/Arrays & Hashing.md": "49a27c4786d5e71dacdf08fa6aa33b2f",
+    "Algorithm/Algorithm Roadmap.md": "eb1d4a5b89e0da8a47a53354b5733985",
+    "Algorithm/Problems/Sales by Match.md": "d4c9b7be88356fd4eabd83bea7d0b312",
+    "Algorithm/Problems/Jumping on the clouds.md": "bdf063671b2b7b548adcbb1d8498147e",
+    "Algorithm/Problems/Repeated String.md": "19a7a17f01e4dd9fcbcb81df0c500f61",
+    "Algorithm/Problems/Counting Valleys.md": "df11c2f4ba889f0b4302d47fccf9709e",
+    "Algorithm/Algorithm List.md": "3c82e8581f817028dcf5f64ab5db39c9",
+    "Algorithm/How to Solve Algorithm Problems from Scratch.md": "3503712ccb9904d4a5e7f54926cd7330"
+  },
+  "fields_dict": {
+    "10 Questions": [
+      "A",
+      "Q1",
+      "Q2",
+      "Q3",
+      "Q4",
+      "Q5",
+      "Q6",
+      "Q7",
+      "Q8",
+      "Q9",
+      "Q10"
+    ],
+    "Basic": [
+      "Front",
+      "Example",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Basic-96d88": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Cloze-AnKingMaster": [
+      "Text",
+      "Extra",
+      "Lecture Notes",
+      "Missed Questions",
+      "Pathoma",
+      "Boards and Beyond",
+      "First Aid",
+      "Sketchy",
+      "Physeo",
+      "Additional Resources"
+    ],
+    "Cloze-AnKingMaster-v2": [
+      "Text",
+      "Extra",
+      "Lecture Notes",
+      "Missed Questions",
+      "Pathoma",
+      "Boards and Beyond",
+      "First Aid",
+      "Sketchy",
+      "Pixorize",
+      "Physeo",
+      "Additional Resources"
+    ],
+    "Image Occlusion Enhanced": [
+      "ID (hidden)",
+      "Header",
+      "Image",
+      "Question Mask",
+      "Footer",
+      "Remarks",
+      "Sources",
+      "Extra 1",
+      "Extra 2",
+      "Answer Mask",
+      "Original Mask"
+    ],
+    "Vocabulary-8962d": [
+      "Word",
+      "Phonetic",
+      "Definition1",
+      "Example1",
+      "Synonyms1",
+      "Definition2",
+      "Example2",
+      "Synonyms2",
+      "Definition3",
+      "Example3",
+      "Synonyms3",
+      "Audio",
+      "ExampleSource"
+    ],
+    "면접": [
+      "메인질문",
+      "영어 답변",
+      "한국어 답변",
+      "추가질문 +1",
+      "추가질문 +1 답변",
+      "추가질문 +2",
+      "추가질문 +2 답변"
+    ],
+    "영어": [
+      "Front",
+      "Back",
+      "Example"
+    ]
+  }
+}

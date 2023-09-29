@@ -1,0 +1,40 @@
+---
+Date: 2023-09-27
+Type: Development
+tags:
+  - Network
+  - Router
+  - Hosting
+  - Cloud
+  - RESTful
+  - HTTP_Methods
+  - Cache
+---
+## 라우터란?
+ㅇㅇㅇㅇ
+ㅋㅋ
+
+## 호스팅이란?
+
+## 클라우드에 대해 알고 있는 개념?
+
+## RESTFUL 개발이란?
+### HTTP메서드
+
+## 웹 캐시란
+
+----
+### References
+#### 라우터
+#### 호스팅
+- [What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
+- [Different Types of Web Hosting Explained](https://www.youtube.com/watch?v=AXVZYzw8geg)
+- [Where to Host a Fullstack Project on a Budget](https://www.youtube.com/watch?v=Kx_1NYYJS7Q)
+#### 클라우드
+#### RESTFUL 개발
+- [What is REST?](https://www.codecademy.com/article/what-is-rest)
+- [What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+- [Roy Fieldings dissertation chapter, Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+- [Learn REST: A RESTful Tutorial](https://restapitutorial.com/)
+#### HTTP 메서드
+#### 웹 캐시

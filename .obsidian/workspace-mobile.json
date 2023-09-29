@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "6c558424d77a11fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0768939cdb588181",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bea103bf8dbf00b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV/Frontend Web Developer Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc122c45796b1de1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "55ca4f1cce6e193a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b621d1e4002775b0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e5ae94b2968679b8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c5c70c740b407ad6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7665af80f6418019",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9cb38f656848f8d5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "DEV/Frontend Web Developer Roadmap.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e612e3c31b157dee",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "DEV/Frontend Web Developer Roadmap.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "129d55cb5e21cbdf",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "DEV/Frontend Web Developer Roadmap.md"
+          }
+        }
+      },
+      {
+        "id": "327b32b71878426d",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "5d160c1709721bda",
+        "type": "leaf",
+        "state": {
+          "type": "QUICKSHARE_SIDE_VIEW",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2bea103bf8dbf00b",
+  "lastOpenFiles": [
+    "DEV/Meetup/10월 2일 네트워크 발표.md",
+    "DEV/Frontend Web Developer Roadmap.md",
+    "DEV/Git 기초강의.md-4",
+    "DEV/Frontend Web Developer Roadmap.md-2",
+    "DEV/Meetup/10월 2일 네트워크 발표.md-2",
+    "DEV/Frontend Web Developer Roadm.md",
+    "DEV/Git 기초강의.md-3",
+    "DEV/Git 기초강의.md-2",
+    "DEV/Git 기초강의.md",
+    "Development/모던JS튜토리얼_정기모임/2022-09-04 모던JS튜토리얼_정기모임.md",
+    "Development/모던JS튜토리얼_정기모임/2022-08-21 모던JS튜토리얼_정기모임.md",
+    "Development/모던JS튜토리얼_정기모임/2022-08-14 모던JS튜토리얼_정기모임.md",
+    "Development/Udemy React Course - The Complete Guide/Section 17.md",
+    "Others/일일일지/2022-08-22 일지.md",
+    "Development/프론트엔드 면접.md",
+    "Others/일일일지/2022-08-19 일지.md",
+    "Development/모던 자바스크립트 튜토리얼 정독하기.md",
+    "Development/개발일지/2022-08-19 개발일지.md"
+  ]
+}
