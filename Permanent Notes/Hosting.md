@@ -6,6 +6,11 @@ tags:
 ---
 # Hosting 이란?
 호스팅이란 웹을 인터넷에 게시할 수 있도록 해주는 온라인 서비스이다. 호스팅 서비스를 통해 웹사이트가 제대로 작동하기 위한 모든 파일과 데이터를 저장할 수 있는 물리적 서버의 일부 공간을 빌리는 개념이다.
+## Types of Web Hosting Services
+- Shared hosting
+- Virtual Private Server(VPS) Hosting
+- WordPress Hosting
+- Dedicated Hosting
 ## 작동원리
 유저가 브라우저 주소창에 도메인 이름을 입력하면, 호스트의 서버가 웹 사이트를 로드하는 데 필요한 모든 파일을 전송한다.
 ### Control Panel
