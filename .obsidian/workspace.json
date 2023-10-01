@@ -11,12 +11,8 @@
             "id": "925305aaca0ef7a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/10월 2일 네트워크 발표.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/10월 2일 네트워크 발표.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Notes/10월 2일 네트워크 발표.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fleeting Notes/10월 2일 네트워크 발표.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,7 +186,7 @@
   },
   "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
-    "Fleeting Notes/10월 2일 네트워크 발표.md",
+    "Permanent Notes/10월 2일 네트워크 발표.md",
     "Fleeting Notes/10월 2일 네트워크 발표.md",
     "Templates/Map of Content.md",
     "Templates/Restrospective.md",
@@ -224,7 +216,6 @@
     "Literature Notes",
     "Fleeting Notes",
     "_Drawer/도둑맞은 집중력.md",
-    "_Drawer/누구도 나를 파괴할 수 없다.md",
     "Files/Screenshot 2023-10-01 at 17.18.51.png",
     "_Drawer",
     "_Drawer/Meetup/10월 2일 네트워크 발표.md-2",
