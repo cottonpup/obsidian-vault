@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Drawer/제텔카스텐 메모법.md",
+                "file": "Template/Basic Metadata.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Drawer/제텔카스텐 메모법.md",
+                "file": "Template/Basic Metadata.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Drawer/제텔카스텐 메모법.md",
+                "file": "Template/Basic Metadata.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Drawer/제텔카스텐 메모법.md"
+                "file": "Template/Basic Metadata.md"
               }
             }
           },
@@ -192,8 +192,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "c0acdc1c46296545",
   "lastOpenFiles": [
+    "_Drawer/제텔카스텐 메모법.md",
     "Files/Screenshot 2023-10-01 at 17.34.52.png",
     "Reference notes",
     "Zettelkasten",
@@ -204,7 +205,6 @@
     "Readwise/Books/The Guest List.md",
     "_Drawer/English/English Shadowing 유진.md",
     "Readwise/Books/Rising Strong.md",
-    "_Drawer/제텔카스텐 메모법.md",
     "Files/Screenshot 2023-10-01 at 17.18.51.png",
     "_Drawer",
     "_Drawer/DEV/Meetup/10월 2일 네트워크 발표.md",
@@ -238,7 +238,6 @@
     "Files/Screenshot 2023-09-20 at 16.44.41.png",
     "Files/Screenshot 2023-09-20 at 16.27.40.png",
     "Files/Screenshot 2023-09-20 at 16.27.11.png",
-    "Files/Screenshot 2023-09-20 at 16.26.03.png",
     "_Drawer/DEV/Interview",
     "DEV/Untitled.canvas",
     "Untitled.canvas"
