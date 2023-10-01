@@ -19,30 +19,28 @@ it a series anymore because the last time
 I've done this was like two years ago but
 
 I just got back from my trip from New York
-City and it's if anything this week is a perfect
+City and it's **if anything** this week is a perfect
 
 week for me to film this because I know I'm
 gonna want to eat at home although I like
 
-to cook I don't like going above and beyond
-to cook because the cleaning up process just
-
-traumatizes terrorizes me so all of these
+to cook **I don't like going above and beyond
+to cook because the cleaning up process just traumatizes terrorizes me** so all of these
 are gonna be pretty simple and also I am in
 
 my friend's house for the next month or so
 so that's why you're seeing an unfamiliar
 
-kitchen I need to start a apartment hunting
+kitchen I need to start a **apartment hunting**
 soon so I will have my own space very very
 
 soon but until then you're getting this View
 
-as soon as I landed in LAX first thing that
-I did was go to the grocery store I went to
+**as soon as I landed in LAX first thing that
+I did was go to the grocery store** I went to
 
-Trader Joe's because we love pushing off like
-our daily errands when we come back from vacation
+Trader Joe's **because we love pushing off like
+our daily errands when we come back from vacation**
 
 but that is the thing that we need to do the
 most because we need food to eat we're going
@@ -53,26 +51,24 @@ have food in our kitchen so I'm so proud that
 I did that so now I have food to cook with
 the menu that we're making for breakfast today
 
-is I'm trying to recreate this menu that I
-had at Ruby's Ruby's is one of my favorite Cafe
+is I'm trying to **recreate this menu that I
+had at Ruby's Ruby's is one of my favorite Cafe**
 
 in New York City and they have this breakfast
 bowl that's quite simple so I feel like I
 
-can recreate it and I purposely bought all
+can recreate it and **I purposely bought all
 the ingredients that I'm going to need for
-
 this so that I can read it so I'm going to
-defrost and heat up this edamame
+defrost and heat up this edamame**
 
-next we have to make a poached egg I have
+next we have to make a **poached egg** I have
 never made a poached egg in my life
 
 some vinegar then I have that egg right here
-and I'm gonna drop that in why is it not clumping
-
-together we have micro greens which
-is my favorite way to get my greens in here
+and I'm gonna drop that in **why is it not clumping together** 
+we have **micro greens** which
+is **my favorite way to get my greens in here**
 
 and lastly this is a different approach
 from the Ruby's one because they use a different
@@ -81,23 +77,20 @@ type of cheese but I just got cottage cheese
 because I've been seeing a lot of recipes
 
 go around with cottage cheese on Tik Tok
-and they're also a really good source of protein
+and **they're also a really good source of protein**
 
 so they look like this I'm just gonna do like
-a scoop and mix it in with my edamame let
+a scoop and mix it in with my edamame 
 
-me look back on the photo to see if I did
-this right pretty much I killed it this is
+**let me look back on the photo to see if I did
+this right. pretty much. I killed it.** 
 
-the picture I think one thing I do need to
-do for the visual is to open this post egg
-
-and see if I did it right
+**this is the picture I think one thing I do need to
+do for the visual is to open this poached egg and see if I did it right**
 
 just gotta add salt on top of the egg as well
-and pepper and the best way to eat this is
-
-take the toast I'm gonna lay down some avocado
+and pepper and **the best way to eat this is
+take the toast I'm gonna lay down some avocado**
 first like a little avocado toast I'm gonna
 
 add the cottage cheese and edamame and some
@@ -107,11 +100,9 @@ of the greens
 
 oh my god hot sauce
 
-oh very spicy at lunch time and I got changed
-from my pajama slash laying around clothes
+oh very spicy at lunch time and 
 
-to my gym outfit because I'm gonna head to
-the gym pretty soon in like 30 minutes but
+**I got changed from my pajama slash laying around clothes to my gym outfit because I'm gonna head to the gym pretty soon in like 30 minutes but**
 
 I always have to eat something before I go
 to the gym especially if I have a leg day
@@ -120,16 +111,14 @@ and today is most definitely a leg day so
 I am going to eat lunch and do some more work
 
 before I head out I'm gonna cheat here a little
-bit oh you can't blame me because I did literally
-
-just get back from my travels I'm gonna eat
+bit oh **you can't blame me because I did literally just get back from my travels I'm gonna eat**
 my Trader Joe's pre-made salad these are so
 
-good I feel like caesar salads have the rep
-of being not a healthy salad but it's better
+good **I feel like caesar salads have the rep
+of being not a healthy salad** but it's better
 
-than Taco Bell all right it might not be the
-healthiest salad that exists but it's still
+than Taco Bell all right **it might not be the
+healthiest salad that exists** but it's still
 
 a salad anyways it's still a salad it's still
 kale yes cheese not the healthiest thing ever
@@ -141,9 +130,9 @@ if you are also a Trader Joe's lover and you
 have another favorite Trader Joe's salad please
 
 let me know because I would love to try them
-one thing about me is that I am not a sauce
+**one thing about me is that I am not a sauce girl I don't like a ton of sauce so even this
+**
 
-girl I don't like a ton of sauce so even this
 I feel like it's just too much sauce that
 
 will make my salad just too wet I'm not gonna
