@@ -61,42 +61,15 @@ at lunch time and **I got changed from my pajama slash laying around clothes to 
 
 I'm gonna cheat here a little bit oh **you can't blame me because I did literally just get back from my travels I'm gonna eat** my Trader Joe's pre-made salad these are so good 
 
-**I feel like caesar salads have the rep of being not a healthy salad** but it's better than Taco Bell all right **it might not be the healthiest salad that exists** but it's still a salad anyways it's still a salad it's still kale yes cheese not the healthiest thing ever
+**I feel like caesar salads have the rep of being not a healthy salad** but it's better than Taco Bell all right **it might not be the healthiest salad that exists** but it's still a salad anyways it's still a salad it's still kale yes cheese not the healthiest thing ever but cheese is also protein put some chicken in here
 
-but cheese is also protein put some chicken
-in here
+if you are also a Trader Joe's lover and you have another favorite Trader Joe's salad please let me know because I would love to try them **one thing about me is that I am not a sauce girl I don't like a ton of sauce so even this** I feel like it's just too much sauce that will make my salad just too wet I'm not gonna pour like everything else I'm just gonna eat that much
 
-if you are also a Trader Joe's lover and you
-have another favorite Trader Joe's salad please
+I just got to the gym I thought while I'm sharing what I eat in a week might as well share my workouts with you guys as well today is going to be a leg day at the gym 
 
-let me know because I would love to try them
-**one thing about me is that I am not a sauce girl I don't like a ton of sauce so even this
-**
+I normally start off the week with a leg day at the gym but this week all of my workout plans are kind of shifted back because I've been on break for Fourth of July like Monday and Tuesday
 
-I feel like it's just too much sauce that
-
-will make my salad just too wet I'm not gonna
-pour like everything else I'm just gonna eat
-
-that much
-
-I just got to the gym I thought while I'm
-sharing what I eat in a week might as well
-
-share my workouts with you guys as well today
-is going to be a leg day at the gym I normally
-
-start off the week with a leg day at the gym
-but this week all of my workout plans are
-
-kind of shifted back because I've been on
-break for Fourth of July like Monday and Tuesday
-
-but I wouldn't necessarily say that I've been
-on break because the days that I wore in New
-
-York I was walking like 20K steps a day and
-that is a great workout I'm gonna pick up
+but I wouldn't necessarily say that I've been on break because the days that I wore in New York I was walking like 20K steps a day and that is a great workout I'm gonna pick up
 
 my gym routine with a leg day I've shown this
 routine a couple of times on my social media
