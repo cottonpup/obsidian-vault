@@ -1,7 +1,9 @@
 ---
 Date: 2023-09-30
 Type: English
-Tags: #English #Shadowing
+tags:
+  - English
+  - Shadowing
 ---
 
 https://youtu.be/fdQn0aFqoGQ?si=JLVTh-dQ5h-K3nhk
