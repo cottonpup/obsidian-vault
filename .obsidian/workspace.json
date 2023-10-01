@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4df4368d0cd0cc30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Drawer/제텔카스텐 메모법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/English Shadowing 유진.md",
+                "file": "_Drawer/제텔카스텐 메모법.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/English Shadowing 유진.md",
+                "file": "_Drawer/제텔카스텐 메모법.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/English Shadowing 유진.md"
+                "file": "_Drawer/제텔카스텐 메모법.md"
               }
             }
           },
@@ -192,11 +205,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "4df4368d0cd0cc30",
   "lastOpenFiles": [
+    "Screenshot 2023-10-01 at 17.18.51.png",
+    "English/English Shadowing 유진.md",
+    "_Drawer/제텔카스텐 메모법.md",
     "_Drawer",
     "DEV/Meetup/10월 2일 네트워크 발표.md",
-    "English/English Shadowing 유진.md",
     "DEV/Meetup/10월 2일 네트워크 발표.md-2",
     "DEV/Git 기초강의.md-4",
     "DEV/Git 기초강의.md-3",
@@ -219,7 +234,6 @@
     "DEV/SPA?.md",
     "Interview/Javascript Interview Questions.md",
     "Readwise/Books/누구도 나를 파괴할 수 없다.md",
-    "Untitled.md",
     "Morning Page",
     "Morning Page/2023-09-21.md",
     "Readwise/Books/도둑맞은 집중력.md",
@@ -240,7 +254,6 @@
     "DEV/Meetup",
     "DEV/Untitled.canvas",
     "DEV",
-    "English",
     "Untitled.canvas"
   ]
 }
