@@ -13,17 +13,9 @@ hi everyone welcome to my video
 this week I'm wanting to film a what I eat in a week video 
 I haven't done this in a very very long time but I've been wanting to because I know that it's one of your favorites on my channel that I do as a series but I can't even call it a series anymore because the last time I've done this was like two years ago but I just got back from my trip from New York City and it's **if anything** this week is a perfect week for me to film this because I know I'm gonna want to eat at home 
 
-although I like to cook **I don't like going above and beyond
-to cook because the cleaning up process just traumatizes terrorizes me** so all of these
-are gonna be pretty simple and also I am in
-
-my friend's house for the next month or so
-so that's why you're seeing an unfamiliar
-
-kitchen I need to start a **apartment hunting**
-soon so I will have my own space very very
-
-soon but until then you're getting this View
+although I like to cook **I don't like going above and beyond to cook because the cleaning up process just traumatizes terrorizes me** so all of these are gonna be pretty simple and also I am in my friend's house for the next month or so
+so that's why you're seeing an unfamiliar kitchen 
+I need to start a **apartment hunting** soon so I will have my own space very very soon but until then you're getting this View
 
 **as soon as I landed in LAX first thing that
 I did was go to the grocery store** I went to
