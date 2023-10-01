@@ -1,8 +1,8 @@
 ---
 date: "{{date:YYYY-MM-DD}}"
 title: "{{date:YYYY-MM-DD}} {{title}}"
-tags: 
-status: []
+status: idea
+tags:
 ---
 # {{title}}
 
