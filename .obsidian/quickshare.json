@@ -17,7 +17,8 @@
     "secret_token": "ClevjoZrOu01PvQKPmL6YrhMOvuXvM2SaH3fvZSXfy8=",
     "note_id": "clk2l00kb421401pjwn6ovd3z",
     "basename": "2023 Timeline",
-    "deleted_from_server": true
+    "deleted_from_server": true,
+    "deleted_from_vault": true
   },
   "_Drawer/겁쟁이들을 위한 스터디.md": {
     "shared_datetime": "2023-09-08T06:29:03.902Z",

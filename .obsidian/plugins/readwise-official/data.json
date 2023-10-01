@@ -65,12 +65,11 @@
     "31263355",
     "31263350",
     "31263353",
-    "31263357"
+    "31263357",
+    "31655456",
+    "31527575",
+    "32112432"
   ],
-  "booksIDsMap": {
-    "_Drawer/Tweets From Emiko.dev ☀️.md": "31655456",
-    "_Drawer/Tweets From 곁.md": "31527575",
-    "_Drawer/Tweets From Shane Parrish.md": "32112432"
-  },
+  "booksIDsMap": {},
   "reimportShowConfirmation": true
 }
