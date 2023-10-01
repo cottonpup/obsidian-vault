@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleetings/Untitled.md",
+                "file": "Fleeting Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleetings/Untitled.md",
+                "file": "Fleeting Notes/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleetings/Untitled.md",
+                "file": "Fleeting Notes/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleetings/Untitled.md"
+                "file": "Fleeting Notes/Untitled.md"
               }
             }
           },
@@ -192,9 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "925305aaca0ef7a2",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
-    "Fleetings/Untitled.md",
+    "Permanent Notes",
+    "Fleeting Notes/Untitled.md",
     "_Hub.md",
     "Untitled.md",
     "_Drawer/프론트엔드 면접 스터디.md",
@@ -215,14 +216,13 @@
     "Zettelkasten/시도.md",
     "_Drawer/제텔카스텐 메모법.md",
     "Files/Screenshot 2023-10-01 at 17.34.52.png",
-    "Reference notes",
-    "Fleetings",
+    "Literature Notes",
+    "Fleeting Notes",
     "_Drawer/도둑맞은 집중력.md",
     "_Drawer/누구도 나를 파괴할 수 없다.md",
     "Readwise/Books/How to Avoid a Climate Disaster.md",
     "Readwise/Books/The Guest List.md",
     "_Drawer/English Shadowing 유진.md",
-    "Readwise/Books/Rising Strong.md",
     "Files/Screenshot 2023-10-01 at 17.18.51.png",
     "_Drawer",
     "_Drawer/Meetup/10월 2일 네트워크 발표.md-2",
