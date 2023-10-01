@@ -3,5 +3,6 @@
   "mobilePullAction": "insert-template",
   "newFileLocation": "current",
   "newFileFolderPath": "Fleeting Notes",
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "Files",
+  "alwaysUpdateLinks": true
 }

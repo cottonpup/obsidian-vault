@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/10월 2일 네트워크 발표.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8a259e41e0f3dd6a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "037180355d341459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/10월 2일 네트워크 발표.md",
+                "file": "Literature Notes/10월 2일 네트워크 발표.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/10월 2일 네트워크 발표.md",
+                "file": "Literature Notes/10월 2일 네트워크 발표.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Notes/10월 2일 네트워크 발표.md",
+                "file": "Literature Notes/10월 2일 네트워크 발표.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/10월 2일 네트워크 발표.md"
+                "file": "Literature Notes/10월 2일 네트워크 발표.md"
               }
             }
           },
@@ -210,15 +192,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "037180355d341459",
+  "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
+    "Fleeting Notes/10월 2일 프론트엔드.md",
+    "Literature Notes/10월 2일 네트워크 발표.md",
     "Permanent Notes/10월 2일 네트워크 발표.md",
-    "Fleeting Notes/10월 2일 네트워크 발표.md",
-    "Fleeting Notes/웹 캐시란?.md",
-    "Fleeting Notes/RESTFUL 개발이란?.md",
-    "Fleeting Notes/클라우드에 대해 알고 있는 개념?.md",
-    "Fleeting Notes/호스팅이란?.md",
-    "Fleeting Notes/라우터란?.md",
+    "Literature Notes/RESTFUL 개발이란?.md",
+    "Literature Notes/웹 캐시란?.md",
+    "Literature Notes/클라우드에 대해 알고 있는 개념?.md",
+    "Literature Notes/호스팅이란?.md",
+    "Literature Notes/라우터란?.md",
     "Templates/Map of Content.md",
     "Templates/Restrospective.md",
     "Templates/Note Template.md",
@@ -239,7 +222,6 @@
     "_Drawer/~ meaning in command.md",
     "Templates/Algorithm Metadata.md",
     "Zettelkasten/Untitled.md",
-    "Zettelkasten/새로.md",
     "Files/Screenshot 2023-10-01 at 17.34.52.png",
     "Literature Notes",
     "Fleeting Notes",
