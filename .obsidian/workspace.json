@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8432e8d3e4d1ef61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eecc9c5dc268db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md"
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md"
               }
             }
           },
@@ -194,14 +212,14 @@
   },
   "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
+    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-    "Permanent Notes/10월 2일 프론트엔드 면접 스터디 - 질문대비.md",
-    "Permanent Notes/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+    "Permanent Notes/호스팅이란?.md",
+    "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표 1.md",
+    "Projects/10월 2일 프론트엔드 면접 스터디 - 질문대비.md",
     "Permanent Notes/순수 함수란?.md",
     "_Drawer/~ meaning in command.md",
     "Literature Notes",
-    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
-    "Permanent Notes/호스팅이란?.md",
     "Templates/Map of Content.md",
     "Permanent Notes/HTTP 메서드.md",
     "_Drawer/제텔카스텐 메모법.md",
