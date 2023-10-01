@@ -1,6 +1,11 @@
 ---
-Date: {{date:YYYY-MM-DD}}
-Type:
-Tags: 
+Date: 
+title: "{{date:YYYY-MM-DD}} {{title}}"
+Type: 
+tags:
 ---
-# {{ri}}
+# {{title}}
+
+
+---
+# References
