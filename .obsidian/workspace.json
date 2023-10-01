@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "Templates/Map of Content.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "Templates/Map of Content.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "Templates/Map of Content.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Note Template.md"
+                "file": "Templates/Map of Content.md"
               }
             }
           },
@@ -194,10 +194,12 @@
   },
   "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 1.md",
+    "Templates/Restrospective.md",
     "Templates/Note Template.md",
     "Templates/Map of Content.md",
+    "Projects",
+    "Untitled.md",
+    "Untitled 1.md",
     "Fleeting Notes/Untitled.md",
     "Permanent Notes",
     "_Hub.md",
@@ -223,7 +225,6 @@
     "_Drawer/도둑맞은 집중력.md",
     "_Drawer/누구도 나를 파괴할 수 없다.md",
     "Readwise/Books/How to Avoid a Climate Disaster.md",
-    "Readwise/Books/The Guest List.md",
     "Files/Screenshot 2023-10-01 at 17.18.51.png",
     "_Drawer",
     "_Drawer/Meetup/10월 2일 네트워크 발표.md-2",
@@ -235,7 +236,6 @@
     "Files/Screenshot 2023-09-23 at 21.08.34.png",
     "Files/Screenshot 2023-09-22 at 12.36.36.png",
     "Files/Screenshot 2023-09-22 at 21.34.43.png",
-    "_Drawer/Morning Page",
     "Files/Screenshot 2023-09-20 at 16.44.59.png",
     "Files/Screenshot 2023-09-20 at 16.44.41.png",
     "Files/Screenshot 2023-09-20 at 16.27.40.png",
