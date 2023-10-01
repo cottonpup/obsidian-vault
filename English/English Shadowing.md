@@ -69,9 +69,9 @@ I just got to the gym I thought while I'm sharing what I eat in a week might as 
 
 I normally start off the week with a leg day at the gym but this week all of my workout plans are kind of shifted back because I've been on break for Fourth of July like Monday and Tuesday
 
-but I wouldn't necessarily say that I've been on break because the days that I wore in New York I was walking like 20K steps a day and that is a great workout I'm gonna pick up
+but I wouldn't necessarily say that I've been on break because the days that I wore in New York I was walking like 20K steps a day and that is a great workout 
 
-my gym routine with a leg day I've shown this
+I'm gonna pick up my gym routine with a leg day I've shown this
 routine a couple of times on my social media
 
 platforms but I stay on the same workouts
