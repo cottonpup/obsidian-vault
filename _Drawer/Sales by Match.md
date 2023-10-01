@@ -1,10 +1,3 @@
----
-Date: 2023-07-07
-Tags: Algorithm, CodingTest Platform/Hackerrank
-Platform: Hackerrank
-Difficulty: Easy
-Review: 0
----
 %%
 [[Development]]
 - [ ] 1차 복습 

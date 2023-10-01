@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "겁쟁이들을 위한 스터디.md",
+                "file": "_Drawer/Middleware?.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "겁쟁이들을 위한 스터디.md",
+                "file": "_Drawer/Middleware?.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "겁쟁이들을 위한 스터디.md",
+                "file": "_Drawer/Middleware?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "겁쟁이들을 위한 스터디.md"
+                "file": "_Drawer/Middleware?.md"
               }
             }
           },
@@ -192,34 +192,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "ada5253fef2c705d",
   "lastOpenFiles": [
+    "_Drawer/Prepare for an Interview.md",
+    "_Drawer/Quotes.md",
+    "_Drawer/React Interview Script.md",
+    "_Drawer/Resume.io.md",
+    "_Drawer/Repeated String.md",
+    "_Drawer/Redux toolkit?.md",
+    "_Drawer/Resume.io 클론 프로젝트.md",
+    "_Drawer/Reudx vs Redux Toolkit?.md",
+    "_Drawer/Sales by Match.md",
+    "_Drawer/Side Effect In Development.md",
+    "_Drawer/Sonamu.md",
+    "_Drawer/SPA?.md",
+    "_Drawer/Tailwind class 와 className 차이.md",
+    "_Drawer/Tailwind Intellisense 안되는 문제.md",
+    "_Drawer/The pursuit of calm.md",
+    "_Drawer/Tweets From Emiko.dev ☀️.md",
+    "_Drawer/Tweets From Shane Parrish.md",
+    "_Drawer/Tweets From 곁.md",
+    "_Drawer/Udemy React The Complete Guide.md",
+    "_Drawer/Udemy React The Complete Guide Section 19.md",
+    "_Drawer/useCallback() Hook.md",
+    "_Drawer/useEffect() Hook.md",
+    "겁쟁이들을 위한 스터디.md",
     "_Drawer/깃 커밋 영어 레퍼런스.md",
     "_Drawer/누구도 나를 파괴할 수 없다.md",
     "_Drawer/도둑맞은 집중력.md",
-    "_Drawer/면접 질문 아카이브.md",
-    "_Drawer/바이슈코 면접 대비.md",
-    "_Drawer/신입 개발자 면접 가이드.md",
-    "_Drawer/영어 전치사 연구 의미와 용법.md",
-    "_Drawer/원하는 기업.md",
-    "_Drawer/제텔카스텐 메모법.md",
-    "_Drawer/주니어 개발자 이력서 가이드.md",
-    "_Drawer/투인피니티 면접 대비.md",
-    "_Drawer/Basic Backend Project.md",
-    "_Drawer/1프론트엔드 면접 스터디.md",
-    "_Drawer/~ meaning in command.md",
-    "_Drawer/Arrays & Hashing.md",
-    "Development.md",
-    "_Drawer/2022-01-14 TIL.md",
-    "_Drawer/2022-01-13 TIL.md",
-    "_Drawer/이유 없이 고통스러운 밤은 없어....md",
-    "겁쟁이들을 위한 스터디.md",
-    "_Drawer/useEffect() Hook.md",
-    "_Drawer/useCallback() Hook.md",
-    "_Drawer/google.com을 치면 일어나는 일.md",
-    "_Drawer/code . 명령어 완전히 설치하기.md",
-    "_Drawer/Udemy React The Complete Guide.md",
-    "_Drawer/Udemy React The Complete Guide Section 19.md",
     "_Drawer",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes",

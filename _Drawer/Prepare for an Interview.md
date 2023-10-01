@@ -1,8 +1,4 @@
----
-Date: 2023-07-13
-Tags: Interview
----
-%%[[Development]]%%
+
 
 ```dataview 
 TABLE without ID

@@ -1,8 +1,4 @@
----
-Date: 2023-07-07
-Tags: React, Udemy/React, Udemy
----
-%%[[Development]]%%
+
 
 ```dataview 
 TABLE without ID

@@ -1,8 +1,3 @@
----
-Date: 2023-08-23
-Type: Sonamu
-Tags: Sonamu, Meetup
----
 
 https://minsangk.notion.site/Sonamu-Tutorial-6cae30b89d2b45fea47a4d5998b37fed
 
