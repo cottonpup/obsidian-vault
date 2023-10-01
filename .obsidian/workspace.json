@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Hosting.md",
+                "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Hosting.md",
+                "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Hosting.md",
+                "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Hosting.md"
+                "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md"
               }
             }
           },
@@ -194,12 +194,12 @@
   },
   "active": "87334bf4e40184d3",
   "lastOpenFiles": [
+    "Literature Notes/Hosting.md",
     "Permanent Notes/Hosting.md",
     "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/HTTP Method.md",
     "Permanent Notes/Untitled.md",
     "Permanent Notes/Router.md",
-    "Literature Notes/Hosting.md",
     "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
     "Literature Notes/Pure function.md",
