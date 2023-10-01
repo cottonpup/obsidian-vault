@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d22314a9936372e4",
+        "id": "feb406fc99ada729",
         "type": "tabs",
         "children": [
           {
-            "id": "83f05d632ff33062",
+            "id": "ada5253fef2c705d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,13 +184,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83f05d632ff33062",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Permanent Notes/Hosting.md",
     "Permanent Notes/Router.md",
     "Literature Notes/Hosting.md",
     "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/Controlled component vs Uncontrolled component.md",
     "Literature Notes/RESTFUL development.md",
     "Files/Pasted image 20231002003008.png",
