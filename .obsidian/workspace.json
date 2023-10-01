@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6765b51a9b26fb67",
+        "id": "89d8ffe250e13e83",
         "type": "tabs",
         "children": [
           {
-            "id": "87334bf4e40184d3",
+            "id": "86c9a38c32bca48e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Hosting.md",
+                "file": "Fleeting Notes/90분 공부 3번하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Hosting.md",
+                "file": "Fleeting Notes/90분 공부 3번하기.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Hosting.md",
+                "file": "Fleeting Notes/90분 공부 3번하기.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Hosting.md"
+                "file": "Fleeting Notes/90분 공부 3번하기.md"
               }
             }
           },
@@ -192,10 +192,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87334bf4e40184d3",
+  "active": "86c9a38c32bca48e",
   "lastOpenFiles": [
     "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
+    "Fleeting Notes/90분 공부 3번하기.md",
     "Literature Notes/Hosting.md",
+    "Fleeting Notes/Untitled.md",
     "Permanent Notes/Hosting.md",
     "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/HTTP Method.md",
@@ -218,8 +220,6 @@
     "Fleeting Notes/네트워크.md",
     "Literature Notes/mixin.md",
     "Literature Notes/declare keyword.md",
-    "Literature Notes/JWT token.md",
-    "Literature Notes/cookie vs session.md",
     "Literature Notes",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
     "Files/Screenshot 2023-10-01 at 19.39.08.png",
