@@ -11,8 +11,12 @@
             "id": "925305aaca0ef7a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fleetings/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fleetings/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fleetings/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fleetings/Untitled.md"
+              }
             }
           },
           {
@@ -186,6 +194,7 @@
   },
   "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
+    "Fleetings/Untitled.md",
     "_Hub.md",
     "Untitled.md",
     "_Drawer/프론트엔드 면접 스터디.md",
@@ -216,7 +225,6 @@
     "Readwise/Books/Rising Strong.md",
     "Files/Screenshot 2023-10-01 at 17.18.51.png",
     "_Drawer",
-    "_Drawer/10월 2일 네트워크 발표.md",
     "_Drawer/Meetup/10월 2일 네트워크 발표.md-2",
     "_Drawer/DEV/Git 기초강의.md-4",
     "_Drawer/DEV/Git 기초강의.md-3",
