@@ -18,7 +18,7 @@ hosting is basically the computer and network infrastructure that keeps your web
 
 data center -> temperature control, backup systems, fire suppression, high level of physical security 
 
-When you are hosting, What you are actually purchasing is the physi
+When you are hosting, What you are actually purchasing is the physical disk space on the server. 
 
 ---
 # References
