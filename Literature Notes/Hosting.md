@@ -19,11 +19,12 @@ hosting is basically the computer and network infrastructure that keeps your web
 data center -> temperature control, backup systems, fire suppression, high level of physical security 
 
 When you are hosting, What you are actually purchasing is the physical disk space on the server. 
+the monthly bandwidth allowance 
 
+
+![[Pasted image 20231002003008.png]]
 ---
 # References
 1. https://youtu.be/htbY9-yggB0?si=IYn6u-N2OXwOxhiU
 2. https://roadmap.sh/frontend > What is hosting
-3. https://yozm.wishket.com/magazine/detail/43/
-4. https://velog.io/@thinkp92/Hosting%EC%9B%B9-%ED%98%B8%EC%8A%A4%ED%8C%85
-5. https://www.namecheap.com/hosting/what-is-web-hosting-definition/
+3. https://azdigi.com/blog/en/hosting-knowledge/what-is-hosting-basic-knowledge-to-know-about-web-hosting/#content-1-Shared-Hosting
