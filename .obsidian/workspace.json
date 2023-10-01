@@ -11,8 +11,12 @@
             "id": "549caf7185ec502b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "겁쟁이들을 위한 스터디.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "겁쟁이들을 위한 스터디.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "겁쟁이들을 위한 스터디.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "겁쟁이들을 위한 스터디.md"
+              }
             }
           },
           {
@@ -186,6 +194,16 @@
   },
   "active": "549caf7185ec502b",
   "lastOpenFiles": [
+    "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
+    "Permanent Notes/Router.md",
+    "Permanent Notes/Hosting.md",
+    "Literature Notes/mixin.md",
+    "Literature Notes/JWT token.md",
+    "Literature Notes/useEffect vs useLayoutEffect.md",
+    "Literature Notes/task queue vs microtask queue.md",
+    "Literature Notes/Web cache.md",
+    "Literature Notes/Cloud.md",
+    "Literature Notes/Ajax.md",
     "_Drawer/2023-07.md",
     "_Drawer/2022-01-13 TIL.md",
     "_Drawer/2022-01-15 TIL.md",
@@ -202,16 +220,6 @@
     "_Drawer/Basic Backend Project.md",
     "_Drawer/code . 명령어 완전히 설치하기.md",
     "_Drawer/Computer Sicence Interview Questiosns.md",
-    "_Drawer/Counting Valleys.md",
-    "_Drawer/Frontend Web Developer Roadmap.md",
-    "_Drawer/Free Happiness.md",
-    "_Drawer/Full Stack Web Developer Roadmap.md",
-    "_Drawer/Git 기초강의.md",
-    "_Drawer/How to study as a developer (매우 효과적인 방법!).md",
-    "_Drawer/google.com을 치면 일어나는 일.md",
-    "_Drawer/How Food May Improve Your Mood.md",
-    "_Drawer/How to Solve Algorithm Problems from Scratch.md",
-    "_Drawer/HTTP? HTTPS? Internet?.md",
     "_Drawer",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes",
