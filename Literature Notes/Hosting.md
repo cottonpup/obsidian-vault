@@ -22,3 +22,4 @@ data center ->
 1. https://youtu.be/htbY9-yggB0?si=IYn6u-N2OXwOxhiU
 2. https://roadmap.sh/frontend > What is hosting
 3. https://yozm.wishket.com/magazine/detail/43/
+4. https://velog.io/@thinkp92/Hosting%EC%9B%B9-%ED%98%B8%EC%8A%A4%ED%8C%85
