@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/Hosting.md",
-                "mode": "source",
+                "file": "Literature Notes/Hosting.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Hosting.md",
+                "file": "Literature Notes/Hosting.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/Hosting.md",
+                "file": "Literature Notes/Hosting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Hosting.md"
+                "file": "Literature Notes/Hosting.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "83f05d632ff33062",
   "lastOpenFiles": [
-    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Permanent Notes/Hosting.md",
+    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Permanent Notes/Router.md",
     "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/Controlled component vs Uncontrolled component.md",

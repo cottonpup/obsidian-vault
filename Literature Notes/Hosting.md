@@ -23,6 +23,10 @@ the monthly bandwidth allowance
 
 control panel? user-friendly panel -> Cpanel
 
+no-code tool hosting included -> word press
+
+migration -> transferring hosting company
+
 ![[Pasted image 20231002003008.png]]
 ---
 # References
