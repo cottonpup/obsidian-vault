@@ -14,33 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "0a0ed4a81823c3a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3809fbf496a40dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -153,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,10 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3809fbf496a40dcc",
+  "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
+    "_Hub.md",
     "Untitled.md",
-    "Untitled 1.md",
     "_Drawer/프론트엔드 면접 스터디.md",
     "_Drawer/주니어 개발자 이력서 가이드.md",
     "_Drawer/신입 개발자 면접 가이드.md",
