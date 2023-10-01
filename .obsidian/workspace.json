@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+                "file": "Projects/쿠키와 세션의 차이점에.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+                "file": "Projects/쿠키와 세션의 차이점에.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+                "file": "Projects/쿠키와 세션의 차이점에.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md"
+                "file": "Projects/쿠키와 세션의 차이점에.md"
               }
             }
           },
@@ -212,37 +212,37 @@
   },
   "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
-    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
+    "Projects/google.com 을 주소창에 입력하면 일어나는 일.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-    "Permanent Notes/호스팅이란?.md",
+    "Projects/쿠키와 세션의 차이점에.md",
+    "Literature Notes/JWT 토큰에 대해 설명해주세요..md",
+    "Literature Notes/마이크로태스크 큐, 태스크 큐에 대해 설명해주세요.md",
+    "Literature Notes/깊은 복사와 얕은 복사란.md",
+    "Literature Notes/Ajax란?.md",
+    "Literature Notes/제어 컴포넌트와 비제어 컴포넌트의 차이.md",
+    "Literature Notes/useEffect와 useLayoutEffect의 차이점.md",
+    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
+    "Literature Notes/호스팅이란?.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표 1.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 질문대비.md",
-    "Permanent Notes/순수 함수란?.md",
+    "Literature Notes/순수 함수란?.md",
     "_Drawer/~ meaning in command.md",
     "Literature Notes",
     "Templates/Map of Content.md",
-    "Permanent Notes/HTTP 메서드.md",
+    "Literature Notes/HTTP 메서드.md",
     "_Drawer/제텔카스텐 메모법.md",
-    "Permanent Notes/라우터란?.md",
+    "Literature Notes/라우터란?.md",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
     "Files/Screenshot 2023-10-01 at 19.39.08.png",
-    "Permanent Notes/RESTFUL 개발이란?.md",
-    "Permanent Notes/클라우드에 대해 알고 있는 개념?.md",
+    "Literature Notes/RESTFUL 개발이란?.md",
+    "Literature Notes/클라우드에 대해 알고 있는 개념?.md",
     "Templates/Note Template.md",
     "Templates/Restrospective.md",
-    "Permanent Notes/웹 캐시란?.md",
+    "Literature Notes/웹 캐시란?.md",
     "Projects",
     "Untitled.md",
     "Untitled 1.md",
     "Permanent Notes",
-    "_Hub.md",
-    "_Drawer/프론트엔드 면접 스터디.md",
-    "_Drawer/주니어 개발자 이력서 가이드.md",
-    "_Drawer/신입 개발자 면접 가이드.md",
-    "_Drawer/원하는 기업.md",
-    "_Drawer/React Interview Script.md",
-    "_Drawer/Udemy React The Complete Guide Section 19.md",
-    "_Drawer/Quotes.md",
     "Files/Screenshot 2023-10-01 at 17.34.52.png",
     "Literature Notes",
     "Fleeting Notes",
