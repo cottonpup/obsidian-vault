@@ -13,6 +13,7 @@ there are many different kinds
 - VPS(virtual private servers)
 - dedicated servers
 
+웹 사이트에 할당된 서버 공간의 양은 호스팅 유형에 따라 달라집니다.
 hosting is basically the computer and network infrastructure that keeps your website available across the internet. 
 
 data center -> 
@@ -23,3 +24,4 @@ data center ->
 2. https://roadmap.sh/frontend > What is hosting
 3. https://yozm.wishket.com/magazine/detail/43/
 4. https://velog.io/@thinkp92/Hosting%EC%9B%B9-%ED%98%B8%EC%8A%A4%ED%8C%85
+5. https://www.namecheap.com/hosting/what-is-web-hosting-definition/
