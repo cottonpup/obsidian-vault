@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Map of Content.md",
+                "file": "Templates/Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Map of Content.md",
+                "file": "Templates/Note Template.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Map of Content.md",
+                "file": "Templates/Note Template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Map of Content.md"
+                "file": "Templates/Note Template.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
-    "Templates/Note Template.md",
     "Templates/Map of Content.md",
+    "Templates/Note Template.md",
     "Fleeting Notes/Untitled.md",
     "Permanent Notes",
     "_Hub.md",
