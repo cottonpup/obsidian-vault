@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "59d29f46aca8f326",
+        "id": "6816b703cb636412",
         "type": "tabs",
         "children": [
           {
-            "id": "c0acdc1c46296545",
+            "id": "925305aaca0ef7a2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a0ed4a81823c3a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Drawer/프론트엔드 면접 스터디.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3809fbf496a40dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Drawer/프론트엔드 면접 스터디.md",
+                "file": "Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Drawer/프론트엔드 면접 스터디.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Drawer/프론트엔드 면접 스터디.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -192,8 +213,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "3809fbf496a40dcc",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "_Drawer/프론트엔드 면접 스터디.md",
     "_Drawer/주니어 개발자 이력서 가이드.md",
     "_Drawer/신입 개발자 면접 가이드.md",
     "_Drawer/원하는 기업.md",
@@ -212,7 +236,7 @@
     "_Drawer/제텔카스텐 메모법.md",
     "Files/Screenshot 2023-10-01 at 17.34.52.png",
     "Reference notes",
-    "Zettelkasten",
+    "Fleetings",
     "_Drawer/도둑맞은 집중력.md",
     "_Drawer/누구도 나를 파괴할 수 없다.md",
     "Readwise/Books/How to Avoid a Climate Disaster.md",
@@ -227,9 +251,6 @@
     "_Drawer/DEV/Git 기초강의.md-3",
     "_Drawer/DEV/Git 기초강의.md-2",
     "_Drawer/DEV/Frontend Web Developer Roadmap.md-2",
-    "_Drawer/HTTP? HTTPS? Internet?.md",
-    "_Drawer/투인피니티 면접 대비.md",
-    "_Drawer/겁쟁이들을 위한 스터디.md",
     "Files/Screenshot 2023-09-27 at 0.51.11.png",
     "Files/Screenshot 2023-09-23 at 21.08.34.png",
     "Files/Screenshot 2023-09-22 at 12.36.36.png",
