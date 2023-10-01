@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/RESTFUL development.md",
+                "file": "Permanent Notes/Hosting.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/RESTFUL development.md",
+                "file": "Permanent Notes/Hosting.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/RESTFUL development.md",
+                "file": "Permanent Notes/Hosting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/RESTFUL development.md"
+                "file": "Permanent Notes/Hosting.md"
               }
             }
           },
@@ -194,16 +194,18 @@
   },
   "active": "83f05d632ff33062",
   "lastOpenFiles": [
+    "Permanent Notes/Router.md",
+    "Permanent Notes/Hosting.md",
     "Projects/10월 2일 프론트엔드 면접 스터디.md",
+    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
+    "Literature Notes/Controlled component vs Uncontrolled component.md",
+    "Literature Notes/RESTFUL development.md",
     "Literature Notes/Hosting.md",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes/Router.md",
-    "Permanent Notes/Router.md",
-    "Permanent Notes/Hosting.md",
     "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
     "Literature Notes/Web cache.md",
     "Literature Notes/useEffect vs useLayoutEffect.md",
-    "Literature Notes/RESTFUL development.md",
     "Literature Notes/mixin.md",
     "Literature Notes/JWT token.md",
     "Literature Notes/HTTP Method.md",
@@ -211,10 +213,8 @@
     "Literature Notes/decorator.md",
     "Literature Notes/declare keyword.md",
     "Literature Notes/cookie vs session.md",
-    "Literature Notes/Controlled component vs Uncontrolled component.md",
     "Literature Notes/Cloud.md",
     "Literature Notes/Ajax.md",
-    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/Pure function.md",
     "Fleeting Notes/90분 공부 3번하기.md",
     "Fleeting Notes/Untitled.md",
