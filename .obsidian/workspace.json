@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/라우터란?.md",
+                "file": "_Drawer/1프론트엔드 면접 스터디.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/라우터란?.md",
+                "file": "_Drawer/1프론트엔드 면접 스터디.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/라우터란?.md",
+                "file": "_Drawer/1프론트엔드 면접 스터디.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/라우터란?.md"
+                "file": "_Drawer/1프론트엔드 면접 스터디.md"
               }
             }
           },
@@ -192,16 +192,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "925305aaca0ef7a2",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Permanent Notes/라우터란.md",
+    "Projects/10월 2일 프론트엔드 면접 스터디.md",
+    "Literature Notes/라우터란?.md",
     "Fleeting Notes/Packet.md",
     "_Drawer/HTTP? HTTPS? Internet?.md",
     "Literature Notes/decorator란.md",
-    "Literature Notes/라우터란?.md",
     "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Fleeting Notes/네트워크.md",
     "Literature Notes/호스팅이란?.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/mixin이란.md",
     "Literature Notes/declare keyword란.md",
     "Literature Notes/JWT 토큰.md",
@@ -222,7 +223,6 @@
     "_Drawer/제텔카스텐 메모법.md",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
     "Files/Screenshot 2023-10-01 at 19.39.08.png",
-    "Literature Notes/RESTFUL 개발이란?.md",
     "Projects",
     "Permanent Notes",
     "Files/Screenshot 2023-10-01 at 17.34.52.png",
