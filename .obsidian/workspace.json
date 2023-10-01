@@ -14,25 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5b4308ab1c8a4241",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e821063a738f5afe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -212,12 +194,12 @@
   },
   "active": "87334bf4e40184d3",
   "lastOpenFiles": [
-    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
+    "Permanent Notes/라우터란?.md",
     "Projects/10월 2일 프론트엔드 면접 스터디.md",
+    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/Pure function.md",
     "Literature Notes/deep copy vs shallow copy.md",
     "Literature Notes/useEffect vs useLayoutEffect.md",
-    "Permanent Notes/라우터란?.md",
     "Literature Notes/Hosting.md",
     "Literature Notes/Router.md",
     "Literature Notes/Ajax.md",
