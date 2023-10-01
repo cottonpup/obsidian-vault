@@ -8,4 +8,4 @@ tags:
 
 ---
 # References
-1. ~~~~
+1. 
