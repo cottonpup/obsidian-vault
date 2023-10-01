@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Literature Notes/Hosting.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Literature Notes/Hosting.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Literature Notes/Hosting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md"
+                "file": "Literature Notes/Hosting.md"
               }
             }
           },
@@ -194,9 +194,10 @@
   },
   "active": "87334bf4e40184d3",
   "lastOpenFiles": [
-    "Permanent Notes/Untitled.md",
     "Permanent Notes/Hosting.md",
     "Projects/10월 2일 프론트엔드 면접 스터디.md",
+    "Literature Notes/HTTP Method.md",
+    "Permanent Notes/Untitled.md",
     "Permanent Notes/Router.md",
     "Literature Notes/Hosting.md",
     "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
@@ -219,7 +220,6 @@
     "Literature Notes/declare keyword.md",
     "Literature Notes/JWT token.md",
     "Literature Notes/cookie vs session.md",
-    "Literature Notes/task queue vs microtask queue.md",
     "Literature Notes",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
     "Files/Screenshot 2023-10-01 at 19.39.08.png",
