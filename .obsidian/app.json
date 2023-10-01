@@ -1,4 +1,7 @@
 {
   "promptDelete": false,
-  "mobilePullAction": "insert-template"
+  "mobilePullAction": "insert-template",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "Files"
 }
