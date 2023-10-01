@@ -29,22 +29,18 @@ bowl that's quite simple so I feel like I can recreate it and **I purposely boug
 next we have to make a **poached egg** 
 I have never made a poached egg in my life
 
-some vinegar then I have that egg right here
-and I'm gonna drop that in **why is it not clumping together** 
-we have **micro greens** which
-is **my favorite way to get my greens in here**
+some vinegar 
+then I have that egg right here
+and I'm gonna drop that in 
+**why is it not clumping together** 
+we have **micro greens** which is **my favorite way to get my greens in here**
 
-and lastly this is a different approach
-from the Ruby's one because they use a different
+and lastly this is a different approach from the Ruby's
 
-type of cheese but I just got cottage cheese
-because I've been seeing a lot of recipes
-
-go around with cottage cheese on Tik Tok
+because they use a different type of cheese but I just got cottage cheese because I've been seeing a lot of recipes go around with cottage cheese on Tik Tok
 and **they're also a really good source of protein**
 
-so they look like this I'm just gonna do like
-a scoop and mix it in with my edamame 
+so they look like this I'm just gonna do like a scoop and mix it in with my edamame 
 
 **let me look back on the photo to see if I did
 this right. pretty much. I killed it.** 
