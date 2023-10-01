@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Basic Metadata.md",
+                "file": "Zettelkasten/새로.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Basic Metadata.md",
+                "file": "Zettelkasten/새로.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Basic Metadata.md",
+                "file": "Zettelkasten/새로.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Basic Metadata.md"
+                "file": "Zettelkasten/새로.md"
               }
             }
           },
@@ -194,8 +194,10 @@
   },
   "active": "c0acdc1c46296545",
   "lastOpenFiles": [
-    "Zettelkasten/시도.md",
     "Template/Basic Metadata.md",
+    "Zettelkasten/새로.md",
+    "Zettelkasten/새로 만들기.md",
+    "Zettelkasten/시도.md",
     "_Drawer/제텔카스텐 메모법.md",
     "Files/Screenshot 2023-10-01 at 17.34.52.png",
     "Reference notes",
@@ -233,8 +235,6 @@
     "_Drawer/Interview/Javascript Interview Questions.md",
     "_Drawer/Morning Page",
     "Morning Page/2023-09-21.md",
-    "Readwise/Books/Solve for Happy.md",
-    "_Drawer/Readwise/Quotes.md",
     "Files/Screenshot 2023-09-20 at 16.44.59.png",
     "Files/Screenshot 2023-09-20 at 16.44.41.png",
     "Files/Screenshot 2023-09-20 at 16.27.40.png",

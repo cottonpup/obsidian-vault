@@ -1,7 +1,7 @@
 ---
-Date: 
+date: 
 title: "{{date:YYYY-MM-DD}} {{title}}"
-Type: 
+status: 
 tags:
 ---
 # {{title}}
