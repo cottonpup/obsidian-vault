@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "_Drawer/HTTP? HTTPS? Internet?.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "_Drawer/HTTP? HTTPS? Internet?.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "_Drawer/HTTP? HTTPS? Internet?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md"
+                "file": "_Drawer/HTTP? HTTPS? Internet?.md"
               }
             }
           },
@@ -212,9 +212,10 @@
   },
   "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
+    "Literature Notes/라우터란?.md",
+    "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/mixin이란.md",
     "Literature Notes/declare keyword란.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/decorator란.md",
     "Literature Notes/JWT 토큰.md",
     "Literature Notes/쿠키와 세션의 차이점.md",
@@ -234,7 +235,6 @@
     "Templates/Map of Content.md",
     "Literature Notes/HTTP 메서드.md",
     "_Drawer/제텔카스텐 메모법.md",
-    "Literature Notes/라우터란?.md",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
     "Files/Screenshot 2023-10-01 at 19.39.08.png",
     "Literature Notes/RESTFUL 개발이란?.md",
