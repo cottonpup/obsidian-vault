@@ -11,8 +11,30 @@
             "id": "925305aaca0ef7a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/라우터란?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a8f1557e13b41baa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d09b974f0db1441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/라우터란?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Permanent Notes/라우터란?.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Permanent Notes/라우터란?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Permanent Notes/라우터란?.md"
+              }
             }
           },
           {
@@ -186,12 +212,12 @@
   },
   "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
+    "Literature Notes/라우터란?.md",
+    "Permanent Notes/라우터란?.md",
     "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "_Drawer/투인피니티 면접 대비.md",
     "_Drawer/2022-02-07 TIL.md",
     "_Drawer/1프론트엔드 면접 스터디.md",
-    "Permanent Notes/라우터란.md",
-    "Literature Notes/라우터란?.md",
     "Fleeting Notes/Packet.md",
     "_Drawer/HTTP? HTTPS? Internet?.md",
     "Literature Notes/decorator란.md",
