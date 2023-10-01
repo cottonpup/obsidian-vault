@@ -21,6 +21,7 @@ data center -> temperature control, backup systems, fire suppression, high level
 When you are hosting, What you are actually purchasing is the physical disk space on the server. 
 the monthly bandwidth allowance 
 
+control panel? user-friendly panel -> Cpanel
 
 ![[Pasted image 20231002003008.png]]
 ---
