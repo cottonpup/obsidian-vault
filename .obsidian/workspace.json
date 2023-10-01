@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "feb406fc99ada729",
+        "id": "ffdb26d5f78d99b7",
         "type": "tabs",
         "children": [
           {
-            "id": "ada5253fef2c705d",
+            "id": "549caf7185ec502b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Drawer/2023 Seoul Women Hackathon.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Drawer/2023 Seoul Women Hackathon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Drawer/2023 Seoul Women Hackathon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Drawer/2023 Seoul Women Hackathon.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,10 +184,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ada5253fef2c705d",
+  "active": "549caf7185ec502b",
   "lastOpenFiles": [
-    "_Drawer/2023 Timeline.md",
     "_Drawer/2023-07.md",
+    "_Drawer/2022-01-13 TIL.md",
+    "_Drawer/2022-01-15 TIL.md",
+    "_Drawer/2022-01-14 TIL.md",
+    "_Drawer/2022-01-16 TIL.md",
+    "_Drawer/2022-01-17 TIL.md",
+    "_Drawer/2022-02-07 TIL.md",
+    "_Drawer/2023 Mistakes Listup.md",
+    "_Drawer/2023 Restrospective.md",
+    "_Drawer/2023 Seoul Women Hackathon.md",
+    "_Drawer/2023 Timeline.md",
     "_Drawer/Algorithm List.md",
     "_Drawer/Algorithm Roadmap.md",
     "_Drawer/Basic Backend Project.md",
@@ -211,15 +212,6 @@
     "_Drawer/How Food May Improve Your Mood.md",
     "_Drawer/How to Solve Algorithm Problems from Scratch.md",
     "_Drawer/HTTP? HTTPS? Internet?.md",
-    "_Drawer/Javascript Interview Questions.md",
-    "_Drawer/Interview Listup.md",
-    "_Drawer/Jumping on the clouds.md",
-    "_Drawer/Prepare for an Interview.md",
-    "_Drawer/JWT(JSON Web Token)?.md",
-    "_Drawer/Middleware?.md",
-    "_Drawer/Quotes.md",
-    "_Drawer/React Interview Script.md",
-    "_Drawer/Resume.io.md",
     "_Drawer",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes",
