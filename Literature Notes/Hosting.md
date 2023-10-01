@@ -5,6 +5,8 @@ tags:
   - Hosting
 ---
 # 호스팅이란?
+- shared hosting
+- 
 
 ---
 # References
