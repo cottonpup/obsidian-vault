@@ -1,8 +1,3 @@
----
-Date: 2023-07-19
-Type: development
-Tags: Git, Public_Event
----
 [깃 브랜치 배우기](https://learngitbranching.js.org/?locale=ko)
 Dd
 

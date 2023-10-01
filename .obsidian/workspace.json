@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Drawer/Middleware?.md",
+                "file": "_Drawer/2023 Seoul Women Hackathon.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Drawer/Middleware?.md",
+                "file": "_Drawer/2023 Seoul Women Hackathon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Drawer/Middleware?.md",
+                "file": "_Drawer/2023 Seoul Women Hackathon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Drawer/Middleware?.md"
+                "file": "_Drawer/2023 Seoul Women Hackathon.md"
               }
             }
           },
@@ -194,32 +194,32 @@
   },
   "active": "ada5253fef2c705d",
   "lastOpenFiles": [
+    "_Drawer/2023 Timeline.md",
+    "_Drawer/2023-07.md",
+    "_Drawer/Algorithm List.md",
+    "_Drawer/Algorithm Roadmap.md",
+    "_Drawer/Basic Backend Project.md",
+    "_Drawer/code . 명령어 완전히 설치하기.md",
+    "_Drawer/Computer Sicence Interview Questiosns.md",
+    "_Drawer/Counting Valleys.md",
+    "_Drawer/Frontend Web Developer Roadmap.md",
+    "_Drawer/Free Happiness.md",
+    "_Drawer/Full Stack Web Developer Roadmap.md",
+    "_Drawer/Git 기초강의.md",
+    "_Drawer/How to study as a developer (매우 효과적인 방법!).md",
+    "_Drawer/google.com을 치면 일어나는 일.md",
+    "_Drawer/How Food May Improve Your Mood.md",
+    "_Drawer/How to Solve Algorithm Problems from Scratch.md",
+    "_Drawer/HTTP? HTTPS? Internet?.md",
+    "_Drawer/Javascript Interview Questions.md",
+    "_Drawer/Interview Listup.md",
+    "_Drawer/Jumping on the clouds.md",
     "_Drawer/Prepare for an Interview.md",
+    "_Drawer/JWT(JSON Web Token)?.md",
+    "_Drawer/Middleware?.md",
     "_Drawer/Quotes.md",
     "_Drawer/React Interview Script.md",
     "_Drawer/Resume.io.md",
-    "_Drawer/Repeated String.md",
-    "_Drawer/Redux toolkit?.md",
-    "_Drawer/Resume.io 클론 프로젝트.md",
-    "_Drawer/Reudx vs Redux Toolkit?.md",
-    "_Drawer/Sales by Match.md",
-    "_Drawer/Side Effect In Development.md",
-    "_Drawer/Sonamu.md",
-    "_Drawer/SPA?.md",
-    "_Drawer/Tailwind class 와 className 차이.md",
-    "_Drawer/Tailwind Intellisense 안되는 문제.md",
-    "_Drawer/The pursuit of calm.md",
-    "_Drawer/Tweets From Emiko.dev ☀️.md",
-    "_Drawer/Tweets From Shane Parrish.md",
-    "_Drawer/Tweets From 곁.md",
-    "_Drawer/Udemy React The Complete Guide.md",
-    "_Drawer/Udemy React The Complete Guide Section 19.md",
-    "_Drawer/useCallback() Hook.md",
-    "_Drawer/useEffect() Hook.md",
-    "겁쟁이들을 위한 스터디.md",
-    "_Drawer/깃 커밋 영어 레퍼런스.md",
-    "_Drawer/누구도 나를 파괴할 수 없다.md",
-    "_Drawer/도둑맞은 집중력.md",
     "_Drawer",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes",
