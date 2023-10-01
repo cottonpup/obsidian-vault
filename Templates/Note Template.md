@@ -1,5 +1,5 @@
 ---
-Created: "{{date:YYYY-MM-DD}}"
+Created: "{{date:YYYY-MM-DD HH:mm}}"
 topic: 
 tags:
 ---
@@ -8,4 +8,4 @@ tags:
 
 ---
 # References
-1. 
+1. ~~~~
