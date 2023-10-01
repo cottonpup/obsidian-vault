@@ -1,5 +1,5 @@
 ---
-Created: "{{date:YYYY-MM-DD HH:mm}}"
+Created: "{{date:YYYY-MM-DD}}"
 topic: 
 tags:
 ---
