@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "겁쟁이들을 위한 스터디.md",
+                "file": "_Drawer/투인피니티 면접 대비.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "겁쟁이들을 위한 스터디.md",
+                "file": "_Drawer/투인피니티 면접 대비.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "겁쟁이들을 위한 스터디.md",
+                "file": "_Drawer/투인피니티 면접 대비.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "겁쟁이들을 위한 스터디.md"
+                "file": "_Drawer/투인피니티 면접 대비.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "549caf7185ec502b",
   "lastOpenFiles": [
+    "겁쟁이들을 위한 스터디.md",
     "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
     "Permanent Notes/Router.md",
     "Permanent Notes/Hosting.md",
@@ -219,7 +220,6 @@
     "_Drawer/Algorithm Roadmap.md",
     "_Drawer/Basic Backend Project.md",
     "_Drawer/code . 명령어 완전히 설치하기.md",
-    "_Drawer/Computer Sicence Interview Questiosns.md",
     "_Drawer",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes",
