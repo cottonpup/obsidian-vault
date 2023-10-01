@@ -11,8 +11,12 @@
             "id": "c0acdc1c46296545",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Drawer/제텔카스텐 메모법.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Drawer/제텔카스텐 메모법.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Drawer/제텔카스텐 메모법.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Drawer/제텔카스텐 메모법.md"
+              }
             }
           },
           {
@@ -187,6 +194,11 @@
   },
   "active": "c0acdc1c46296545",
   "lastOpenFiles": [
+    "Readwise/Books/도둑맞은 집중력.md",
+    "Readwise/Books/이유 없이 고통스러운 밤은 없어....md",
+    "Readwise/Books/누구도 나를 파괴할 수 없다.md",
+    "Readwise/Books/How to Avoid a Climate Disaster.md",
+    "Readwise/Books/The Guest List.md",
     "English/English Shadowing 유진.md",
     "Readwise/Books/Rising Strong.md",
     "_Drawer/제텔카스텐 메모법.md",
@@ -214,17 +226,12 @@
     "DEV/Redux toolkit?.md",
     "DEV/SPA?.md",
     "Interview/Javascript Interview Questions.md",
-    "Readwise/Books/누구도 나를 파괴할 수 없다.md",
     "Morning Page",
     "Morning Page/2023-09-21.md",
-    "Readwise/Books/도둑맞은 집중력.md",
-    "Readwise/Books/이유 없이 고통스러운 밤은 없어....md",
     "Readwise/Books/Solve for Happy.md",
     "Readwise/Quotes.md",
     "DEV/Reudx vs Redux Toolkit?.md",
     "DEV/Interview/신입 개발자 면접 가이드.md",
-    "DEV/Interview/면접 질문 아카이브.md",
-    "DEV/주니어 개발자 이력서 가이드.md",
     "Attachments/Screenshot 2023-09-20 at 16.44.59.png",
     "Attachments/Screenshot 2023-09-20 at 16.44.41.png",
     "Attachments/Screenshot 2023-09-20 at 16.27.40.png",
