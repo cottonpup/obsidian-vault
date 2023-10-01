@@ -1,8 +1,4 @@
----
-Date: 2023-07-07
-Tags: Backend, Express
----
-%%[[Development]]%%
+
 # Learn Express
 ## [Express application generator](https://expressjs.com/en/starter/generator.html)
 
