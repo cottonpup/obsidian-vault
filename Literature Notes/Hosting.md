@@ -27,6 +27,8 @@ no-code tool hosting included -> word press
 
 migration -> transferring hosting company
 
+Web hosting is an online service that enables you to publish your website or web application on the internet. When you sign up for a web hosting service, you basically rent some space on a physical server where you can store all the files and data necessary for your website to work properly.
+
 ---
 # References
 1. https://youtu.be/htbY9-yggB0?si=IYn6u-N2OXwOxhiU
