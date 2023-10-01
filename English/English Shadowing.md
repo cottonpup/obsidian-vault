@@ -24,15 +24,10 @@ but that is the thing that we need to do the most because we need food to eat
 we're going back to our normal routine and we can't not have food in our kitchen so I'm so proud that I did that so now I have food to cook with
 the menu that we're making for breakfast today is I'm trying to **recreate this menu that I
 had at Ruby's Ruby's is one of my favorite Cafe** in New York City and they have this breakfast
-bowl that's quite simple so I feel like I
+bowl that's quite simple so I feel like I can recreate it and **I purposely bought all the ingredients that I'm going to need for this so that I can read it so I'm going to defrost and heat up this edamame**
 
-can recreate it and **I purposely bought all
-the ingredients that I'm going to need for
-this so that I can read it so I'm going to
-defrost and heat up this edamame**
-
-next we have to make a **poached egg** I have
-never made a poached egg in my life
+next we have to make a **poached egg** 
+I have never made a poached egg in my life
 
 some vinegar then I have that egg right here
 and I'm gonna drop that in **why is it not clumping together** 
