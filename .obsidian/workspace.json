@@ -11,8 +11,12 @@
             "id": "ada5253fef2c705d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Drawer/~ meaning in command.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Drawer/~ meaning in command.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Drawer/~ meaning in command.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Drawer/~ meaning in command.md"
+              }
             }
           },
           {
@@ -184,34 +192,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "ada5253fef2c705d",
   "lastOpenFiles": [
-    "Projects/10월 2일 프론트엔드 면접 스터디.md",
-    "Permanent Notes/Hosting.md",
-    "Permanent Notes/Router.md",
-    "Literature Notes/Hosting.md",
-    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
-    "Literature Notes/Controlled component vs Uncontrolled component.md",
-    "Literature Notes/RESTFUL development.md",
+    "_Drawer/주니어 개발자 이력서 가이드.md",
+    "_Drawer/투인피니티 면접 대비.md",
+    "_Drawer/신입 개발자 면접 가이드.md",
+    "_Drawer/영어 전치사 연구 의미와 용법.md",
+    "_Drawer/제텔카스텐 메모법.md",
+    "_Drawer/이유 없이 고통스러운 밤은 없어....md",
+    "_Drawer/원하는 기업.md",
+    "_Drawer/바이슈코 면접 대비.md",
+    "_Drawer/면접 질문 아카이브.md",
+    "_Drawer/도둑맞은 집중력.md",
+    "_Drawer/누구도 나를 파괴할 수 없다.md",
+    "_Drawer/깃 커밋 영어 레퍼런스.md",
+    "_Drawer/겁쟁이들을 위한 스터디.md",
+    "_Drawer/~ meaning in command.md",
+    "_Drawer/useEffect() Hook.md",
+    "_Drawer/useCallback() Hook.md",
+    "_Drawer/google.com을 치면 일어나는 일.md",
+    "_Drawer/code . 명령어 완전히 설치하기.md",
+    "_Drawer/Udemy React The Complete Guide.md",
+    "_Drawer/Udemy React The Complete Guide Section 19.md",
+    "_Drawer/Tweets From 곁.md",
+    "_Drawer/Tweets From Shane Parrish.md",
+    "_Drawer/Tweets From Emiko.dev ☀️.md",
+    "_Drawer/The pursuit of calm.md",
+    "_Drawer/Tailwind class 와 className 차이.md",
+    "_Drawer/Tailwind Intellisense 안되는 문제.md",
+    "_Drawer",
     "Files/Pasted image 20231002003008.png",
-    "Literature Notes/Router.md",
-    "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
-    "Literature Notes/Web cache.md",
-    "Literature Notes/useEffect vs useLayoutEffect.md",
-    "Literature Notes/mixin.md",
-    "Literature Notes/JWT token.md",
-    "Literature Notes/HTTP Method.md",
-    "Literature Notes/deep copy vs shallow copy.md",
-    "Literature Notes/decorator.md",
-    "Literature Notes/declare keyword.md",
-    "Literature Notes/cookie vs session.md",
-    "Literature Notes/Cloud.md",
-    "Literature Notes/Ajax.md",
-    "Literature Notes/Pure function.md",
-    "Fleeting Notes/90분 공부 3번하기.md",
-    "Fleeting Notes/Untitled.md",
-    "Permanent Notes/Untitled.md",
-    "Literature Notes/Interview.md",
     "Literature Notes",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
     "Files/Screenshot 2023-10-01 at 19.39.08.png",
@@ -221,7 +231,6 @@
     "Literature Notes",
     "Fleeting Notes",
     "Files/Screenshot 2023-10-01 at 17.18.51.png",
-    "_Drawer",
     "_Drawer/Meetup/10월 2일 네트워크 발표.md-2",
     "_Drawer/DEV/Git 기초강의.md-4",
     "_Drawer/DEV/Git 기초강의.md-3",
