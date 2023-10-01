@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Drawer/제텔카스텐 메모법.md",
+                "file": "Permanent Notes/10월 2일 네트워크 발표.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Drawer/제텔카스텐 메모법.md",
+                "file": "Permanent Notes/10월 2일 네트워크 발표.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Drawer/제텔카스텐 메모법.md",
+                "file": "Permanent Notes/10월 2일 네트워크 발표.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Drawer/제텔카스텐 메모법.md"
+                "file": "Permanent Notes/10월 2일 네트워크 발표.md"
               }
             }
           },
@@ -194,20 +194,21 @@
   },
   "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
-    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
-    "Literature Notes/호스팅이란?.md",
-    "Literature Notes/HTTP 메서드.md",
-    "Literature Notes/10월 2일 네트워크 발표.md",
     "Projects/10월 2일 네트워크 발표.md",
-    "Literature Notes/라우터란?.md",
+    "Permanent Notes/10월 2일 네트워크 발표.md",
+    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
+    "_Drawer/제텔카스텐 메모법.md",
+    "Permanent Notes/호스팅이란?.md",
+    "Permanent Notes/HTTP 메서드.md",
+    "Permanent Notes/라우터란?.md",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
     "Files/Screenshot 2023-10-01 at 19.39.08.png",
-    "Literature Notes/RESTFUL 개발이란?.md",
-    "Literature Notes/클라우드에 대해 알고 있는 개념?.md",
+    "Permanent Notes/RESTFUL 개발이란?.md",
+    "Permanent Notes/클라우드에 대해 알고 있는 개념?.md",
     "Templates/Map of Content.md",
     "Templates/Note Template.md",
     "Templates/Restrospective.md",
-    "Literature Notes/웹 캐시란?.md",
+    "Permanent Notes/웹 캐시란?.md",
     "Projects",
     "Untitled.md",
     "Untitled 1.md",
@@ -223,7 +224,6 @@
     "_Drawer/Tweets From 곁.md",
     "_Drawer/이유 없이 고통스러운 밤은 없어....md",
     "_Drawer/~ meaning in command.md",
-    "Templates/Algorithm Metadata.md",
     "Files/Screenshot 2023-10-01 at 17.34.52.png",
     "Literature Notes",
     "Fleeting Notes",
