@@ -9,4 +9,5 @@ A small unit of data that is transmitted over the internet.
 ---
 # References
 1. https://cs.fyi/guide/how-does-internet-work
-2. 
+2. [[라우터란?]]
+3. 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Notes/Packet.md",
+                "file": "Literature Notes/라우터란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Packet.md",
+                "file": "Literature Notes/라우터란?.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Notes/Packet.md",
+                "file": "Literature Notes/라우터란?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Packet.md"
+                "file": "Literature Notes/라우터란?.md"
               }
             }
           },
@@ -194,9 +194,9 @@
   },
   "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
+    "Fleeting Notes/Packet.md",
     "_Drawer/HTTP? HTTPS? Internet?.md",
     "Literature Notes/decorator란.md",
-    "Fleeting Notes/Packet.md",
     "Literature Notes/라우터란?.md",
     "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Fleeting Notes/네트워크.md",
