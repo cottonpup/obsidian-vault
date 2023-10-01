@@ -16,7 +16,9 @@ there are many different kinds
 웹 사이트에 할당된 서버 공간의 양은 호스팅 유형에 따라 달라집니다.
 hosting is basically the computer and network infrastructure that keeps your website available across the internet. 
 
-data center -> 고서버
+data center -> temperature control, backup systems, fire suppression, high level of physical security 
+
+When you are hosting, What you are actually purchasing is the physi
 
 ---
 # References
