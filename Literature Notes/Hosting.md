@@ -27,9 +27,8 @@ no-code tool hosting included -> word press
 
 migration -> transferring hosting company
 
-![[Pasted image 20231002003008.png]]
 ---
 # References
 1. https://youtu.be/htbY9-yggB0?si=IYn6u-N2OXwOxhiU
 2. https://roadmap.sh/frontend > What is hosting
-3. https://azdigi.com/blog/en/hosting-knowledge/what-is-hosting-basic-knowledge-to-know-about-web-hosting/#content-1-Shared-Hosting
+3. https://www.hostinger.com/tutorials/what-is-web-hosting/
