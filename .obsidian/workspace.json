@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/새로.md",
+                "file": "Template/Basic Metadata.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/새로.md",
+                "file": "Template/Basic Metadata.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/새로.md",
+                "file": "Template/Basic Metadata.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/새로.md"
+                "file": "Template/Basic Metadata.md"
               }
             }
           },
@@ -194,7 +194,9 @@
   },
   "active": "c0acdc1c46296545",
   "lastOpenFiles": [
+    "Template/Algorithm Metadata.md",
     "Template/Basic Metadata.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/새로.md",
     "Zettelkasten/새로 만들기.md",
     "Zettelkasten/시도.md",
@@ -232,9 +234,7 @@
     "_Drawer/DEV/JWT(JSON Web Token)?.md",
     "_Drawer/DEV/Redux toolkit?.md",
     "_Drawer/DEV/SPA?.md",
-    "_Drawer/Interview/Javascript Interview Questions.md",
     "_Drawer/Morning Page",
-    "Morning Page/2023-09-21.md",
     "Files/Screenshot 2023-09-20 at 16.44.59.png",
     "Files/Screenshot 2023-09-20 at 16.44.41.png",
     "Files/Screenshot 2023-09-20 at 16.27.40.png",
