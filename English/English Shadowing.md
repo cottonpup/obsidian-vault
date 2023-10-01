@@ -45,43 +45,23 @@ so they look like this I'm just gonna do like a scoop and mix it in with my edam
 **let me look back on the photo to see if I did
 this right. pretty much. I killed it.** 
 
-**this is the picture I think one thing I do need to
-do for the visual is to open this poached egg and see if I did it right**
+**this is the picture I think one thing I do need to do for the visual is to open this poached egg and see if I did it right**
 
-just gotta add salt on top of the egg as well
-and pepper and **the best way to eat this is
-take the toast I'm gonna lay down some avocado**
-first like a little avocado toast I'm gonna
+just gotta add salt on top of the egg as well and some pepper 
 
-add the cottage cheese and edamame and some
-egg some prosciutto and on top of that some
-
-of the greens
+and **the best way to eat this is take the toast I'm gonna lay down some avocado** first like a little avocado toast I'm gonna add the cottage cheese and edamame and some egg some prosciutto and on top of that, some of the greens
 
 oh my god hot sauce
 
-oh very spicy at lunch time and 
+oh very spicy 
 
-**I got changed from my pajama slash laying around clothes to my gym outfit because I'm gonna head to the gym pretty soon in like 30 minutes but**
 
-I always have to eat something before I go
-to the gym especially if I have a leg day
 
-and today is most definitely a leg day so
-I am going to eat lunch and do some more work
+at lunch time and **I got changed from my pajama slash laying around clothes to my gym outfit because I'm gonna head to the gym pretty soon in like 30 minutes but** I always have to eat something before I go to the gym especially if I have a leg day and today is most definitely a leg day so I am going to eat lunch and do some more work before I head out
 
-before I head out I'm gonna cheat here a little
-bit oh **you can't blame me because I did literally just get back from my travels I'm gonna eat**
-my Trader Joe's pre-made salad these are so
+I'm gonna cheat here a little bit oh **you can't blame me because I did literally just get back from my travels I'm gonna eat** my Trader Joe's pre-made salad these are so good 
 
-good **I feel like caesar salads have the rep
-of being not a healthy salad** but it's better
-
-than Taco Bell all right **it might not be the
-healthiest salad that exists** but it's still
-
-a salad anyways it's still a salad it's still
-kale yes cheese not the healthiest thing ever
+**I feel like caesar salads have the rep of being not a healthy salad** but it's better than Taco Bell all right **it might not be the healthiest salad that exists** but it's still a salad anyways it's still a salad it's still kale yes cheese not the healthiest thing ever
 
 but cheese is also protein put some chicken
 in here
