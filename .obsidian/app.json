@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "mobilePullAction": "insert-template",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "Fleeting Notes",
   "attachmentFolderPath": "Files"
 }
