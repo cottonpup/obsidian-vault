@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/Router.md",
+                "file": "Literature Notes/Router.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Router.md",
+                "file": "Literature Notes/Router.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/Router.md",
+                "file": "Literature Notes/Router.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Router.md"
+                "file": "Literature Notes/Router.md"
               }
             }
           },
@@ -194,6 +194,8 @@
   },
   "active": "86c9a38c32bca48e",
   "lastOpenFiles": [
+    "Permanent Notes/Router.md",
+    "Permanent Notes/Hosting.md",
     "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
     "Literature Notes/Web cache.md",
     "Literature Notes/useEffect vs useLayoutEffect.md",
@@ -211,8 +213,6 @@
     "Literature Notes/Ajax.md",
     "Literature Notes/Router.md",
     "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
-    "Permanent Notes/Router.md",
-    "Permanent Notes/Hosting.md",
     "Literature Notes/Pure function.md",
     "Fleeting Notes/90분 공부 3번하기.md",
     "Fleeting Notes/Untitled.md",
