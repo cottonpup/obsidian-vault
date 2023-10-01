@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Hosting.md",
+                "file": "Permanent Notes/Hosting.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Hosting.md",
+                "file": "Permanent Notes/Hosting.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Hosting.md",
+                "file": "Permanent Notes/Hosting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Hosting.md"
+                "file": "Permanent Notes/Hosting.md"
               }
             }
           },
@@ -194,13 +194,13 @@
   },
   "active": "83f05d632ff33062",
   "lastOpenFiles": [
+    "Literature Notes/Hosting.md",
     "Permanent Notes/Hosting.md",
     "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Permanent Notes/Router.md",
     "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/Controlled component vs Uncontrolled component.md",
     "Literature Notes/RESTFUL development.md",
-    "Literature Notes/Hosting.md",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes/Router.md",
     "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
