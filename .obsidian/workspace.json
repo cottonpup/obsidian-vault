@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Basic Metadata.md",
+                "file": "_Drawer/프론트엔드 면접 스터디.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Basic Metadata.md",
+                "file": "_Drawer/프론트엔드 면접 스터디.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Basic Metadata.md",
+                "file": "_Drawer/프론트엔드 면접 스터디.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Basic Metadata.md"
+                "file": "_Drawer/프론트엔드 면접 스터디.md"
               }
             }
           },
@@ -194,8 +194,17 @@
   },
   "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
-    "Template/Algorithm Metadata.md",
+    "_Drawer/주니어 개발자 이력서 가이드.md",
+    "_Drawer/신입 개발자 면접 가이드.md",
+    "_Drawer/원하는 기업.md",
+    "_Drawer/React Interview Script.md",
+    "_Drawer/Udemy React The Complete Guide Section 19.md",
+    "_Drawer/Quotes.md",
+    "_Drawer/Tweets From 곁.md",
+    "_Drawer/이유 없이 고통스러운 밤은 없어....md",
+    "_Drawer/~ meaning in command.md",
     "Template/Basic Metadata.md",
+    "Template/Algorithm Metadata.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/새로.md",
     "Zettelkasten/새로 만들기.md",
@@ -204,36 +213,27 @@
     "Files/Screenshot 2023-10-01 at 17.34.52.png",
     "Reference notes",
     "Zettelkasten",
-    "_Drawer/Readwise/Books/도둑맞은 집중력.md",
-    "_Drawer/Readwise/Books/이유 없이 고통스러운 밤은 없어....md",
-    "_Drawer/Readwise/Books/누구도 나를 파괴할 수 없다.md",
+    "_Drawer/도둑맞은 집중력.md",
+    "_Drawer/누구도 나를 파괴할 수 없다.md",
     "Readwise/Books/How to Avoid a Climate Disaster.md",
     "Readwise/Books/The Guest List.md",
-    "_Drawer/English/English Shadowing 유진.md",
+    "_Drawer/English Shadowing 유진.md",
     "Readwise/Books/Rising Strong.md",
     "Files/Screenshot 2023-10-01 at 17.18.51.png",
     "_Drawer",
-    "_Drawer/DEV/Meetup/10월 2일 네트워크 발표.md",
-    "_Drawer/DEV/Meetup/10월 2일 네트워크 발표.md-2",
+    "_Drawer/10월 2일 네트워크 발표.md",
+    "_Drawer/Meetup/10월 2일 네트워크 발표.md-2",
     "_Drawer/DEV/Git 기초강의.md-4",
     "_Drawer/DEV/Git 기초강의.md-3",
     "_Drawer/DEV/Git 기초강의.md-2",
     "_Drawer/DEV/Frontend Web Developer Roadmap.md-2",
-    "_Drawer/DEV/HTTP? HTTPS? Internet?.md",
-    "_Drawer/DEV/Interview/투인피니티 면접 대비.md",
-    "_Drawer/DEV/Meetup/겁쟁이들을 위한 스터디.md",
-    "_Drawer/DEV/Meetup/프론트엔드 면접 스터디.md",
+    "_Drawer/HTTP? HTTPS? Internet?.md",
+    "_Drawer/투인피니티 면접 대비.md",
+    "_Drawer/겁쟁이들을 위한 스터디.md",
     "Files/Screenshot 2023-09-27 at 0.51.11.png",
-    "_Drawer/DEV/Frontend Web Developer Roadmap.md",
     "Files/Screenshot 2023-09-23 at 21.08.34.png",
-    "_Drawer/DEV/Full Stack Web Developer Roadmap.md",
-    "_Drawer/DEV/How to study as a developer (매우 효과적인 방법!).md",
     "Files/Screenshot 2023-09-22 at 12.36.36.png",
     "Files/Screenshot 2023-09-22 at 21.34.43.png",
-    "_Drawer/DEV/Middleware?.md",
-    "_Drawer/DEV/JWT(JSON Web Token)?.md",
-    "_Drawer/DEV/Redux toolkit?.md",
-    "_Drawer/DEV/SPA?.md",
     "_Drawer/Morning Page",
     "Files/Screenshot 2023-09-20 at 16.44.59.png",
     "Files/Screenshot 2023-09-20 at 16.44.41.png",
