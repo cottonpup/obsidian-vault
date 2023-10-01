@@ -17,25 +17,13 @@ although I like to cook **I don't like going above and beyond to cook because th
 so that's why you're seeing an unfamiliar kitchen 
 I need to start a **apartment hunting** soon so I will have my own space very very soon but until then you're getting this View
 
-**as soon as I landed in LAX first thing that
-I did was go to the grocery store** I went to
+**as soon as I landed in LAX first thing that I did was go to the grocery store** 
+I went to Trader Joe's **because we love pushing off like our daily errands when we come back from vacation**
 
-Trader Joe's **because we love pushing off like
-our daily errands when we come back from vacation**
-
-but that is the thing that we need to do the
-most because we need food to eat we're going
-
-back to our normal routine and we can't not
-have food in our kitchen so I'm so proud that
-
-I did that so now I have food to cook with
-the menu that we're making for breakfast today
-
-is I'm trying to **recreate this menu that I
-had at Ruby's Ruby's is one of my favorite Cafe**
-
-in New York City and they have this breakfast
+but that is the thing that we need to do the most because we need food to eat 
+we're going back to our normal routine and we can't not have food in our kitchen so I'm so proud that I did that so now I have food to cook with
+the menu that we're making for breakfast today is I'm trying to **recreate this menu that I
+had at Ruby's Ruby's is one of my favorite Cafe** in New York City and they have this breakfast
 bowl that's quite simple so I feel like I
 
 can recreate it and **I purposely bought all
