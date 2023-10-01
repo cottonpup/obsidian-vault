@@ -13,6 +13,9 @@ there are many different kinds
 - virtual private servers
 - dedicated servers
 
+hosting is basically the computer and network infrastructure that keeps your website available across the internet. 
+
+data center -> 
 
 ---
 # References
