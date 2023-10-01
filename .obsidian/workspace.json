@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/깊은 복사와 얕은 복사란.md",
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5b4308ab1c8a4241",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e821063a738f5afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/깊은 복사와 얕은 복사란.md",
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/깊은 복사와 얕은 복사란.md",
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/깊은 복사와 얕은 복사란.md"
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md"
               }
             }
           },
@@ -194,14 +212,16 @@
   },
   "active": "87334bf4e40184d3",
   "lastOpenFiles": [
-    "Literature Notes/diffrence btween useEffect and useLayoutEffect.md",
+    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Projects/10월 2일 프론트엔드 면접 스터디.md",
+    "Literature Notes/Pure function.md",
+    "Literature Notes/deep copy vs shallow copy.md",
+    "Literature Notes/useEffect vs useLayoutEffect.md",
     "Permanent Notes/라우터란?.md",
     "Literature Notes/Hosting.md",
-    "Literature Notes/라우터란?.md",
+    "Literature Notes/Router.md",
     "Literature Notes/Ajax.md",
     "Literature Notes/Cloud.md",
-    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/Interview.md",
     "Literature Notes/Packet.md",
     "_Drawer/투인피니티 면접 대비.md",
@@ -213,13 +233,11 @@
     "Literature Notes/mixin.md",
     "Literature Notes/declare keyword.md",
     "Literature Notes/JWT token.md",
-    "Literature Notes/쿠키와 세션의 차이점.md",
+    "Literature Notes/cookie vs session.md",
     "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
-    "Literature Notes/마이크로태스크 큐, 태스크 큐에 대해 설명해주세요.md",
-    "Literature Notes/깊은 복사와 얕은 복사란.md",
-    "Literature Notes/제어 컴포넌트와 비제어 컴포넌트의 차이.md",
+    "Literature Notes/task queue vs microtask queue.md",
+    "Literature Notes/Controlled component vs Uncontrolled component.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표 1.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디 - 질문대비.md",
     "Literature Notes",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
     "Files/Screenshot 2023-10-01 at 19.39.08.png",
