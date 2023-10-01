@@ -10,7 +10,7 @@ Web hosting is an online service that allows you to publish your website files o
 there are many different kinds
 - **shared hosting** -> most popular and affordable type of hosting
 - reseller hosting
-- virtual private servers
+- VPS(virtual private servers)
 - dedicated servers
 
 hosting is basically the computer and network infrastructure that keeps your website available across the internet. 
