@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Literature Notes/Cloud 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Literature Notes/Cloud 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Literature Notes/Cloud 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md"
+                "file": "Literature Notes/Cloud 1.md"
               }
             }
           },
@@ -192,23 +192,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "2976c3d78974dc3c",
   "lastOpenFiles": [
-    "Permanent Notes/Router.md",
+    "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Permanent Notes/Untitled.md",
+    "Permanent Notes/Web cache.md",
+    "Literature Notes/Router 1.md",
     "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Templates/Map of Content.md",
     "Templates/Note Template.md",
-    "Permanent Notes/HTTP Method.md",
-    "Permanent Notes/Web cache.md",
+    "Literature Notes/HTTP Method 1.md",
     "Literature Notes/Untitled.md",
     "Literature Notes/RESTful development.md",
-    "Permanent Notes/RESTful development.md",
+    "Literature Notes/RESTful development 1.md",
     "Literature Notes/Web cache.md",
     "Literature Notes/HTTP Method.md",
-    "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/mixin.md",
-    "Permanent Notes/Cloud.md",
+    "Literature Notes/Cloud 1.md",
     "Literature Notes/Cloud.md",
     "Literature Notes/Hosting.md",
     "Literature Notes/JWT token.md",
@@ -217,7 +217,7 @@
     "_Drawer/투인피니티 면접 대비.md",
     "겁쟁이들을 위한 스터디.md",
     "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
-    "Permanent Notes/Hosting.md",
+    "Literature Notes/Hosting 1.md",
     "Literature Notes/useEffect vs useLayoutEffect.md",
     "Literature Notes/task queue vs microtask queue.md",
     "_Drawer",
