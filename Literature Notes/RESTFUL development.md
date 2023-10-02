@@ -1,0 +1,25 @@
+---
+Created: 2023-10-02
+topic: "[[Network]]"
+tags:
+  - RESTful
+---
+# RESTful development
+It is simply the protocol for transmitting documents across the internet. Hypertext is just structured text that uses links (hyperlinks) between other nodes of structured text. The key to HTTP is that it is stateless, the server doesn’t save data between requests.
+
+REST stands for representational state transfer. This means that web resources communicate using a set of stateless, uniform operations.
+
+Endpoints have two main components:
+
+1. HTTP method
+2. The url (sometimes shortened to only the path)
+
+
+REST API is the only design paradigm when it comes to making APIs, so let’s explore some alternatives:
+
+- [SOAP](https://www.dataaccess.com/webservicesserver/NumberConversion.wso): simple object access protocol
+- [GraphQL](https://studio.apollographql.com/public/countries/variant/current/explorer): a query language for your API
+
+---
+# References
+1. https://frontend.turing.edu/lessons/module-3/rest-architecture-and-urls.html?ads_cmpid=6451354298&ads_adid=76255849919&ads_matchtype=&ads_network=g&ads_creative=517729935062&utm_term=&ads_targetid=dsa-19959388920&utm_campaign=&utm_source=adwords&utm_medium=ppc&ttv=2&gclid=Cj0KCQjw1OmoBhDXARIsAAAYGSHCuIcNVd9_esklSkWH40fdeqp60vUNwkeHvqHMK_mNeoUdfhWp3fgaAlV5EALw_wcB
