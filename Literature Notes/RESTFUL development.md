@@ -5,19 +5,19 @@ tags:
   - RESTful
 ---
 # RESTful development
-http?
+# http?
 It is simply the protocol for transmitting documents across the internet. Hypertext is just structured text that uses links (hyperlinks) between other nodes of structured text. The key to HTTP is that it is stateless, the server doesn’t save data between requests.
 
+# RESTful?
 REST stands for representational state transfer. This means that web resources communicate using a set of stateless, uniform operations.
 
+# Endpoints?
 Endpoints have two main components:
-
 1. HTTP method
 2. The url (sometimes shortened to only the path)
 
-
+# REST API alternatives
 REST API is the only design paradigm when it comes to making APIs, so let’s explore some alternatives:
-
 - [SOAP](https://www.dataaccess.com/webservicesserver/NumberConversion.wso): simple object access protocol
 - [GraphQL](https://studio.apollographql.com/public/countries/variant/current/explorer): a query language for your API
 
