@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Router.md",
+                "file": "Literature Notes/mixin.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Router.md",
+                "file": "Literature Notes/mixin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Router.md",
+                "file": "Literature Notes/mixin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Router.md"
+                "file": "Literature Notes/mixin.md"
               }
             }
           },
@@ -194,12 +194,16 @@
   },
   "active": "2976c3d78974dc3c",
   "lastOpenFiles": [
+    "Literature Notes/useEffect vs useLayoutEffect.md",
+    "Permanent Notes/Untitled.md",
+    "Literature Notes/task queue vs microtask queue.md",
+    "Projects/겁쟁이들을 위한 스터디.md",
+    "Literature Notes/Router.md",
     "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/Web cache.md",
     "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
     "Literature Notes/Cloud.md",
     "Literature Notes/Ajax.md",
-    "Literature Notes/Router.md",
     "Literature Notes/Router 1.md",
     "Literature Notes/RESTful development.md",
     "Literature Notes/Hosting.md",
@@ -208,7 +212,6 @@
     "Literature Notes/deep copy vs shallow copy.md",
     "Literature Notes/Hosting 1.md",
     "Literature Notes/Cloud 1.md",
-    "Permanent Notes/Untitled.md",
     "Permanent Notes/Web cache.md",
     "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Templates/Map of Content.md",
@@ -217,9 +220,6 @@
     "Literature Notes/HTTP Method.md",
     "Literature Notes/mixin.md",
     "Literature Notes/JWT token.md",
-    "Literature Notes/Controlled component vs Uncontrolled component.md",
-    "_Drawer/투인피니티 면접 대비.md",
-    "겁쟁이들을 위한 스터디.md",
     "_Drawer",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes",
