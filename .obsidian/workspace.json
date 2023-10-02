@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Literature Notes/HTTP Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2976c3d78974dc3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/HTTP Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Literature Notes/HTTP Method.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Literature Notes/HTTP Method.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md"
+                "file": "Literature Notes/HTTP Method.md"
               }
             }
           },
@@ -194,10 +206,11 @@
   },
   "active": "970b5faa40b4b8d1",
   "lastOpenFiles": [
-    "Literature Notes/mixin.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디.md",
-    "Permanent Notes/Web cache.md",
     "Permanent Notes/HTTP Method.md",
+    "Literature Notes/HTTP Method.md",
+    "Projects/10월 2일 프론트엔드 면접 스터디.md",
+    "Literature Notes/mixin.md",
+    "Permanent Notes/Web cache.md",
     "Permanent Notes/RESTful development.md",
     "Literature Notes/RESTful development.md",
     "Permanent Notes/Cloud.md",
@@ -219,7 +232,6 @@
     "_Drawer/2022-01-15 TIL.md",
     "_Drawer/2022-01-14 TIL.md",
     "_Drawer/2022-01-16 TIL.md",
-    "_Drawer/2022-01-17 TIL.md",
     "_Drawer",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes",
