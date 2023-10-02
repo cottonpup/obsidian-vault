@@ -23,3 +23,4 @@ REST API is the only design paradigm when it comes to making APIs, so let’s ex
 ---
 # References
 1. https://frontend.turing.edu/lessons/module-3/rest-architecture-and-urls.html?ads_cmpid=6451354298&ads_adid=76255849919&ads_matchtype=&ads_network=g&ads_creative=517729935062&utm_term=&ads_targetid=dsa-19959388920&utm_campaign=&utm_source=adwords&utm_medium=ppc&ttv=2&gclid=Cj0KCQjw1OmoBhDXARIsAAAYGSHCuIcNVd9_esklSkWH40fdeqp60vUNwkeHvqHMK_mNeoUdfhWp3fgaAlV5EALw_wcB
+2. https://velog.io/@couchcoding/%EA%B0%9C%EB%B0%9C-%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-RESTful-API-%EC%84%A4%EA%B3%84-%EA%B0%80%EC%9D%B4%EB%93%9C
