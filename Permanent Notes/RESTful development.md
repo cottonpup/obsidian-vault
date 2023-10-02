@@ -9,4 +9,4 @@ tags:
 ---
 # References
 1. [[Literature Notes/RESTful development]]
-2. [[HTTP Method]]
+2. [[Literature Notes/HTTP Method]]
