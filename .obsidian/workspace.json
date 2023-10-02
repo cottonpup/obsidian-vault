@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/mixin.md",
+                "file": "Literature Notes/RESTful development.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Endpo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/mixin.md",
+                "file": "Literature Notes/RESTful development.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/mixin.md",
+                "file": "Literature Notes/RESTful development.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/mixin.md"
+                "file": "Literature Notes/RESTful development.md"
               }
             }
           },
@@ -192,8 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2976c3d78974dc3c",
+  "active": "c62d3717da803e98",
   "lastOpenFiles": [
+    "Literature Notes/Ajax.md",
+    "Literature Notes/mixin.md",
     "Literature Notes/useEffect vs useLayoutEffect.md",
     "Permanent Notes/Untitled.md",
     "Literature Notes/task queue vs microtask queue.md",
@@ -203,7 +206,6 @@
     "Literature Notes/Web cache.md",
     "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
     "Literature Notes/Cloud.md",
-    "Literature Notes/Ajax.md",
     "Literature Notes/Router 1.md",
     "Literature Notes/RESTful development.md",
     "Literature Notes/Hosting.md",
@@ -218,7 +220,6 @@
     "Templates/Note Template.md",
     "Literature Notes/Untitled.md",
     "Literature Notes/HTTP Method.md",
-    "Literature Notes/mixin.md",
     "Literature Notes/JWT token.md",
     "_Drawer",
     "Files/Pasted image 20231002003008.png",
