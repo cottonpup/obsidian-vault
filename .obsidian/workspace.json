@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/Untitled.md",
+                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Untitled.md",
+                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/Untitled.md",
+                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Untitled.md"
+                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md"
               }
             }
           },
@@ -192,13 +192,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2976c3d78974dc3c",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
-    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
+    "Permanent Notes/Router.md",
     "Permanent Notes/Untitled.md",
+    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Templates/Map of Content.md",
     "Templates/Note Template.md",
-    "Permanent Notes/Router.md",
     "Permanent Notes/HTTP Method.md",
     "Permanent Notes/Web cache.md",
     "Literature Notes/Untitled.md",
@@ -206,7 +206,7 @@
     "Permanent Notes/RESTful development.md",
     "Literature Notes/Web cache.md",
     "Literature Notes/HTTP Method.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디.md",
+    "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/mixin.md",
     "Permanent Notes/Cloud.md",
     "Literature Notes/Cloud.md",
