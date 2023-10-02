@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/RESTful development.md",
+                "file": "Permanent Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/RESTful development.md",
+                "file": "Permanent Notes/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/RESTful development.md",
+                "file": "Permanent Notes/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/RESTful development.md"
+                "file": "Permanent Notes/Untitled.md"
               }
             }
           },
@@ -194,6 +194,10 @@
   },
   "active": "ec0da640c21f9513",
   "lastOpenFiles": [
+    "Projects/10월 2일 프론트엔드 면접 스터디.md",
+    "Permanent Notes/Untitled.md",
+    "Permanent Notes/RESTful development.md",
+    "Literature Notes/RESTful development.md",
     "Permanent Notes/Cloud.md",
     "Literature Notes/Cloud.md",
     "Literature Notes/Hosting.md",
@@ -216,10 +220,6 @@
     "_Drawer/2022-01-16 TIL.md",
     "_Drawer/2022-01-17 TIL.md",
     "_Drawer/2022-02-07 TIL.md",
-    "_Drawer/2023 Mistakes Listup.md",
-    "_Drawer/2023 Restrospective.md",
-    "_Drawer/2023 Seoul Women Hackathon.md",
-    "_Drawer/2023 Timeline.md",
     "_Drawer",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes",
