@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/HTTP Method.md",
+                "file": "Literature Notes/RESTful development.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/HTTP Method.md",
+                "file": "Literature Notes/RESTful development.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/HTTP Method.md",
+                "file": "Literature Notes/RESTful development.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/HTTP Method.md"
+                "file": "Literature Notes/RESTful development.md"
               }
             }
           },
@@ -206,20 +206,20 @@
   },
   "active": "970b5faa40b4b8d1",
   "lastOpenFiles": [
-    "Permanent Notes/HTTP Method.md",
+    "Permanent Notes/RESTful development.md",
+    "Literature Notes/RESTful development.md",
+    "Literature Notes/Web cache.md",
     "Literature Notes/HTTP Method.md",
+    "Permanent Notes/HTTP Method.md",
     "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/mixin.md",
     "Permanent Notes/Web cache.md",
-    "Permanent Notes/RESTful development.md",
-    "Literature Notes/RESTful development.md",
     "Permanent Notes/Cloud.md",
     "Literature Notes/Cloud.md",
     "Literature Notes/Hosting.md",
     "Literature Notes/JWT token.md",
     "Literature Notes/Controlled component vs Uncontrolled component.md",
     "Literature Notes/Ajax.md",
-    "Literature Notes/Web cache.md",
     "_Drawer/투인피니티 면접 대비.md",
     "겁쟁이들을 위한 스터디.md",
     "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
