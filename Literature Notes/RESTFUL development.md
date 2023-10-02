@@ -5,6 +5,7 @@ tags:
   - RESTful
 ---
 # RESTful development
+http?
 It is simply the protocol for transmitting documents across the internet. Hypertext is just structured text that uses links (hyperlinks) between other nodes of structured text. The key to HTTP is that it is stateless, the server doesn’t save data between requests.
 
 REST stands for representational state transfer. This means that web resources communicate using a set of stateless, uniform operations.
