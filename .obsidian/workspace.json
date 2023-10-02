@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Router.md",
+                "file": "Literature Notes/Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Router.md",
+                "file": "Literature Notes/Cloud.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Router.md",
+                "file": "Literature Notes/Cloud.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Router.md"
+                "file": "Literature Notes/Cloud.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "2976c3d78974dc3c",
   "lastOpenFiles": [
-    "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
+    "Literature Notes/Ajax.md",
     "Literature Notes/Router.md",
+    "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/Router 1.md",
     "Literature Notes/RESTful development.md",
     "Literature Notes/Hosting.md",
@@ -216,7 +217,6 @@
     "Literature Notes/mixin.md",
     "Literature Notes/JWT token.md",
     "Literature Notes/Controlled component vs Uncontrolled component.md",
-    "Literature Notes/Ajax.md",
     "_Drawer/투인피니티 면접 대비.md",
     "겁쟁이들을 위한 스터디.md",
     "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
