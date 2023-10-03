@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Templates/Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Daily",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Templates/Note Template.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Templates/Note Template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md"
+                "file": "Templates/Note Template.md"
               }
             }
           },
@@ -172,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200.5,
-    "collapsed": true
+    "width": 200.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,32 +193,32 @@
   },
   "active": "2976c3d78974dc3c",
   "lastOpenFiles": [
-    "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
-    "Literature Notes/Controlled component vs Uncontrolled component.md",
-    "Literature Notes/Ajax.md",
-    "Literature Notes/Packet.md",
-    "Literature Notes/Router.md",
-    "Literature Notes/task queue vs microtask queue.md",
+    "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/useEffect vs useLayoutEffect.md",
-    "Literature Notes/Web cache.md",
-    "Literature Notes/RESTful development.md",
+    "Literature Notes/task queue vs microtask queue.md",
     "Literature Notes/mixin.md",
-    "Permanent Notes/Untitled.md",
-    "Projects/겁쟁이들을 위한 스터디.md",
-    "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
-    "Literature Notes/Cloud.md",
-    "Literature Notes/Router 1.md",
-    "Literature Notes/Hosting.md",
-    "Literature Notes/RESTful development 1.md",
-    "Literature Notes/HTTP Method 1.md",
     "Literature Notes/deep copy vs shallow copy.md",
-    "Literature Notes/Hosting 1.md",
-    "Literature Notes/Cloud 1.md",
-    "Permanent Notes/Web cache.md",
-    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
-    "Templates/Map of Content.md",
+    "Literature Notes/decorator.md",
+    "Literature Notes/declare keyword.md",
+    "Literature Notes/cookie vs session.md",
+    "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
+    "Literature Notes/Web cache.md",
+    "Literature Notes/Router.md",
+    "Literature Notes/RESTFUL development.md",
+    "Literature Notes/Pure function.md",
+    "Literature Notes/JWT token.md",
+    "Literature Notes/Hosting.md",
+    "Literature Notes/HTTP Method.md",
+    "Literature Notes/Controlled component vs Uncontrolled component.md",
+    "Literature Notes/Cloud.md",
+    "Literature Notes/Ajax.md",
+    "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Templates/Note Template.md",
-    "Literature Notes/Untitled.md",
+    "Literature Notes/Packet.md",
+    "Projects/겁쟁이들을 위한 스터디.md",
+    "Literature Notes/RESTful development.md",
+    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
+    "Permanent Notes/Untitled.md",
     "_Drawer",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes",
