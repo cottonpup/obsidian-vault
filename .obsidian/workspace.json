@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
-                "mode": "preview",
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/10월 2일 프론트엔드 면접 스터디.md"
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디.md"
               }
             }
           },
@@ -193,11 +193,12 @@
   },
   "active": "2976c3d78974dc3c",
   "lastOpenFiles": [
+    "Literature Notes/Web cache.md",
+    "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
+    "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/Router.md",
-    "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Templates/Note Template.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디.md",
     "Literature Notes/useEffect vs useLayoutEffect.md",
     "Literature Notes/task queue vs microtask queue.md",
     "Literature Notes/mixin.md",
@@ -205,8 +206,6 @@
     "Literature Notes/decorator.md",
     "Literature Notes/declare keyword.md",
     "Literature Notes/cookie vs session.md",
-    "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
-    "Literature Notes/Web cache.md",
     "Literature Notes/RESTFUL development.md",
     "Literature Notes/Pure function.md",
     "Literature Notes/JWT token.md",
