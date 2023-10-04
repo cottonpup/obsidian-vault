@@ -83,7 +83,6 @@
       {
         "id": "bc9b707daeb22ea2",
         "type": "tabs",
-        "dimension": 39.44444444444444,
         "children": [
           {
             "id": "076a624753dac954",
@@ -103,15 +102,7 @@
               "type": "calendar",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "761ec68117118f5c",
-        "type": "tabs",
-        "dimension": 60.55555555555555,
-        "children": [
+          },
           {
             "id": "8f937cce209e32c9",
             "type": "leaf",
@@ -119,16 +110,17 @@
               "type": "markdown",
               "state": {
                 "file": "Daily/2023-10-05.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 446.40000000000003
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
