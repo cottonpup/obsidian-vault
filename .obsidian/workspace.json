@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "79e4773f79a44120",
+        "id": "bb175d3e143932a4",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1195c7d2c349a2",
+            "id": "c473335e78068b85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-10-04.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,6 +82,7 @@
       {
         "id": "bc9b707daeb22ea2",
         "type": "tabs",
+        "dimension": 39.44444444444444,
         "children": [
           {
             "id": "b404d7ffd25a792c",
@@ -138,14 +135,6 @@
             }
           },
           {
-            "id": "e8430724c7ef92f8",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "7e717de97faff763",
             "type": "leaf",
             "state": {
@@ -180,7 +169,26 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
+      },
+      {
+        "id": "761ec68117118f5c",
+        "type": "tabs",
+        "dimension": 60.55555555555555,
+        "children": [
+          {
+            "id": "ec1195c7d2c349a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-10-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,10 +210,10 @@
   },
   "active": "ec1195c7d2c349a2",
   "lastOpenFiles": [
+    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Daily/2023-10-04.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Daily",
-    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "Templates/Note Template.md",
