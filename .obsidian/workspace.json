@@ -85,35 +85,6 @@
         "dimension": 39.44444444444444,
         "children": [
           {
-            "id": "b404d7ffd25a792c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Daily/2023-10-04.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "06c444191a2d260e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Daily/2023-10-04.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "076a624753dac954",
             "type": "leaf",
             "state": {
@@ -121,42 +92,6 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "1140ff79f749f6b4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Daily/2023-10-04.md"
-              }
-            }
-          },
-          {
-            "id": "7e717de97faff763",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4189ab4de15b730e",
-            "type": "leaf",
-            "state": {
-              "type": "QUICKSHARE_SIDE_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "4dfba779894f19ec",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
               }
             }
           },
@@ -169,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       },
       {
         "id": "761ec68117118f5c",
@@ -192,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 719.5
   },
   "left-ribbon": {
     "hiddenItems": {
