@@ -1,13 +1,6 @@
----
-Created: 2023-10-02
-topic: 
-tags:
----
-# Web cache
+## Web Cache
 컴퓨터 과학에서 데이터나 값을 미리 복사해 놓는 임시 장소를 가르킵니다.
 
 웹 캐시는 클라이언트가 웹사이트에 접속할 때 정적 컨텐츠를 특정 위치에 저장하여, 서버에 해당 컨텐츠를 매번 요청하지 않고 저장된 위치에서 불러오는 방식으로 웹사이트의 응답 시간을 줄이고 서버 트래픽을 감소시키는 기술이다.
-
----
-# References
+### References
 1. https://velog.io/@jangwonyoon/%EC%BA%90%EC%8B%9C%EC%99%80-%EC%9B%B9-%EC%BA%90%EC%8B%9C
