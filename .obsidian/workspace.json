@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b1f11e6ef63d205",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +202,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2976c3d78974dc3c",
+  "active": "0b1f11e6ef63d205",
   "lastOpenFiles": [
     "Literature Notes/Router.md",
     "Literature Notes/10월 2일 프론트엔드 면접 스터디.md",
