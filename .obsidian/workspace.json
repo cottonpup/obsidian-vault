@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Daily/2023-10-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Daily/2023-10-04.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Daily/2023-10-04.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md"
+                "file": "Daily/2023-10-04.md"
               }
             }
           },
@@ -193,10 +193,12 @@
   },
   "active": "ec1195c7d2c349a2",
   "lastOpenFiles": [
+    "Projects/겁쟁이들을 위한 스터디.md",
+    "Daily/2023-10-04.md",
+    "Daily",
+    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/겁쟁이들을 위한 스터디.md",
     "Templates/Note Template.md",
     "Templates/Map of Content.md",
     "Templates/Restrospective.md",
@@ -218,7 +220,6 @@
     "Literature Notes/mixin.md",
     "Literature Notes/decorator.md",
     "Literature Notes/declare keyword.md",
-    "Literature Notes/cookie vs session.md",
     "_Drawer",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes",
@@ -233,7 +234,6 @@
     "_Drawer/Meetup/10월 2일 네트워크 발표.md-2",
     "_Drawer/DEV/Git 기초강의.md-4",
     "_Drawer/DEV/Git 기초강의.md-3",
-    "_Drawer/DEV/Git 기초강의.md-2",
     "Files/Screenshot 2023-09-27 at 0.51.11.png",
     "Files/Screenshot 2023-09-23 at 21.08.34.png",
     "Files/Screenshot 2023-09-22 at 12.36.36.png",
