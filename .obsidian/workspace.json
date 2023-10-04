@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb175d3e143932a4",
+        "id": "154a14112f290190",
         "type": "tabs",
         "children": [
           {
-            "id": "c473335e78068b85",
+            "id": "8f937cce209e32c9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -127,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 719.5
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,10 +143,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ec1195c7d2c349a2",
+  "active": "8f937cce209e32c9",
   "lastOpenFiles": [
-    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Daily/2023-10-04.md",
+    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Daily",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
