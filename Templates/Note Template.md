@@ -1,6 +1,5 @@
 ---
 Created: "{{date:YYYY-MM-DD}}"
-topic: 
 tags:
 ---
 # {{title}}
