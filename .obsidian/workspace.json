@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Drawer/HTTP? HTTPS? Internet?.md",
-                "mode": "source",
+                "file": "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TCP",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -143,9 +143,9 @@
   },
   "active": "27a66363df478304",
   "lastOpenFiles": [
+    "_Drawer/HTTP? HTTPS? Internet?.md",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Files/Pasted image 20231005203134.png",
-    "_Drawer/HTTP? HTTPS? Internet?.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Daily/2023-10-05.md",
     "Daily",
