@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/겁쟁이들을 위한 스터디.md",
+                "file": "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -141,9 +142,9 @@
   },
   "active": "cd55680e9db6eb11",
   "lastOpenFiles": [
+    "Projects/겁쟁이들을 위한 스터디.md",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Daily/2023-10-05.md",
-    "Projects/겁쟁이들을 위한 스터디.md",
     "Daily",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
