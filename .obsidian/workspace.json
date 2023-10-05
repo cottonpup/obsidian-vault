@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Drawer/HTTP? HTTPS? Internet?.md",
+                "file": "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TCP",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -124,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,6 +143,7 @@
   },
   "active": "27a66363df478304",
   "lastOpenFiles": [
+    "_Drawer/HTTP? HTTPS? Internet?.md",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Daily/2023-10-05.md",
@@ -168,7 +170,6 @@
     "Literature Notes/task queue vs microtask queue.md",
     "Literature Notes/mixin.md",
     "Literature Notes/decorator.md",
-    "Literature Notes/declare keyword.md",
     "_Drawer",
     "Files/Pasted image 20231002003008.png",
     "Literature Notes",
