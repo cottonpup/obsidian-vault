@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "_Drawer/HTTP? HTTPS? Internet?.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "TCP",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,9 +143,9 @@
   },
   "active": "27a66363df478304",
   "lastOpenFiles": [
+    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Files/Pasted image 20231005203134.png",
     "_Drawer/HTTP? HTTPS? Internet?.md",
-    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Daily/2023-10-05.md",
     "Daily",
@@ -187,7 +188,6 @@
     "Files/Screenshot 2023-09-23 at 21.08.34.png",
     "Files/Screenshot 2023-09-22 at 12.36.36.png",
     "Files/Screenshot 2023-09-22 at 21.34.43.png",
-    "Files/Screenshot 2023-09-20 at 16.44.59.png",
     "DEV/Untitled.canvas",
     "Untitled.canvas"
   ]
