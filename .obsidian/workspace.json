@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b64b430e545854fd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cd39be86d6a3f925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-10-05.md",
+                "file": "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,13 +141,13 @@
   },
   "active": "55a66eaa5575a82b",
   "lastOpenFiles": [
-    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Daily/2023-10-05.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-    "Daily/2023-10-09.md",
+    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/겁쟁이들을 위한 스터디.md",
+    "Daily/2023-10-09.md",
+    "Daily/2023-10-05.md",
     "_Drawer/프론트엔드 면접 스터디.md",
     "_Drawer/투인피니티 면접 대비.md-2",
     "_Drawer/주니어 개발자 이력서 가이드.md-2",
