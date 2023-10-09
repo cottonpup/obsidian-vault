@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1e3da6bdc5347c94",
+        "id": "7e052ec7b6d0ec0d",
         "type": "tabs",
         "children": [
           {
-            "id": "5db2edf7bced09d2",
+            "id": "c8a727317b81fbef",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Permanent Notes/생산적으로 사는 법.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/생산적으로 사는 법.md",
+                "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/생산적으로 사는 법.md",
+                "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/생산적으로 사는 법.md"
+                "file": "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md"
               }
             }
           }
@@ -176,12 +174,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5db2edf7bced09d2",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Fleeting Notes/90분 공부 3번하기.md",
+    "Literature Notes/파인만 공부법.md",
+    "Permanent Notes/생산적으로 사는 법.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
     "Files/Pasted image 20231010032645.png",
-    "Permanent Notes/생산적으로 사는 법.md",
-    "Fleeting Notes/파인만 공부법.md",
     "Projects/프론트엔드 면접 스터디.canvas",
     "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
