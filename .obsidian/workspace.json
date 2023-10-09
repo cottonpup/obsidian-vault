@@ -11,11 +11,9 @@
             "id": "5db2edf7bced09d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
-                "mode": "source",
-                "source": false
+                "file": "Permanent Notes/생산적으로 사는 법.md"
               }
             }
           }
@@ -124,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+                "file": "Permanent Notes/생산적으로 사는 법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+                "file": "Permanent Notes/생산적으로 사는 법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md"
+                "file": "Permanent Notes/생산적으로 사는 법.md"
               }
             }
           }
@@ -180,12 +178,12 @@
   },
   "active": "5db2edf7bced09d2",
   "lastOpenFiles": [
-    "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+    "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "Projects/프론트엔드 면접 스터디.canvas",
-    "Fleeting Notes/생산적으로 사는 법.md",
+    "Permanent Notes/생산적으로 사는 법.md",
     "Fleeting Notes/Untitled.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Daily/2023-10-09.md",
