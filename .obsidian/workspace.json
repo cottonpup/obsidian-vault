@@ -11,8 +11,12 @@
             "id": "925305aaca0ef7a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/겁쟁이들을 위한 스터디.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 200
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -186,25 +190,40 @@
   },
   "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
-    "_Hub.md",
-    "Untitled.md",
-    "_Drawer/프론트엔드 면접 스터디.md",
-    "_Drawer/주니어 개발자 이력서 가이드.md",
-    "_Drawer/신입 개발자 면접 가이드.md",
-    "_Drawer/원하는 기업.md",
-    "_Drawer/React Interview Script.md",
-    "_Drawer/Udemy React The Complete Guide Section 19.md",
-    "_Drawer/Quotes.md",
-    "_Drawer/Tweets From 곁.md",
-    "_Drawer/이유 없이 고통스러운 밤은 없어....md",
-    "_Drawer/~ meaning in command.md",
-    "Template/Basic Metadata.md",
-    "Template/Algorithm Metadata.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/새로.md",
-    "Zettelkasten/새로 만들기.md",
-    "Zettelkasten/시도.md",
-    "_Drawer/제텔카스텐 메모법.md",
+    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "_Drawer/HTTP? HTTPS? Internet?.md",
+    "Files/Pasted image 20231005203134.png",
+    "Projects/겁쟁이들을 위한 스터디.md",
+    "Daily/2023-10-05.md",
+    "Daily",
+    "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+    "Templates/Note Template.md",
+    "Templates/Map of Content.md",
+    "Templates/Restrospective.md",
+    "Projects/Web cache.md",
+    "Projects/deep copy vs shallow copy.md",
+    "Literature Notes/Cloud.md",
+    "Literature Notes/Controlled component vs Uncontrolled component.md",
+    "Literature Notes/deep copy vs shallow copy.md",
+    "Literature Notes/Hosting.md",
+    "Literature Notes/HTTP Method.md",
+    "Literature Notes/Packet.md",
+    "Literature Notes/Pure function.md",
+    "Literature Notes/RESTFUL development.md",
+    "Literature Notes/Router.md",
+    "Literature Notes/Web cache.md",
+    "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
+    "Literature Notes/useEffect vs useLayoutEffect.md",
+    "Literature Notes/task queue vs microtask queue.md",
+    "Literature Notes/mixin.md",
+    "_Drawer",
+    "Files/Pasted image 20231002003008.png",
+    "Literature Notes",
+    "Files/Screenshot 2023-10-01 at 19.39.43.png",
+    "Files/Screenshot 2023-10-01 at 19.39.08.png",
+    "Projects",
+    "Permanent Notes",
     "Files/Screenshot 2023-10-01 at 17.34.52.png",
     "Reference notes",
     "Fleetings",
@@ -226,12 +245,6 @@
     "Files/Screenshot 2023-09-23 at 21.08.34.png",
     "Files/Screenshot 2023-09-22 at 12.36.36.png",
     "Files/Screenshot 2023-09-22 at 21.34.43.png",
-    "_Drawer/Morning Page",
-    "Files/Screenshot 2023-09-20 at 16.44.59.png",
-    "Files/Screenshot 2023-09-20 at 16.44.41.png",
-    "Files/Screenshot 2023-09-20 at 16.27.40.png",
-    "Files/Screenshot 2023-09-20 at 16.27.11.png",
-    "_Drawer/DEV/Interview",
     "DEV/Untitled.canvas",
     "Untitled.canvas"
   ]
