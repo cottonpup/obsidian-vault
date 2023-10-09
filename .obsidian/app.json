@@ -1,9 +1,7 @@
 {
   "promptDelete": false,
   "mobilePullAction": "insert-template",
-  "newFileLocation": "current",
-  "newFileFolderPath": "Fleeting Notes",
-  "attachmentFolderPath": "Files",
-  "alwaysUpdateLinks": true,
-  "showInlineTitle": true
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "Files"
 }

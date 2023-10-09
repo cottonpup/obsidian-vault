@@ -1,3 +1,11 @@
+---
+Date: 2023-09-19
+Type: Development
+tags:
+  - TIL
+  - React
+  - Hooks
+---
 useEffect 함수란 리액트 컴포넌트가 랜더링 될 때마다 특정 작업을 실행할 수 있도록 하는 Hook 이다.
 
 # useEffect() 하는 것?

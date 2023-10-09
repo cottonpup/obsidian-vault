@@ -1,7 +1,16 @@
-
+---
+Date: 2023-07-07
+Tags: Algorithm, CodingTest, Platform/Hackerrank
+Platform: Hackerrank
+Difficulty: Easy
+Review: 0
+---
+%%
+[[Development]]
 - [ ] 1차 복습 
 - [ ] 2차 복습
-
+- [ ] 3차 복습
+%%
 > [!abstract] HackerRank 
 > **Warm-up Challenges** - Counting Valleys
 > ----

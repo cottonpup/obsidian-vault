@@ -1,3 +1,10 @@
+---
+Date: 2023-07-16
+Tags: Algorithm, CodingTest, Platform/Hackerrank
+Platform: Hackerrank
+Difficulty: Easy
+Review: 0
+---
 
 ```js
 function jumpingOnClouds(c) {

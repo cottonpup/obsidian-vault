@@ -2,6 +2,11 @@
 
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1677628480358608896/C7rsoHSx.jpg)
 
+## Metadata
+- Author: [[@gyeot__ on Twitter]]
+- Full Title: Tweets From 곁
+- Category: #tweets
+- URL: https://twitter.com/gyeot__
 
 ## Highlights
 - 안에는 작은 수납함으로 재차 정돈. 

@@ -3,6 +3,9 @@ Date: 2023-07-07
 Tags: Hackathon, Meetup
 ---
 
+%%
+[[Development]], [[meetup]]
+%%
 8월 3일 코드리뷰
 21일 8시
 3일 8시

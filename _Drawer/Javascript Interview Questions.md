@@ -1,4 +1,8 @@
-
+---
+Date: 2023-07-07
+Tags: Interview
+---
+%%[[Development]]%%
 https://codeburst.io/10-javascript-concepts-you-need-to-know-for-interviews-136df65ecce
 
 > [!tip]+ *What is a callback function in JS?*

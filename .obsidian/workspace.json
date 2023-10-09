@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f4ebe8a87f2b16d1",
+        "id": "6816b703cb636412",
         "type": "tabs",
         "children": [
           {
-            "id": "27a66363df478304",
+            "id": "925305aaca0ef7a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -88,6 +83,33 @@
         "id": "bc9b707daeb22ea2",
         "type": "tabs",
         "children": [
+          {
+            "id": "b404d7ffd25a792c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "06c444191a2d260e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
           {
             "id": "076a624753dac954",
             "type": "leaf",
@@ -100,31 +122,53 @@
             }
           },
           {
-            "id": "8f937cce209e32c9",
+            "id": "1140ff79f749f6b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-10-05.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "outline",
+              "state": {}
             }
           },
           {
-            "id": "9dac6a59f8002037",
+            "id": "e8430724c7ef92f8",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "todo",
               "state": {}
+            }
+          },
+          {
+            "id": "7e717de97faff763",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4189ab4de15b730e",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dfba779894f19ec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
+    "width": 200.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -137,58 +181,57 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27a66363df478304",
+  "active": "925305aaca0ef7a2",
   "lastOpenFiles": [
-    "Files/Pasted image 20231005203134.png",
-    "_Drawer/HTTP? HTTPS? Internet?.md",
-    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/겁쟁이들을 위한 스터디.md",
-    "Daily/2023-10-05.md",
-    "Daily",
-    "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-    "Templates/Note Template.md",
-    "Templates/Map of Content.md",
-    "Templates/Restrospective.md",
-    "Projects/Web cache.md",
-    "Projects/deep copy vs shallow copy.md",
-    "Literature Notes/Cloud.md",
-    "Literature Notes/Controlled component vs Uncontrolled component.md",
-    "Literature Notes/deep copy vs shallow copy.md",
-    "Literature Notes/Hosting.md",
-    "Literature Notes/HTTP Method.md",
-    "Literature Notes/Packet.md",
-    "Literature Notes/Pure function.md",
-    "Literature Notes/RESTFUL development.md",
-    "Literature Notes/Router.md",
-    "Literature Notes/Web cache.md",
-    "Literature Notes/What happens when you type google.com in your browser and press Enter.md",
-    "Literature Notes/useEffect vs useLayoutEffect.md",
-    "Literature Notes/task queue vs microtask queue.md",
-    "Literature Notes/mixin.md",
-    "_Drawer",
-    "Files/Pasted image 20231002003008.png",
-    "Literature Notes",
-    "Files/Screenshot 2023-10-01 at 19.39.43.png",
-    "Files/Screenshot 2023-10-01 at 19.39.08.png",
-    "Projects",
-    "Permanent Notes",
+    "_Hub.md",
+    "Untitled.md",
+    "_Drawer/프론트엔드 면접 스터디.md",
+    "_Drawer/주니어 개발자 이력서 가이드.md",
+    "_Drawer/신입 개발자 면접 가이드.md",
+    "_Drawer/원하는 기업.md",
+    "_Drawer/React Interview Script.md",
+    "_Drawer/Udemy React The Complete Guide Section 19.md",
+    "_Drawer/Quotes.md",
+    "_Drawer/Tweets From 곁.md",
+    "_Drawer/이유 없이 고통스러운 밤은 없어....md",
+    "_Drawer/~ meaning in command.md",
+    "Template/Basic Metadata.md",
+    "Template/Algorithm Metadata.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/새로.md",
+    "Zettelkasten/새로 만들기.md",
+    "Zettelkasten/시도.md",
+    "_Drawer/제텔카스텐 메모법.md",
     "Files/Screenshot 2023-10-01 at 17.34.52.png",
-    "Literature Notes",
-    "Fleeting Notes",
+    "Reference notes",
+    "Fleetings",
+    "_Drawer/도둑맞은 집중력.md",
+    "_Drawer/누구도 나를 파괴할 수 없다.md",
+    "Readwise/Books/How to Avoid a Climate Disaster.md",
+    "Readwise/Books/The Guest List.md",
+    "_Drawer/English Shadowing 유진.md",
+    "Readwise/Books/Rising Strong.md",
     "Files/Screenshot 2023-10-01 at 17.18.51.png",
+    "_Drawer",
+    "_Drawer/10월 2일 네트워크 발표.md",
     "_Drawer/Meetup/10월 2일 네트워크 발표.md-2",
     "_Drawer/DEV/Git 기초강의.md-4",
     "_Drawer/DEV/Git 기초강의.md-3",
+    "_Drawer/DEV/Git 기초강의.md-2",
+    "_Drawer/DEV/Frontend Web Developer Roadmap.md-2",
     "Files/Screenshot 2023-09-27 at 0.51.11.png",
     "Files/Screenshot 2023-09-23 at 21.08.34.png",
     "Files/Screenshot 2023-09-22 at 12.36.36.png",
     "Files/Screenshot 2023-09-22 at 21.34.43.png",
+    "_Drawer/Morning Page",
     "Files/Screenshot 2023-09-20 at 16.44.59.png",
+    "Files/Screenshot 2023-09-20 at 16.44.41.png",
+    "Files/Screenshot 2023-09-20 at 16.27.40.png",
+    "Files/Screenshot 2023-09-20 at 16.27.11.png",
+    "_Drawer/DEV/Interview",
     "DEV/Untitled.canvas",
     "Untitled.canvas"
   ]

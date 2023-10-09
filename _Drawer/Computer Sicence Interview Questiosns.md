@@ -1,4 +1,9 @@
+---
+Date: 2023-07-07
+Tags: Interview, Interview/CS, ComputerSicence
+---
 
+%%[[Development]]%%
 -   What is a database index?
 	- 
 -   What is a primary key in a database?

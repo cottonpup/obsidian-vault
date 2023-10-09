@@ -1,13 +1,18 @@
 [
   "obsidian-admonition",
+  "obsidian-checklist-plugin",
   "cm-editor-syntax-highlight-obsidian",
+  "nldates-obsidian",
+  "obsidian-contextual-typography",
+  "obsidian-quickshare",
   "table-editor-obsidian",
   "dataview",
   "obsidian-excalidraw-plugin",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
   "quickadd",
+  "readwise-official",
   "obsidian-to-anki-plugin",
   "periodic-notes",
-  "obsidian-git",
-  "creases",
-  "calendar"
+  "obsidian-git"
 ]

@@ -1,4 +1,8 @@
-
+---
+Date: 2023-07-13, 2023-07-14
+Tags: Interview, Interview/React
+---
+%%[[Development]]%%
 - *What is the virtual DOM in React and why is it important?*
 	- The virtual DOM is a lightweight representation of the real DOM. It compares changes with the actual DOM and updates accordingly. In most cases, it is much faster and more efficient.
 		- *You said it's faster in the most case. Then can you tell me when virtual DOM becomes slow?*

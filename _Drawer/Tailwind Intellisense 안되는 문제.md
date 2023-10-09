@@ -1,3 +1,8 @@
+---
+Date: 2023-08-18
+Type: TIL
+Tags: TIL
+---
 
 경고문에 원활한 익스텐션 활용을 위해 vscode가 업데이트가 필요하다고 떴다. 
 그리고 VScode가 Downloads 폴더에 들어가 있는 것도 문제였다. 

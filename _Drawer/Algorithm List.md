@@ -1,4 +1,8 @@
-
+---
+Date: 2023-07-18
+Tags: Algorithm, Hackerrank, Leetcode
+---
+%%[[Development]]%%
 
 # Hackerrank
 ```dataview 

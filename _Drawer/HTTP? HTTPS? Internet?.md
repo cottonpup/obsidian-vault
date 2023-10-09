@@ -1,3 +1,14 @@
+---
+Date: 2023-09-27
+Type: Development
+tags:
+  - HTTP
+  - HTTPS
+  - Internet
+  - DNS
+  - Router
+  - TCP
+---
 # Internet
 A network is a group of computers or other devices which are connected to eachother.
 The internet is a network of networks.

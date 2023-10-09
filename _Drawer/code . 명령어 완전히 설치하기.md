@@ -1,3 +1,8 @@
+---
+Date: 2023-08-19
+Type: TIL
+Tags: TIL
+---
 
 https://stackoverflow.com/questions/29955500/code-is-not-working-in-on-the-command-line-for-visual-studio-code-on-os-x-ma
 

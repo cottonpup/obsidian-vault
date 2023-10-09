@@ -1,3 +1,9 @@
+---
+Date: 2023-07-07
+Tags: React, Udemy/React, Udemy, Udemy/React/SubPost
+Alias: Section 19
+---
+%%[[Development]]%%
 
 > [!note] What is *Redux*?
 >A state management system for cross-component or app-wide state.

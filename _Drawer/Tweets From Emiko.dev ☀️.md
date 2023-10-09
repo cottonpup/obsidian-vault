@@ -2,6 +2,11 @@
 
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1589303063495421952/otGz3uR7.jpg)
 
+## Metadata
+- Author: [[@emiko_dev on Twitter]]
+- Full Title: Tweets From Emiko.dev ☀️
+- Category: #tweets
+- URL: https://twitter.com/emiko_dev
 
 ## Highlights
 - You're a frontend engineer.
