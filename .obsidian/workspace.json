@@ -11,29 +11,15 @@
             "id": "5db2edf7bced09d2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/프론트엔드 면접 스터디.canvas",
-                "viewState": {
-                  "x": -172.25185882352935,
-                  "y": -1013.5876705882348,
-                  "zoom": -0.6107556369740744
-                }
-              }
-            }
-          },
-          {
-            "id": "d5b89c4a6f45732e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fleeting Notes/생산적으로 사는 법.md"
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,6 +117,45 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "1dd829cdb2ac98b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9121824961adb132",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90da7495cf4fd365",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md"
+              }
+            }
           }
         ]
       }
@@ -152,7 +177,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5b89c4a6f45732e",
+  "active": "5db2edf7bced09d2",
   "lastOpenFiles": [
     "Projects/프론트엔드 면접 스터디.canvas",
     "Fleeting Notes/생산적으로 사는 법.md",
