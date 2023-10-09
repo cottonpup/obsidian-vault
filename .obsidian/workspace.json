@@ -4,20 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "1e3da6bdc5347c94",
-        "type": "tabs",
+        "id": "fc784a6ce6f4c9a3",
+        "type": "split",
         "children": [
           {
-            "id": "5db2edf7bced09d2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Permanent Notes/생산적으로 사는 법.md"
+            "id": "1e3da6bdc5347c94",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5db2edf7bced09d2",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Permanent Notes/생산적으로 사는 법.md"
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "be3ec52c67f839e4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "621f69ae3fd0c7a7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -122,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md"
+              }
             }
           }
         ]
@@ -172,15 +201,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a3a606a758161758",
+  "active": "621f69ae3fd0c7a7",
   "lastOpenFiles": [
     "Permanent Notes/생산적으로 사는 법.md",
     "Fleeting Notes/파인만 공부법.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+    "Projects/프론트엔드 면접 스터디.canvas",
     "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-    "Projects/프론트엔드 면접 스터디.canvas",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Daily/2023-10-09.md",
     "Projects/겁쟁이들을 위한 스터디.md",
@@ -210,7 +239,6 @@
     "_Drawer/Free Happiness.md",
     "_Drawer/Arrays & Hashing.md",
     "_Drawer/10월 2일 네트워크 발표.md",
-    "Template/Tweet.md",
     "Files/Pasted image 20231005203134.png",
     "Files/Pasted image 20231002003008.png",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
