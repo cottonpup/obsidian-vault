@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6f318d04da42c9e0",
+        "id": "1e3da6bdc5347c94",
         "type": "tabs",
         "children": [
           {
-            "id": "71bc80f7a6cc5eed",
+            "id": "5db2edf7bced09d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -134,14 +138,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "71bc80f7a6cc5eed",
+  "active": "5db2edf7bced09d2",
   "lastOpenFiles": [
+    "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/프론트엔드 면접 스터디.canvas",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Daily/2023-10-09.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Daily/2023-10-05.md",
     "_Drawer/프론트엔드 면접 스터디.md",
     "_Drawer/투인피니티 면접 대비.md-2",
@@ -171,7 +176,6 @@
     "Template/Tweet.md",
     "Template/Timeline.md",
     "Template/TODO.md",
-    "Template/Restrospective.md",
     "Files/Pasted image 20231005203134.png",
     "Files/Pasted image 20231002003008.png",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
@@ -182,7 +186,6 @@
     "Files/Screenshot 2023-09-23 at 21.08.34.png",
     "Files/Screenshot 2023-09-22 at 12.36.36.png",
     "Files/Screenshot 2023-09-22 at 21.34.43.png",
-    "DEV/Untitled.canvas",
-    "Untitled.canvas"
+    "DEV/Untitled.canvas"
   ]
 }
