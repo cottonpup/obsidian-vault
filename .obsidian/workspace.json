@@ -11,15 +11,29 @@
             "id": "5db2edf7bced09d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/프론트엔드 면접 스터디.canvas",
+                "viewState": {
+                  "x": -172.25185882352935,
+                  "y": -1013.5876705882348,
+                  "zoom": -0.6107556369740744
+                }
+              }
+            }
+          },
+          {
+            "id": "d5b89c4a6f45732e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fleeting Notes/Drawing 2023-10-10 03.10.30.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,15 +152,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5db2edf7bced09d2",
+  "active": "d5b89c4a6f45732e",
   "lastOpenFiles": [
+    "Projects/프론트엔드 면접 스터디.canvas",
+    "Fleeting Notes/Drawing 2023-10-10 03.10.30.excalidraw.md",
+    "Fleeting Notes/Untitled.md",
+    "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/프론트엔드 면접 스터디.canvas",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Daily/2023-10-09.md",
     "Projects/겁쟁이들을 위한 스터디.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "Daily/2023-10-05.md",
     "_Drawer/프론트엔드 면접 스터디.md",
     "_Drawer/투인피니티 면접 대비.md-2",
@@ -174,8 +190,6 @@
     "_Drawer/Arrays & Hashing.md",
     "_Drawer/10월 2일 네트워크 발표.md",
     "Template/Tweet.md",
-    "Template/Timeline.md",
-    "Template/TODO.md",
     "Files/Pasted image 20231005203134.png",
     "Files/Pasted image 20231002003008.png",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
