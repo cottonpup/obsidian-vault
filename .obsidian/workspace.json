@@ -11,8 +11,30 @@
             "id": "55a66eaa5575a82b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b64b430e545854fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd39be86d6a3f925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-10-05.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -136,9 +158,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "55a66eaa5575a82b",
   "lastOpenFiles": [
+    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Daily/2023-10-05.md",
+    "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "Daily/2023-10-09.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "_Drawer/프론트엔드 면접 스터디.md",
@@ -170,10 +196,6 @@
     "Template/Timeline.md",
     "Template/TODO.md",
     "Template/Restrospective.md",
-    "Template/Callout.md",
-    "Template/Basic Metadata.md",
-    "Template/Algorithm Metadata.md",
-    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Files/Pasted image 20231005203134.png",
     "Files/Pasted image 20231002003008.png",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
