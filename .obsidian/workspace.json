@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "29fbcb5e29bcc827",
-        "type": "tabs",
+        "id": "b80e671a287b5f42",
+        "type": "split",
         "children": [
           {
-            "id": "55a66eaa5575a82b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
-                "mode": "source",
-                "source": false
+            "id": "29fbcb5e29bcc827",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55a66eaa5575a82b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "3fe874d05ec0d19b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d186859f0958601b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -139,14 +164,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "79c7e5e24248bc3b",
+  "active": "55a66eaa5575a82b",
   "lastOpenFiles": [
+    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Daily/2023-10-09.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Daily/2023-10-09.md",
     "Daily/2023-10-05.md",
     "_Drawer/프론트엔드 면접 스터디.md",
     "_Drawer/투인피니티 면접 대비.md-2",
