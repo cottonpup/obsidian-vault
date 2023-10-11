@@ -13,13 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Untitled.md",
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "c0a8a7307c79f2bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a166a8e8bea7a5f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0749899e3e722158",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -124,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -178,18 +202,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c8a727317b81fbef",
+  "active": "0749899e3e722158",
   "lastOpenFiles": [
     "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
-    "Projects/Untitled.md",
-    "Fleeting Notes/Untitled.md",
+    "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Fleeting Notes/Untitled.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Fleeting Notes/몽몽 공부법.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "Files/pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png",
     "Files/pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview.png",
-    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Fleeting Notes/90분 공부 3번하기.md",
