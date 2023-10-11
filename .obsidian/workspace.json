@@ -36,17 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0749899e3e722158",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md"
+              }
             }
           }
         ]
@@ -202,9 +197,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0749899e3e722158",
+  "active": "a166a8e8bea7a5f1",
   "lastOpenFiles": [
     "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+    "Permanent Notes/생산적으로 사는 법.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
@@ -218,7 +214,6 @@
     "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
     "Fleeting Notes/90분 공부 3번하기.md",
     "Literature Notes/파인만 공부법.md",
-    "Permanent Notes/생산적으로 사는 법.md",
     "Files/Pasted image 20231010032645.png",
     "Projects/프론트엔드 면접 스터디.canvas",
     "Daily/2023-10-09.md",
