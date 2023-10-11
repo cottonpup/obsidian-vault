@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+                "file": "Templates/몽몽질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+                "file": "Templates/몽몽질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+                "file": "Templates/몽몽질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md"
+                "file": "Templates/몽몽질문.md"
               }
             }
           }
@@ -198,10 +198,11 @@
   },
   "active": "a166a8e8bea7a5f1",
   "lastOpenFiles": [
+    "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+    "Templates/몽몽질문.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Fleeting Notes/몽몽 공부법.md",
-    "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
     "Permanent Notes/생산적으로 사는 법.md",
     "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
@@ -237,7 +238,6 @@
     "_Drawer/Middleware?.md",
     "_Drawer/JWT(JSON Web Token)?.md",
     "_Drawer/Interview Listup.md",
-    "_Drawer/How to Solve Algorithm Problems from Scratch.md",
     "Files/Pasted image 20231005203134.png",
     "Files/Pasted image 20231002003008.png",
     "Files/Screenshot 2023-10-01 at 19.39.43.png",
