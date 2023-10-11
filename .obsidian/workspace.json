@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/몽몽질문.md",
-                "mode": "source",
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/몽몽질문.md",
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/몽몽질문.md",
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/몽몽질문.md"
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md"
               }
             }
           }
@@ -198,8 +198,8 @@
   },
   "active": "a166a8e8bea7a5f1",
   "lastOpenFiles": [
-    "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
     "Templates/몽몽질문.md",
+    "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Fleeting Notes/몽몽 공부법.md",
