@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md"
+              }
             }
           }
         ]
@@ -192,12 +196,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c1700768c6bb0f47",
+  "active": "a166a8e8bea7a5f1",
   "lastOpenFiles": [
-    "Permanent Notes/생산적으로 사는 법.md",
-    "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
-    "Templates/몽몽질문.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Templates/몽몽질문.md",
+    "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+    "Permanent Notes/생산적으로 사는 법.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Fleeting Notes/몽몽 공부법.md",
     "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
