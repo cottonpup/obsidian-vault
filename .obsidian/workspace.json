@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97fd0b69993177cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md"
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md"
               }
             }
           }
@@ -178,11 +191,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fa877c391bec50f8",
+  "active": "97fd0b69993177cb",
   "lastOpenFiles": [
+    "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Permanent Notes/생산적으로 사는 법.md",
