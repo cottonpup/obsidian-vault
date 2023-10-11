@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7e052ec7b6d0ec0d",
+        "id": "0b8d32136f4bba30",
         "type": "tabs",
         "children": [
           {
-            "id": "c8a727317b81fbef",
+            "id": "44ddfc9ab926a755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Notes/몽몽 공부법.md",
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/몽몽 공부법.md",
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Notes/몽몽 공부법.md",
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/몽몽 공부법.md"
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md"
               }
             }
           }
@@ -178,14 +178,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c8a727317b81fbef",
+  "active": "44ddfc9ab926a755",
   "lastOpenFiles": [
+    "Fleeting Notes/몽몽 공부법.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
     "Templates/몽몽질문.md",
     "Permanent Notes/생산적으로 사는 법.md",
     "Projects/겁쟁이들을 위한 스터디.md",
-    "Fleeting Notes/몽몽 공부법.md",
     "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Fleeting Notes/Untitled.md",
