@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c0a8a7307c79f2bf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a166a8e8bea7a5f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md"
+                "file": "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md"
               }
             }
           }
@@ -196,11 +178,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a166a8e8bea7a5f1",
+  "active": "c8a727317b81fbef",
   "lastOpenFiles": [
+    "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Templates/몽몽질문.md",
-    "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
     "Permanent Notes/생산적으로 사는 법.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Fleeting Notes/몽몽 공부법.md",
