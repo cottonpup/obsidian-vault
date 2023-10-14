@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52dd82f5f72c1f84",
+        "id": "e5cf08ab9d7cd3ec",
         "type": "tabs",
         "children": [
           {
-            "id": "fa877c391bec50f8",
+            "id": "a98ed8163af9a6df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,17 +178,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fa877c391bec50f8",
+  "active": "a98ed8163af9a6df",
   "lastOpenFiles": [
-    "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 발표.md",
     "Projects/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Literature Notes/파인만 공부법.md",
+    "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 9일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/겁쟁이들을 위한 스터디.md",
     "Permanent Notes/생산적으로 사는 법.md",
     "Fleeting Notes/몽몽 공부법.md",
-    "Literature Notes/파인만 공부법.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "Templates/몽몽질문.md",
