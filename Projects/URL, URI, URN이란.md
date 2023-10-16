@@ -5,7 +5,7 @@ tags:
 ---
 # URL, URI, URN이란
 ![[Screenshot 2023-10-16 at 17.21.06.png]]
-
+## URL
 
 ---
 # References
