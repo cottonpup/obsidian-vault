@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9e2be5321f5b56d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/FLUX 디자인 패턴과 어디서 사용되는지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "62ada6737a067412",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
