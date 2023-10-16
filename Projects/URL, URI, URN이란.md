@@ -6,8 +6,8 @@ tags:
 # URL, URI, URN이란
 ![[Screenshot 2023-10-16 at 17.21.06.png]]
 ## URI (Uniform Resource Identifier)
-웹 리소스를 고유하게 식별하는 문자열입니다. 이는 리소스의 이름이나 위치를 나타낼 수 있습니다.
-- URI 는 URL과 URN을 포함하는 개념이다. 때문에, URL과 URN을 URI라고 지칭할 수 있다.
+리소스에 접근하기 위하여 고유하게 식별하는 문자열이다.
+URI는 두가지 URL, URN 을 주요형태로 가진다. 
 ## URL (Uniform Resource Locator)
 리소스의 위치를 나타내는 URI의 특별한 형태입니다. 즉, 어디에서 해당 리소스를 찾을 수 있는지를 지정합니다.
 ## URN (Uniform Resource Name)
