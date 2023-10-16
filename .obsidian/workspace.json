@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c82633c8f4cc0b64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/URL, URI, URN이란.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/URL, URI, URN이란.md",
+                "file": "Projects/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/URL, URI, URN이란.md",
+                "file": "Projects/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/URL, URI, URN이란.md"
+                "file": "Projects/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md"
               }
             }
           },
@@ -248,14 +236,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c82633c8f4cc0b64",
+  "active": "3fb910c42298b14b",
   "lastOpenFiles": [
     "Projects/FLUX 디자인 패턴과 어디서 사용되는지.md",
+    "Projects/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
+    "Projects/URL, URI, URN이란.md",
     "Projects/useReducer vs useState.md",
     "Projects/TypeScript에서의 Ambient란 무엇이며 언제 사용하나요.md",
     "Projects/JavaScript 라이브러리에서 TypeScript 선언 파일을 생성할 수 있나요.md",
-    "Projects/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
-    "Projects/URL, URI, URN이란.md",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
     "Projects/프로미스가 무엇인가.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
