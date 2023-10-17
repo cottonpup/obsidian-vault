@@ -11,8 +11,12 @@
             "id": "f68460c1662b8581",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/백엔드 개발자를 위한 지식 대방출.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -120,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fleeting Notes/백엔드 개발자를 위한 지식 대방출.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fleeting Notes/백엔드 개발자를 위한 지식 대방출.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fleeting Notes/백엔드 개발자를 위한 지식 대방출.md"
+              }
             }
           },
           {
