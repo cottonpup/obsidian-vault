@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -188,8 +187,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d6bc9202dde7254e",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "WIKI",
     "Fleeting Notes/백엔드 개발자를 위한 지식 대방출.md",
     "Projects/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
@@ -201,7 +201,7 @@
     "Projects/useReducer vs useState.md",
     "Projects/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
-    "Permanent Notes/Drawing 2023-10-16 13.14.39.excalidraw.md",
+    "WIKI/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "_Drawer/Prepare for an Interview.md",
     "Projects/Controlled component vs Uncontrolled component.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
@@ -217,18 +217,16 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Permanent Notes/생산적으로 사는 법.md",
-    "Permanent Notes/프론트엔드 면접대비.md",
+    "WIKI/생산적으로 사는 법.md",
+    "WIKI/프론트엔드 면접대비.md",
     "Permanent Notes/Untitled.canvas",
     "Projects/타입스크립트를 도입했을 때의 장점과 단점.md",
     "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/React.Children과 children prop의 차이.md",
     "Projects/원시형과 객체형의 차이.md",
     "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/get과 post 메소드의 차이점.md",
     "URL / URI ",
     "URL ",
-    "Untitled",
     "Files/pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png",
     "Files/pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview.png",
     "Files/Pasted image 20231010032645.png",
