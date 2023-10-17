@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Restrospective.md",
+                "file": "_Drawer/Algorithm List.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Restrospective.md",
+                "file": "_Drawer/Algorithm List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Restrospective.md",
+                "file": "_Drawer/Algorithm List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Restrospective.md"
+                "file": "_Drawer/Algorithm List.md"
               }
             }
           },
@@ -189,6 +189,17 @@
   },
   "active": "dc98099fe97ef20d",
   "lastOpenFiles": [
+    "_Drawer/Algorithm Roadmap.md",
+    "_Drawer/2023-07.md",
+    "_Drawer/2023 Restrospective.md",
+    "_Drawer/2023 Seoul Women Hackathon.md",
+    "_Drawer/깃 커밋 영어 레퍼런스.md",
+    "_Drawer/2023 Mistakes Listup.md",
+    "_Drawer/누구도 나를 파괴할 수 없다.md",
+    "_Drawer/겁쟁이들을 위한 스터디.md",
+    "_Drawer/바이슈코 면접 대비.md",
+    "_Drawer/면접 질문 아카이브.md",
+    "Templates/Restrospective.md",
     "Templates/테이블.md",
     "WIKI/Untitled.md",
     "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
@@ -207,26 +218,15 @@
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
     "Permanent Notes/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "_Drawer/Prepare for an Interview.md",
-    "Permanent Notes/Controlled component vs Uncontrolled component.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Permanent Notes/생산적으로 사는 법.md",
-    "Permanent Notes/프론트엔드 면접대비.md",
     "Permanent Notes/Untitled.canvas",
-    "Permanent Notes/타입스크립트를 도입했을 때의 장점과 단점.md",
-    "Projects/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Permanent Notes/React.Children과 children prop의 차이.md",
     "URL / URI ",
     "URL ",
     "Files/pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png",
