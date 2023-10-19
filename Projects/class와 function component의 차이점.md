@@ -33,7 +33,7 @@ Class와 Function 컴포넌트 모두 JSX를 반환하고 props를 받을 수 �
 Hooks는 컴포넌트 간에 상태 로직을 쉽게 재사용할 수 있게 해주며, 높은 유연성을 제공합니다. 또한, 클래스 컴포넌트에서 발생할 수 있는 `this` 키워드와 관련된 문제를 피할 수 있어 코드가 더욱 간결하고 이해하기 쉬워집니다.
 `this`의 값은 실행 컨텍스트에 따라 달라지고, 이로 인해 예기치 않은 버그가 발생할 수 있습니다.
 ## `useEffect`가 전통적인 라이프사이클 메서드에 비교해 어떤 이점이 있는지 설명해주세요.
-cleanup 언제?
+cleanup 언제? unmount 
 
 `useEffect`는 전통적인 라이프사이클 메서드보다 더 유연하고 재사용하기 쉽습니다. 예를 들어, `useEffect` 하나만 사용하여 `componentDidMount`, `componentDidUpdate`, `componentWillUnmount` 등의 여러 라이프사이클 메서드를 대체할 수 있습니다. 이로 인해 코드가 더 간결하고 가독성이 높아집니다. 또한, `useEffect`를 커스텀 훅으로 쉽게 분리할 수 있어 코드 재사용이 더 쉬워집니다.
 
