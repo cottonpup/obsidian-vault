@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/origin을 구분하는 기준은?.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bbb47268a9ae3cf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69706a869666dfb8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md"
               }
             }
           }
@@ -124,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md"
+                "file": "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md"
               }
             }
           },
@@ -187,11 +203,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0d9db89ccf21c8cf",
+  "active": "69706a869666dfb8",
   "lastOpenFiles": [
-    "Projects/class와 function component의 차이점.md",
+    "Projects/origin을 구분하는 기준은?.md",
     "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/CORS란?.md",
+    "Projects/class와 function component의 차이점.md",
     "Projects/번들러란?.md",
     "Projects/html data.md",
     "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md",
@@ -216,7 +233,6 @@
     "Permanent Notes",
     "WIKI",
     "Projects/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",

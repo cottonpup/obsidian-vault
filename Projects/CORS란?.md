@@ -4,8 +4,7 @@ tags:
   - CORS
 ---
 # CORS란?
-Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources.
-
+CORS는 'Cross-Origin Resource Sharing'의 약자로, 다른 도메인에서의 리소스를 안전하게 접근할 수 있게 해주는 웹 보안 메커니즘입니다.
 
 ---
 # References
