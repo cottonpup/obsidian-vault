@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS)).md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS)).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS)).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md"
+                "file": "Projects/SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS)).md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "0d9db89ccf21c8cf",
   "lastOpenFiles": [
-    "Projects/SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS)).md",
     "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS)).md",
     "Projects/SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS).md",
     "Projects/origin을 구분하는 기준은?.md",
     "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md",
