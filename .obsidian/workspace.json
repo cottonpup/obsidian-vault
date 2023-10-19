@@ -35,7 +35,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Projects/CORS란?.md",
+                    "file": "Projects/번들러란?.md",
                     "mode": "source",
                     "source": false
                   }
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/CORS란?.md",
+                "file": "Projects/번들러란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/CORS란?.md",
+                "file": "Projects/번들러란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/CORS란?.md"
+                "file": "Projects/번들러란?.md"
               }
             }
           },
@@ -215,8 +214,8 @@
   },
   "active": "3b39a827a4e801aa",
   "lastOpenFiles": [
-    "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/CORS란?.md",
+    "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS)).md",
     "Projects/origin을 구분하는 기준은?.md",
     "Projects/class와 function component의 차이점.md",
