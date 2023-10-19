@@ -4,6 +4,10 @@ tags:
 ---
 # SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS))
 
+SOP(Same-Origin Policy)가 없을 경우, 여러 보안 문제가 발생할 수 있습니다. 예를 들어 CSRF, XSS 가 있는데요. CSRF 는 
+
+
+
 SOP(Same-Origin Policy)가 없을 경우 다양한 보안 문제가 발생할 수 있습니다. 특히 CSRF(Cross-Site Request Forgery)와 XSS(Cross-Site Scripting) 같은 공격 유형이 주요 위협이 됩니다.
 
 1. **CSRF (Cross-Site Request Forgery)**: CSRF 공격은 사용자가 로그인한 상태에서 악의적인 웹사이트를 방문하면, 그 사이트가 사용자의 이름으로 인증이 필요한 작업을 요청할 수 있습니다. 예를 들어, 은행 웹사이트에서 로그인한 상태에서 CSRF 공격을 당하면, 공격자가 당신의 계좌에서 돈을 빼낼 수도 있습니다.
