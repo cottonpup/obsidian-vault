@@ -10,7 +10,7 @@
           {
             "id": "8cf21da31dd3c052",
             "type": "tabs",
-            "dimension": 21.01851851851852,
+            "dimension": 47.87037037037037,
             "children": [
               {
                 "id": "3b39a827a4e801aa",
@@ -54,7 +54,7 @@
           {
             "id": "454d7b3423f8a475",
             "type": "tabs",
-            "dimension": 78.98148148148148,
+            "dimension": 52.129629629629626,
             "children": [
               {
                 "id": "997cbac7698d4dca",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/class와 function component의 차이점.md",
+                "file": "Projects/CORS란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/class와 function component의 차이점.md",
+                "file": "Projects/CORS란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/class와 function component의 차이점.md"
+                "file": "Projects/CORS란?.md"
               }
             }
           },
@@ -240,10 +240,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "997cbac7698d4dca",
+  "active": "f0e799dcb70d59ea",
   "lastOpenFiles": [
-    "Projects/CORS란?.md",
     "Projects/class와 function component의 차이점.md",
+    "Projects/CORS란?.md",
     "Projects/html data.md",
     "Projects/번들러란?.md",
     "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
