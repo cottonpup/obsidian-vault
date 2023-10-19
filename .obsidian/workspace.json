@@ -13,25 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/origin을 구분하는 기준은?.md",
+                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bbb47268a9ae3cf1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "69706a869666dfb8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md"
               }
             }
           }
@@ -140,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md",
+                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md",
+                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md"
+                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md"
               }
             }
           },
@@ -203,15 +187,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "69706a869666dfb8",
+  "active": "0d9db89ccf21c8cf",
   "lastOpenFiles": [
-    "Projects/origin을 구분하는 기준은?.md",
+    "Projects/SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS.md",
     "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/origin을 구분하는 기준은?.md",
+    "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md",
     "Projects/CORS란?.md",
     "Projects/class와 function component의 차이점.md",
     "Projects/번들러란?.md",
     "Projects/html data.md",
-    "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md",
     "Fleeting Notes/백엔드 개발자를 위한 지식 대방출.md",
     "_Drawer/Jumping on the clouds.md",
     "_Drawer/Algorithm List.md",
@@ -232,7 +217,6 @@
     "Permanent Notes/Ajax.md",
     "Permanent Notes",
     "WIKI",
-    "Projects/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
