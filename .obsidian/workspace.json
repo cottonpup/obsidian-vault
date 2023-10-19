@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8cf21da31dd3c052",
+        "id": "84cf0bfc7049c7d4",
         "type": "tabs",
         "children": [
           {
-            "id": "3b39a827a4e801aa",
+            "id": "0e11663a0e31f47a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/번들러란?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4015b7e7e5531abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/html data.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0e799dcb70d59ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/CORS란?.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44f42615f99d218d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/class와 function component의 차이점.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -161,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/번들러란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/번들러란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/번들러란?.md"
-              }
+              "state": {}
             }
           },
           {
@@ -224,12 +180,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3b39a827a4e801aa",
+  "active": "0e11663a0e31f47a",
   "lastOpenFiles": [
+    "Projects/class와 function component의 차이점.md",
     "Projects/CORS란?.md",
     "Projects/html data.md",
     "Projects/번들러란?.md",
-    "Projects/class와 function component의 차이점.md",
     "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS)).md",
     "Projects/origin을 구분하는 기준은?.md",
