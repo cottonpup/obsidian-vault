@@ -2,7 +2,7 @@
 Created: 2023-10-19
 tags:
 ---
-# 번들러란?
+# class와 function component의 차이점
 
 
 ---
