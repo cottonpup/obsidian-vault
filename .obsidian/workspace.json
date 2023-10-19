@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/번들러란?.md",
+                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/번들러란?.md",
+                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/번들러란?.md",
+                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/번들러란?.md"
+                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md"
               }
             }
           },
@@ -187,11 +187,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "0d9db89ccf21c8cf",
   "lastOpenFiles": [
+    "Projects/번들러란?.md",
     "Projects/html data.md",
     "Projects/class와 function component의 차이점.md",
-    "Projects/번들러란?.md",
     "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md",
     "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/CORS란?.md",
