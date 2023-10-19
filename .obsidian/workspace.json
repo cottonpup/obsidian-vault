@@ -49,7 +49,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "454d7b3423f8a475",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/class와 function component의 차이점.md",
+                "file": "Projects/html data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/class와 function component의 차이점.md",
+                "file": "Projects/html data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/class와 function component의 차이점.md"
+                "file": "Projects/html data.md"
               }
             }
           },
@@ -240,10 +240,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "997cbac7698d4dca",
+  "active": "4015b7e7e5531abf",
   "lastOpenFiles": [
-    "Projects/CORS란?.md",
     "Projects/class와 function component의 차이점.md",
+    "Projects/CORS란?.md",
     "Projects/html data.md",
     "Projects/번들러란?.md",
     "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
