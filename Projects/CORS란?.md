@@ -12,7 +12,6 @@ SOP(Same-Origin Policy)가 없으면 여러 보안 문제가 생길 수 있어�
 
 ## CORS를 사용하는 요청은?
 AJAX 요청, 웹 폰트 로딩, 다른 도메인의 API 호출 같은 상황에서 사용됩니다.
-## AJAX 요청, 웹 폰트 로딩, 다른 도메인의 API 호출 같은 상황에서 사용됩니다
 ## 단순요청과 preflight 요청의 차이점이란?
 ## cookie를 보내기 위해서는 withCredentials와 헤더(access-control-?)를 어떻게 설정 해야하나?
 ## 프로젝트에서 CORS에러를 겪은 경험이 있나?
