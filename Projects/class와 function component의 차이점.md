@@ -4,7 +4,6 @@ tags:
 ---
 # class와 function component의 차이점
 
-
 ---
 # References
 1. 
