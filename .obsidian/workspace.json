@@ -4,74 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "1de27435bff578b3",
-        "type": "split",
+        "id": "8cf21da31dd3c052",
+        "type": "tabs",
         "children": [
           {
-            "id": "8cf21da31dd3c052",
-            "type": "tabs",
-            "dimension": 47.87037037037037,
-            "children": [
-              {
-                "id": "3b39a827a4e801aa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/번들러란?.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4015b7e7e5531abf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/html data.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f0e799dcb70d59ea",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/CORS란?.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
+            "id": "3b39a827a4e801aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/번들러란?.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 2
+            }
           },
           {
-            "id": "454d7b3423f8a475",
-            "type": "tabs",
-            "dimension": 52.129629629629626,
-            "children": [
-              {
-                "id": "997cbac7698d4dca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/class와 function component의 차이점.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
+            "id": "4015b7e7e5531abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/html data.md",
+                "mode": "preview",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "f0e799dcb70d59ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/CORS란?.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/CORS란?.md",
+                "file": "Projects/번들러란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/CORS란?.md",
+                "file": "Projects/번들러란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/CORS란?.md"
+                "file": "Projects/번들러란?.md"
               }
             }
           },
@@ -240,10 +212,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f0e799dcb70d59ea",
+  "active": "3b39a827a4e801aa",
   "lastOpenFiles": [
-    "Projects/번들러란?.md",
     "Projects/CORS란?.md",
+    "Projects/번들러란?.md",
     "Projects/class와 function component의 차이점.md",
     "Projects/html data.md",
     "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
