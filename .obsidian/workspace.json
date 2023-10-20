@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/이큐브랩 면접 준비 및 후기.md",
+                "file": "Projects/프로그래머스 레벨 2 문제풀이.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/이큐브랩 면접 준비 및 후기.md"
+                "file": "Projects/프로그래머스 레벨 2 문제풀이.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,10 +146,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9dac6a59f8002037",
+  "active": "464b47774400b0cb",
   "lastOpenFiles": [
-    "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/이큐브랩 면접 준비 및 후기.md",
+    "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Permanent Notes/useReducer vs useState.md",
     "Permanent Notes/프로미스가 무엇인가.md",
     "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
