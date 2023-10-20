@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6d44d7d69d8cb60",
+        "id": "94bff53271e1334a",
         "type": "tabs",
         "children": [
           {
-            "id": "1518e4ee2a180711",
+            "id": "7eeb575849cc433e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fc313d6b1f6fc65b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md"
+              }
             }
           },
           {
@@ -192,16 +187,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fc313d6b1f6fc65b",
+  "active": "7eeb575849cc433e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-20 20.22.26.excalidraw.md",
+    "Daily/2023-10-20.md",
+    "New/프로미스가 무엇인가.md",
     "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
     "Permanent Notes/프론트엔드 면접대비.md",
+    "Projects/프로그래머스 레벨 2 문제풀이.md",
+    "Excalidraw/Drawing 2023-10-20 20.22.26.excalidraw.md",
     "Permanent Notes/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
     "New",
     "Untitled",
-    "Daily/2023-10-20.md",
-    "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "tracked_files.json",
     "Projects/이큐브랩 면접 준비 및 후기.md",
@@ -222,7 +218,6 @@
     "_Drawer/Algorithm Roadmap.md",
     "_Drawer/2023-07.md",
     "_Drawer/2023 Restrospective.md",
-    "_Drawer/2023 Seoul Women Hackathon.md",
     "Permanent Notes",
     "WIKI",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
