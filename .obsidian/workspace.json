@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/원시형과 객체형의 차이.md",
+                "file": "Permanent Notes/useReducer vs useState.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/원시형과 객체형의 차이.md",
+                "file": "Permanent Notes/useReducer vs useState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/원시형과 객체형의 차이.md",
+                "file": "Permanent Notes/useReducer vs useState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/원시형과 객체형의 차이.md"
+                "file": "Permanent Notes/useReducer vs useState.md"
               }
             }
           },
@@ -195,8 +195,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e04126f5eb7ac760",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Permanent Notes/원시형과 객체형의 차이.md",
     "Permanent Notes/타입스크립트를 도입했을 때의 장점과 단점.md",
     "Permanent Notes/프로미스가 무엇인가.md",
     "Permanent Notes/프론트엔드 면접대비.md",
@@ -225,7 +226,6 @@
     "_Drawer/Jumping on the clouds.md",
     "_Drawer/Algorithm List.md",
     "_Drawer/Algorithm Roadmap.md",
-    "_Drawer/2023-07.md",
     "Permanent Notes",
     "WIKI",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",

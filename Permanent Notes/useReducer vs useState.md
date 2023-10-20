@@ -1,6 +1,10 @@
 ---
 Created: 2023-10-16
 tags:
+  - review
+sr-due: 2023-10-23
+sr-interval: 3
+sr-ease: 250
 ---
 # useReducer vs useState
 둘 다 리액트 훅으로서 컴포넌트의 상태를 관리하는 데 사용됩니다. useState는 단순하게 상태값을 직관적으로 업데이트 할 때 사용하고 useReducer는 더 복잡한 로직으로 여러 상태 값을 관리할 때 사용합니다. 
