@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc313d6b1f6fc65b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,17 +169,9 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "35499ed10dd4e8a9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -195,14 +192,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "35499ed10dd4e8a9",
+  "active": "fc313d6b1f6fc65b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-20 20.22.26.excalidraw.md",
+    "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
     "Permanent Notes/프론트엔드 면접대비.md",
     "Permanent Notes/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
     "New",
     "Untitled",
     "Daily/2023-10-20.md",
-    "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "tracked_files.json",
@@ -225,7 +223,6 @@
     "_Drawer/2023-07.md",
     "_Drawer/2023 Restrospective.md",
     "_Drawer/2023 Seoul Women Hackathon.md",
-    "_Drawer/깃 커밋 영어 레퍼런스.md",
     "Permanent Notes",
     "WIKI",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
