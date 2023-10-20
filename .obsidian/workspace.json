@@ -11,8 +11,12 @@
             "id": "0e11663a0e31f47a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/이큐브랩 면접 준비 및 후기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -120,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/이큐브랩 면접 준비 및 후기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/이큐브랩 면접 준비 및 후기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/이큐브랩 면접 준비 및 후기.md"
+              }
             }
           },
           {
@@ -181,6 +189,7 @@
   },
   "active": "0e11663a0e31f47a",
   "lastOpenFiles": [
+    "Projects/이큐브랩 면접 준비 및 후기.md",
     "Projects/class와 function component의 차이점.md",
     "Projects/CORS란?.md",
     "Projects/html data.md",
@@ -206,7 +215,6 @@
     "Templates/Restrospective.md",
     "Templates/테이블.md",
     "WIKI/Untitled.md",
-    "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
     "Permanent Notes",
     "WIKI",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
