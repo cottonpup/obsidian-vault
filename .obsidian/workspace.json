@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
+                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
+                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
+                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md"
+                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md"
               }
             }
           },
@@ -197,9 +197,12 @@
   },
   "active": "1518e4ee2a180711",
   "lastOpenFiles": [
-    "Daily/2023-10-20.md",
-    "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
     "Permanent Notes/프론트엔드 면접대비.md",
+    "Permanent Notes/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
+    "New",
+    "Untitled",
+    "Daily/2023-10-20.md",
+    "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "tracked_files.json",
@@ -223,7 +226,6 @@
     "_Drawer/2023 Restrospective.md",
     "_Drawer/2023 Seoul Women Hackathon.md",
     "_Drawer/깃 커밋 영어 레퍼런스.md",
-    "_Drawer/2023 Mistakes Listup.md",
     "Permanent Notes",
     "WIKI",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
@@ -242,8 +244,6 @@
     "Files/pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview.png",
     "Files/Pasted image 20231010032645.png",
     "Projects/프론트엔드 면접 스터디.canvas",
-    "_Drawer/투인피니티 면접 대비.md-2",
-    "_Drawer/주니어 개발자 이력서 가이드.md-2",
     "Files/Pasted image 20231005203134.png",
     "DEV/Untitled.canvas"
   ]
