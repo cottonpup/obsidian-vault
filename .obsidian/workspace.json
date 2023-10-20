@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "94bff53271e1334a",
+        "id": "3f00b94ce3a0ad69",
         "type": "tabs",
         "children": [
           {
-            "id": "7eeb575849cc433e",
+            "id": "e04126f5eb7ac760",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -124,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,9 +156,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "e6bc5d4c5d8cbfbd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -187,11 +187,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7eeb575849cc433e",
+  "active": "e04126f5eb7ac760",
   "lastOpenFiles": [
+    "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
+    "Permanent Notes/프로미스가 무엇인가.md",
     "Daily/2023-10-20.md",
-    "New/프로미스가 무엇인가.md",
-    "New/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
     "Permanent Notes/프론트엔드 면접대비.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Excalidraw/Drawing 2023-10-20 20.22.26.excalidraw.md",
