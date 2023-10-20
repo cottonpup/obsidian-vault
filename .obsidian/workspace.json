@@ -11,8 +11,12 @@
             "id": "e04126f5eb7ac760",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/원시형과 객체형의 차이.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -120,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Permanent Notes/원시형과 객체형의 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Permanent Notes/원시형과 객체형의 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Permanent Notes/원시형과 객체형의 차이.md"
+              }
             }
           },
           {
@@ -189,10 +197,11 @@
   },
   "active": "e04126f5eb7ac760",
   "lastOpenFiles": [
-    "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
+    "Permanent Notes/타입스크립트를 도입했을 때의 장점과 단점.md",
     "Permanent Notes/프로미스가 무엇인가.md",
-    "Daily/2023-10-20.md",
     "Permanent Notes/프론트엔드 면접대비.md",
+    "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
+    "Daily/2023-10-20.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Excalidraw/Drawing 2023-10-20 20.22.26.excalidraw.md",
     "Permanent Notes/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
@@ -217,7 +226,6 @@
     "_Drawer/Algorithm List.md",
     "_Drawer/Algorithm Roadmap.md",
     "_Drawer/2023-07.md",
-    "_Drawer/2023 Restrospective.md",
     "Permanent Notes",
     "WIKI",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
