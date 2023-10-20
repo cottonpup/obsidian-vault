@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "84cf0bfc7049c7d4",
+        "id": "b6d44d7d69d8cb60",
         "type": "tabs",
         "children": [
           {
-            "id": "0e11663a0e31f47a",
+            "id": "1518e4ee2a180711",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "dcd2e1cc6d43d242",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md"
+              }
             }
           },
           {
@@ -200,7 +195,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "dcd2e1cc6d43d242",
+  "active": "1518e4ee2a180711",
   "lastOpenFiles": [
     "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
