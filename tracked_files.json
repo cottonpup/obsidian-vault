@@ -1,1 +1,1 @@
-{"queue":[],"repeatQueue":[],"items":[],"trackedFiles":[],"lastQueue":0,"newAdded":0}
+{"queue":[],"repeatQueue":[],"items":[null,{"nextReview":0,"fileIndex":1,"timesReviewed":0,"timesCorrect":0,"errorStreak":0,"data":{"ease":2.5,"lastInterval":0,"iteration":1}}],"trackedFiles":[null,{"path":"Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md","items":{"file":1}}],"lastQueue":1697799533163,"newAdded":0}
