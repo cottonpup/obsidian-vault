@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/프로그래머스 레벨 2 문제풀이.md",
+                "file": "Projects/이큐브랩 면접 준비 및 후기.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/프로그래머스 레벨 2 문제풀이.md"
+                "file": "Projects/이큐브랩 면접 준비 및 후기.md"
               }
             }
           },
@@ -148,6 +148,8 @@
   },
   "active": "464b47774400b0cb",
   "lastOpenFiles": [
+    "Projects/프로그래머스 레벨 2 문제풀이.md",
+    "Files/Screenshot 2023-10-20 at 23.37.24.png",
     "Projects/이큐브랩 면접 준비 및 후기.md",
     "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Permanent Notes/useReducer vs useState.md",
@@ -157,7 +159,6 @@
     "Permanent Notes/타입스크립트를 도입했을 때의 장점과 단점.md",
     "Permanent Notes/프론트엔드 면접대비.md",
     "Daily/2023-10-20.md",
-    "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Excalidraw/Drawing 2023-10-20 20.22.26.excalidraw.md",
     "Permanent Notes/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
     "New",
@@ -176,7 +177,6 @@
     "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md",
     "Fleeting Notes/백엔드 개발자를 위한 지식 대방출.md",
     "_Drawer/Jumping on the clouds.md",
-    "_Drawer/Algorithm List.md",
     "Permanent Notes",
     "WIKI",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
@@ -195,7 +195,6 @@
     "Files/pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview.png",
     "Files/Pasted image 20231010032645.png",
     "Projects/프론트엔드 면접 스터디.canvas",
-    "Files/Pasted image 20231005203134.png",
     "DEV/Untitled.canvas"
   ]
 }
