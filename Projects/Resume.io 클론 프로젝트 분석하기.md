@@ -4,7 +4,7 @@ tags:
 ---
 # Resume.io 클론 프로젝트 분석하기
 # App.tsx
-
+- 전역으로 fullPr
 # App.test.tsx
 
 # ./src/state 
