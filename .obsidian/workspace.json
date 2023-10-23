@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/Controlled component vs Uncontrolled component.md",
+                "file": "Projects/프론트엔드 기본 면접문제.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Controlled component vs Uncontrolled component.md"
+                "file": "Projects/프론트엔드 기본 면접문제.md"
               }
             }
           },
@@ -149,6 +148,7 @@
   },
   "active": "f779d22343c2f235",
   "lastOpenFiles": [
+    "Permanent Notes/Controlled component vs Uncontrolled component.md",
     "Projects/프론트엔드 기본 면접문제.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Projects/네트워크, 백엔드 면접문제.md",
@@ -178,7 +178,6 @@
     "Permanent Notes/html data.md",
     "Projects/SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS)).md",
     "Projects/origin을 구분하는 기준은?.md",
-    "Projects/SOP를 하지 않을 때 발생할 수 있는 문제점에는 무엇이 있나? (CSRF, XSS).md",
     "Permanent Notes",
     "WIKI",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
