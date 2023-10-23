@@ -6,8 +6,14 @@ tags:
 # App.tsx
 # App.test.tsx
 
-# ./Components
-# ./state 
+# ./src/Components
+## /EditorView
+## /PagesView
+## /UI
+## /hooks
+# ./src/state 
+## /action-creators
+## ac
 ---
 # References
 1. https://github.com/cottonpup/resume-builder
