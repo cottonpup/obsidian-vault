@@ -13,7 +13,9 @@ tags:
 ## /hooks
 # ./src/state 
 ## /action-creators
-## ac
+## /action-types
+## /actions
+## /reducers
 ---
 # References
 1. https://github.com/cottonpup/resume-builder
