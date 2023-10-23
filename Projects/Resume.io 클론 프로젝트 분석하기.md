@@ -4,18 +4,19 @@ tags:
 ---
 # Resume.io 클론 프로젝트 분석하기
 # App.tsx
+
 # App.test.tsx
 
-# ./src/Components
-## /EditorView
-## /PagesView
-## /UI
-## /hooks
 # ./src/state 
 ## /action-creators
 ## /action-types
 ## /actions
 ## /reducers
+# ./src/Components
+## /EditorView
+## /PagesView
+## /UI
+## /hooks
 ---
 # References
 1. https://github.com/cottonpup/resume-builder
