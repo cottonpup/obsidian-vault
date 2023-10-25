@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -175,7 +176,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c088de70825c009f",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
     "Projects/이큐브랩 면접 준비 및 후기.md",
     "Projects/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
