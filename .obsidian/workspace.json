@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md"
+                "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,15 +176,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "7f9f98917c63bc87",
   "lastOpenFiles": [
+    "Projects/면접대비/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/Resume.io 클론 프로젝트 분석하기.md",
     "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/실제면접 후기",
     "Projects/면접대비",
     "Projects/면접대비/프론트엔드 기본 면접문제.md",
     "Permanent Notes/프론트엔드 면접대비.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+    "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "_Drawer/10월 2일 네트워크 발표.md",
     "Permanent Notes/useReducer vs useState.md",
     "Projects/실제면접 후기/이큐브랩 면접 준비 및 후기.md",
@@ -192,7 +194,6 @@
     "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Permanent Notes/겁쟁이들을 위한 스터디.md",
     "Files/Screenshot 2023-10-20 at 23.37.24.png",
-    "Projects/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Permanent Notes/프로미스가 무엇인가.md",
     "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
     "Permanent Notes/원시형과 객체형의 차이.md",
@@ -202,7 +203,7 @@
     "Permanent Notes/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
     "New",
     "Untitled",
-    "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "tracked_files.json",
     "Daily/2023-10-09.md",
     "Permanent Notes/deep copy vs shallow copy.md",
