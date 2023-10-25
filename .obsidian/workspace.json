@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+                "file": "Projects/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md"
+                "file": "Projects/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+                "file": "Projects/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+                "file": "Projects/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,11 +178,11 @@
   },
   "active": "7f9f98917c63bc87",
   "lastOpenFiles": [
+    "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "_Drawer/10월 2일 네트워크 발표.md",
     "Projects/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Permanent Notes/useReducer vs useState.md",
     "Projects/이큐브랩 면접 준비 및 후기.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "Permanent Notes/Controlled component vs Uncontrolled component.md",
     "Projects/Resume.io 클론 프로젝트 분석하기.md",
     "Projects/프론트엔드 기본 면접문제.md",
