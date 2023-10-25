@@ -32,20 +32,20 @@
       "key": "ArrowUp"
     }
   ],
-  "editor:toggle-code": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "`"
-    }
-  ],
   "editor:insert-codeblock": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "I"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
     }
   ]
 }
