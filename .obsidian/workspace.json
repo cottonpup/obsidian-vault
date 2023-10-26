@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md"
+                "file": "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,10 +176,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "7f9f98917c63bc87",
   "lastOpenFiles": [
-    "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Projects/면접대비/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/Resume.io 클론 프로젝트 분석하기.md",
     "Projects/실제면접 후기",
