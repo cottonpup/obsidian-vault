@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "937e3415cb052b56",
+        "id": "d666db6e308d6193",
         "type": "tabs",
         "children": [
           {
-            "id": "7f9f98917c63bc87",
+            "id": "712ff8d5b50eb9ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
+                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md"
+                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
+                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
+                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +176,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7f9f98917c63bc87",
+  "active": "712ff8d5b50eb9ec",
   "lastOpenFiles": [
+    "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
     "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Projects/면접대비/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
@@ -208,7 +210,6 @@
     "Daily/2023-10-09.md",
     "Permanent Notes/deep copy vs shallow copy.md",
     "Permanent Notes/번들러란?.md",
-    "Permanent Notes/class와 function component의 차이점.md",
     "Permanent Notes",
     "WIKI",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
