@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "1462954cc9817765",
+    "id": "5cf0ea3ac5674cdf",
     "type": "split",
     "children": [
       {
-        "id": "9de162f5daf4fd01",
+        "id": "db8fe5f38e4f3fd1",
         "type": "tabs",
         "children": [
           {
-            "id": "c0cdc89b3c47f58b",
+            "id": "293556f088627cd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-10-09.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "821129d87bfa1fc7",
+    "id": "b7486429c3824465",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "741fb01c2f6fec58",
+        "id": "08c471288e8aa77e",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +35,7 @@
         }
       },
       {
-        "id": "7c9a0d4979131a6a",
+        "id": "530d77eca34c9640",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +50,7 @@
         }
       },
       {
-        "id": "7405e148fe0ca94d",
+        "id": "b64145fe14942f78",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +61,7 @@
         }
       },
       {
-        "id": "dbcfef296a1e099b",
+        "id": "7400ad260965baa2",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "38f48e8ad3fab1e5",
+    "id": "d4549badf9d61e1b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ceca5c5be38424fa",
+        "id": "44cf7abcf23b467d",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2023-10-09.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,40 +92,21 @@
         }
       },
       {
-        "id": "7cf07134b634da41",
+        "id": "fe740626a1cece14",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/2023-10-09.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "f86f74f4fd3266bf",
+        "id": "c25fad97eb4e1017",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Daily/2023-10-09.md"
-          }
-        }
-      },
-      {
-        "id": "40b0f885ea5a7c59",
-        "type": "leaf",
-        "state": {
-          "type": "todo",
-          "state": {}
-        }
-      },
-      {
-        "id": "e443727d3072f27e",
-        "type": "leaf",
-        "state": {
-          "type": "QUICKSHARE_SIDE_VIEW",
           "state": {}
         }
       }
@@ -144,59 +120,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c0cdc89b3c47f58b",
-  "lastOpenFiles": [
-    "Daily/2023-10-05.md",
-    "Daily/2023-10-09.md",
-    "_Drawer/Algorithm Roadmap.md",
-    "Untitled.md",
-    "Projects/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Files/Screenshot 2023-10-01 at 19.39.43.png",
-    "Files/Screenshot 2023-10-01 at 19.39.08.png",
-    "Files/Pasted image 20231002003008.png",
-    "Files/Pasted image 20231005203134.png",
-    "Fleeting Notes/10월 2일 프론트엔드 면접 스터디.md",
-    "Fleeting Notes/90분 공부 3번하기.md",
-    "Fleeting Notes",
-    "Templates/Note Template.md",
-    "Templates/Restrospective.md",
-    "Templates/Map of Content.md",
-    "Templates",
-    "_Drawer/투인피니티 면접 대비.md-2",
-    "_Drawer/Git 기초강의.md-2",
-    "_Drawer/Tailwind class 와 className 차이.md-2",
-    "_Drawer/도둑맞은 집중력.md-2",
-    "_Drawer/깃 커밋 영어 레퍼런스.md-2",
-    "_Drawer/Frontend Web Developer Roadmap.md-2",
-    "_Drawer/영어 전치사 연구 의미와 용법.md-2",
-    "_Drawer/Quotes.md-2",
-    "Projects/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-    "Projects/겁쟁이들을 위한 스터디.md",
-    "Projects/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "English/English Shadowing.md",
-    "Files/Screenshot 2023-10-01 at 17.18.51.png",
-    "Files/Screenshot 2023-07-20 at 11.58.36 AM.png",
-    "Files/Screenshot 2023-07-14 at 1.33.35 PM.png",
-    "Files/Screenshot 2023-07-17 at 9.51.59 PM.png",
-    "Files/Screenshot 2023-09-22 at 21.34.43.png",
-    "Files/Screenshot 2023-09-20 at 16.24.34.png",
-    "_Drawer/Sales by Match.md",
-    "_Drawer/2022-02-07 TIL.md",
-    "_Drawer/Tweets From Emiko.dev ☀️.md",
-    "_Drawer/Prepare for an Interview.md",
-    "_Drawer/영어 전치사 연구 의미와 용법.md",
-    "_Drawer/Frontend Web Developer Roadmap.md",
-    "_Drawer/useCallback() Hook.md",
-    "_Drawer/Side Effect In Development.md",
-    "_Drawer/useEffect() Hook.md",
-    "_Drawer/겁쟁이들을 위한 스터디.md",
-    "_Drawer/Arrays & Hashing.md",
-    "_Drawer/Algorithm List.md"
-  ]
+  "active": "293556f088627cd3",
+  "lastOpenFiles": []
 }
