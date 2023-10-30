@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "829c42b15bfaa027",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "84b07b13c3348bc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/면접대비/프론트엔드 기본 면접문제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
