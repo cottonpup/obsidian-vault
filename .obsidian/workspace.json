@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/면접대비/프론트엔드 기본 면접문제.md"
+                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/면접대비/프론트엔드 기본 면접문제.md",
+                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/면접대비/프론트엔드 기본 면접문제.md",
+                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,8 +195,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84b07b13c3348bc7",
+  "active": "7e3a3a2e064d0dc6",
   "lastOpenFiles": [
+    "Projects/면접대비/프론트엔드 기본 면접문제.md",
     "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
     "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
@@ -205,7 +206,6 @@
     "Projects/Resume.io 클론 프로젝트 분석하기.md",
     "Projects/실제면접 후기",
     "Projects/면접대비",
-    "Projects/면접대비/프론트엔드 기본 면접문제.md",
     "Permanent Notes/프론트엔드 면접대비.md",
     "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "_Drawer/10월 2일 네트워크 발표.md",
