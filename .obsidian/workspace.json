@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "829c42b15bfaa027",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b07b13c3348bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/면접대비/프론트엔드 기본 면접문제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "REST",
+                "query": "SSR",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md"
+                "file": "Projects/면접대비/프론트엔드 기본 면접문제.md"
               }
             }
           },
@@ -130,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/면접대비/프론트엔드 기본 면접문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/면접대비/프론트엔드 기본 면접문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +195,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7e3a3a2e064d0dc6",
+  "active": "84b07b13c3348bc7",
   "lastOpenFiles": [
     "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
