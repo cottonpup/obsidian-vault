@@ -11,8 +11,12 @@
             "id": "7e3a3a2e064d0dc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -107,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md"
+              }
             }
           },
           {
@@ -124,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
