@@ -11,8 +11,12 @@
             "id": "b484564895061943",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/면접대비/1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -108,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/면접대비/1.md"
+              }
             }
           },
           {
@@ -125,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/면접대비/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/면접대비/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,6 +178,7 @@
   },
   "active": "b484564895061943",
   "lastOpenFiles": [
+    "Projects/면접대비/1.md",
     "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/프론트엔드 기본 면접문제.md",
@@ -202,7 +210,6 @@
     "tracked_files.json",
     "Daily/2023-10-09.md",
     "Permanent Notes/deep copy vs shallow copy.md",
-    "Permanent Notes/번들러란?.md",
     "Permanent Notes",
     "WIKI",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
