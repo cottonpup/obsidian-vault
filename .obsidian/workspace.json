@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SSR",
+                "query": "체인",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,7 +189,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b484564895061943",
+  "active": "c62d3717da803e98",
   "lastOpenFiles": [
     "Projects/Resume.io 클론 프로젝트 분석하기.md",
     "Projects/면접대비/프론트엔드 기본 면접문제.md",
