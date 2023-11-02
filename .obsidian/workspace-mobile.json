@@ -11,8 +11,12 @@
             "id": "293556f088627cd3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/면접대비/프론트엔드 기본 면접문제.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Projects/면접대비/프론트엔드 기본 면접문제.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Projects/면접대비/프론트엔드 기본 면접문제.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,6 +113,24 @@
         "type": "leaf",
         "state": {
           "type": "outline",
+          "state": {
+            "file": "Projects/면접대비/프론트엔드 기본 면접문제.md"
+          }
+        }
+      },
+      {
+        "id": "7dbf0dda0e9bf631",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "3b39b5a91006f190",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
           "state": {}
         }
       }
@@ -120,9 +144,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "293556f088627cd3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+    "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/면접대비/프론트엔드 기본 면접문제.md",
+    "_Drawer/English Shadowing 유진.md",
+    "_Drawer/깃 커밋 영어 레퍼런스.md"
+  ]
 }

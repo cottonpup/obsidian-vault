@@ -7,49 +7,22 @@ tags:
 ---
 
 https://youtu.be/fdQn0aFqoGQ?si=JLVTh-dQ5h-K3nhk
-
-hi everyone welcome to my video 
-
-this week I'm wanting to film a what I eat in a week video 
-I haven't done this in a very very long time but I've been wanting to because I know that it's one of your favorites on my channel that I do as a series but I can't even call it a series anymore because the last time I've done this was like two years ago but I just got back from my trip from New York City and it's **if anything** this week is a perfect week for me to film this because I know I'm gonna want to eat at home 
-
-although I like to cook **I don't like going above and beyond to cook because the cleaning up process just traumatizes terrorizes me** so all of these are gonna be pretty simple and also I am in my friend's house for the next month or so
-so that's why you're seeing an unfamiliar kitchen 
-I need to start a **apartment hunting** soon so I will have my own space very very soon but until then you're getting this View
-
-**as soon as I landed in LAX first thing that I did was go to the grocery store** 
-I went to Trader Joe's **because we love pushing off like our daily errands when we come back from vacation**
-
-but that is the thing that we need to do the most because we need food to eat 
-we're going back to our normal routine and we can't not have food in our kitchen so I'm so proud that I did that so now I have food to cook with
-the menu that we're making for breakfast today is I'm trying to **recreate this menu that I
-had at Ruby's Ruby's is one of my favorite Cafe** in New York City and they have this breakfast
-bowl that's quite simple so I feel like I can recreate it and **I purposely bought all the ingredients that I'm going to need for this so that I can read it so I'm going to defrost and heat up this edamame**
-
-next we have to make a **poached egg** 
-I have never made a poached egg in my life
-
-some vinegar 
-then I have that egg right here
-and I'm gonna drop that in 
-**why is it not clumping together** 
-we have **micro greens** which is **my favorite way to get my greens in here**
-
-and lastly this is a different approach from the Ruby's
-
-because they use a different type of cheese but I just got cottage cheese because I've been seeing a lot of recipes go around with cottage cheese on Tik Tok
-and **they're also a really good source of protein**
-
-so they look like this I'm just gonna do like a scoop and mix it in with my edamame 
-
-**let me look back on the photo to see if I did
-this right. pretty much. I killed it.** 
-
-**this is the picture I think one thing I do need to do for the visual is to open this poached egg and see if I did it right**
-
-just gotta add salt on top of the egg as well and some pepper 
-
-and **the best way to eat this is take the toast I'm gonna lay down some avocado** first like a little avocado toast I'm gonna add the cottage cheese and edamame and some egg some prosciutto and on top of that, some of the greens
+ 
+- I haven't done this **in a very very long time** but I've been wanting to
+- I just got back from my trip from New York City and it's **if anything** this week is a perfect week for me to film this 
+- although I like to cook **I don't like going above and beyond to cook because the cleaning up process just traumatizes terrorizes me**. so all of these are gonna be pretty simple and also I am in my friend's house for the next month or so.
+- so that's why **you're seeing an unfamiliar kitchen** 
+- I need to start a **apartment hunting** soon so I will have my own space very very soon but until then you're getting this View
+- **as soon as I landed in LAX, first thing that I did was go to the grocery store** 
+- I went to Trader Joe's **because we love pushing off like our daily errands when we come back from vacation**
+- but that is the thing that we need to do the most because we need food to eat 
+- the menu that we're making for breakfast today is I'm trying to **recreate this menu that I had at Ruby's Ruby's is one of my favorite Cafe** in New York City and they have this breakfast bowl that's quite simple so I feel like I can recreate it and **I purposely bought all the ingredients that I'm going to need for this so that I can read it so I'm going to defrost and heat up this edamame**
+- next we have to make a **poached egg** I have never made a poached egg in my life
+- then I have that egg right here and I'm gonna drop that in. **why is it not clumping together.** we have **micro greens** which is **my favorite way to get my greens in here**. and lastly this is a different approach from the Ruby's
+- because they use a different type of cheese but I just got cottage cheese because I've been seeing a lot of recipes go around with cottage cheese on Tik Tok and **they're also a really good source of protein**
+- so they look like this I'm just gonna do like a scoop and mix it in with my edamame 
+- **let me look back on the photo to see if I did this right. pretty much. I killed it.** **this is the picture I think one thing I do need to do for the visual is to open this poached egg and see if I did it right**
+- just gotta add salt on top of the egg as well and some pepper and **the best way to eat this is take the toast I'm gonna lay down some avocado** first like a little avocado toast I'm gonna add the cottage cheese and edamame and some egg some prosciutto and on top of that, some of the greens
 
 oh my god hot sauce
 
@@ -491,5 +464,4 @@ is like everyone's favorite because if I don't
 go in the morning it's always sold out so
 I recommend going early
 
-## 
 

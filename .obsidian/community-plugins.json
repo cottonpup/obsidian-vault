@@ -2,7 +2,6 @@
   "obsidian-admonition",
   "cm-editor-syntax-highlight-obsidian",
   "table-editor-obsidian",
-  "dataview",
   "obsidian-excalidraw-plugin",
   "quickadd",
   "obsidian-to-anki-plugin",
@@ -10,7 +9,6 @@
   "creases",
   "calendar",
   "obsidian-git",
-  "review-obsidian",
   "obsidian-recall",
   "obsidian-spaced-repetition"
 ]
