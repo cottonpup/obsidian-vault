@@ -4,5 +4,6 @@
   "newFileLocation": "current",
   "newFileFolderPath": "Zettelkasten",
   "attachmentFolderPath": "Files",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true
 }
