@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5d485248730646f",
+        "id": "274fc4575772ca31",
         "type": "tabs",
         "children": [
           {
-            "id": "b484564895061943",
+            "id": "9418441429bc602a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28b2d57f8a27eafb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Resume.io 클론 프로젝트 분석하기.md",
+                "file": "Projects/Resume.io 프로젝트 스프린트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md"
+                "file": "Projects/Resume.io 프로젝트 스프린트.md"
               }
             }
           },
@@ -143,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/Resume.io 프로젝트 스프린트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Projects/Resume.io 프로젝트 스프린트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,12 +176,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c62d3717da803e98",
+  "active": "9418441429bc602a",
   "lastOpenFiles": [
+    "Projects/Resume.io 프로젝트 스프린트.md",
     "Projects/Resume.io 클론 프로젝트 분석하기.md",
+    "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/프론트엔드 기본 면접문제.md",
     "Projects/실제면접 후기/이큐브랩 면접 준비 및 후기.md",
-    "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
@@ -222,7 +210,6 @@
     "Untitled",
     "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "tracked_files.json",
-    "Daily/2023-10-09.md",
     "Permanent Notes",
     "WIKI",
     "Files/Screenshot 2023-10-16 at 17.21.06.png",
