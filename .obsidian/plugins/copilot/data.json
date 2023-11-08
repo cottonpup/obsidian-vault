@@ -3,7 +3,7 @@
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
   "anthropicApiKey": "",
-  "azureOpenAIApiKey": "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",
+  "azureOpenAIApiKey": "",
   "azureOpenAIApiInstanceName": "",
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
