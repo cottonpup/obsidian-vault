@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Resume.io 클론 프로젝트 분석하기.md",
+                "file": "Projects/ChatGPT 와 함께 프로젝트 만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Resume.io 클론 프로젝트 분석하기.md"
+                "file": "Projects/ChatGPT 와 함께 프로젝트 만들기.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Resume.io 클론 프로젝트 분석하기.md",
+                "file": "Projects/ChatGPT 와 함께 프로젝트 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Resume.io 클론 프로젝트 분석하기.md",
+                "file": "Projects/ChatGPT 와 함께 프로젝트 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,12 +185,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cbc8544ef8de3330",
+  "active": "9418441429bc602a",
   "lastOpenFiles": [
+    "Projects/Resume.io 클론 프로젝트 분석하기.md",
+    "Projects/ChatGPT 와 함께 프로젝트 만들기.md",
     "Projects/Resume.io 프로젝트 스프린트.md",
     "copilot-conversations/Chat-2023_11_08-15_43_10.md",
     "copilot-conversations",
-    "Projects/Resume.io 클론 프로젝트 분석하기.md",
     "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/프론트엔드 기본 면접문제.md",
     "Projects/실제면접 후기/이큐브랩 면접 준비 및 후기.md",
@@ -216,7 +217,6 @@
     "Permanent Notes/타입스크립트를 도입했을 때의 장점과 단점.md",
     "Daily/2023-10-20.md",
     "Excalidraw/Drawing 2023-10-20 20.22.26.excalidraw.md",
-    "Permanent Notes/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
     "New",
     "Untitled",
     "tracked_files.json",
