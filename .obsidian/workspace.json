@@ -152,14 +152,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "581cc0e84cc72363",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +180,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "9418441429bc602a",
+  "active": "581cc0e84cc72363",
   "lastOpenFiles": [
     "Projects/Resume.io 프로젝트 스프린트.md",
     "Projects/Resume.io 클론 프로젝트 분석하기.md",
