@@ -1,9 +1,9 @@
 {
-  "openAIApiKey": "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",
+  "openAIApiKey": "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",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
   "anthropicApiKey": "",
-  "azureOpenAIApiKey": "",
+  "azureOpenAIApiKey": "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",
   "azureOpenAIApiInstanceName": "",
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",

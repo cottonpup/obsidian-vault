@@ -180,11 +180,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "copilot:Copilot Chat": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "cbc8544ef8de3330",
   "lastOpenFiles": [
     "Projects/Resume.io 프로젝트 스프린트.md",
     "copilot-conversations/Chat-2023_11_08-15_43_10.md",
