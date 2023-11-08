@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "2628cef8fbe17d59",
+            "id": "d3e71c0dab352393",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -184,7 +184,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "2628cef8fbe17d59",
+  "active": "d3e71c0dab352393",
   "lastOpenFiles": [
     "Projects/Resume.io 프로젝트 스프린트.md",
     "copilot-conversations/Chat-2023_11_08-15_43_10.md",
