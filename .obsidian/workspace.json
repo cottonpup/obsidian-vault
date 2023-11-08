@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Resume.io 프로젝트 스프린트.md",
+                "file": "Projects/Resume.io 클론 프로젝트 분석하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Resume.io 프로젝트 스프린트.md"
+                "file": "Projects/Resume.io 클론 프로젝트 분석하기.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Resume.io 프로젝트 스프린트.md",
+                "file": "Projects/Resume.io 클론 프로젝트 분석하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,19 +147,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Resume.io 프로젝트 스프린트.md",
+                "file": "Projects/Resume.io 클론 프로젝트 분석하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "2628cef8fbe17d59",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +184,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "11ecc14b468e3eb3",
+  "active": "2628cef8fbe17d59",
   "lastOpenFiles": [
-    "copilot-conversations/Chat-2023_11_08-15_43_10.md",
     "Projects/Resume.io 프로젝트 스프린트.md",
+    "copilot-conversations/Chat-2023_11_08-15_43_10.md",
     "copilot-conversations",
     "Projects/Resume.io 클론 프로젝트 분석하기.md",
     "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
