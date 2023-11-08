@@ -180,8 +180,8 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "periodic-notes:Open today": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "cbc8544ef8de3330",
