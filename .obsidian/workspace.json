@@ -152,17 +152,9 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "79dc4785c7abfa4b",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,7 +177,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "79dc4785c7abfa4b",
+  "active": "11ecc14b468e3eb3",
   "lastOpenFiles": [
     "copilot-conversations/Chat-2023_11_08-15_43_10.md",
     "Projects/Resume.io 프로젝트 스프린트.md",
