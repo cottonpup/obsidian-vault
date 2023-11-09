@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Letty 프로젝트/ㅇ.md",
+                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Letty 프로젝트/ㅇ.md"
+                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Letty 프로젝트/ㅇ.md",
+                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Letty 프로젝트/ㅇ.md",
+                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,10 +185,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9418441429bc602a",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
     "Projects/ChatGPT 와 함께 프로젝트 만들기.md",
-    "Projects/Letty 프로젝트/ㅇ.md",
+    "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
     "Projects/Letty 프로젝트",
     "Projects/Untitled.md",
     "Projects/Resume.io 클론 프로젝트 분석하기.md",
