@@ -11,6 +11,7 @@
 ## Sign up 페이지 다시 꼼꼼하게 작업하기
 ----
 ## 다음 논의사항
+- [ ] 상대경로 src/... 절대경로로 변경하기
 - [ ] 버튼 눌렀을 때, 다른 버튼 애니메이션도 트리거되는 액션제거 (onClick 으로 이벤트 제어하기)
 - [ ] [Semantic tag 사용하기](https://velog.io/@syoung125/%EC%8B%9C%EB%A7%A8%ED%8B%B1-%ED%83%9C%EA%B7%B8-Semantic-Tag-%EC%9E%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 	- [ ] 버튼이면 버튼태그, 텍스트면 h1-h6, p 태그 사용
