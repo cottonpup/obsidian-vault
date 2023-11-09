@@ -11,6 +11,7 @@
 ## Sign up 페이지 다시 꼼꼼하게 작업하기
 ----
 ## 다음 논의사항
+- [ ] 버튼 눌렀을 때, 다른 버튼도 트리거되는 액션제거
 - [ ] `component/icon` 으로 빠져있는 아이템들은 `Props` 로 받기보단 tailwind를 활용해서 컴포넌트 내에서 받는 걸로 해도 괜찮을 것 같아요! 
 	- [ ] [tailwind fill 유틸리티](https://tailwindcss.com/docs/fill)
       ![[Screenshot 2023-11-09 at 15.50.22.png]]
