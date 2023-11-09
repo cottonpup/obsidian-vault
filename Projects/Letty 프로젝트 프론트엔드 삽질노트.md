@@ -15,3 +15,4 @@
 - [ ] 혹은 Props 로 받기보단 tailwind를 활용해서 컴포넌트 내에서 받는 걸로 해도 괜찮을 것 같아요! 
 	- [ ] [tailwind fill 유틸리티](https://tailwindcss.com/docs/fill)
       ![[Screenshot 2023-11-09 at 15.50.22.png]]
+      ![[Screenshot 2023-11-09 at 16.02.04.png]]
