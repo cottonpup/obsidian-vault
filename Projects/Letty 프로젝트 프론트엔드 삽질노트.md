@@ -25,3 +25,4 @@
       ![[Screenshot 2023-11-09 at 16.02.04.png]]
   - [ ] 서치바 아이콘 위치
   - [ ] 카드 컴포넌트 헤더를 넘지않게 사이즈 조절 
+  - [ ] [폰트 패밀리 설정](https://github.com/orioncactus/pretendard)
