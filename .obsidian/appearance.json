@@ -1,5 +1,6 @@
 {
   "accentColor": "#bd5d0f",
   "cssTheme": "Obsidian Nord",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 15
 }
