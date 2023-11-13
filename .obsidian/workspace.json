@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "35ee3938c32d4b41",
+        "id": "d44ba8aace22351c",
         "type": "tabs",
         "children": [
           {
-            "id": "3094c7622a3721b8",
+            "id": "c30cbe01d2a553e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+                "file": "Literature Notes/파인만 공부법.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md"
+                "file": "Literature Notes/파인만 공부법.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+                "file": "Literature Notes/파인만 공부법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+                "file": "Literature Notes/파인만 공부법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,15 +185,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3094c7622a3721b8",
+  "active": "c30cbe01d2a553e2",
   "lastOpenFiles": [
-    "Files/Screenshot 2023-11-10 at 13.26.01.png",
-    "Permanent Notes/useReducer vs useState.md",
+    "_Drawer/몽몽 공부법.md",
+    "_Drawer/백엔드 개발자를 위한 지식 대방출.md",
+    "Fleeting Notes/90분 공부 3번하기.md",
+    "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md",
+    "Daily/2023-10-05.md",
+    "Daily/2023-10-20.md",
+    "Excalidraw/Drawing 2023-10-20 20.22.26.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
-    "Files/Screenshot 2023-11-10 at 12.54.35.png",
-    "Files/Screenshot 2023-11-09 at 16.02.04.png",
-    "Files/Screenshot 2023-11-09 at 15.50.22.png",
-    "Files/Screenshot 2023-11-09 at 15.46.59.png",
+    "_Drawer/Files/Screenshot 2023-11-10 at 13.26.01.png",
+    "Permanent Notes/useReducer vs useState.md",
+    "_Drawer/Files/Screenshot 2023-11-10 at 12.54.35.png",
+    "_Drawer/Files/Screenshot 2023-11-09 at 16.02.04.png",
+    "_Drawer/Files/Screenshot 2023-11-09 at 15.50.22.png",
+    "_Drawer/Files/Screenshot 2023-11-09 at 15.46.59.png",
     "Projects/ChatGPT 와 함께 프로젝트 만들기.md",
     "Projects/Letty 프로젝트",
     "Projects/Untitled.md",
@@ -215,24 +226,12 @@
     "Projects/면접대비",
     "Permanent Notes/프론트엔드 면접대비.md",
     "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-    "_Drawer/10월 2일 네트워크 발표.md",
-    "Permanent Notes/Controlled component vs Uncontrolled component.md",
-    "Projects/네트워크, 백엔드 면접문제.md",
-    "Permanent Notes/겁쟁이들을 위한 스터디.md",
-    "Files/Screenshot 2023-10-20 at 23.37.24.png",
-    "Permanent Notes/프로미스가 무엇인가.md",
-    "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
-    "Permanent Notes/원시형과 객체형의 차이.md",
+    "_Drawer/Files/Screenshot 2023-10-20 at 23.37.24.png",
     "New",
     "Untitled",
     "tracked_files.json",
     "Permanent Notes",
     "WIKI",
-    "Files/Screenshot 2023-10-16 at 17.21.06.png",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
