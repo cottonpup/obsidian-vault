@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/파인만 공부법.md",
+                "file": "Templates/몽몽질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/파인만 공부법.md"
+                "file": "Templates/몽몽질문.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/파인만 공부법.md",
+                "file": "Templates/몽몽질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/파인만 공부법.md",
+                "file": "Templates/몽몽질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +184,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c30cbe01d2a553e2",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Projects/프로그래머스 레벨 2 문제풀이.md",
+    "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
+    "Permanent Notes/생산적으로 사는 법.md",
+    "Literature Notes/PARA 정리법.md",
+    "Literature Notes/파인만 공부법.md",
     "_Drawer/몽몽 공부법.md",
     "_Drawer/백엔드 개발자를 위한 지식 대방출.md",
     "Fleeting Notes/90분 공부 3번하기.md",
@@ -219,13 +223,8 @@
     "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
-    "Projects/프로그래머스 레벨 2 문제풀이.md",
-    "Projects/면접대비/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/실제면접 후기",
     "Projects/면접대비",
-    "Permanent Notes/프론트엔드 면접대비.md",
-    "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "_Drawer/Files/Screenshot 2023-10-20 at 23.37.24.png",
     "New",
     "Untitled",
