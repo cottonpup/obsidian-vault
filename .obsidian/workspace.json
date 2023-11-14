@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -185,9 +185,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9fb49f517d1475a0",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
-    "Permanent Notes/2023년 10월 회고.md",
+    "Daily/회고/2023년 10월 회고.md",
     "_Drawer/Files/10월 회고 썸네일.png",
     "Daily/2023-11-14.md",
     "Templates/몽몽질문.md",
