@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,6 +187,7 @@
   },
   "active": "be052f6bfa81c708",
   "lastOpenFiles": [
+    "10월 회고 썸네일.png",
     "Permanent Notes/2023년 10월 회고.md",
     "Daily/2023-11-14.md",
     "Templates/몽몽질문.md",
@@ -222,7 +224,6 @@
     "copilot-conversations/Chat-2023_11_08-15_43_10.md",
     "copilot-conversations",
     "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/프론트엔드 기본 면접문제.md",
     "Projects/실제면접 후기",
     "Projects/면접대비",
     "_Drawer/Files/Screenshot 2023-10-20 at 23.37.24.png",
