@@ -11,8 +11,12 @@
             "id": "5e8c5e44e55d29b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -107,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/(Udemy) React 완벽가이드.md"
+              }
             }
           },
           {
@@ -124,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +185,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "5e8c5e44e55d29b5",
   "lastOpenFiles": [
+    "Courses/(Udemy) React 완벽가이드.md",
     "Courses/(Udemy) React 완벽 가이드",
     "Courses",
     "Temp/파인만 공부법.md",
@@ -224,7 +233,6 @@
     "tracked_files.json",
     "Permanent Notes",
     "WIKI",
-    "Excalidraw/Scripts/Downloaded",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
