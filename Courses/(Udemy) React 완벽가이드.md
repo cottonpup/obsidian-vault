@@ -22,6 +22,5 @@
 
 https://redux-toolkit.js.org/tutorials/quick-start
 
-- initialValue 
-
+- `initialState`에서 여러가지 값을 넣을 수 있는가?
 # Section 21: Building a Multi-Page SPA with React Router
