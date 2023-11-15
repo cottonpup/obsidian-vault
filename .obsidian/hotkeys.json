@@ -1,1 +1,11 @@
-{}
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}
