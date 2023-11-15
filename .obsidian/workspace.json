@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md"
+                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,6 +188,9 @@
   },
   "active": "5e8c5e44e55d29b5",
   "lastOpenFiles": [
+    "Projects/Resume.io 프로젝트 스프린트.md",
+    "Projects/프로그래머스 레벨 2 문제풀이.md",
+    "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
     "Courses/(Udemy) React 완벽가이드.md",
     "Courses/(Udemy) React 완벽 가이드",
     "Courses",
@@ -213,9 +216,6 @@
     "Temp/React.Children과 children prop의 차이.md",
     "Temp/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "Temp/TypeScript에서의 Ambient란 무엇이며 언제 사용하나요?.md",
-    "Temp/FLUX 디자인 패턴과 어디서 사용되는지.md",
-    "Temp/CORS란?.md",
-    "Temp/JavaScript 라이브러리에서 TypeScript 선언 파일을 생성할 수 있나요.md",
     "_Drawer/Files/10월 회고 썸네일.png",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
