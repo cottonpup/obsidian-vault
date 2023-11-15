@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b08d76784d0e9232",
+        "id": "a29a037c6f9aca34",
         "type": "tabs",
         "children": [
           {
-            "id": "691a8ed02c0a5ef7",
+            "id": "e0fd807d81288bd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/회고/2023년 10월 회고.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 697.5039024353027,
-    "collapsed": true
+    "width": 697.5039024353027
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -113,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/회고/2023년 10월 회고.md"
+                "file": "Projects/ChatGPT 와 함께 프로젝트 만들기.md"
               }
             }
           },
@@ -131,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/회고/2023년 10월 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/회고/2023년 10월 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,10 +179,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "691a8ed02c0a5ef7",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
-    "Permanent Notes/html data.md",
     "Daily/회고/2023년 10월 회고.md",
+    "Permanent Notes/html data.md",
     "_Drawer/Files/10월 회고 썸네일.png",
     "Daily/2023-11-14.md",
     "Templates/몽몽질문.md",
