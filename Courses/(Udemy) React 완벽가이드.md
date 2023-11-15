@@ -22,4 +22,6 @@
 
 https://redux-toolkit.js.org/tutorials/quick-start
 
+- initialValue 
+
 # Section 21: Building a Multi-Page SPA with React Router
