@@ -11,8 +11,12 @@
             "id": "e0fd807d81288bd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-11-14.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "체인",
+                "query": "공통 컴포",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 697.5039024353027
+    "width": 697.5039024353027,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -108,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/ChatGPT 와 함께 프로젝트 만들기.md"
+                "file": "Daily/2023-11-14.md"
               }
             }
           },
@@ -126,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2023-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +187,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "e0fd807d81288bd5",
   "lastOpenFiles": [
+    "Projects/ChatGPT 와 함께 프로젝트 만들기.md",
     "Daily/회고/2023년 10월 회고.md",
     "Permanent Notes/html data.md",
     "_Drawer/Files/10월 회고 썸네일.png",
@@ -211,7 +220,6 @@
     "_Drawer/Files/Screenshot 2023-11-09 at 16.02.04.png",
     "_Drawer/Files/Screenshot 2023-11-09 at 15.50.22.png",
     "_Drawer/Files/Screenshot 2023-11-09 at 15.46.59.png",
-    "Projects/ChatGPT 와 함께 프로젝트 만들기.md",
     "Projects/Letty 프로젝트",
     "Projects/Untitled.md",
     "Projects/Resume.io 클론 프로젝트 분석하기.md",
