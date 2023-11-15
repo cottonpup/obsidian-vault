@@ -10,6 +10,6 @@
 	- Inside the components (e.g via `useEffect()`)
 	- Inside the action creators
 ## 428. Refresher / Practice: Part 1/2
-https://codesandbox.io/s/advanced-redux-yu43d7
-
+[예제코드](https://codesandbox.io/s/advanced-redux-yu43d7)
+[Forked 예제코드](https://codesandbox.io/s/advanced-redux-forked-jftfqs?file=/src/App.js)
 # Section 21: Building a Multi-Page SPA with React Router
