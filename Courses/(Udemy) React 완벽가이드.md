@@ -29,6 +29,6 @@ https://redux-toolkit.js.org/tutorials/quick-start
 ### Redux store 폴더 만들기
 `src/store/index.js` store 디렉토리를 만드는 것이 컨벤션.
 ### `cart-slice.js`와 `ui-slice.js` 파일 만들기
-`cart-slice.js`: Cart 컴포넌트안의 값을 관리하는 slice 파일
-`ui-slice.js`: `My Cart` 버튼을 눌렀을 때, Cart 컴포넌트가 토글되는 걸 관리하는 slice 파일
+`cart-slice.js`: `Cart` 컴포넌트안의 값을 관리하는 slice 파일
+`ui-slice.js`: `My Cart` 버튼을 눌렀을 때, `Cart` 컴포넌트가 토글되는 걸 관리하는 slice 파일
 # Section 21: Building a Multi-Page SPA with React Router
