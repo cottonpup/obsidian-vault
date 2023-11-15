@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f929ff887d76fb21",
+        "id": "b08d76784d0e9232",
         "type": "tabs",
         "children": [
           {
-            "id": "9fb49f517d1475a0",
+            "id": "691a8ed02c0a5ef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/html data.md",
+                "file": "Daily/회고/2023년 10월 회고.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 697.5039024353027
+    "width": 697.5039024353027,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/html data.md"
+                "file": "Daily/회고/2023년 10월 회고.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/html data.md",
+                "file": "Daily/회고/2023년 10월 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/html data.md",
+                "file": "Daily/회고/2023년 10월 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,8 +186,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "691a8ed02c0a5ef7",
   "lastOpenFiles": [
+    "Permanent Notes/html data.md",
     "Daily/회고/2023년 10월 회고.md",
     "_Drawer/Files/10월 회고 썸네일.png",
     "Daily/2023-11-14.md",
