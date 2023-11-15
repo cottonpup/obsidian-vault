@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5abcecc55dfbcb25",
+        "id": "e3814afb96b8bbcc",
         "type": "tabs",
         "children": [
           {
-            "id": "16d34a73bf18f79c",
+            "id": "5e8c5e44e55d29b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Temp/프론트엔드 면접대비.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Temp/프론트엔드 면접대비.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp/프론트엔드 면접대비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp/프론트엔드 면접대비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +177,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "16d34a73bf18f79c",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Courses",
+    "Temp/파인만 공부법.md",
+    "Temp/PARA 정리법.md",
+    "Temp/Controlled component vs Uncontrolled component.md",
+    "Temp/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
+    "Temp/생산적으로 사는 법.md",
+    "Temp/프론트엔드 면접대비.md",
     "Temp/task queue vs microtask queue.md",
     "Temp/What happens when you type google.com in your browser and press Enter.md",
     "Temp/declare keyword.md",
@@ -204,13 +205,6 @@
     "Temp/FLUX 디자인 패턴과 어디서 사용되는지.md",
     "Temp/CORS란?.md",
     "Temp/JavaScript 라이브러리에서 TypeScript 선언 파일을 생성할 수 있나요.md",
-    "Temp/html data.md",
-    "Temp/번들러란?.md",
-    "Temp/class와 function component의 차이점.md",
-    "Temp/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
-    "Temp/프로미스가 무엇인가.md",
-    "Temp/useReducer vs useState.md",
-    "Temp/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
     "_Drawer/Files/10월 회고 썸네일.png",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
@@ -226,7 +220,6 @@
     "Projects/실제면접 후기",
     "Projects/면접대비",
     "New",
-    "Untitled",
     "tracked_files.json",
     "Permanent Notes",
     "WIKI",
