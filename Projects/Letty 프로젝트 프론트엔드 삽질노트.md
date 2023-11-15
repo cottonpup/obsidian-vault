@@ -30,3 +30,4 @@
   - [ ] 카드 컴포넌트 헤더를 넘지않게 사이즈 조절 
   - [ ] [폰트 패밀리 설정](https://github.com/orioncactus/pretendard)
 # 2023-11-15 수요일
+- [ ] 반응형으로 제작
