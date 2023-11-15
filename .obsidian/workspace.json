@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -188,6 +188,7 @@
   },
   "active": "5e8c5e44e55d29b5",
   "lastOpenFiles": [
+    "Projects/2023-11-09 목요일.md",
     "Projects/Resume.io 프로젝트 스프린트.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
@@ -215,7 +216,6 @@
     "Temp/타입스크립트를 도입했을 때의 장점과 단점.md",
     "Temp/React.Children과 children prop의 차이.md",
     "Temp/Drawing 2023-10-16 13.14.39.excalidraw.md",
-    "Temp/TypeScript에서의 Ambient란 무엇이며 언제 사용하나요?.md",
     "_Drawer/Files/10월 회고 썸네일.png",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
