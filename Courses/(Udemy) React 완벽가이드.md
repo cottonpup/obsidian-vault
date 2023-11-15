@@ -17,5 +17,6 @@
 - [ ] `My Cart` 버튼을 눌렀을 때, 쇼핑카트 컴포넌트가 토글 (Show - Hide)
 - [ ] `Add to Cart` 버튼을 눌렀을 때, 카트에 추가하기
 	- [ ] 이미 카트에 추가되어있을 경우, 아이템의 양만 증가시키기
-- [ ] 
+	- [ ] `-`, `+` 상호작용 - 수가 1일 경우 
+- [ ] Favorite Products 리스트에서 Dummy Products 를 더 추가해도 됨
 # Section 21: Building a Multi-Page SPA with React Router
