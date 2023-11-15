@@ -19,4 +19,7 @@
 	- [ ] 이미 카트에 추가되어있을 경우, 아이템의 양만 증가시키기
 	- [ ] `-`, `+` 상호작용 - 수가 1일 경우 마이너스 버튼을 누르면 아이템을 쇼핑카드에서 제거
 - [ ] Favorite Products 리스트에서 Dummy Products 를 더 추가해도 됨
+
+https://redux-toolkit.js.org/tutorials/quick-start
+
 # Section 21: Building a Multi-Page SPA with React Router
