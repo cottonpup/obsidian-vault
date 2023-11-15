@@ -25,4 +25,6 @@ https://redux-toolkit.js.org/tutorials/quick-start
 - `initialState`에서 여러가지 값을 넣을 수 있는가?
 ----
 ### Redux 설치하기
+`npm install @reduxjs/toolkit react-redux` 
+
 # Section 21: Building a Multi-Page SPA with React Router
