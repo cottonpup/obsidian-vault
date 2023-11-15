@@ -14,6 +14,8 @@
 [Forked 예제코드](https://codesandbox.io/s/advanced-redux-forked-jftfqs?file=/src/App.js)
 ### 함께 구현하기 전에 혼자 구현해보기
 #### 요구사항
-- [ ] `My Cart`버튼을 눌렀을 때, 쇼핑카트 컴포넌트가 토글 (Show - Hide)
-- [ ] `Add`
+- [ ] `My Cart` 버튼을 눌렀을 때, 쇼핑카트 컴포넌트가 토글 (Show - Hide)
+- [ ] `Add to Cart` 버튼을 눌렀을 때, 카트에 추가하기
+	- [ ] 이미 카트에 추가되어있을 경우, 아이템의 양만 증가시키기
+- [ ] 
 # Section 21: Building a Multi-Page SPA with React Router
