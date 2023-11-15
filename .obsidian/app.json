@@ -3,7 +3,7 @@
   "mobilePullAction": "insert-template",
   "newFileLocation": "current",
   "newFileFolderPath": "Zettelkasten",
-  "attachmentFolderPath": "Files",
+  "attachmentFolderPath": "_Drawer/Files",
   "alwaysUpdateLinks": true,
   "showInlineTitle": true
 }
