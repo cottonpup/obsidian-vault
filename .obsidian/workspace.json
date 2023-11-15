@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-11-14.md",
+                "file": "Temp/useReducer vs useState.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "공통 컴포",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,13 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 697.5039024353027,
-    "collapsed": true
+    "width": 697.5039024353027
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-11-14.md"
+                "file": "Temp/useReducer vs useState.md"
               }
             }
           },
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-11-14.md",
+                "file": "Temp/useReducer vs useState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-11-14.md",
+                "file": "Temp/useReducer vs useState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,18 +187,19 @@
   },
   "active": "e0fd807d81288bd5",
   "lastOpenFiles": [
+    "_Drawer/겁쟁이들을 위한 스터디.md",
+    "Daily/2023-11-14.md",
     "Projects/ChatGPT 와 함께 프로젝트 만들기.md",
     "Daily/회고/2023년 10월 회고.md",
-    "Permanent Notes/html data.md",
+    "Temp/html data.md",
     "_Drawer/Files/10월 회고 썸네일.png",
-    "Daily/2023-11-14.md",
     "Templates/몽몽질문.md",
     "Daily/2023-11-13.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
-    "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
-    "Permanent Notes/생산적으로 사는 법.md",
-    "Literature Notes/PARA 정리법.md",
-    "Literature Notes/파인만 공부법.md",
+    "Temp/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
+    "Temp/생산적으로 사는 법.md",
+    "Temp/PARA 정리법.md",
+    "Temp/파인만 공부법.md",
     "_Drawer/몽몽 공부법.md",
     "_Drawer/백엔드 개발자를 위한 지식 대방출.md",
     "Fleeting Notes/90분 공부 3번하기.md",
@@ -215,7 +214,7 @@
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
     "_Drawer/Files/Screenshot 2023-11-10 at 13.26.01.png",
-    "Permanent Notes/useReducer vs useState.md",
+    "Temp/useReducer vs useState.md",
     "_Drawer/Files/Screenshot 2023-11-10 at 12.54.35.png",
     "_Drawer/Files/Screenshot 2023-11-09 at 16.02.04.png",
     "_Drawer/Files/Screenshot 2023-11-09 at 15.50.22.png",
@@ -226,7 +225,6 @@
     "Projects/Resume.io 프로젝트 스프린트.md",
     "copilot-conversations/Chat-2023_11_08-15_43_10.md",
     "copilot-conversations",
-    "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/실제면접 후기",
     "Projects/면접대비",
     "New",
