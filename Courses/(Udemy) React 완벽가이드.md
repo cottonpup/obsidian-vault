@@ -28,5 +28,7 @@ https://redux-toolkit.js.org/tutorials/quick-start
 `npm install @reduxjs/toolkit react-redux` 
 ### Redux store 폴더 만들기
 `src/store/index.js` store 디렉토리를 만드는 것이 컨벤션.
-### 
+### `cart-slice.js`와 `ui-slice.js` 파일 만들기
+`cart-slice.js`: Cart 
+`ui-slice.js`:
 # Section 21: Building a Multi-Page SPA with React Router
