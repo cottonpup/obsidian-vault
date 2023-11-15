@@ -10,5 +10,6 @@
 	- Inside the components (e.g via `useEffect()`)
 	- Inside the action creators
 ## 428. Refresher / Practice: Part 1/2
+https://codesandbox.io/s/advanced-redux-yu43d7
 
 # Section 21: Building a Multi-Page SPA with React Router
