@@ -31,3 +31,4 @@
   - [ ] [폰트 패밀리 설정](https://github.com/orioncactus/pretendard)
 # 2023-11-15 수요일
 - [ ] 반응형으로 제작
+2
