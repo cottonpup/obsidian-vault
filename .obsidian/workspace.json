@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Untitled.md",
+                "file": "Projects/SSAFY 에세이 제출하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Untitled.md"
+                "file": "Projects/SSAFY 에세이 제출하기.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Untitled.md",
+                "file": "Projects/SSAFY 에세이 제출하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Untitled.md",
+                "file": "Projects/SSAFY 에세이 제출하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +201,9 @@
   },
   "active": "f5b5480f28ee456d",
   "lastOpenFiles": [
+    "_Drawer/Files/Screenshot 2023-11-17 at 10.32.14.png",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
-    "Projects/Untitled.md",
+    "Projects/SSAFY 에세이 제출하기.md",
     "Courses/(Udemy) React 완벽가이드.md",
     "Projects/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
@@ -226,7 +227,6 @@
     "Temp/FLUX 디자인 패턴과 어디서 사용되는지.md",
     "Temp/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "Temp/URL, URI, URN이란.md",
-    "Temp/declare keyword.md",
     "Courses/(Udemy) React 완벽 가이드",
     "Courses",
     "_Drawer/Files/10월 회고 썸네일.png",
