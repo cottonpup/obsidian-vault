@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-10-20.md",
+                "file": "Daily/2023-11-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2023-10-20.md",
+            "file": "Daily/2023-11-14.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/2023-10-20.md",
+            "file": "Daily/2023-11-14.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/2023-10-20.md"
+            "file": "Daily/2023-11-14.md"
           }
         }
       },
@@ -151,14 +151,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "08c471288e8aa77e",
+  "active": "293556f088627cd3",
   "lastOpenFiles": [
+    "Daily/2023-10-20.md",
+    "_Drawer/Files/Screenshot 2023-10-01 at 17.18.51.png",
+    "_Drawer/Files/Screenshot 2023-10-01 at 19.39.43.png",
+    "_Drawer/Files/Screenshot 2023-07-20 at 11.58.36 AM.png",
+    "_Drawer/Files/10월 회고 썸네일.png",
+    "_Drawer/Files/Screenshot 2023-07-14 at 1.33.35 PM.png",
+    "_Drawer/Files/Screenshot 2023-07-17 at 9.51.59 PM.png",
+    "_Drawer/Files/Screenshot 2023-09-22 at 21.34.43.png",
+    "_Drawer/Files/Screenshot 2023-09-20 at 16.24.34.png",
+    "_Drawer/Files/Screenshot 2023-09-20 at 16.44.59.png",
+    "_Drawer/Files/Screenshot 2023-10-20 at 23.37.24.png",
+    "_Drawer/Files",
+    "_Drawer/백엔드 개발자를 위한 지식 대방출.md",
+    "_Drawer/몽몽 공부법.md",
+    "Daily/2023-11-14.md",
+    "Daily/회고/2023년 10월 회고.md",
+    "Daily/회고",
     "Daily/2023-10-05.md",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
     "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Files/Screenshot 2023-11-09 at 15.46.59.png",
-    "Files/Screenshot 2023-11-09 at 16.02.04.png",
-    "Files/Screenshot 2023-11-09 at 15.50.22.png",
     "Projects/ChatGPT 와 함께 프로젝트 만들기.md",
     "Projects/Resume.io 프로젝트 스프린트.md",
     "Projects/면접대비/프론트엔드 기본 면접문제.md",
