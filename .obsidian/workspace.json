@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+                "file": "Projects/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md"
+                "file": "Projects/Untitled.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+                "file": "Projects/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+                "file": "Projects/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +201,9 @@
   },
   "active": "f5b5480f28ee456d",
   "lastOpenFiles": [
-    "Courses/(Udemy) React 완벽가이드.md",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+    "Projects/Untitled.md",
+    "Courses/(Udemy) React 완벽가이드.md",
     "Projects/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
@@ -226,7 +227,6 @@
     "Temp/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "Temp/URL, URI, URN이란.md",
     "Temp/declare keyword.md",
-    "Temp/What happens when you type google.com in your browser and press Enter.md",
     "Courses/(Udemy) React 완벽 가이드",
     "Courses",
     "_Drawer/Files/10월 회고 썸네일.png",
