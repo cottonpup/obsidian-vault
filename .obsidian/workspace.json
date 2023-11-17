@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a29a037c6f9aca34",
+        "id": "799602632f2996a2",
         "type": "tabs",
         "children": [
           {
-            "id": "e0fd807d81288bd5",
+            "id": "1fb53fe32ea18d33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-11-14.md",
+                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5b5480f28ee456d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/SSAFY 에세이 제출하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "공통 컴포",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-11-14.md"
+                "file": "Projects/SSAFY 에세이 제출하기.md"
               }
             }
           },
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-11-14.md",
+                "file": "Projects/SSAFY 에세이 제출하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-11-14.md",
+                "file": "Projects/SSAFY 에세이 제출하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,54 +199,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0fd807d81288bd5",
+  "active": "f5b5480f28ee456d",
   "lastOpenFiles": [
-    "Projects/ChatGPT 와 함께 프로젝트 만들기.md",
-    "Daily/회고/2023년 10월 회고.md",
-    "Permanent Notes/html data.md",
-    "_Drawer/Files/10월 회고 썸네일.png",
-    "Daily/2023-11-14.md",
-    "Templates/몽몽질문.md",
-    "Daily/2023-11-13.md",
+    "_Drawer/Files/Screenshot 2023-11-17 at 10.32.14.png",
+    "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+    "Projects/SSAFY 에세이 제출하기.md",
+    "Courses/(Udemy) React 완벽가이드.md",
+    "Projects/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/면접대비/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/면접대비/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/면접대비/프론트엔드 기본 면접문제.md",
+    "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/Resume.io 프로젝트 스프린트.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
-    "Permanent Notes/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
-    "Permanent Notes/생산적으로 사는 법.md",
-    "Literature Notes/PARA 정리법.md",
-    "Literature Notes/파인만 공부법.md",
-    "_Drawer/몽몽 공부법.md",
-    "_Drawer/백엔드 개발자를 위한 지식 대방출.md",
-    "Fleeting Notes/90분 공부 3번하기.md",
-    "Fleeting Notes/Drawing 2023-10-18 21.00.57.excalidraw.md",
-    "Daily/2023-10-05.md",
-    "Daily/2023-10-20.md",
-    "Excalidraw/Drawing 2023-10-20 20.22.26.excalidraw.md",
+    "Temp/useReducer vs useState.md",
+    "Temp/프로미스가 무엇인가.md",
+    "Temp/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
+    "Temp/class와 function component의 차이점.md",
+    "Temp/번들러란?.md",
+    "Temp/html data.md",
+    "Temp/CORS란?.md",
+    "Temp/JavaScript 라이브러리에서 TypeScript 선언 파일을 생성할 수 있나요.md",
+    "Temp/TypeScript에서의 Ambient란 무엇이며 언제 사용하나요?.md",
+    "Temp/FLUX 디자인 패턴과 어디서 사용되는지.md",
+    "Temp/Drawing 2023-10-16 13.14.39.excalidraw.md",
+    "Temp/URL, URI, URN이란.md",
+    "Courses/(Udemy) React 완벽 가이드",
+    "Courses",
+    "_Drawer/Files/10월 회고 썸네일.png",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
     "_Drawer/Files/Screenshot 2023-11-10 at 13.26.01.png",
-    "Permanent Notes/useReducer vs useState.md",
     "_Drawer/Files/Screenshot 2023-11-10 at 12.54.35.png",
     "_Drawer/Files/Screenshot 2023-11-09 at 16.02.04.png",
     "_Drawer/Files/Screenshot 2023-11-09 at 15.50.22.png",
     "_Drawer/Files/Screenshot 2023-11-09 at 15.46.59.png",
     "Projects/Letty 프로젝트",
-    "Projects/Untitled.md",
-    "Projects/Resume.io 클론 프로젝트 분석하기.md",
-    "Projects/Resume.io 프로젝트 스프린트.md",
-    "copilot-conversations/Chat-2023_11_08-15_43_10.md",
     "copilot-conversations",
-    "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/실제면접 후기",
     "Projects/면접대비",
     "New",
-    "Untitled",
     "tracked_files.json",
     "Permanent Notes",
     "WIKI",
-    "Excalidraw/Scripts/Downloaded",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
