@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Projects/SSAFY 에세이 제출하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md"
+                "file": "Projects/SSAFY 에세이 제출하기.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Projects/SSAFY 에세이 제출하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Projects/SSAFY 에세이 제출하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,10 +186,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "1fb53fe32ea18d33",
   "lastOpenFiles": [
-    "Projects/카카오톡 겨울 인턴쉽 지원하기.md",
     "Courses/(Udemy) React 완벽가이드.md",
+    "Projects/카카오톡 겨울 인턴쉽 지원하기.md",
     "Projects/SSAFY 에세이 제출하기.md",
     "_Drawer/Files/Screenshot 2023-11-17 at 10.32.14.png",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
