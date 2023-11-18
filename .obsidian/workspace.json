@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ecdabd72066084c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Quotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/SSAFY 에세이 제출하기.md"
+                "file": "Projects/Quotes.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/SSAFY 에세이 제출하기.md",
+                "file": "Projects/Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/SSAFY 에세이 제출하기.md",
+                "file": "Projects/Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,11 +199,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1fb53fe32ea18d33",
+  "active": "5ecdabd72066084c",
   "lastOpenFiles": [
+    "_Drawer/Files/Screenshot 2023-11-18 at 17.52.31.png",
+    "Projects/SSAFY 에세이 제출하기.md",
+    "Projects/Quotes.md",
     "Courses/(Udemy) React 완벽가이드.md",
     "Projects/카카오톡 겨울 인턴쉽 지원하기.md",
-    "Projects/SSAFY 에세이 제출하기.md",
     "_Drawer/Files/Screenshot 2023-11-17 at 10.32.14.png",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
     "Projects/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
@@ -213,8 +228,6 @@
     "Temp/JavaScript 라이브러리에서 TypeScript 선언 파일을 생성할 수 있나요.md",
     "Temp/TypeScript에서의 Ambient란 무엇이며 언제 사용하나요?.md",
     "Temp/FLUX 디자인 패턴과 어디서 사용되는지.md",
-    "Temp/Drawing 2023-10-16 13.14.39.excalidraw.md",
-    "Temp/URL, URI, URN이란.md",
     "Courses/(Udemy) React 완벽 가이드",
     "Courses",
     "_Drawer/Files/10월 회고 썸네일.png",
