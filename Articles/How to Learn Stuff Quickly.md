@@ -9,6 +9,8 @@ tags:
 ### Making intentional mistakes
 **I might add it to a list of "things to explore later", if the rabbit hole seems to go too deep.**
 
+> [!faq]- ![[pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png | 40]]: The tutorial fade
+> 
 
 ---
 # References
