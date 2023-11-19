@@ -27,7 +27,7 @@ I've seen this strategy described as "one on, one off". Follow a guided resource
 
 > [!faq]- ![[pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png | 40]]: **Finding the right balance**
 > 
+> ![[Screenshot 2023-11-20 at 00.07.36.png]]
 
----
 # References
 1. https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/
