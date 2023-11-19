@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes.md",
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quotes.md"
+                "file": "Courses/(Udemy) React 완벽가이드.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes.md",
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quotes.md",
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +188,8 @@
   },
   "active": "1fb53fe32ea18d33",
   "lastOpenFiles": [
-    "_Drawer/Quotes.md",
     "Quotes.md",
+    "_Drawer/Quotes.md",
     "_Drawer/Files/Screenshot 2023-11-19 at 00.40.29.png",
     "Projects/SSAFY 에세이 제출하기.md",
     "Books",
