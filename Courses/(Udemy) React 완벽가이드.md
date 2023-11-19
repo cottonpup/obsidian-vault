@@ -194,7 +194,6 @@ createSlice({
 
 ## 428. Refresher / Practice: Part 2/2
 `store/cart-slice.js`
-
 ```js
 import { createSlice } from '@reduxjs/toolkit'
 
@@ -236,7 +235,6 @@ export default cartSlice;
 ```
 
 `src/store/index.js`
-
 ```js
 import { configureStore } from '@reduxjs/toolkit';
 
@@ -252,5 +250,36 @@ const store = configureStore({
 export default store;
 ```
 
+`components/Products.js`
+```js
+import ProductItem from './ProductItem';
+import classes from './Products.module.css';
+
+const DUMMY_PRODUCTS = [
+  {id: 'p1', price: 6, title: 'My First Book', description: 'My First book I ever wrote'},
+  {id: 'p2', price: 5, title: 'My second Book', description: 'My second book I ever wrote'} 
+]
+
+const Products = (props) => {
+  return (
+    <section className={classes.products}>
+      <h2>Buy your favorite products</h2>
+      <ul>
+       {DUMMY_PRODUCTS.map((product)=> {
+        <ProductItem
+        key={product.id}
+          title={product.title}
+          price={product.price}
+          description={product.description}
+        />
+       })}
+      </ul>
+    </section>
+  );
+};
+
+export default Products;
+
+```
 
 # Section 21: Building a Multi-Page SPA with React Router
