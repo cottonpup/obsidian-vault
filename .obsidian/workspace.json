@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "385ae95ad79ce4a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.51103591918945
+    "width": 217.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/How to Learn Stuff Quickly.md"
+                "file": "Courses/(Udemy) React 완벽가이드.md"
               }
             }
           },
@@ -130,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/How to Learn Stuff Quickly.md",
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/How to Learn Stuff Quickly.md",
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,12 +199,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1fb53fe32ea18d33",
+  "active": "385ae95ad79ce4a5",
   "lastOpenFiles": [
-    "_Drawer/Files/Screenshot 2023-11-20 at 00.07.36.png",
     "Articles/How to Learn Stuff Quickly.md",
-    "Articles",
     "Courses/(Udemy) React 완벽가이드.md",
+    "_Drawer/Files/Screenshot 2023-11-20 at 00.07.36.png",
+    "Articles",
     "Quotes.md",
     "_Drawer/Quotes.md",
     "_Drawer/Files/Screenshot 2023-11-19 at 00.40.29.png",
@@ -227,7 +241,6 @@
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "_Drawer/Files/Screenshot 2023-11-10 at 13.26.01.png",
     "Projects/Letty 프로젝트",
     "copilot-conversations",
     "Projects/실제면접 후기",
