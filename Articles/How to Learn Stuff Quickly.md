@@ -22,7 +22,7 @@ tags:
 - AI 플레이어 추가
 - 애니메이션, 사운드 이펙트, 콘페티 추가 
 ### Building related projects
-
+빙고와 같은 비슷한 프로젝트 빌드하기. 
 
 ---
 # References
