@@ -41,7 +41,5 @@ leitner box, a physical box
 1. Have you ever tried to explain something to someone, only to realize that you don't quite understand it as thoroughly as you thought you did? Writing a blog post has the same effect. It's the best way to uncover flaws/holes in your mental model, so you can fix them.
 2. The worst feeling in the world is hitting a bug that you _know_ you've solved before, but you can't remember how you solved it. If you had written a blog post about it, you could reference it!
 3. By sharing what you learn, you become an active participant in the dev community. You can make friends and connections. This can be fun and fulfilling, not to mention beneficial when it comes to finding a new job or starting a new enterprise!
-
-
 # References
 1. https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/
