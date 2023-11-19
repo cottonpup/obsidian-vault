@@ -160,4 +160,9 @@ root.render(
 );
 ```
 
+**`cart-slice.js`**
+```js
+
+```
+
 # Section 21: Building a Multi-Page SPA with React Router
