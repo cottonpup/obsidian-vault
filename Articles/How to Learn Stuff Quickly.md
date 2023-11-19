@@ -23,6 +23,10 @@ tags:
 - 애니메이션, 사운드 이펙트, 콘페티 추가 
 ### Building related projects
 빙고와 같은 비슷한 프로젝트 빌드하기. 
+I've seen this strategy described as "one on, one off". Follow a guided resource like a tutorial, and then spend an equal amount of time creating a similar (but unguided) project. If the tutorial shows you how to build an Instagram clone, try building a Twitter clone on your own!
+
+> [!faq]- ![[pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png | 40]]: **Finding the right balance**
+> 
 
 ---
 # References
