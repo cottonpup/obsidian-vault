@@ -95,7 +95,8 @@ root.render(
 
 ```
 
-`src/components/Cart/`
+**`src/components/Cart/CartButton.js`**
+카트가 보였다가 숨겨졌다가를 토글링하기 위해서 CartButto
 
 **`store/ui-slice.js`**
 ```js
