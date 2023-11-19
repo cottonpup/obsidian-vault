@@ -36,6 +36,8 @@ I've seen this strategy described as "one on, one off". Follow a guided resource
 **spaced repetition**
 leitner box, a physical box
 ## Building a daily habit
+일요일에 몰아서 7시간 공부하는 것보다 vs 일주일에 7시간을 공부하는 것이 더 효과적
+## Learning in public
 
 # References
 1. https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/
