@@ -78,7 +78,6 @@ export default store;
 
 **`src/index.js`**
 ```js
-import React from "react";
 import ReactDOM from 'react-dom/client'
 
 import "./index.css";
@@ -98,7 +97,6 @@ root.render(
 **`src/components/Cart/CartButton.js`**
 카트가 보였다가 숨겨졌다가를 토글링하기 위해서 CartButton 파일에 함수를 설정해주자
 ```js
-import React from "react";
 import classes from "./CartButton.module.css";
 import { uiActions } from "../../store/ui-slice";
 import { useDispatch } from "react-redux";
