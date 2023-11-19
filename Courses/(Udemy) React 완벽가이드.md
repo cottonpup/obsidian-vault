@@ -61,7 +61,25 @@ export const uiActions = uiSlice.actions;
 export default uiSlice;
 ```
 
+**`store/index.js`**
+```js
+import { configureStore } from '@reduxjs/toolkit';
 
+import uiSlice from './ui-slice';
+
+const store = configureStore({
+    reducer: {
+        ui: uiSlice.reducer
+    }
+})
+
+export default store;
+```
+
+**`src/index.js`**
+```js
+
+```
 
 **`store/ui-slice.js`**
 ```js
