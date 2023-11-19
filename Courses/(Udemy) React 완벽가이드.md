@@ -96,7 +96,10 @@ root.render(
 ```
 
 **`src/components/Cart/CartButton.js`**
-카트가 보였다가 숨겨졌다가를 토글링하기 위해서 CartButto
+카트가 보였다가 숨겨졌다가를 토글링하기 위해서 CartButton 파일에 함수를 설정해주자
+```js
+
+```
 
 **`store/ui-slice.js`**
 ```js
