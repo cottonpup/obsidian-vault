@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Projects/코딩연합.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.51103591918945,
-    "collapsed": true
+    "width": 217.51103591918945
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md"
+                "file": "Projects/코딩연합.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Projects/코딩연합.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Projects/코딩연합.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +200,9 @@
   },
   "active": "385ae95ad79ce4a5",
   "lastOpenFiles": [
-    "Articles/How to Learn Stuff Quickly.md",
     "Courses/(Udemy) React 완벽가이드.md",
+    "Projects/코딩연합.md",
+    "Articles/How to Learn Stuff Quickly.md",
     "_Drawer/Files/Screenshot 2023-11-20 at 00.07.36.png",
     "Articles",
     "Quotes.md",
