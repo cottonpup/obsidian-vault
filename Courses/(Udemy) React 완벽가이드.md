@@ -27,8 +27,8 @@ https://redux-toolkit.js.org/tutorials/quick-start
 ### Redux 설치하기
 `npm install @reduxjs/toolkit react-redux` 
 ### Redux store 폴더 만들기
-`src/store/index.js` 
-이름이 꼭 store 디렉토리를 만드는 것이 컨벤션.
+이름이 꼭 store일 필요는 없지만, 디렉토리 이름을 store로 만드는 것이 컨벤션.
+`store` 폴더 아래에 index.js
 ### cart-slice.js 와 ui-slice.js 파일 만들기
 `cart-slice.js`: `Cart` 컴포넌트안의 값을 관리하는 slice 파일
 `ui-slice.js`: `My Cart` 버튼을 눌렀을 때, `Cart` 컴포넌트가 토글되는 걸 관리하는 slice 파일
