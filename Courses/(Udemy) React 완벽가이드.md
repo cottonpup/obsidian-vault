@@ -61,6 +61,8 @@ export const uiActions = uiSlice.actions;
 export default uiSlice;
 ```
 
+
+
 **`store/ui-slice.js`**
 ```js
 
