@@ -235,4 +235,22 @@ export const cartActions = cartSlice.actions;
 export default cartSlice;
 ```
 
+`src/store/index.js`
+
+```js
+import { configureStore } from '@reduxjs/toolkit';
+
+import uiSlice from './ui-slice';
+import cartSlice from './cart-slice'
+
+const store = configureStore({
+    reducer: {
+        ui: uiSlice.reducer, cart: cartSlice.reducer
+    }
+})
+
+export default store;
+```
+
+
 # Section 21: Building a Multi-Page SPA with React Router
