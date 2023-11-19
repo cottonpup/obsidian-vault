@@ -35,6 +35,7 @@ I've seen this strategy described as "one on, one off". Follow a guided resource
 ## Remembering things
 **spaced repetition**
 leitner box, a physical box
+## Building a daily habit
 
 # References
 1. https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/
