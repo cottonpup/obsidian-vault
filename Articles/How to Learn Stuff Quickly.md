@@ -3,6 +3,11 @@ Created: 2023-11-19
 tags:
 ---
 # How to Learn Stuff Quickly
+
+Guided + Unguided 학습 방법을 섞을 것 의도적인 실수를 만들어 볼 것. (레빗홀에 빠질경우, Things to explore later 목록에 추가해놓기) 
+공식 튜토리얼을 따라 만든 프로젝트에 흥미로운 기능들 추가해보기 
+이력서에 좋아보이는 프로젝트가 아닌 진심으로 즐기는 것을 빌드하기 꾸준함이 더 효과적
+
 ## Mixing guided and unguided learning
 1. **Guided:** Reading a tutorial, taking a course, watching a YouTube video. Anything where you're following a guide.
 2. **Unguided:** Creating your own projects from scratch, extending a tutorial, looking things up in the docs. Anything where you aren't following a guide.
