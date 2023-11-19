@@ -20,6 +20,8 @@
 	- [ ] `-`, `+` 상호작용 - 수가 1일 경우 마이너스 버튼을 누르면 아이템을 쇼핑카드에서 제거
 - [ ] Favorite Products 리스트에서 Dummy Products 를 더 추가해도 됨
 
+`😭 실패 ㅠ `
+
 https://redux-toolkit.js.org/tutorials/quick-start
 
 - `initialState`에서 여러가지 값을 넣을 수 있는가?
@@ -189,5 +191,7 @@ createSlice({
     }
 })
 ```
+
+## 428. Refresher / Practice: Part 2/2
 
 # Section 21: Building a Multi-Page SPA with React Router
