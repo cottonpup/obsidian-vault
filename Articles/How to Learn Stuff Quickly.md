@@ -15,6 +15,12 @@ tags:
 > 3. Repeat this process until you can complete the tutorial start-to-finish without looking at the instructions.
 ### Extending tutorials
 공식 튜토리얼을 따라 만든 프로젝트에 원하는 기능을 하나씩 추가해보기
+틱택토 프로젝트
+- 보드 사이즈 조절가능
+- UI 향상
+- 얼마나 이겼는지 스코어 트랙킹
+- AI 플레이어 추가
+- 애니메이션, 사운드 이펙트, 콘페티 추가 
 ### Building related projects
 
 
