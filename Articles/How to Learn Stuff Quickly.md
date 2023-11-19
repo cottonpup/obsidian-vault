@@ -31,6 +31,8 @@ I've seen this strategy described as "one on, one off". Follow a guided resource
 > 
 
 ## Mindset cultivation
+이력서에 좋아보일 것을 빌드하지말고 진심으로 즐기는 것을 빌드하기
+## Remembering things
 
 # References
 1. https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/
