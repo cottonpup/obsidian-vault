@@ -14,7 +14,8 @@ tags:
 > 2. When you've finished, reset the code to the initial state, and minimize the tutorial. See how far you can get **without looking at the tutorial**. When you get stuck, pull the tutorial back up, but minimize it again once you've unblocked yourself.
 > 3. Repeat this process until you can complete the tutorial start-to-finish without looking at the instructions.
 ### Extending tutorials
-
+공식 튜토리얼을 따라 만든 프로젝트에 원하는 기능을 하나씩 추가해보기
+### Building related projects
 
 
 ---
