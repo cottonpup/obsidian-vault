@@ -95,6 +95,8 @@ root.render(
 
 ```
 
+`src/components/Cart/`
+
 **`store/ui-slice.js`**
 ```js
 
