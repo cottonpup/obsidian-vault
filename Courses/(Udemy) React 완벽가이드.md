@@ -34,5 +34,30 @@ https://redux-toolkit.js.org/tutorials/quick-start
 - `store` 폴더 아래에 cart-slice.js 와 ui-slice.js 파일 만들기
 	- `cart-slice.js`: `Cart` 컴포넌트안의 값을 관리하는 slice 파일
 	- `ui-slice.js`: `My Cart` 버튼을 눌렀을 때, `Cart` 컴포넌트가 토글되는 걸 관리하는 slice 파일
-### 
+### ui-slice.js 와 cart-slice.js, index.js 셋업하기
+
+```js
+import { createSlice } from '@reduxjs/toolkit'
+
+const uiSlice = createSlice({
+    name: 'ui',
+    initialState: {
+        cartIsVisible: false
+    },
+    reducers: {
+        toggle(state){
+            // We are not really mutating the state now
+            // Redux toolkit will capture this code
+            // and use another third party library Immer to ensure
+            // that this is actually translated to some immutable code
+            // which creates a new state object instead of manipulating the existing one.
+            state.cartIsVisible = !state.cartIsVisible
+        }
+    }
+});
+
+export const uiActions = uiSlice.actions;
+
+export default uiSlice;
+```
 # Section 21: Building a Multi-Page SPA with React Router
