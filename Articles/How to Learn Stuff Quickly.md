@@ -4,6 +4,9 @@ tags:
 ---
 # How to Learn Stuff Quickly
 ## Mixing guided and unguided learning
+1. **Guided:** Reading a tutorial, taking a course, watching a YouTube video. Anything where you're following a guide.
+2. **Unguided:** Creating your own projects from scratch, extending a tutorial, looking things up in the docs. Anything where you aren't following a guide.
+
 
 
 ---
