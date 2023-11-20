@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "799602632f2996a2",
+        "id": "f65ca4eaa2d81b9d",
         "type": "tabs",
         "children": [
           {
-            "id": "385ae95ad79ce4a5",
+            "id": "a91bd76be7c7e805",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/첫번째 모임 - 아이스 브레이킹.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.51103591918945
+    "width": 317.51103591918945
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -111,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/첫번째 모임 - 아이스 브레이킹.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/첫번째 모임 - 아이스 브레이킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/첫번째 모임 - 아이스 브레이킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,12 +177,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "385ae95ad79ce4a5",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
-    "Projects/코딩연합 팀프로젝트 멘토링 1기.md",
+    "Projects/코딩연합",
+    "Projects/코딩연합/첫번째 모임 - 아이스 브레이킹.md",
+    "Projects/코딩연합/코딩연합 팀프로젝트 멘토링 1기.md",
     "Articles/How to Learn Stuff Quickly.md",
     "Courses/(Udemy) React 완벽가이드.md",
-    "Projects/첫번째 모임 - 아이스 브레이킹.md",
     "_Drawer/Files/Screenshot 2023-11-20 at 00.07.36.png",
     "Articles",
     "Quotes.md",
@@ -220,7 +213,6 @@
     "Temp/class와 function component의 차이점.md",
     "Temp/번들러란?.md",
     "Temp/html data.md",
-    "Temp/CORS란?.md",
     "Courses/(Udemy) React 완벽 가이드",
     "Courses",
     "_Drawer/Files/10월 회고 썸네일.png",
