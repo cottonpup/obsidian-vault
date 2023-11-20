@@ -11,8 +11,12 @@
             "id": "a91bd76be7c7e805",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.51103591918945
+    "width": 317.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/(Udemy) React 완벽가이드.md"
+              }
             }
           },
           {
@@ -124,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
