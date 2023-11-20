@@ -283,5 +283,8 @@ export default Products;
 ```
 
 `src/components/ProductItem`
+```js
+
+```
 
 # Section 21: Building a Multi-Page SPA with React Router
