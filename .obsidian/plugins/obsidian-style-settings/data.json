@@ -5,15 +5,5 @@
   "primary-ceciliamay@@h4": "0.648em",
   "primary-ceciliamay@@h5": "0.388em",
   "primary-ceciliamay@@h6": "0.188em",
-  "sanctum@@font-editor-theme": "\"\"",
-  "obsidian-prism-theme@@light-mark-highlight-style": "pt-highlight-style-borderandfilled-lt",
-  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-peach-lt",
-  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-two-tone-and-border-lt",
-  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-pink-lt",
-  "obsidian-prism-theme@@highlight-text-accent-lt": "pt-highlight-text-accent-lt",
-  "obsidian-prism-theme@@inline-title-color-lt": "var(--text-normal)",
-  "obsidian-prism-theme@@h1-text-color-lt": "var(--color-cyan-text)",
-  "obsidian-prism-theme@@h2-text-color-lt": "var(--color-cyan-text)",
-  "obsidian-prism-theme@@h3-text-color-lt": "var(--color-cyan-text)",
-  "obsidian-prism-theme@@h4-text-color-lt": "var(--color-cyan-text)"
+  "sanctum@@font-editor-theme": "\"\""
 }
