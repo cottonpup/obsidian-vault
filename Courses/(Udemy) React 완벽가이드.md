@@ -410,6 +410,9 @@ export default Products;
 > Reducers 는 반드시 순수함수, 사이드 이펙트 프리, 동기적 함수여야한다.
 > `Input(Old State + Action) ---> Output(New State)`
 
+> [!success] 그럼 어디에 넣을 수 있나요?
+> 1. 컴포넌트 안에(e.g `useEffect()`)
+> 2. 
 
 
 # Section 21: Building a Multi-Page SPA with React Router
