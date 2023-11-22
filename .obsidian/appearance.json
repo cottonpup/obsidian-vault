@@ -3,9 +3,7 @@
   "cssTheme": "Obsidian Nord",
   "theme": "moonstone",
   "baseFontSize": 15,
-  "enabledCssSnippets": [
-    "snippet"
-  ],
+  "enabledCssSnippets": [],
   "textFontFamily": "Hiragino Sans CNS",
   "interfaceFontFamily": "Hiragino Sans CNS"
 }
