@@ -397,8 +397,7 @@ export default Products;
    Redux Toolkit에서 `createSlice` API를 임포트 해서 사용해준다.
    immer 로 인해 mutating 하게 작성가능.
 4. Slice Reducers를 Store에 추가하기
-  `counterSlice.js`에서 reducer 함수를 임포트해서 store에 추가해준다. reducer 매개변수를 안에서 정의함으로서, slice 리듀서 함수가 statedm
-   we need to import the reducer function from the counter slice and add it to our store. By defining a field inside the `reducer` parameter, we tell the store to use this slice reducer function to handle all updates to that state.
+  `counterSlice.js`에서 reducer 함수를 임포트해서 store에 추가해준다. reducer 매개변수를 안에서 정의함으로서, slice 리듀서 함수가 state의 모든 업데이트를 책임진다.
 5. Add Slice Reducers to the Store[​](https://redux-toolkit.js.org/tutorials/quick-start#add-slice-reducers-to-the-store "Direct link to heading")
    Next, we need to import the reducer function from the counter slice and add it to our store. By defining a field inside the `reducer` parameter, we tell the store to use this slice reducer function to handle all updates to that state.
 6. Use Redux State and Actions in React Components[​](https://redux-toolkit.js.org/tutorials/quick-start#use-redux-state-and-actions-in-react-components "Direct link to heading")
