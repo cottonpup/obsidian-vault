@@ -2,5 +2,8 @@
   "accentColor": "#8fd6c1",
   "cssTheme": "Origami",
   "theme": "moonstone",
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "snippet"
+  ]
 }
