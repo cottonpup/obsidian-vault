@@ -375,10 +375,8 @@ export default Products;
 ```
 
 ### 궁금증들
-
-![[Screenshot 2023-11-22 at 11.16.07.png]]
-- [x] `components` 디렉토리 아래에 있는 `Cart`, `Layout`, `Shop`, `UI` 디렉토리들의 차이점은? 특히 `UI` 디렉토리의 목적은?
-      ![[Screenshot 2023-11-22 at 11.18.49.png]]`UI` 디렉토리는 `Card`와 같은 공통 컴포넌트 보관.
+- `components` 디렉토리 아래에 있는 `Cart`, `Layout`, `Shop`, `UI` 디렉토리들의 차이점은? 특히 `UI` 디렉토리의 목적은?
+  ![[Screenshot 2023-11-22 at 11.18.49.png]]`UI` 디렉토리는 `Card`와 같은 공통 컴포넌트 보관.
 - [x] `features/cart` 디렉토리와 `store` 디렉토리의 차이? `cartSlice.js` 와 `cart-slice.js` 파일의 차이?
       ![[Screenshot 2023-11-22 at 11.19.14.png]]
       
