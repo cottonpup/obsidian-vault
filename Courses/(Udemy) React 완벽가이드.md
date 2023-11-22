@@ -375,13 +375,13 @@ export default Products;
 ```
 
 ### 궁금증들
-- `components` 디렉토리 아래에 있는 `Cart`, `Layout`, `Shop`, `UI` 디렉토리들의 차이점은? 특히 `UI` 디렉토리의 목적은?
-  ![[Screenshot 2023-11-22 at 11.18.49.png]]
+
+- `components` 디렉토리 아래에 있는 `Cart`, `Layout`, `Shop`, `UI` 디렉토리들의 차이점은? 특히 `UI` 디렉토리의 목적은?![[Screenshot 2023-11-22 at 11.18.49.png]]
   - **`Layout 디렉토리`**: 
 	  - 애플리케이션의 전체 구조나 레이아웃을 정의하는 컴포넌트.
   - **`UI 디렉토리`**: 
-	  - 재사용 가능한 작은 UI 인터페이스 컴폰
+	  - 여러 곳에서 재사용 가능한 작은 UI 인터페이스 개별요소 컴포넌트.
   
-- `features/cart` 디렉토리와 `store` 디렉토리의 차이? `cartSlice.js` 와 `cart-slice.js` 파일의 차이?
-  ![[Screenshot 2023-11-22 at 11.19.14.png]]
+- `features/cart` 디렉토리와 `store` 디렉토리의 차이? `cartSlice.js` 와 `cart-slice.js` 파일의 차이?![[Screenshot 2023-11-22 at 11.19.14.png]]
+
 # Section 21: Building a Multi-Page SPA with React Router
