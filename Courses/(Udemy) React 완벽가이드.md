@@ -386,6 +386,7 @@ export default Products;
 
 ### [리덕스 툴킷 튜토리얼 살펴보기](https://redux-toolkit.js.org/tutorials/quick-start)
 강의만 듣는 걸론 이해가 잘 안된다. 
+
 1. Redux Store 만들기
    `app/store.js` 파일을 만들어서 `configureStore` API를 임포트해준다.
    - Redux Store 형성.
@@ -395,7 +396,8 @@ export default Products;
 3. `src/features/counter/counterSlice.js` 를 만들어준다.
    Redux Toolkit에서 `createSlice` API를 임포트 해서 사용해준다.
    immer 로 인해 mutating 하게 작성가능.
-4. 
+4. Slice Reducers를 Store에 추가하기
+5. 
 
 ## 430. Redux & Async Code
 
