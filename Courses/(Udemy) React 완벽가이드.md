@@ -390,7 +390,9 @@ export default Products;
    `app/store.js` 파일을 만들어서 `configureStore` API를 임포트해준다.
    - Redux Store 형성.
    - Redux DevTools extension 을 사용하게 해준다.
-2. 
+2. Redux Store를 React에 제공하기
+   리액트 컴포넌트를 React-Redux `<Provider>` around our application in `src/index.js`. Import the Redux store we just created, put a `<Provider>` around your `<App>`, and pass the store as a prop
+3. 
 
 ## 430. Redux & Async Code
 
