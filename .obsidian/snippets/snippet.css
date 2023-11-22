@@ -1,4 +1,4 @@
-span.cm-inline-code {
+.cm-s-obsidian .cm-inline-code:not(.cm-formatting) {
     background: #d0d0d5;
     color: #0a0a23;
 }
