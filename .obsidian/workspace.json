@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+                "file": "Projects/프로그래머스 레벨 2 문제풀이.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md"
+                "file": "Projects/프로그래머스 레벨 2 문제풀이.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+                "file": "Projects/프로그래머스 레벨 2 문제풀이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+                "file": "Projects/프로그래머스 레벨 2 문제풀이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +187,8 @@
   },
   "active": "a91bd76be7c7e805",
   "lastOpenFiles": [
-    "Projects/Resume.io 프로젝트 스프린트.md",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+    "Projects/Resume.io 프로젝트 스프린트.md",
     "Projects/SSAFY 에세이 제출하기.md",
     "Daily/2023-11-14.md",
     "Daily/회고/2023년 10월 회고.md",
