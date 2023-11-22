@@ -387,21 +387,15 @@ export default Products;
 ### [리덕스 툴킷 튜토리얼 살펴보기](https://redux-toolkit.js.org/tutorials/quick-start)
 강의만 듣는 걸론 이해가 잘 안된다. 
 
-1. Redux Store 만들기
-   `app/store.js` 파일을 만들어서 `configureStore` API를 임포트해준다.
-   - Redux Store 형성.
-   - Redux DevTools extension 을 사용하게 해준다.
-2. Redux Store를 React에 제공하기
-   `src/index.js`에서 앱을 React-Redux의 `<Provider>`로 감싸준다. 방금 만든 Redux Store를 임포트해서, `<App>`을 감싼 `<Provider>`에 Redux Store를 store prop으로 넘겨준다. 
-3. `src/features/counter/counterSlice.js` 를 만들어준다.
-   Redux Toolkit에서 `createSlice` API를 임포트 해서 사용해준다.
-   immer 로 인해 mutating 하게 작성가능.
-4. Slice Reducers를 Store에 추가하기
-  `counterSlice.js`에서 reducer 함수를 임포트해서 store에 추가해준다. reducer 매개변수를 안에서 정의함으로서, slice 리듀서 함수가 state의 모든 업데이트를 책임진다.
-5. Add Slice Reducers to the Store[​](https://redux-toolkit.js.org/tutorials/quick-start#add-slice-reducers-to-the-store "Direct link to heading")
-   Next, we need to import the reducer function from the counter slice and add it to our store. By defining a field inside the `reducer` parameter, we tell the store to use this slice reducer function to handle all updates to that state.
-6. Use Redux State and Actions in React Components[​](https://redux-toolkit.js.org/tutorials/quick-start#use-redux-state-and-actions-in-react-components "Direct link to heading")
-   Now we can use the React-Redux hooks to let React components interact with the Redux store. We can read data from the store with `useSelector`, and dispatch actions using `useDispatch`. Create a `src/features/counter/Counter.js` file with a `<Counter>` component inside, then import that component into `App.js` and render it inside of `<App>`.
+1. Redux 저장소를 만들려면, `app/store.js` 파일을 생성하고 `configureStore` API를 가져와서 사용하세요.
+   - 이는 Redux 저장소를 구성합니다.
+   - Redux DevTools 확장 프로그램 사용이 가능하게 합니다.
+2. Redux 저장소를 React 컴포넌트에 제공하려면, `src/index.js`에서 `Provider` 컴포넌트를 사용하여 앱을 감싸세요. 이때 방금 만든 Redux 저장소를 `store` 속성으로 `<Provider>`에 전달합니다.
+3. `src/features/counter/counterSlice.js` 파일을 생성합니다.
+   - Redux Toolkit에서 제공하는 `createSlice` API를 가져와 사용하세요.
+   - `immer` 라이브러리를 사용하면 상태를 직접 변경(mutating)하는 방식으로 코드를 작성할 수 있습니다.
+4. 슬라이스 리듀서를 저장소에 추가하려면, `counterSlice.js`에서 리듀서 함수를 가져와서 저장소에 추가하세요. `reducer` 매개변수 내에서 필드를 정의함으로써 해당 상태의 모든 업데이트를 해당 슬라이스 리듀서 함수가 처리하도록 합니다.
+5. Redux 상태와 액션을 React 컴포넌트에서 사용하려면, React-Redux 훅을 사용하여 컴포넌트가 Redux 저장소와 상호작용할 수 있게 합니다. `useSelector`를 사용하여 저장소에서 데이터를 읽고, `useDispatch`를 사용하여 액션을 발행할 수 있습니다. `src/features/counter/Counter.js` 파일에 `<Counter>` 컴포넌트를 생성하고, 이 컴포넌트를 `App.js`에 가져와 `<App>` 내부에 렌더링하세요.
 
 ## 430. Redux & Async Code
 
