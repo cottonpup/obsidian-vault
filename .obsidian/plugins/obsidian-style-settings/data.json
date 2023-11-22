@@ -7,7 +7,7 @@
   "primary-ceciliamay@@h6": "0.188em",
   "sanctum@@font-editor-theme": "\"\"",
   "o-theme-settings@@o-font-title": "General Sans",
-  "o-theme-settings@@s-ul-cards": false,
+  "o-theme-settings@@s-ul-cards": true,
   "o-theme-settings@@o-color-accent": "o-blue",
   "o-theme-settings@@o-border": "var(--solid-border)",
   "o-theme-settings@@ul-background-gradient": false,
@@ -18,9 +18,13 @@
   "o-theme-settings@@ul-tag-border": false,
   "o-theme-settings@@ul-left-collapse-btn-border": false,
   "o-theme-settings@@ul-square-tabs": false,
-  "o-theme-settings@@fancy-callouts2": true,
+  "o-theme-settings@@fancy-callouts2": false,
   "o-theme-settings@@s-o-frontmatter": false,
   "o-theme-settings@@o-canvas-center": false,
   "o-theme-settings@@o-faintselect": false,
-  "o-theme-settings@@o-accent-title": false
+  "o-theme-settings@@o-accent-title": false,
+  "o-theme-settings@@s-ul-cards-border": false,
+  "o-theme-settings@@nav-line": false,
+  "o-theme-settings@@s-header-lapel": false,
+  "o-theme-settings@@o-folders": "none"
 }
