@@ -374,5 +374,7 @@ const Products = () => {
 export default Products;
 ```
 
+### 궁금증들
+
 
 # Section 21: Building a Multi-Page SPA with React Router
