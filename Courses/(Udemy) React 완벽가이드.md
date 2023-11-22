@@ -402,7 +402,6 @@ export default Products;
    - `useSelector`로 저장소에서 데이터를 읽습니다.
    - `useDispatch`로 액션을 발행합니다.
    - `src/features/counter/Counter.js` 파일을 생성하고 `<Counter>` 컴포넌트를 `App.js`에 렌더링하세요.
-
 ## 430. Redux & Async Code
 
 
