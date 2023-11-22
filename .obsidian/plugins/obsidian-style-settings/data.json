@@ -5,5 +5,8 @@
   "primary-ceciliamay@@h4": "0.648em",
   "primary-ceciliamay@@h5": "0.388em",
   "primary-ceciliamay@@h6": "0.188em",
-  "sanctum@@font-editor-theme": "\"\""
+  "sanctum@@font-editor-theme": "\"\"",
+  "obsidian-prism-theme@@light-mark-highlight-style": "pt-highlight-style-borderandfilled-lt",
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-peach-lt",
+  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-border-lt"
 }
