@@ -386,6 +386,8 @@ export default Products;
 
 ### [리덕스 툴킷 튜토리얼 살펴보기](https://redux-toolkit.js.org/tutorials/quick-start)
 강의만 듣는 걸론 이해가 잘 안된다. 
+1. Redux Store 만들기
+2. 
 
 ## 430. Redux & Async Code
 
