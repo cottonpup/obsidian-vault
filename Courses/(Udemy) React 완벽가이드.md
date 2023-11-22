@@ -11,7 +11,6 @@
 	- Inside the action creators
 ## 📒 428. Refresher / Practice: Part 1/2
 [예제코드](https://codesandbox.io/s/advanced-redux-yu43d7)
-[Forked 예제코드](https://codesandbox.io/s/advanced-redux-forked-jftfqs?file=/src/App.js)
 ### 🐿️ 함께 구현하기 전에 혼자 구현해보기
 #### 요구사항
 - [ ] `My Cart` 버튼을 눌렀을 때, 쇼핑카트 컴포넌트가 토글 (Show - Hide)
@@ -20,7 +19,7 @@
 	- [ ] `-`, `+` 상호작용 - 수가 1일 경우 마이너스 버튼을 누르면 아이템을 쇼핑카드에서 제거
 - [ ] Favorite Products 리스트에서 Dummy Products 를 더 추가해도 됨
 
-`😭 실패 ㅠ `
+1. 1차시도 ->`😭 실패 ㅠ `
 
 https://redux-toolkit.js.org/tutorials/quick-start
 
