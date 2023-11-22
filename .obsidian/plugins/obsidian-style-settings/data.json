@@ -8,5 +8,7 @@
   "sanctum@@font-editor-theme": "\"\"",
   "obsidian-prism-theme@@light-mark-highlight-style": "pt-highlight-style-borderandfilled-lt",
   "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-peach-lt",
-  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-border-lt"
+  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-two-tone-and-border-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-pink-lt",
+  "obsidian-prism-theme@@highlight-text-accent-lt": "pt-highlight-text-accent-lt"
 }
