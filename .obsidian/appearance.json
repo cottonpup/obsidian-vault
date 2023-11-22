@@ -1,9 +1,7 @@
 {
-  "accentColor": "#8fd6c1",
+  "accentColor": "",
   "cssTheme": "Origami",
   "theme": "moonstone",
   "baseFontSize": 15,
-  "enabledCssSnippets": [
-    "snippet"
-  ]
+  "enabledCssSnippets": []
 }
