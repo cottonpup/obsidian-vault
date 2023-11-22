@@ -26,5 +26,6 @@
   "o-theme-settings@@s-ul-cards-border": false,
   "o-theme-settings@@nav-line": false,
   "o-theme-settings@@s-header-lapel": false,
-  "o-theme-settings@@o-folders": "none"
+  "o-theme-settings@@o-folders": "none",
+  "o-theme-settings@@o-theme-light": "o-accent-bg-lowcon-l"
 }
