@@ -12,7 +12,7 @@
 ## 📒 428. Refresher / Practice: Part 1/2
 [예제코드](https://codesandbox.io/s/advanced-redux-yu43d7)
 [Forked 예제코드](https://codesandbox.io/s/advanced-redux-forked-jftfqs?file=/src/App.js)
-### 함께 구현하기 전에 혼자 구현해보기
+### 🐿️ 함께 구현하기 전에 혼자 구현해보기
 #### 요구사항
 - [ ] `My Cart` 버튼을 눌렀을 때, 쇼핑카트 컴포넌트가 토글 (Show - Hide)
 - [ ] `Add to Cart` 버튼을 눌렀을 때, 카트에 추가하기
