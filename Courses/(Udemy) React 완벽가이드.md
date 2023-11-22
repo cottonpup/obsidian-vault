@@ -406,6 +406,10 @@ export default Products;
 `Firebase` 를 사용해서 실시간 데이터베이스를 업데이트하자!
 
 > [!question] 리듀서안에 HTTP 리퀘스트를 날려도 되나요?
-> **NOPE**, Reducers 는 반드시 순수함수, 사이드 이펙트 프리, 동기적 함수여야한다.
+> **NOPE**, 동기적 코드건 비동기적 코드건 리듀서 안에서 사이드 이펙트를 주어선 안된다.
+> Reducers 는 반드시 순수함수, 사이드 이펙트 프리, 동기적 함수여야한다.
 > `Input(Old State + Action) ---> Output(New State)`
+
+
+
 # Section 21: Building a Multi-Page SPA with React Router
