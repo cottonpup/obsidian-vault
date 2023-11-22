@@ -387,7 +387,9 @@ export default Products;
 ### [리덕스 툴킷 튜토리얼 살펴보기](https://redux-toolkit.js.org/tutorials/quick-start)
 강의만 듣는 걸론 이해가 잘 안된다. 
 1. Redux Store 만들기
-   `configureStore` API를 임포트해준다.
+   `app/store.js` 파일을 만들어서 `configureStore` API를 임포트해준다.
+   - Redux Store 형성.
+   - Redux DevTools extension 을 사용하게 해준다.
 2. 
 
 ## 430. Redux & Async Code
