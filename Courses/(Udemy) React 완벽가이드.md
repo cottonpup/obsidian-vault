@@ -381,4 +381,8 @@ export default Products;
 	  - 애플리케이션의 전체 구조나 레이아웃을 정의하는 컴포넌트.
   - **`UI 디렉토리`**: 
 	  - 여러 곳에서 재사용 가능한 작은 UI 인터페이스 개별요소 컴포넌트.
+
+[Practice - 01](https://codesandbox.io/p/devbox/advanced-redux-forked-3dc8g3?file=%2Fsrc%2Fstore%2Fcart-slice.js%3A25%2C8)
+
+## 
 # Section 21: Building a Multi-Page SPA with React Router
