@@ -376,5 +376,6 @@ export default Products;
 
 ### 궁금증들
 ![[Screenshot 2023-11-22 at 11.16.07.png]]
-- [ ] `components` 폴
+- [x] `components` 디렉토리 아래에 있는 `Cart`, `Layout`, `Shop`, `UI` 디렉토리들의 차이점은? 특히 `UI` 디렉토리의 목적은?
+	- [x] 
 # Section 21: Building a Multi-Page SPA with React Router
