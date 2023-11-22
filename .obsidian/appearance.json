@@ -1,6 +1,6 @@
 {
   "accentColor": "#8fd6c1",
-  "cssTheme": "",
+  "cssTheme": "Material Gruvbox",
   "theme": "moonstone",
   "baseFontSize": 15
 }
