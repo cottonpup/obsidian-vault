@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
-                "mode": "source",
+                "file": "Daily/2023-11-22.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md"
+                "file": "Daily/2023-11-22.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Daily/2023-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Daily/2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,12 +187,13 @@
   },
   "active": "52c74bfa52f069ac",
   "lastOpenFiles": [
+    "_Drawer/Files/Screenshot 2023-11-22 at 21.48.40.png",
+    "Courses/(Udemy) React 완벽가이드.md",
     "Daily/2023-11-22.md",
     "_Drawer/Files/IMG_8755.jpeg",
     "_Drawer/Files/IMG_8755.png",
     "Daily/2023-11-14.md",
     "Daily/회고/2023년 10월 회고.md",
-    "Courses/(Udemy) React 완벽가이드.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
     "Projects/Resume.io 프로젝트 스프린트.md",
