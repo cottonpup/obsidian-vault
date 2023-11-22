@@ -383,5 +383,6 @@ export default Products;
 	  - 여러 곳에서 재사용 가능한 작은 UI 인터페이스 개별요소 컴포넌트.
   
 - `features/cart` 디렉토리와 `store` 디렉토리의 차이? `cartSlice.js` 와 `cart-slice.js` 파일의 차이?![[Screenshot 2023-11-22 at 11.19.14.png]]
+`features/cart/`
 
 # Section 21: Building a Multi-Page SPA with React Router
