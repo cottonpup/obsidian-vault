@@ -375,6 +375,6 @@ export default Products;
 ```
 
 ### 궁금증들
-
-
+![[Screenshot 2023-11-22 at 11.16.07.png]]
+- [ ] `components` 폴
 # Section 21: Building a Multi-Page SPA with React Router
