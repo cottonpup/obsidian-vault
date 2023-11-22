@@ -3,7 +3,5 @@
   "cssTheme": "Origami",
   "theme": "moonstone",
   "baseFontSize": 15,
-  "enabledCssSnippets": [
-    "snippet"
-  ]
+  "enabledCssSnippets": []
 }
