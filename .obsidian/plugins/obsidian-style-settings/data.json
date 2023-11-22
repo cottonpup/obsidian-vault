@@ -8,6 +8,7 @@
   "sanctum@@font-editor-theme": "\"\"",
   "o-theme-settings@@o-font-title": "General Sans",
   "o-theme-settings@@s-ul-cards": false,
-  "o-theme-settings@@o-color-accent": "o-green",
-  "o-theme-settings@@o-border": "var(--dashed-border)"
+  "o-theme-settings@@o-color-accent": "o-pink",
+  "o-theme-settings@@o-border": "var(--dashed-border)",
+  "o-theme-settings@@ul-background-gradient": false
 }
