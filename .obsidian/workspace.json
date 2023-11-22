@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f65ca4eaa2d81b9d",
+        "id": "f390d6f23ce76db7",
         "type": "tabs",
         "children": [
           {
-            "id": "a91bd76be7c7e805",
+            "id": "5b07083303362932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-11-22.md",
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273
+    "width": 303.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-11-22.md"
+                "file": "Courses/(Udemy) React 완벽가이드.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-11-22.md",
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-11-22.md",
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,12 +186,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a91bd76be7c7e805",
+  "active": "5b07083303362932",
   "lastOpenFiles": [
+    "Daily/2023-11-22.md",
     "_Drawer/Files/IMG_8755.jpeg",
     "_Drawer/Files/IMG_8755.png",
     "Daily/2023-11-14.md",
-    "Daily/2023-11-22.md",
     "Daily/회고/2023년 10월 회고.md",
     "Courses/(Udemy) React 완벽가이드.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
@@ -228,7 +229,6 @@
     "Temp/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
     "Courses/(Udemy) React 완벽 가이드",
     "Courses",
-    "_Drawer/Files/10월 회고 썸네일.png",
     "Projects/Letty 프로젝트",
     "copilot-conversations",
     "Projects/실제면접 후기",
