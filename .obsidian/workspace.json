@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0a3654486d257cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273
+    "width": 303.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-11-22.md"
+                "file": "Courses/(Udemy) React 완벽가이드.md"
               }
             }
           },
@@ -130,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-11-22.md",
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-11-22.md",
+                "file": "Courses/(Udemy) React 완벽가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,11 +199,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "52c74bfa52f069ac",
+  "active": "e0a3654486d257cc",
   "lastOpenFiles": [
+    "Daily/2023-11-22.md",
     "_Drawer/Files/Screenshot 2023-11-22 at 21.48.40.png",
     "Courses/(Udemy) React 완벽가이드.md",
-    "Daily/2023-11-22.md",
     "_Drawer/Files/IMG_8755.jpeg",
     "_Drawer/Files/IMG_8755.png",
     "Daily/2023-11-14.md",
@@ -215,7 +229,6 @@
     "_Drawer/Files/Screenshot 2023-11-14 at 10.46.58.png",
     "_Drawer/Files/Screen Recording 2023-11-13 at 14.12.17.mov",
     "_Drawer/Files/Screenshot 2023-11-18 at 17.52.31.png",
-    "_Drawer/Files/Screenshot 2023-11-17 at 10.32.14.png",
     "Projects/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
