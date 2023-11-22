@@ -397,6 +397,7 @@ export default Products;
    Redux Toolkit에서 `createSlice` API를 임포트 해서 사용해준다.
    immer 로 인해 mutating 하게 작성가능.
 4. Slice Reducers를 Store에 추가하기
+   we need to import the reducer function from the counter slice and add it to our store. By defining a field inside the `reducer` parameter, we tell the store to use this slice reducer function to handle all updates to that state.
 5. 
 
 ## 430. Redux & Async Code
