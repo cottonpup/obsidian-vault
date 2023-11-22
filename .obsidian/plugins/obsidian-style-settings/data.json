@@ -13,5 +13,7 @@
   "o-theme-settings@@ul-background-gradient": false,
   "o-theme-settings@@o-colorfo-headings": true,
   "o-theme-settings@@fancy-callouts": false,
-  "o-theme-settings@@o-osxcode": true
+  "o-theme-settings@@o-osxcode": true,
+  "o-theme-settings@@o-float-tabs": false,
+  "o-theme-settings@@ul-tag-border": false
 }
