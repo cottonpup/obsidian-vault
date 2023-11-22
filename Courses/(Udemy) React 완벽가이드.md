@@ -403,7 +403,7 @@ export default Products;
    - `useDispatch`로 액션을 발행합니다.
    - `src/features/counter/Counter.js` 파일을 생성하고 `<Counter>` 컴포넌트를 `App.js`에 렌더링하세요.
 ## 430. Redux & Async Code
-Firebase 를 사용해서 실시간 데이터베이스를 업데이트하자!
+`Firebase` 를 사용해서 실시간 데이터베이스를 업데이트하자!
 
 
 # Section 21: Building a Multi-Page SPA with React Router

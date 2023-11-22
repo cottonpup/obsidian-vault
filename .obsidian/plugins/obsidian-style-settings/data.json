@@ -8,7 +8,7 @@
   "sanctum@@font-editor-theme": "\"\"",
   "o-theme-settings@@o-font-title": "General Sans",
   "o-theme-settings@@s-ul-cards": true,
-  "o-theme-settings@@o-color-accent": "o-blue",
+  "o-theme-settings@@o-color-accent": "o-pink",
   "o-theme-settings@@o-border": "var(--dashed-border)",
   "o-theme-settings@@ul-background-gradient": false,
   "o-theme-settings@@o-colorfo-headings": true,
@@ -27,5 +27,5 @@
   "o-theme-settings@@nav-line": false,
   "o-theme-settings@@s-header-lapel": false,
   "o-theme-settings@@o-folders": "none",
-  "o-theme-settings@@o-theme-light": "o-accent-bg-lowcon-l"
+  "o-theme-settings@@o-theme-light": "o-con-l"
 }
