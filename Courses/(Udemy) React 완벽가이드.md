@@ -1,5 +1,5 @@
-# Section 20: Advanced Redux
-## 427. Redux & Side Effects (and Asynchronous Code)
+# 💻 Section 20: Advanced Redux
+## 📒 427. Redux & Side Effects (and Asynchronous Code)
 - Reducers must be **pure**, **side-effect free**, **synchronous functions**.
 	- 순수함수
 	- 부수효과 없음
@@ -9,7 +9,7 @@
 - Where should side-effects(부수효과가 있고) and async(비동기 코드들은 어디에 넣어야 하나요?) tasks be executed? 
 	- Inside the components (e.g via `useEffect()`)
 	- Inside the action creators
-## 428. Refresher / Practice: Part 1/2
+## 📒 428. Refresher / Practice: Part 1/2
 [예제코드](https://codesandbox.io/s/advanced-redux-yu43d7)
 [Forked 예제코드](https://codesandbox.io/s/advanced-redux-forked-jftfqs?file=/src/App.js)
 ### 함께 구현하기 전에 혼자 구현해보기
@@ -192,7 +192,7 @@ createSlice({
 })
 ```
 
-## 428. Refresher / Practice: Part 2/2
+## 📒 428. Refresher / Practice: Part 2/2
 `store/cart-slice.js`
 ```js
 import { createSlice } from '@reduxjs/toolkit'
@@ -374,7 +374,7 @@ const Products = () => {
 export default Products;
 ```
 
-### 궁금증들
+### 💭 궁금증들
 
 - `components` 디렉토리 아래에 있는 `Cart`, `Layout`, `Shop`, `UI` 디렉토리들의 차이점은? 특히 `UI` 디렉토리의 목적은?![[Screenshot 2023-11-22 at 11.18.49.png]]
   - **`Layout 디렉토리`**: 
