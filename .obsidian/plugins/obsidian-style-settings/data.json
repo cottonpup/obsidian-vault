@@ -9,7 +9,7 @@
   "o-theme-settings@@o-font-title": "General Sans",
   "o-theme-settings@@s-ul-cards": true,
   "o-theme-settings@@o-color-accent": "o-blue",
-  "o-theme-settings@@o-border": "var(--solid-border)",
+  "o-theme-settings@@o-border": "var(--dashed-border)",
   "o-theme-settings@@ul-background-gradient": false,
   "o-theme-settings@@o-colorfo-headings": true,
   "o-theme-settings@@fancy-callouts": false,
