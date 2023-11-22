@@ -4,7 +4,7 @@
   "theme": "moonstone",
   "baseFontSize": 15,
   "enabledCssSnippets": [],
-  "textFontFamily": "Nanum Gothic",
+  "textFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "Nanum Gothic",
   "monospaceFontFamily": "JetBrains Mono"
 }
