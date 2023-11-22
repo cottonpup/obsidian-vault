@@ -392,7 +392,8 @@ export default Products;
    - Redux DevTools extension 을 사용하게 해준다.
 2. Redux Store를 React에 제공하기
    `src/index.js`에서 앱을 React-Redux의 `<Provider>`로 감싸준다. 방금 만든 Redux Store를 임포트해서, `<App>`을 감싼 `<Provider>`에 Redux Store를 store prop으로 넘겨준다. 
-3. src/features/counter/counterSlice.js
+3. `src/features/counter/counterSlice.js` 를 만들어준다.
+   Redux Toolkit에서 `createSlice` API를 임포트 해서 사용해준다.
 
 ## 430. Redux & Async Code
 
