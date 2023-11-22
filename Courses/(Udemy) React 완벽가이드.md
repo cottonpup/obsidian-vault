@@ -412,7 +412,6 @@ export default Products;
 
 > [!success] 그럼 어디에 넣을 수 있나요?
 > 1. 컴포넌트 안에(e.g `useEffect()`)
-> 2. 
-
+> 2. `action creators` 안에
 
 # Section 21: Building a Multi-Page SPA with React Router
