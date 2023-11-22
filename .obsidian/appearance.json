@@ -5,5 +5,7 @@
   "baseFontSize": 15,
   "enabledCssSnippets": [
     "snippet"
-  ]
+  ],
+  "textFontFamily": "Apple SD Gothic Neo",
+  "interfaceFontFamily": "Apple SD Gothic Neo"
 }
