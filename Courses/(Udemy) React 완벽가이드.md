@@ -405,6 +405,7 @@ export default Products;
 ## 430. Redux & Async Code
 `Firebase` 를 사용해서 실시간 데이터베이스를 업데이트하자!
 
+
 Reducers 는 반드시 순수함수, 사이드 이펙트 프리, 동기적 함수여야한다.
 `Input(Old State + Action) ---> Output(New State)`
 # Section 21: Building a Multi-Page SPA with React Router
