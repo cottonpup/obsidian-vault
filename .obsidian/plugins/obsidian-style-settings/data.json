@@ -18,5 +18,9 @@
   "o-theme-settings@@ul-tag-border": false,
   "o-theme-settings@@ul-left-collapse-btn-border": false,
   "o-theme-settings@@ul-square-tabs": false,
-  "o-theme-settings@@fancy-callouts2": true
+  "o-theme-settings@@fancy-callouts2": true,
+  "o-theme-settings@@s-o-frontmatter": false,
+  "o-theme-settings@@o-canvas-center": false,
+  "o-theme-settings@@o-faintselect": false,
+  "o-theme-settings@@o-accent-title": false
 }
