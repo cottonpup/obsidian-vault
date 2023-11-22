@@ -383,6 +383,89 @@ export default Products;
 	  - 여러 곳에서 재사용 가능한 작은 UI 인터페이스 개별요소 컴포넌트.
   
 - `features/cart` 디렉토리와 `store` 디렉토리의 차이? `cartSlice.js` 와 `cart-slice.js` 파일의 차이?![[Screenshot 2023-11-22 at 11.19.14.png]]
-`features/cart/`
+`features/cart/cartSlice.js`
+```js
+import { createSlice } from "@reduxjs/toolkit";
+
+const initialState = {
+  value: 0,
+  toggleCart: false,
+};
+
+export const cartSlice = createSlice({
+  name: "cart",
+  initialState,
+  reducers: {
+    increment: (state) => {
+      // Redux Toolkit allows us to write "mutating" logic in reducers. It
+      // doesn't actually mutate the state because it uses the Immer library,
+      // which detects changes to a "draft state" and produces a brand new
+      // immutable state based off those changes
+      state.value += 1;
+    },
+    decrement: (state) => {
+      state.value -= 1;
+    },
+    toggleCart: (state) => {
+      console.log(state.toggleCart);
+      state.toggleCart = !state.toggleCart;
+    },
+  },
+});
+
+// Action creators are generated for each case reducer function
+export const { increment, decrement, toggleCart } = cartSlice.actions;
+
+export default cartSlice.reducer;
+
+```
+
+`store/cart-slice.js`
+```js
+import { createSlice } from "@reduxjs/toolkit";
+
+const cartSlice = createSlice({
+  name: "cart",
+  initialState: {
+    items: [],
+    totalQuantity: 0,
+  },
+  reducers: {
+    addItemToCart(state, action) {
+      const newItem = action.payload;
+      const existingItem = state.items.find((item) => item.id === newItem.id);
+      state.totalQuantity++;
+      if (!existingItem) {
+        state.items.push({
+          itemId: newItem.id,
+          price: newItem.price,
+          quantity: 1,
+          totalPrice: newItem.price,
+          name: newItem.title,
+        });
+      } else {
+        existingItem.quantity++;
+        existingItem.totalPrice = existingItem.totalPrice + newItem.price;
+      }
+    },
+    removeItemFromCart(state, action) {
+      const id = action.payload;
+      const existingItem = state.items.find((item) => item.id === id);
+      state.totalQuantity--;
+      if (existingItem.quantity === 1) {
+        state.items = state.items.filter((item) => item.id !== id);
+      } else {
+        existingItem.quantity--;
+        existingItem.totalPrice = existingItem.totalPrice - existingItem.price;
+      }
+    },
+  },
+});
+
+export const cartActions = cartSlice.actions;
+
+export default cartSlice;
+
+```
 
 # Section 21: Building a Multi-Page SPA with React Router
