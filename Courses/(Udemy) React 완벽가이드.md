@@ -387,15 +387,21 @@ export default Products;
 ### [리덕스 툴킷 튜토리얼 살펴보기](https://redux-toolkit.js.org/tutorials/quick-start)
 강의만 듣는 걸론 이해가 잘 안된다. 
 
-1. Redux 저장소를 만들려면, `app/store.js` 파일을 생성하고 `configureStore` API를 가져와서 사용하세요.
-   - 이는 Redux 저장소를 구성합니다.
-   - Redux DevTools 확장 프로그램 사용이 가능하게 합니다.
-2. Redux 저장소를 React 컴포넌트에 제공하려면, `src/index.js`에서 `Provider` 컴포넌트를 사용하여 앱을 감싸세요. 이때 방금 만든 Redux 저장소를 `store` 속성으로 `<Provider>`에 전달합니다.
-3. `src/features/counter/counterSlice.js` 파일을 생성합니다.
-   - Redux Toolkit에서 제공하는 `createSlice` API를 가져와 사용하세요.
-   - `immer` 라이브러리를 사용하면 상태를 직접 변경(mutating)하는 방식으로 코드를 작성할 수 있습니다.
-4. 슬라이스 리듀서를 저장소에 추가하려면, `counterSlice.js`에서 리듀서 함수를 가져와서 저장소에 추가하세요. `reducer` 매개변수 내에서 필드를 정의함으로써 해당 상태의 모든 업데이트를 해당 슬라이스 리듀서 함수가 처리하도록 합니다.
-5. Redux 상태와 액션을 React 컴포넌트에서 사용하려면, React-Redux 훅을 사용하여 컴포넌트가 Redux 저장소와 상호작용할 수 있게 합니다. `useSelector`를 사용하여 저장소에서 데이터를 읽고, `useDispatch`를 사용하여 액션을 발행할 수 있습니다. `src/features/counter/Counter.js` 파일에 `<Counter>` 컴포넌트를 생성하고, 이 컴포넌트를 `App.js`에 가져와 `<App>` 내부에 렌더링하세요.
+1. `app/store.js` 파일을 생성하고 `configureStore` API를 사용하여 Redux 저장소를 만드세요.
+   - 이 API는 Redux 저장소를 구성합니다.
+   - Redux DevTools 확장 기능 사용을 가능하게 합니다.
+2. `src/index.js` 파일에서 `Provider` 컴포넌트로 React 앱을 감싸고, 만들어진 Redux 저장소를 `store` 속성으로 전달해 React 컴포넌트에 Redux 저장소를 제공하세요.
+   - `Provider` 컴포넌트는 React-Redux에 포함됩니다.
+   - `<App>` 컴포넌트를 감싸는 데 사용됩니다.
+3. `src/features/counter/counterSlice.js` 파일을 만들고 `createSlice` API를 사용하여 Redux "slice" 리듀서를 생성하세요.
+   - `immer`를 사용하여 상태를 직접 변경하는 코드 작성이 가능합니다.
+   - 생성된 슬라이스 리듀서와 액션 생성 함수들을 내보냅니다.
+4. `counterSlice.js`에서 리듀서 함수를 가져와서 저장소의 `reducer` 매개변수에 추가함으로써 슬라이스 리듀서를 저장소에 추가하세요.
+   - 이 리듀서는 해당 상태의 모든 업데이트를 처리합니다.
+5. React 컴포넌트에서 Redux 상태와 액션을 사용하려면, `useSelector`와 `useDispatch` 훅을 사용하세요.
+   - `useSelector`로 저장소에서 데이터를 읽습니다.
+   - `useDispatch`로 액션을 발행합니다.
+   - `src/features/counter/Counter.js` 파일을 생성하고 `<Counter>` 컴포넌트를 `App.js`에 렌더링하세요.
 
 ## 430. Redux & Async Code
 
