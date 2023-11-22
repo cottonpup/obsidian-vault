@@ -15,5 +15,7 @@
   "o-theme-settings@@fancy-callouts": false,
   "o-theme-settings@@o-osxcode": true,
   "o-theme-settings@@o-float-tabs": false,
-  "o-theme-settings@@ul-tag-border": false
+  "o-theme-settings@@ul-tag-border": false,
+  "o-theme-settings@@ul-left-collapse-btn-border": false,
+  "o-theme-settings@@ul-square-tabs": false
 }
