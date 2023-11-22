@@ -414,4 +414,11 @@ export default Products;
 > 1. 컴포넌트 안에(e.g `useEffect()`)
 > 2. `action creators` 안에
 
+## 431. Frontend Code vs Backend Code
+
+## 432. Where To Put Our Logic
+
+## 433. Using useEffect with Redux
+
+
 # Section 21: Building a Multi-Page SPA with React Router
