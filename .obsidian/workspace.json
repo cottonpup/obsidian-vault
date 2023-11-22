@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273
+    "width": 303.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -185,7 +186,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "52c74bfa52f069ac",
   "lastOpenFiles": [
     "Daily/2023-11-22.md",
     "_Drawer/Files/IMG_8755.jpeg",
