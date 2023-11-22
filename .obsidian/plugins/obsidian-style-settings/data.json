@@ -17,5 +17,6 @@
   "o-theme-settings@@o-float-tabs": false,
   "o-theme-settings@@ul-tag-border": false,
   "o-theme-settings@@ul-left-collapse-btn-border": false,
-  "o-theme-settings@@ul-square-tabs": false
+  "o-theme-settings@@ul-square-tabs": false,
+  "o-theme-settings@@fancy-callouts2": true
 }
