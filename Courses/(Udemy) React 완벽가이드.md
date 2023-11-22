@@ -377,5 +377,5 @@ export default Products;
 ### 궁금증들
 ![[Screenshot 2023-11-22 at 11.16.07.png]]
 - [x] `components` 디렉토리 아래에 있는 `Cart`, `Layout`, `Shop`, `UI` 디렉토리들의 차이점은? 특히 `UI` 디렉토리의 목적은?
-	- [x] 
+	- [x] `UI`는 `Card`와 같은 컴포넌트
 # Section 21: Building a Multi-Page SPA with React Router
