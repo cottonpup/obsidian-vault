@@ -397,9 +397,12 @@ export default Products;
    Redux Toolkit에서 `createSlice` API를 임포트 해서 사용해준다.
    immer 로 인해 mutating 하게 작성가능.
 4. Slice Reducers를 Store에 추가하기
+  ` counterSlice.js`
    we need to import the reducer function from the counter slice and add it to our store. By defining a field inside the `reducer` parameter, we tell the store to use this slice reducer function to handle all updates to that state.
 5. Add Slice Reducers to the Store[​](https://redux-toolkit.js.org/tutorials/quick-start#add-slice-reducers-to-the-store "Direct link to heading")
    Next, we need to import the reducer function from the counter slice and add it to our store. By defining a field inside the `reducer` parameter, we tell the store to use this slice reducer function to handle all updates to that state.
+6. Use Redux State and Actions in React Components[​](https://redux-toolkit.js.org/tutorials/quick-start#use-redux-state-and-actions-in-react-components "Direct link to heading")
+   Now we can use the React-Redux hooks to let React components interact with the Redux store. We can read data from the store with `useSelector`, and dispatch actions using `useDispatch`. Create a `src/features/counter/Counter.js` file with a `<Counter>` component inside, then import that component into `App.js` and render it inside of `<App>`.
 
 ## 430. Redux & Async Code
 
