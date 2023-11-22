@@ -383,7 +383,6 @@ export default Products;
 	  - 여러 곳에서 재사용 가능한 작은 UI 인터페이스 개별요소 컴포넌트.
 
 [Practice - 01](https://codesandbox.io/p/devbox/advanced-redux-forked-3dc8g3?file=%2Fsrc%2Fstore%2Fcart-slice.js%3A25%2C8)
-
 ## 430. Redux & Async Code
 
 
