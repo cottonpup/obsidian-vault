@@ -426,8 +426,8 @@ export default Products;
 
 ## 📒 431. Frontend Code vs Backend Code
 **Server side code**? 
-Allows you to add your own code on the Firebase backend which can triggered for incoming requests and which would allow you to transform data on the backend.
-![[Screenshot 2023-11-23 at 14.29.40.png | 100]] ![[Screenshot 2023-11-23 at 14.29.40.png | 500]] 
+Allows you to **add your own code on the Firebase backend** which can triggered for incoming requests and which would allow you to transform data on the backend.
+![[Screenshot 2023-11-23 at 14.29.40.png | 500]]
 ## 📒 432. Where To Put Our Logic
 
 ## 📒 433. Using useEffect with Redux
