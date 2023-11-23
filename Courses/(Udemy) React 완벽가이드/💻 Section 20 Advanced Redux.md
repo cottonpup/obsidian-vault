@@ -444,7 +444,7 @@ Frontend Code Depends On Backend Code
 
 [Practice](https://codesandbox.io/p/devbox/432-where-to-put-our-logic-89zwk2?file=%2Fsrc%2Fstore%2Fcart-slice.js)
 
-You must never mutate Redux state. Especially, don't do it outsid
+You must never mutate Redux state. Especially, don't do it outside reducers.
 
 ## 📒 433. Using useEffect with Redux
 
