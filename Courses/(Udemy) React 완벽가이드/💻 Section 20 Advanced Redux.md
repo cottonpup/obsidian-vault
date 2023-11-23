@@ -495,6 +495,9 @@ export default App;
 
 ```
 
+401 Error code 를 받았는데 아래에 있는 rules들을 모두 true 값으로 변경하니까 작동했다. 
+![[Screenshot 2023-11-23 at 23.15.00.png]]
+
 ## 📒 434. A Problem with useEffect()
 ## 📒 435. Handling Http States & Feedback with Redux
 ## 📒 436. Using an Action Creator Thunk
