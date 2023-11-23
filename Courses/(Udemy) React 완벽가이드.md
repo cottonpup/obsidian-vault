@@ -6,7 +6,12 @@
 	- [[#📒 431. Frontend Code vs Backend Code]]
 	- [[#📒 432. Where To Put Our Logic]]
 	- [[#📒 433. Using useEffect with Redux]]
-	- [[#4]]
+	- [[#📒 434. A Problem with useEffect()]]
+	- [[#📒 435. Handling Http States & Feedback with Redux]]
+	- [[#📒 436. Using an Action Creator Thunk]]
+	- [[#📒 437. Finalizing the Fetching Logic]]
+	- [[#📒 438. Getting Started with Fetching Data]]
+	- [[]]
 
 ----
 # 💻 Section 20: Advanced Redux
