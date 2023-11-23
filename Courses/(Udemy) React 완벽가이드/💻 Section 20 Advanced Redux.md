@@ -442,20 +442,20 @@ Frontend Code Depends On Backend Code
 > 1. Inside the **components** (e.g. via `useEffect()`)
 > 2. Inside the **action creators**
 
-[Practice](https://codesandbox.io/p/devbox/432-where-to-put-our-logic-89zwk2?file=%2Fsrc%2Fstore%2Fcart-slice.js)
-
 You must never mutate Redux state. Especially, don't do it outside reducers.
 
 ### Fat Reducers vs Fat Components vs Fat Actions
 Where should your logic(=code) go?
-- Synchronous, side-effect free code
+- **Synchronous, side-effect free code**
 	- Prefer reducers
 	- Avoid action creators or components
-- Async code or code with side-effects
-	- Prefer action
-
+- **Async code or code with side-effects**
+	- Prefer action creators or components
+	- Never use reducers!
 
 ## 📒 433. Using useEffect with Redux
+
+
 
 ## 📒 434. A Problem with useEffect()
 ## 📒 435. Handling Http States & Feedback with Redux
