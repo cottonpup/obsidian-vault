@@ -17,8 +17,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Courses/(Udemy) React 완벽가이드.md",
-                    "mode": "preview",
+                    "file": "Courses/(Udemy) React 완벽가이드/(Udemy) React 완벽가이드 - Section 20 Advanced Redux.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -47,7 +47,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Courses/(Udemy) React 완벽가이드.md",
+                    "file": "Courses/(Udemy) React 완벽가이드/(Udemy) React 완벽가이드 - Section 20 Advanced Redux.md",
                     "mode": "source",
                     "source": false
                   }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273,
-    "collapsed": true
+    "width": 303.50390243530273
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md"
+                "file": "Courses/(Udemy) React 완벽가이드/(Udemy) React 완벽가이드 - Section 20 Advanced Redux.md"
               }
             }
           },
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Courses/(Udemy) React 완벽가이드/(Udemy) React 완벽가이드 - Section 20 Advanced Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "Courses/(Udemy) React 완벽가이드/(Udemy) React 완벽가이드 - Section 20 Advanced Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,11 +222,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0a3654486d257cc",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Courses/(Udemy) React 완벽가이드",
     "_Drawer/Files/Screenshot 2023-11-23 at 14.29.40.png",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
-    "Courses/(Udemy) React 완벽가이드.md",
+    "Courses/(Udemy) React 완벽가이드/(Udemy) React 완벽가이드 - Section 20 Advanced Redux.md",
     "Daily/2023-11-22.md",
     "잡아바 어플라이.md",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.29.05.png",
@@ -239,7 +239,6 @@
     "_Drawer/Files/Screenshot 2023-11-23 at 13.08.30.png",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.09.22.png",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.12.48.png",
-    "_Drawer/Files/Screenshot 2023-11-23 at 13.10.03.png",
     "Daily/2023-11-14.md",
     "Daily/회고/2023년 10월 회고.md",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
