@@ -509,7 +509,8 @@ HTTP Request 의 결과값을 알고싶다면, 개발자 도구에서 `Network` 
 
 👿 `useEffect()` 의 문제점: 
 - 앱이 시작할 때, 실행될 것이다.
-	- 빈 카드 데이터를 백엔드에 보내고 
+	- 초기(빈) cart 데이터를 백엔드에 보내는 것이 문제가 될 수 있습니다.
+	  Why?
 
 ## 📒 435. Handling Http States & Feedback with Redux
 
