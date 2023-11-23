@@ -13,7 +13,7 @@
 	- [[#📒 438. Getting Started with Fetching Data]]
 	- [[#📒 439. Exploring the Redux DevTools]]
 	- [[#📒 440. Summary]]
-[[#💻 Section 21 Building a Multi-Page SPA with React Router]]
+
 ----
 # 💻 Section 20: Advanced Redux
 ## 📒 427. Redux & Side Effects (and Asynchronous Code)
@@ -450,4 +450,3 @@ Frontend Code Depends On Backend Code
 ## 📒 438. Getting Started with Fetching Data
 ## 📒 439. Exploring the Redux DevTools
 ## 📒 440. Summary
-# 💻 Section 21: Building a Multi-Page SPA with React Router
