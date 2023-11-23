@@ -2,7 +2,8 @@
 	- [[#📒 427. Redux & Side Effects (and Asynchronous Code)]]
 	- [[#📒 428. Refresher / Practice Part 1/2]]
 	- [[#📒 429. Refresher / Practice Part 2/2]]
-	- [[#430. Redux & Async Code]]
+	- [[#📒 430. Redux & Async Code]]
+	- [[#📒 431. Frontend Code vs Backend Code]]
 
 ----
 # 💻 Section 20: Advanced Redux
@@ -409,7 +410,7 @@ export default Products;
    - `useSelector`로 저장소에서 데이터를 읽습니다.
    - `useDispatch`로 액션을 발행합니다.
    - `src/features/counter/Counter.js` 파일을 생성하고 `<Counter>` 컴포넌트를 `App.js`에 렌더링하세요.
-## 430. Redux & Async Code
+## 📒 430. Redux & Async Code
 `Firebase` 를 사용해서 실시간 데이터베이스를 업데이트하자!
 
 > [!question] 리듀서안에 HTTP 리퀘스트를 날려도 되나요?
@@ -421,12 +422,12 @@ export default Products;
 > 1. 컴포넌트 안에(e.g `useEffect()`)
 > 2. `action creators` 안에
 
-## 431. Frontend Code vs Backend Code
+## 📒 431. Frontend Code vs Backend Code
 
 
-## 432. Where To Put Our Logic
+## 📒 432. Where To Put Our Logic
 
-## 433. Using useEffect with Redux
+## 📒 433. Using useEffect with Redux
 
 
 # Section 21: Building a Multi-Page SPA with React Router
