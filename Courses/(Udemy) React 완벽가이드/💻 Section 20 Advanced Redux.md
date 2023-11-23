@@ -444,7 +444,7 @@ Frontend Code Depends On Backend Code
 
 You must never mutate Redux state. Especially, don't do it outside reducers.
 
-[컴포넌트안에 복잡한 로직을 넣어](https://github.com/academind/react-complete-guide-course-resources/tree/main/code/20%20Advanced%20Redux/zz-suboptimal-example-code/src)
+[컴포넌트안에 복잡한 로직을 넣었을 때 예시](https://github.com/academind/react-complete-guide-course-resources/blob/main/code/20%20Advanced%20Redux/zz-suboptimal-example-code/src/components/Shop/ProductItem.js)
 ### Fat Reducers vs Fat Components vs Fat Actions
 Where should your logic(=code) go?
 - **Synchronous, side-effect free code**
