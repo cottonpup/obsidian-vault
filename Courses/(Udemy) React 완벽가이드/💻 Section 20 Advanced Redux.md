@@ -478,9 +478,10 @@ function App() {
     // cart.json 노드를 타겟! -> Will create a new cart Node in the database
       "https://advanced-redux-165c1-default-rtdb.firebaseio.com/cart.json",
       {
-      // `POST` 메서드랑 다른 점
-      // 새로운 데이터 리스트에 들어가지 않고 존재하는 데이터에 Overriding 하는 형태
+	    // `PUT`이 `POST` 메서드랑 다른 점
+	    // 새로운 데이터 리스트에 들어가지 않고 존재하는 데이터에 Overriding 하는 형태
         method: "PUT",
+        //
         body: JSON.stringify(cart),
       },
     );
