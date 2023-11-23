@@ -475,9 +475,10 @@ function App() {
   // 2. We send the request of the updated store
   useEffect(() => {
     fetch(
-    // cart.json 노드를 타겟!
+    // cart.json 노드를 타겟! -> Will create a new cart Node in the database
       "https://advanced-redux-165c1-default-rtdb.firebaseio.com/cart.json",
       {
+      // Do store data
         method: "PUT",
         body: JSON.stringify(cart),
       },
