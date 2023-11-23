@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "10922a1b12ccd10d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "잡아바 어플라이.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "잡아바 어플라이.md"
+                "file": "Daily/2023-11-22.md"
               }
             }
           },
@@ -155,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잡아바 어플라이.md",
+                "file": "Daily/2023-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "잡아바 어플라이.md",
+                "file": "Daily/2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +197,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "10922a1b12ccd10d",
+  "active": "52c74bfa52f069ac",
   "lastOpenFiles": [
+    "Courses/(Udemy) React 완벽가이드.md",
+    "잡아바 어플라이.md",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.29.05.png",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.28.36.png",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.27.44.png",
@@ -222,9 +211,6 @@
     "_Drawer/Files/Screenshot 2023-11-23 at 13.09.22.png",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.12.48.png",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.10.03.png",
-    "_Drawer/Files/Screenshot 2023-11-23 at 13.21.48.png",
-    "Courses/(Udemy) React 완벽가이드.md",
-    "잡아바 어플라이.md",
     "Daily/2023-11-22.md",
     "Daily/2023-11-14.md",
     "Daily/회고/2023년 10월 회고.md",
