@@ -426,6 +426,7 @@ export default Products;
 
 ## 📒 431. Frontend Code vs Backend Code
 
+
 ## 📒 432. Where To Put Our Logic
 
 ## 📒 433. Using useEffect with Redux
@@ -433,9 +434,9 @@ export default Products;
 ## 📒 434. A Problem with useEffect()
 ## 📒 435. Handling Http States & Feedback with Redux
 ## 📒 436. Using an Action Creator Thunk
-## 📒 437. Getting Started with Fetching Data
+## 📒 437. Finalizing the Fetching Logic
 
 ## 📒 438. Getting Started with Fetching Data
-## 📒 439. Getting Started with Fetching Data
-## 📒 437. Getting Started with Fetching Data
+## 📒 439. Exploring the Redux DevTools
+## 📒 440. Summary
 # Section 21: Building a Multi-Page SPA with React Router
