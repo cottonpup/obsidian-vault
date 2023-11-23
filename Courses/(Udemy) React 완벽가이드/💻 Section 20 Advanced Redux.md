@@ -447,7 +447,8 @@ Frontend Code Depends On Backend Code
 You must never mutate Redux state. Especially, don't do it outside reducers.
 
 ### Fat Reducers vs Fat Components vs Fat Actions
-Where should your logice 
+Where should your logic(=code) go?
+- Synchronous, side-effect 
 
 ## 📒 433. Using useEffect with Redux
 
