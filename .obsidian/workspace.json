@@ -118,14 +118,6 @@
             }
           },
           {
-            "id": "e6bc5d4c5d8cbfbd",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "cbfda71c34b5c116",
             "type": "leaf",
             "state": {
@@ -161,9 +153,17 @@
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "17e6a5c7df823d51",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -179,14 +179,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "copilot:Copilot Chat": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "17e6a5c7df823d51",
   "lastOpenFiles": [
     "Courses/(Udemy) React 완벽가이드/Dog Species.md",
     "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
