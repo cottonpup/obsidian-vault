@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/SSAFY 에세이 제출하기.md",
+                "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Projects/SSAFY 에세이 제출하기.md",
+            "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Projects/SSAFY 에세이 제출하기.md",
+            "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Projects/SSAFY 에세이 제출하기.md"
+            "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md"
           }
         }
       },
@@ -151,16 +151,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "08c471288e8aa77e",
+  "active": "293556f088627cd3",
   "lastOpenFiles": [
-    "Projects/프로그래머스 레벨 2 문제풀이.md",
+    "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Daily/2023-11-14.md",
+    "Projects/카카오톡 겨울 인턴쉽 지원하기.md",
+    "Projects/SSAFY 에세이 제출하기.md",
+    "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Courses/(Udemy) React 완벽가이드.md",
     "Courses",
     "_Drawer/Files/Screenshot 2023-11-17 at 10.32.14.png",
     "_Drawer/겁쟁이들을 위한 스터디.md",
     "_Drawer/Resume.io 클론 프로젝트 분석하기.md",
-    "Projects/SSAFY 에세이 제출하기.md",
     "Temp/CORS란?.md",
     "Temp/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "Temp/class와 function component의 차이점.md",
@@ -178,9 +181,6 @@
     "Temp/FLUX 디자인 패턴과 어디서 사용되는지.md",
     "Temp/파인만 공부법.md",
     "Temp/생산적으로 사는 법.md",
-    "Temp/URL, URI, URN이란.md",
-    "Temp/declare keyword.md",
-    "Temp/Controlled component vs Uncontrolled component.md",
     "Temp",
     "_Drawer/Files/Screenshot 2023-10-01 at 17.18.51.png",
     "_Drawer/Files/Screenshot 2023-10-01 at 19.39.43.png",
