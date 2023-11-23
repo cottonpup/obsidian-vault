@@ -430,7 +430,12 @@ export default Products;
 
 ## 📒 433. Using useEffect with Redux
 
-## 📒 434. Using useEffect with Redux
-## 📒 435. Using useEffect with Redux
-## 📒 436. Using useEffect with Redux
+## 📒 434. A Problem with useEffect()
+## 📒 435. Handling Http States & Feedback with Redux
+## 📒 436. Using an Action Creator Thunk
+## 📒 437. Getting Started with Fetching Data
+
+## 📒 438. Getting Started with Fetching Data
+## 📒 439. Getting Started with Fetching Data
+## 📒 437. Getting Started with Fetching Data
 # Section 21: Building a Multi-Page SPA with React Router
