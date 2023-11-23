@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10922a1b12ccd10d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "잡아바 어플라이.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md"
+                "file": "잡아바 어플라이.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "잡아바 어플라이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
+                "file": "잡아바 어플라이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,11 +210,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0a3654486d257cc",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Courses/(Udemy) React 완벽가이드.md",
+    "잡아바 어플라이.md",
     "Daily/2023-11-22.md",
     "_Drawer/Files/Screenshot 2023-11-22 at 21.48.40.png",
-    "Courses/(Udemy) React 완벽가이드.md",
     "_Drawer/Files/IMG_8755.jpeg",
     "_Drawer/Files/IMG_8755.png",
     "Daily/2023-11-14.md",
