@@ -4,6 +4,8 @@
 	- [[#📒 429. Refresher / Practice Part 2/2]]
 	- [[#📒 430. Redux & Async Code]]
 	- [[#📒 431. Frontend Code vs Backend Code]]
+	- [[#📒 432. Where To Put Our Logic]]
+	- [[#📒 433. Using useEffect with Redux]]
 
 ----
 # 💻 Section 20: Advanced Redux
@@ -424,10 +426,11 @@ export default Products;
 
 ## 📒 431. Frontend Code vs Backend Code
 
-
 ## 📒 432. Where To Put Our Logic
 
 ## 📒 433. Using useEffect with Redux
 
-
+## 📒 434. Using useEffect with Redux
+## 📒 435. Using useEffect with Redux
+## 📒 436. Using useEffect with Redux
 # Section 21: Building a Multi-Page SPA with React Router
