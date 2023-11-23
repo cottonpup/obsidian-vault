@@ -439,7 +439,9 @@ Frontend Code Depends On Backend Code
 ## 📒 432. Where To Put Our Logic
 
 > [!question]- Where should side effects & async tasks be executed?
-> 
+> 1. Inside the **components** (e.g. via `useEffect()`)
+> 2. Inside the **action creators**
+
 
 ## 📒 433. Using useEffect with Redux
 
