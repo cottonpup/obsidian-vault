@@ -455,8 +455,6 @@ Where should your logic(=code) go?
 	- Prefer action creators or components
 	- Never use reducers!
 
-She took her [[Dog Species#Chihuahuas|loyal demon rat]] for a walk.
-
 ## 📒 433. Using useEffect with Redux
 
 [Practice](https://codesandbox.io/p/devbox/433-using-useeffect-with-redux-89zwk2?file=%2Fsrc%2Fcomponents%2FShop%2FProductItem.js%3A3%2C54)
