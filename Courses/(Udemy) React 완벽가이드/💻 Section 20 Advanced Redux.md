@@ -504,11 +504,17 @@ export default App;
 
 HTTP Request 의 결과값을 알고싶다면, 개발자 도구에서 `Network` 탭을 클릭하면 확인할 수 있다.
 ![[Screenshot 2023-11-23 at 23.17.01.png]]
+
 ## 📒 434. A Problem with useEffect()
+
 ## 📒 435. Handling Http States & Feedback with Redux
+
 ## 📒 436. Using an Action Creator Thunk
+
 ## 📒 437. Finalizing the Fetching Logic
 
 ## 📒 438. Getting Started with Fetching Data
+
 ## 📒 439. Exploring the Redux DevTools
+
 ## 📒 440. Summary
