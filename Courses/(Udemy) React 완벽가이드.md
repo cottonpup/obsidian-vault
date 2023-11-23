@@ -1,5 +1,8 @@
 - [[#💻 Section 20 Advanced Redux]]
-- 
+	- [[#📒 427. Redux & Side Effects (and Asynchronous Code)]]
+	- [[#📒 428. Refresher / Practice Part 1/2]]
+	- [[#📒 429. Refresher / Practice Part 2/2]]
+	- [[#430. Redux & Async Code]]
 
 ----
 # 💻 Section 20: Advanced Redux
@@ -196,7 +199,7 @@ createSlice({
 })
 ```
 
-## 📒 428. Refresher / Practice: Part 2/2
+## 📒 429. Refresher / Practice: Part 2/2
 `store/cart-slice.js`
 ```js
 import { createSlice } from '@reduxjs/toolkit'
