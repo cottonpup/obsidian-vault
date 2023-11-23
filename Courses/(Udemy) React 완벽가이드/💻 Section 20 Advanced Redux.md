@@ -507,6 +507,10 @@ HTTP Request 의 결과값을 알고싶다면, 개발자 도구에서 `Network` 
 
 ## 📒 434. A Problem with useEffect()
 
+👿 `useEffect()` 의 문제점: 
+- 앱이 시작할 때, 실행될 것이다.
+- 
+
 ## 📒 435. Handling Http States & Feedback with Redux
 
 ## 📒 436. Using an Action Creator Thunk
