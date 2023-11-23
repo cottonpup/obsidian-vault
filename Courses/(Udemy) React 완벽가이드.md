@@ -1,7 +1,7 @@
----
+- [[#💻 Section 20 Advanced Redux]]
+- 
 
----
-
+----
 # 💻 Section 20: Advanced Redux
 ## 📒 427. Redux & Side Effects (and Asynchronous Code)
 - Reducers must be **pure**, **side-effect free**, **synchronous functions**.
