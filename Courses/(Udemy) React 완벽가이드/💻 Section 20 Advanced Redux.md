@@ -459,7 +459,41 @@ Where should your logic(=code) go?
 
 [Practice](https://codesandbox.io/p/devbox/433-using-useeffect-with-redux-89zwk2?file=%2Fsrc%2Fcomponents%2FShop%2FProductItem.js%3A3%2C54)
 
+`src/App.js`
+```js
+import { useEffect } from "react";
+import { useSelector } from "react-redux";
+import Cart from "./components/Cart/Cart";
+import Layout from "./components/Layout/Layout";
+import Products from "./components/Shop/Products";
 
+function App() {
+  const showCart = useSelector((state) => state.ui.cartIsVisible);
+  const cart = useSelector((state) => state.cart);
+
+  // 1. We first update Redux store
+  // 2. We send the request of the updated store
+  useEffect(() => {
+    fetch(
+      "https://advanced-redux-165c1-default-rtdb.firebaseio.com/cart.json",
+      {
+        method: "PUT",
+        body: JSON.stringify(cart),
+      },
+    );
+  }, [cart]);
+
+  return (
+    <Layout>
+      {showCart && <Cart />}
+      <Products />
+    </Layout>
+  );
+}
+
+export default App;
+
+```
 
 ## 📒 434. A Problem with useEffect()
 ## 📒 435. Handling Http States & Feedback with Redux
