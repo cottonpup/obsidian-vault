@@ -481,7 +481,7 @@ function App() {
 	    // `PUT`이 `POST` 메서드랑 다른 점
 	    // 새로운 데이터 리스트에 들어가지 않고 존재하는 데이터에 Overriding 하는 형태
         method: "PUT",
-        //
+        // cart 데이터를 JSON 형태로 컨버팅 
         body: JSON.stringify(cart),
       },
     );
