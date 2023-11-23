@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "면접수당 신청서류.md",
+                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273
+    "width": 303.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "면접수당 신청서류.md"
+                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "면접수당 신청서류.md",
+                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "면접수당 신청서류.md",
+                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,17 +186,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ad7bcee87c563688",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
-    "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
-    "Courses/(Udemy) React 완벽가이드/Note Title.md",
     "Courses/(Udemy) React 완벽가이드/Dog Species.md",
+    "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
+    "면접수당 신청서류.md",
+    "Courses/(Udemy) React 완벽가이드/Note Title.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Courses/(Udemy) React 완벽가이드/Untitled.md",
     "Courses/(Udemy) React 완벽가이드",
     "_Drawer/Files/Screenshot 2023-11-23 at 14.29.40.png",
     "Daily/2023-11-22.md",
-    "면접수당 신청서류.md",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.29.05.png",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.28.36.png",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.27.44.png",
