@@ -448,7 +448,12 @@ You must never mutate Redux state. Especially, don't do it outside reducers.
 
 ### Fat Reducers vs Fat Components vs Fat Actions
 Where should your logic(=code) go?
-- Synchronous, side-effect 
+- Synchronous, side-effect free code
+	- Prefer reducers
+	- Avoid action creators or components
+- Async code or code with side-effects
+	- Prefer action
+
 
 ## 📒 433. Using useEffect with Redux
 
