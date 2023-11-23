@@ -438,6 +438,8 @@ Frontend Code Depends On Backend Code
 
 ## 📒 432. Where To Put Our Logic
 
+> [!question]- Where should side effects & async tasks be executed?
+> 
 
 ## 📒 433. Using useEffect with Redux
 
