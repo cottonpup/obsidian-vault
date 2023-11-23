@@ -516,6 +516,7 @@ HTTP Request 의 결과값을 알고싶다면, 개발자 도구에서 `Network` 
 ## 📒 435. Handling Http States & Feedback with Redux
 
 [Notification UI 추가](https://github.com/academind/react-complete-guide-code/tree/19-advanced-redux/extra-files)
+[Practice](https://codesandbox.io/p/devbox/435-handling-http-states-feedback-with-redux-3czzr3)
 
 ## 📒 436. Using an Action Creator Thunk
 
