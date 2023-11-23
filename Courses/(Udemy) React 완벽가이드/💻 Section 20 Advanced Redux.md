@@ -445,7 +445,7 @@ Frontend Code Depends On Backend Code
 You must never mutate Redux state. Especially, don't do it outside reducers.
 
 [컴포넌트안에 복잡한 로직을 넣었을 때 예시](https://github.com/academind/react-complete-guide-course-resources/blob/main/code/20%20Advanced%20Redux/zz-suboptimal-example-code/src/components/Shop/ProductItem.js)
-- 사이드 이펙트인 HTTP request 를 리듀서 안에서 dispatch 할 
+- 사이드 이펙트인 HTTP request 를 리듀서 안에서 dispatch 할 수가 없음.
 ### Fat Reducers vs Fat Components vs Fat Actions
 Where should your logic(=code) go?
 - **Synchronous, side-effect free code**
@@ -458,6 +458,7 @@ Where should your logic(=code) go?
 ## 📒 433. Using useEffect with Redux
 
 [Practice](https://codesandbox.io/p/devbox/433-using-useeffect-with-redux-89zwk2?file=%2Fsrc%2Fcomponents%2FShop%2FProductItem.js%3A3%2C54)
+
 
 ## 📒 434. A Problem with useEffect()
 ## 📒 435. Handling Http States & Feedback with Redux
