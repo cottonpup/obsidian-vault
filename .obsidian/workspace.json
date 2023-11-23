@@ -4,34 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "c29bb09df399b004",
-        "type": "tabs",
+        "id": "bf6ed13c089fefef",
+        "type": "split",
         "children": [
           {
-            "id": "e0a3654486d257cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/(Udemy) React 완벽가이드.md",
-                "mode": "source",
-                "source": false
+            "id": "c29bb09df399b004",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e0a3654486d257cc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Courses/(Udemy) React 완벽가이드.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ad7bcee87c563688",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/프로그래머스 레벨 2 문제풀이.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "ad7bcee87c563688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/프로그래머스 레벨 2 문제풀이.md",
-                "mode": "source",
-                "source": false
+            "id": "de7dceb28403b955",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b8a8ae5938745757",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Courses/(Udemy) React 완벽가이드.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"

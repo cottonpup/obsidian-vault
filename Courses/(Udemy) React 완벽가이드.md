@@ -6,6 +6,7 @@
 	- [[#📒 431. Frontend Code vs Backend Code]]
 	- [[#📒 432. Where To Put Our Logic]]
 	- [[#📒 433. Using useEffect with Redux]]
+	- [[#4]]
 
 ----
 # 💻 Section 20: Advanced Redux
@@ -431,6 +432,7 @@ Allows you to **add your own code on the Firebase backend** which can triggered 
 Frontend Code Depends On Backend Code
 
 ## 📒 432. Where To Put Our Logic
+
 
 ## 📒 433. Using useEffect with Redux
 
