@@ -428,8 +428,7 @@ export default Products;
 **Server side code**? 
 Allows you to **add your own code on the Firebase backend** which can triggered for incoming requests and which would allow you to transform data on the backend.
 ![[Screenshot 2023-11-23 at 14.29.40.png | 500]]
-
-
+Frontend Code Depends On Backend Code
 
 ## 📒 432. Where To Put Our Logic
 
