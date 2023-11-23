@@ -1,9 +1,4 @@
-p {
-
-   line-height: 1.9 !important;
-}
-
-
-.cm-line {
-    line-height: 1.9 !important;
+.markdown-rendered code {
+    color: #d0d0d5;
+    background: #0a0a23;
 }

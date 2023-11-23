@@ -1,6 +1,12 @@
 {
-  "accentColor": "#bd5d0f",
+  "accentColor": "",
   "cssTheme": "Obsidian Nord",
   "theme": "moonstone",
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "media-grid-snippet"
+  ],
+  "textFontFamily": "Nanum Gothic",
+  "interfaceFontFamily": "Nanum Gothic",
+  "monospaceFontFamily": "JetBrains Mono"
 }

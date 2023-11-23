@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "799602632f2996a2",
+        "id": "c29bb09df399b004",
         "type": "tabs",
         "children": [
           {
-            "id": "1fb53fe32ea18d33",
+            "id": "ad7bcee87c563688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/카카오톡 겨울 인턴쉽 지원하기.md",
+                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 697.5039024353027,
+    "width": 303.50390243530273,
     "collapsed": true
   },
   "right": {
@@ -113,16 +113,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/카카오톡 겨울 인턴쉽 지원하기.md"
+                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md"
               }
-            }
-          },
-          {
-            "id": "e6bc5d4c5d8cbfbd",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           },
           {
@@ -131,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/카카오톡 겨울 인턴쉽 지원하기.md",
+                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/카카오톡 겨울 인턴쉽 지원하기.md",
+                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +153,17 @@
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "17e6a5c7df823d51",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -179,20 +179,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "copilot:Copilot Chat": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1fb53fe32ea18d33",
+  "active": "ad7bcee87c563688",
   "lastOpenFiles": [
-    "Courses/(Udemy) React 완벽가이드.md",
-    "Projects/카카오톡 겨울 인턴쉽 지원하기.md",
-    "Projects/SSAFY 에세이 제출하기.md",
-    "_Drawer/Files/Screenshot 2023-11-17 at 10.32.14.png",
+    "_Drawer/Files/Screenshot 2023-11-23 at 23.17.01.png",
+    "_Drawer/Files/Screenshot 2023-11-23 at 23.16.27.png",
+    "_Drawer/Files/Screenshot 2023-11-23 at 23.15.00.png",
+    "Courses/(Udemy) React 완벽가이드/Dog Species.md",
+    "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
+    "면접수당 신청서류.md",
+    "Courses/(Udemy) React 완벽가이드/Note Title.md",
+    "Projects/프로그래머스 레벨 2 문제풀이.md",
+    "Courses/(Udemy) React 완벽가이드/Untitled.md",
+    "Courses/(Udemy) React 완벽가이드",
+    "_Drawer/Files/Screenshot 2023-11-23 at 14.29.40.png",
+    "Daily/2023-11-22.md",
+    "_Drawer/Files/Screenshot 2023-11-23 at 13.29.05.png",
+    "_Drawer/Files/Screenshot 2023-11-23 at 13.28.36.png",
+    "_Drawer/Files/Screenshot 2023-11-23 at 13.27.44.png",
+    "_Drawer/Files/KakaoTalk_Photo_2023-11-23-13-21-07 002jpeg.jpeg",
+    "_Drawer/Files/KakaoTalk_Photo_2023-11-23-13-21-07 001jpeg.jpeg",
+    "_Drawer/Files/Screenshot 2023-11-23 at 13.08.54.png",
+    "_Drawer/Files/Screenshot 2023-11-23 at 13.08.30.png",
+    "Daily/2023-11-14.md",
+    "Daily/회고/2023년 10월 회고.md",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+    "Projects/Resume.io 프로젝트 스프린트.md",
+    "Projects/SSAFY 에세이 제출하기.md",
+    "Projects/카카오톡 겨울 인턴쉽 지원하기.md",
+    "Projects/코딩연합",
+    "Projects/코딩연합/첫번째 모임 - 아이스 브레이킹.md",
+    "Projects/코딩연합/코딩연합 팀프로젝트 멘토링 1기.md",
+    "Articles/How to Learn Stuff Quickly.md",
+    "Articles",
+    "Quotes.md",
+    "_Drawer/Quotes.md",
+    "Books",
+    "_Drawer/Files/Screen Recording 2023-11-13 at 14.12.17.mov",
     "Projects/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
@@ -200,40 +225,11 @@
     "Projects/면접대비/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/프론트엔드 기본 면접문제.md",
     "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/Resume.io 프로젝트 스프린트.md",
-    "Projects/프로그래머스 레벨 2 문제풀이.md",
-    "Temp/useReducer vs useState.md",
-    "Temp/프로미스가 무엇인가.md",
-    "Temp/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
-    "Temp/class와 function component의 차이점.md",
-    "Temp/번들러란?.md",
-    "Temp/html data.md",
-    "Temp/CORS란?.md",
-    "Temp/JavaScript 라이브러리에서 TypeScript 선언 파일을 생성할 수 있나요.md",
-    "Temp/TypeScript에서의 Ambient란 무엇이며 언제 사용하나요?.md",
-    "Temp/FLUX 디자인 패턴과 어디서 사용되는지.md",
-    "Temp/Drawing 2023-10-16 13.14.39.excalidraw.md",
-    "Temp/URL, URI, URN이란.md",
     "Courses/(Udemy) React 완벽 가이드",
     "Courses",
-    "_Drawer/Files/10월 회고 썸네일.png",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "_Drawer/Files/Screenshot 2023-11-10 at 13.26.01.png",
-    "_Drawer/Files/Screenshot 2023-11-10 at 12.54.35.png",
-    "_Drawer/Files/Screenshot 2023-11-09 at 16.02.04.png",
-    "_Drawer/Files/Screenshot 2023-11-09 at 15.50.22.png",
     "Projects/Letty 프로젝트",
     "copilot-conversations",
     "Projects/실제면접 후기",
-    "Projects/면접대비",
-    "New",
-    "tracked_files.json",
-    "Permanent Notes",
-    "WIKI",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
