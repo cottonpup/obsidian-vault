@@ -425,7 +425,8 @@ export default Products;
 > 2. `action creators` 안에
 
 ## 📒 431. Frontend Code vs Backend Code
-Server side code? Allows you to add your own code on the Firebase backend 
+**Server side code**? 
+Allows you to add your own code on the Firebase backend which can triggered for incoming requests and which would allow you to transform data on the backend.
 
 ## 📒 432. Where To Put Our Logic
 
