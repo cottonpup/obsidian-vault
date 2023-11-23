@@ -3,19 +3,18 @@
 - [[#📒 428. Refresher / Practice Part 1/2]]
 - [[#📒 429. Refresher / Practice Part 2/2]]
 - [[#📒 430. Redux & Async Code]]
-	- [[#📒 431. Frontend Code vs Backend Code]]
-	- [[#📒 432. Where To Put Our Logic]]
-	- [[#📒 433. Using useEffect with Redux]]
-	- [[#📒 434. A Problem with useEffect()]]
-	- [[#📒 435. Handling Http States & Feedback with Redux]]
-	- [[#📒 436. Using an Action Creator Thunk]]
-	- [[#📒 437. Finalizing the Fetching Logic]]
-	- [[#📒 438. Getting Started with Fetching Data]]
-	- [[#📒 439. Exploring the Redux DevTools]]
-	- [[#📒 440. Summary]]
+- [[#📒 431. Frontend Code vs Backend Code]]
+- [[#📒 432. Where To Put Our Logic]]
+- [[#📒 433. Using useEffect with Redux]]
+- [[#📒 434. A Problem with useEffect()]]
+- [[#📒 435. Handling Http States & Feedback with Redux]]
+- [[#📒 436. Using an Action Creator Thunk]]
+- [[#📒 437. Finalizing the Fetching Logic]]
+- [[#📒 438. Getting Started with Fetching Data]]
+- [[#📒 439. Exploring the Redux DevTools]]
+- [[#📒 440. Summary]]
 
 ----
-# 💻 Section 20: Advanced Redux
 ## 📒 427. Redux & Side Effects (and Asynchronous Code)
 - Reducers must be **pure**, **side-effect free**, **synchronous functions**.
 	- 순수함수
