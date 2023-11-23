@@ -459,6 +459,7 @@ Where should your logic(=code) go?
 
 [Practice](https://codesandbox.io/p/devbox/433-using-useeffect-with-redux-89zwk2?file=%2Fsrc%2Fcomponents%2FShop%2FProductItem.js%3A3%2C54)
 
+[[Note Title#Header Section]]
 
 ## 📒 434. A Problem with useEffect()
 ## 📒 435. Handling Http States & Feedback with Redux
