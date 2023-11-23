@@ -442,6 +442,8 @@ Frontend Code Depends On Backend Code
 > 1. Inside the **components** (e.g. via `useEffect()`)
 > 2. Inside the **action creators**
 
+[Practice](https://codesandbox.io/p/devbox/432-where-to-put-our-logic-89zwk2?file=%2Fsrc%2Fstore%2Fcart-slice.js)
+
 
 ## 📒 433. Using useEffect with Redux
 
