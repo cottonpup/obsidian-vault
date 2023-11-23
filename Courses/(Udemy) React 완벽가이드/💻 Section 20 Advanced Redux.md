@@ -475,6 +475,7 @@ function App() {
   // 2. We send the request of the updated store
   useEffect(() => {
     fetch(
+    // cart.json 노드를 타겟!
       "https://advanced-redux-165c1-default-rtdb.firebaseio.com/cart.json",
       {
         method: "PUT",
@@ -498,7 +499,7 @@ export default App;
 401 Error code 를 받았는데 아래에 있는 rules들을 모두 true 값으로 변경하니까 작동했다. 
 ![[Screenshot 2023-11-23 at 23.15.00.png]]
 
-HTTP Request 의 결과값을 알고싶다면, 개발자 도구에서 Network 
+HTTP Request 의 결과값을 알고싶다면, 개발자 도구에서 `Network` 탭을 클릭하면 확인할 수 있다.
 ![[Screenshot 2023-11-23 at 23.17.01.png]]
 ## 📒 434. A Problem with useEffect()
 ## 📒 435. Handling Http States & Feedback with Redux
