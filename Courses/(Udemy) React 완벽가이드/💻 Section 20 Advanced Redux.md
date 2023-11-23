@@ -1,8 +1,8 @@
-- [[#💻 Section 20 Advanced Redux]]
-	- [[#📒 427. Redux & Side Effects (and Asynchronous Code)]]
-	- [[#📒 428. Refresher / Practice Part 1/2]]
-	- [[#📒 429. Refresher / Practice Part 2/2]]
-	- [[#📒 430. Redux & Async Code]]
+
+- [[#📒 427. Redux & Side Effects (and Asynchronous Code)]]
+- [[#📒 428. Refresher / Practice Part 1/2]]
+- [[#📒 429. Refresher / Practice Part 2/2]]
+- [[#📒 430. Redux & Async Code]]
 	- [[#📒 431. Frontend Code vs Backend Code]]
 	- [[#📒 432. Where To Put Our Logic]]
 	- [[#📒 433. Using useEffect with Redux]]
