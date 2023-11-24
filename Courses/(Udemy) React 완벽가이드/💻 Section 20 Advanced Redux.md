@@ -1,3 +1,11 @@
+---
+tags:
+  - Udemy
+  - React
+  - Redux
+---
+
+
 
 - [[#📒 427. Redux & Side Effects (and Asynchronous Code)]]
 - [[#📒 428. Refresher / Practice Part 1/2]]
