@@ -118,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Courses/알고리즘과 데이터구조 By Colt Steele/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Courses/알고리즘과 데이터구조 By Colt Steele/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,19 +177,21 @@
   },
   "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Documents/Untitled",
+    "Personal/Documents",
     "Professional",
     "Personal",
     "Development/Learning Resources",
     "Development/Projects",
     "Development",
-    "Development/Courses/React 완벽가이드/💻 Section 20 Advanced Redux.md",
+    "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
     "Development/Courses/알고리즘과 데이터구조 By Colt Steele/Untitled.md",
     "Development/Courses/알고리즘과 데이터구조 By Colt Steele",
     "_Drawer/Files/Screenshot 2023-11-23 at 23.17.01.png",
     "_Drawer/Files/Screenshot 2023-11-23 at 23.16.27.png",
     "_Drawer/Files/Screenshot 2023-11-23 at 23.15.00.png",
     "Courses/(Udemy) React 완벽가이드/Dog Species.md",
-    "면접수당 신청서류.md",
+    "Personal/Documents/면접수당 신청서류.md",
     "Courses/(Udemy) React 완벽가이드/Note Title.md",
     "Development/Projects 1/프로그래머스 레벨 2 문제풀이.md",
     "Courses/(Udemy) React 완벽가이드/Untitled.md",
@@ -215,10 +215,8 @@
     "Development/Projects 1/코딩연합/코딩연합 팀프로젝트 멘토링 1기.md",
     "Articles/How to Learn Stuff Quickly.md",
     "Articles",
-    "Quotes.md",
+    "Personal/Quotes.md",
     "_Drawer/Quotes.md",
-    "Books",
-    "_Drawer/Files/Screen Recording 2023-11-13 at 14.12.17.mov",
     "Development/Projects 1/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Projects 1/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Projects 1/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
