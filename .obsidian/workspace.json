@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Projects 1/첫번째 모임 - 아이스 브레이킹.md",
+                "file": "Development/Development_Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Projects 1/첫번째 모임 - 아이스 브레이킹.md"
+                "file": "Development/Development_Index.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Projects 1/첫번째 모임 - 아이스 브레이킹.md",
+                "file": "Development/Development_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Projects 1/첫번째 모임 - 아이스 브레이킹.md",
+                "file": "Development/Development_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,14 +183,14 @@
   },
   "active": "fd6053d22ce21a57",
   "lastOpenFiles": [
+    "Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
     "Development/Development_Index.md",
-    "Development/Projects 1/코딩연합 팀프로젝트 멘토링 1기.md",
-    "Development/Projects 1/첫번째 모임 - 아이스 브레이킹.md",
-    "Development/Projects 1/프로그래머스 레벨 2 문제풀이.md",
-    "Development/Projects 1/Resume.io 프로젝트 스프린트.md",
-    "Development/Projects 1/Letty 프로젝트 프론트엔드 삽질노트.md",
-    "Development/Projects 1/카카오톡 겨울 인턴쉽 지원하기.md",
-    "Development/Projects 1/SSAFY 에세이 제출하기.md",
+    "Development/Projects/코딩연합 팀프로젝트 멘토링 1기.md",
+    "Development/Projects/프로그래머스 레벨 2 문제풀이.md",
+    "Development/Projects/Resume.io 프로젝트 스프린트.md",
+    "Development/Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
+    "Development/Projects/카카오톡 겨울 인턴쉽 지원하기.md",
+    "Development/Projects/SSAFY 에세이 제출하기.md",
     "Development/Courses/알고리즘과 데이터구조 By Colt Steele/Untitled.md",
     "Job Seeking",
     "Development/Group Study",
