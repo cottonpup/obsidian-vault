@@ -12,4 +12,6 @@
 - [[10월 2일 프론트엔드 면접 스터디 - 면접 질문]]
 - [[10월 2일 프론트엔드 면접 스터디 - 네트워크 발표]]
 # Learning Resources
+- [[💻 Section 20 Advanced Redux]]
 # Projects
+
