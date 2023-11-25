@@ -1,6 +1,6 @@
 ---
 Created: "{{date:YYYY-MM-DD}}"
 tags: 
-topic: 
-parent_dir:
+topic: 면접 스터디
+parent_dir: Group Study
 ---
