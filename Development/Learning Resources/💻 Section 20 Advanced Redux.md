@@ -4,6 +4,7 @@ tags:
   - React
   - Redux
 topic: Udemy React 완벽 가이드
+parent_dir:
 ---
 
 

@@ -51,8 +51,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Development_Index.md",
-                "mode": "source",
+                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Development_Index.md"
+                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Development_Index.md",
+                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Development_Index.md",
+                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,12 +230,13 @@
   },
   "active": "2875f8649ebe7021",
   "lastOpenFiles": [
+    "Development/Development_Index.md",
+    "Development/Group Study/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
     "_Drawer/Algorithm List.md",
     "_Drawer/How to study as a developer (매우 효과적인 방법!).md",
     "_Drawer/Basic Backend Project.md",
     "_Drawer/2023 Seoul Women Hackathon.md",
     "_Drawer/원하는 기업.md",
-    "Development/Development_Index.md",
     "Development/Projects/프로그래머스 레벨 2 문제풀이.md",
     "Development/Projects/Resume.io 프로젝트 스프린트.md",
     "Development/Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
@@ -275,7 +276,6 @@
     "Personal/Daily Notes/2023-11-14.md",
     "Personal/Daily Notes/2023년 10월 회고.md",
     "Articles/How to Learn Stuff Quickly.md",
-    "Personal/Quotes.md",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
