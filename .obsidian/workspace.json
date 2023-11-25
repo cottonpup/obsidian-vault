@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Drawer/How to study as a developer (매우 효과적인 방법!).md",
+                "file": "Development/Development_Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Drawer/How to study as a developer (매우 효과적인 방법!).md"
+                "file": "Development/Development_Index.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Drawer/How to study as a developer (매우 효과적인 방법!).md",
+                "file": "Development/Development_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Drawer/How to study as a developer (매우 효과적인 방법!).md",
+                "file": "Development/Development_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,6 +230,10 @@
   },
   "active": "2875f8649ebe7021",
   "lastOpenFiles": [
+    "_Drawer/Algorithm List.md",
+    "_Drawer/How to study as a developer (매우 효과적인 방법!).md",
+    "_Drawer/Basic Backend Project.md",
+    "_Drawer/2023 Seoul Women Hackathon.md",
     "_Drawer/원하는 기업.md",
     "Development/Development_Index.md",
     "Development/Projects/프로그래머스 레벨 2 문제풀이.md",
@@ -272,10 +276,6 @@
     "Personal/Daily Notes/2023년 10월 회고.md",
     "Articles/How to Learn Stuff Quickly.md",
     "Personal/Quotes.md",
-    "_Drawer/Quotes.md",
-    "Development/Group Study/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Development/Group Study/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Development/Group Study/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
