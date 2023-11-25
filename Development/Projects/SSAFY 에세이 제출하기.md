@@ -1,7 +1,7 @@
 ---
 Created: 2023-11-26
 tags: 
-topic:
+topic: SSAFY
 ---
 # SSAFY 에세이 제출하기
 
