@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c29bb09df399b004",
+        "id": "683a13933bbf80e2",
         "type": "tabs",
         "children": [
           {
-            "id": "ad7bcee87c563688",
+            "id": "fd6053d22ce21a57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development/Courses/알고리즘과 데이터구조 By Colt Steele/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -197,7 +193,7 @@
     "Courses/(Udemy) React 완벽가이드/Dog Species.md",
     "면접수당 신청서류.md",
     "Courses/(Udemy) React 완벽가이드/Note Title.md",
-    "Projects/프로그래머스 레벨 2 문제풀이.md",
+    "Development/Projects 1/프로그래머스 레벨 2 문제풀이.md",
     "Courses/(Udemy) React 완벽가이드/Untitled.md",
     "Development/Courses/React 완벽가이드",
     "_Drawer/Files/Screenshot 2023-11-23 at 14.29.40.png",
@@ -210,25 +206,25 @@
     "_Drawer/Files/Screenshot 2023-11-23 at 13.08.54.png",
     "Personal/Daily Notes/2023-11-14.md",
     "Personal/Daily Notes/2023년 10월 회고.md",
-    "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
-    "Projects/Resume.io 프로젝트 스프린트.md",
-    "Projects/SSAFY 에세이 제출하기.md",
-    "Projects/카카오톡 겨울 인턴쉽 지원하기.md",
-    "Projects/코딩연합",
-    "Projects/코딩연합/첫번째 모임 - 아이스 브레이킹.md",
-    "Projects/코딩연합/코딩연합 팀프로젝트 멘토링 1기.md",
+    "Development/Projects 1/Letty 프로젝트 프론트엔드 삽질노트.md",
+    "Development/Projects 1/Resume.io 프로젝트 스프린트.md",
+    "Development/Projects 1/SSAFY 에세이 제출하기.md",
+    "Development/Projects 1/카카오톡 겨울 인턴쉽 지원하기.md",
+    "Development/Projects 1/코딩연합",
+    "Development/Projects 1/코딩연합/첫번째 모임 - 아이스 브레이킹.md",
+    "Development/Projects 1/코딩연합/코딩연합 팀프로젝트 멘토링 1기.md",
     "Articles/How to Learn Stuff Quickly.md",
     "Articles",
     "Quotes.md",
     "_Drawer/Quotes.md",
     "Books",
     "_Drawer/Files/Screen Recording 2023-11-13 at 14.12.17.mov",
-    "Projects/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/프론트엔드 기본 면접문제.md",
+    "Development/Projects 1/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Development/Projects 1/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Development/Projects 1/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Development/Projects 1/면접대비/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Development/Projects 1/면접대비/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Development/Projects 1/면접대비/프론트엔드 기본 면접문제.md",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
