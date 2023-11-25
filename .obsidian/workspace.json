@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md"
+                "file": "Development/Development_Index.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
+                "file": "Development/Development_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
+                "file": "Development/Development_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,10 +228,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2875f8649ebe7021",
+  "active": "c85bbcafb58295eb",
   "lastOpenFiles": [
-    "Development/Development_Index.md",
+    "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
+    "Development/Group Study/면접대비/프론트엔드 기본 면접문제.md",
     "Development/Group Study/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
+    "Development/Group Study/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Development/Group Study/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Development/Group Study/면접대비/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+    "Development/Development_Index.md",
     "_Drawer/Algorithm List.md",
     "_Drawer/How to study as a developer (매우 효과적인 방법!).md",
     "_Drawer/Basic Backend Project.md",
@@ -244,8 +249,6 @@
     "Development/Projects/SSAFY 에세이 제출하기.md",
     "Development/Projects/코딩연합 팀프로젝트 멘토링 1기.md",
     "Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
-    "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
-    "Development/Group Study/면접대비/프론트엔드 기본 면접문제.md",
     "Development/Group Study/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Courses/알고리즘과 데이터구조 By Colt Steele/Untitled.md",
     "Job Seeking",
@@ -273,9 +276,6 @@
     "_Drawer/Files/KakaoTalk_Photo_2023-11-23-13-21-07 002jpeg.jpeg",
     "_Drawer/Files/KakaoTalk_Photo_2023-11-23-13-21-07 001jpeg.jpeg",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.08.54.png",
-    "Personal/Daily Notes/2023-11-14.md",
-    "Personal/Daily Notes/2023년 10월 회고.md",
-    "Articles/How to Learn Stuff Quickly.md",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
