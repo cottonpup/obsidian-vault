@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "683a13933bbf80e2",
+        "id": "a955f4514719b719",
         "type": "tabs",
         "children": [
           {
-            "id": "c85bbcafb58295eb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development/Development Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "404953a250699a6b",
+            "id": "24cc3ad625197069",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Development/Projects/첫번째 모임 - 아이스 브레이킹.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,16 +173,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "404953a250699a6b",
+  "active": "24cc3ad625197069",
   "lastOpenFiles": [
+    "Development/Development Index.md",
+    "Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
     "Development/Projects/프로그래머스 레벨 2 문제풀이.md",
     "Development/Projects/코딩연합 팀프로젝트 멘토링 1기.md",
     "Development/Projects/SSAFY 에세이 제출하기.md",
     "Development/Projects/카카오톡 겨울 인턴쉽 지원하기.md",
     "Development/Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
-    "Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
     "Templates/Note Template.md",
-    "Development/Development Index.md",
     "Professional/Professional Index.md",
     "Personal/Personal Index.md",
     "Job Seeking/Job Seeking Index.md",
