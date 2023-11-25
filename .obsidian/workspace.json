@@ -32,9 +32,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "785103109aba1582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Development_Index.md"
+                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md"
               }
             }
           },
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Development_Index.md",
+                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Development_Index.md",
+                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,10 +208,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c85bbcafb58295eb",
+  "active": "785103109aba1582",
   "lastOpenFiles": [
-    "Development/Projects/프로그래머스 레벨 2 문제풀이.md",
     "Development/Development_Index.md",
+    "Development/Projects/프로그래머스 레벨 2 문제풀이.md",
     "Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
     "Development/Group Study/면접대비/프론트엔드 기본 면접문제.md",
     "Development/Group Study/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
