@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
+                "file": "Courses/알고리즘과 데이터구조 By Colt Steele/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273,
-    "collapsed": true
+    "width": 303.50390243530273
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md"
+                "file": "Courses/알고리즘과 데이터구조 By Colt Steele/Untitled.md"
               }
             }
           },
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
+                "file": "Courses/알고리즘과 데이터구조 By Colt Steele/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
+                "file": "Courses/알고리즘과 데이터구조 By Colt Steele/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,18 +181,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad7bcee87c563688",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Courses/React 완벽가이드/💻 Section 20 Advanced Redux.md",
+    "Courses/알고리즘과 데이터구조 By Colt Steele/Untitled.md",
+    "Courses/알고리즘과 데이터구조 By Colt Steele",
     "_Drawer/Files/Screenshot 2023-11-23 at 23.17.01.png",
     "_Drawer/Files/Screenshot 2023-11-23 at 23.16.27.png",
     "_Drawer/Files/Screenshot 2023-11-23 at 23.15.00.png",
     "Courses/(Udemy) React 완벽가이드/Dog Species.md",
-    "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
     "면접수당 신청서류.md",
     "Courses/(Udemy) React 완벽가이드/Note Title.md",
     "Projects/프로그래머스 레벨 2 문제풀이.md",
     "Courses/(Udemy) React 완벽가이드/Untitled.md",
-    "Courses/(Udemy) React 완벽가이드",
+    "Courses/React 완벽가이드",
     "_Drawer/Files/Screenshot 2023-11-23 at 14.29.40.png",
     "Daily/2023-11-22.md",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.29.05.png",
@@ -202,7 +203,6 @@
     "_Drawer/Files/KakaoTalk_Photo_2023-11-23-13-21-07 002jpeg.jpeg",
     "_Drawer/Files/KakaoTalk_Photo_2023-11-23-13-21-07 001jpeg.jpeg",
     "_Drawer/Files/Screenshot 2023-11-23 at 13.08.54.png",
-    "_Drawer/Files/Screenshot 2023-11-23 at 13.08.30.png",
     "Daily/2023-11-14.md",
     "Daily/회고/2023년 10월 회고.md",
     "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
@@ -229,7 +229,6 @@
     "Courses",
     "Projects/Letty 프로젝트",
     "copilot-conversations",
-    "Projects/실제면접 후기",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
