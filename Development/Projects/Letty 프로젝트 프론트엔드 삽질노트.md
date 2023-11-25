@@ -2,6 +2,7 @@
 Created: 2023-11-26
 tags: 
 topic: Letty
+parent_dir: Projects
 ---
 # Letty 프로젝트 프론트엔드 삽질노트
 

@@ -2,6 +2,7 @@
 Created: 2023-11-26
 tags: 
 topic: SSAFY
+parent_dir: Projects
 ---
 # SSAFY 에세이 제출하기
 
