@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Group Study/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Development/Development_Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Group Study/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md"
+                "file": "Development/Development_Index.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Group Study/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Development/Development_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Group Study/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
+                "file": "Development/Development_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,16 +199,16 @@
   "active": "a39e505e1efda3f7",
   "lastOpenFiles": [
     "Development/Group Study/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
-    "Development/Group Study/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Group Study/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Group Study/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Group Study/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Group Study/면접대비/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
     "Development/Group Study/면접대비/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Group Study/면접대비/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Development/Group Study/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Development/Group Study/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Group Study/면접대비/프론트엔드 기본 면접문제.md",
+    "Development/Group Study/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Development/Group Study/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Development/Group Study/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Templates/Note Template.md",
     "Development/Development_Index.md",
     "Templates/Map of Content.md",
