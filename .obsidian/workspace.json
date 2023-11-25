@@ -64,6 +64,18 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "264acbee58beee9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -231,9 +243,9 @@
   "active": "c85bbcafb58295eb",
   "lastOpenFiles": [
     "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
+    "Development/Development_Index.md",
     "Development/Group Study/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
-    "Development/Development_Index.md",
     "Development/Projects/카카오톡 겨울 인턴쉽 지원하기.md",
     "Development/Group Study/면접대비/프론트엔드 기본 면접문제.md",
     "Development/Group Study/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
