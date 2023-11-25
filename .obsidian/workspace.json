@@ -14,27 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Development_Index.md",
+                "file": "Development/Development Index.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a39e505e1efda3f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development/Development_Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Development_Index.md"
+                "file": "Development/Development Index.md"
               }
             }
           },
@@ -137,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Development_Index.md",
+                "file": "Development/Development Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Development_Index.md",
+                "file": "Development/Development Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a39e505e1efda3f7",
+  "active": "c85bbcafb58295eb",
   "lastOpenFiles": [
+    "Professional/Professional Index.md",
+    "Personal/Personal Index.md",
+    "Job Seeking/Job Seeking Index.md",
+    "Development/Development Index.md",
     "Development/Group Study/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
     "Development/Group Study/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Group Study/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
@@ -210,7 +201,6 @@
     "Development/Group Study/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Group Study/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Templates/Note Template.md",
-    "Development/Development_Index.md",
     "Templates/Map of Content.md",
     "Development/Projects/카카오톡 겨울 인턴쉽 지원하기.md",
     "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
@@ -221,9 +211,6 @@
     "_Drawer/2023 Seoul Women Hackathon.md",
     "_Drawer/원하는 기업.md",
     "Development/Projects/프로그래머스 레벨 2 문제풀이.md",
-    "Development/Projects/Resume.io 프로젝트 스프린트.md",
-    "Development/Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
-    "Development/Projects/SSAFY 에세이 제출하기.md",
     "Job Seeking",
     "Development/Group Study",
     "Development/Untitled",
