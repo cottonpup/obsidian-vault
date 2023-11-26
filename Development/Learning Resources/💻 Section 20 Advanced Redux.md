@@ -7,8 +7,6 @@ topic: Udemy React 완벽 가이드
 parent_dir: Learning Resources
 ---
 
-
-
 - [[#📒 427. Redux & Side Effects (and Asynchronous Code)]]
 - [[#📒 428. Refresher / Practice Part 1/2]]
 - [[#📒 429. Refresher / Practice Part 2/2]]
