@@ -673,7 +673,7 @@ export default uiSlice;
 >  
 >  An action creator function that does **NOT return the action itself** but instead another function which eventually returns the action.
 
-Redux toolkit 이 리듀서 객체 안에 있는 모든  메서드를 위해 자동으로 action creators를 생성한다. 
+Redux toolkit 이 리듀서 객체 안에 있는 모든 메서드를 위해 자동으로 action creators를 생성한다. 
 
 `src/store/cart-slice.js`
 ```js
