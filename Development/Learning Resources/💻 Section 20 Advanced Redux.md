@@ -729,7 +729,8 @@ export default cartSlice;
 
 ```js
   dispatch(
-  // 
+  // 여기서 uiActions 가 action creators 을 만듬.
+  // To create the action objects which we dispatch.
       uiActions.showNotification({
         status: "pending",
         title: "Sending...",
