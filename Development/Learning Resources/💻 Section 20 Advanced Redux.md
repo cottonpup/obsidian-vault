@@ -526,7 +526,54 @@ HTTP Request 의 결과값을 알고싶다면, 개발자 도구에서 `Network` 
 [UI 디렉토리 밑에 Notification UI 추가](https://github.com/academind/react-complete-guide-code/tree/19-advanced-redux/extra-files)
 [Practice](https://codesandbox.io/p/devbox/435-handling-http-states-feedback-with-redux-3czzr3)
 
+```js
+import { Fragment, useEffect } from "react";
+import { useSelector, useDispatch } from "react-redux";
 
+import Cart from "./components/Cart/Cart";
+import Layout from "./components/Layout/Layout";
+import Products from "./components/Shop/Products";
+import Notification from "./components/UI/Notification";
+import { sendCartData } from "./store/cart-slice";
+
+let isInitial = true;
+
+function App() {
+  const dispatch = useDispatch();
+  const showCart = useSelector((state) => state.ui.cartIsVisible);
+  const cart = useSelector((state) => state.cart);
+  const notification = useSelector((state) => state.ui.notification);
+
+// 
+  useEffect(() => {
+    if (isInitial) {
+      isInitial = false;
+      return;
+    }
+
+    dispatch(sendCartData(cart));
+  }, [cart, dispatch]);
+
+  return (
+    <Fragment>
+      {notification && (
+        <Notification
+          status={notification.status}
+          title={notification.title}
+          message={notification.message}
+        />
+      )}
+      <Layout>
+        {showCart && <Cart />}
+        <Products />
+      </Layout>
+    </Fragment>
+  );
+}
+
+export default App;
+
+```
 
 ## 📒 436. Using an Action Creator Thunk
 
