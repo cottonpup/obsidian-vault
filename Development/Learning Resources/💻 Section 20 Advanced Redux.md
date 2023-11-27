@@ -601,6 +601,8 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const uiSlice = createSlice({
   name: "ui",
+  // notification의 initialValue는 `null`
+  // 처음엔 notification 컴포넌트가 없으니까!
   initialState: { cartIsVisible: false, notification: null },
   reducers: {
     toggle(state) {
