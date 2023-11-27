@@ -546,8 +546,15 @@ function App() {
 
 // useEffect 안에 async 를 추가할 수는 없다.
 /*
-const sendCartData = async () => { fetch func.. }
-
+  const sendRequest = async () => {
+      const response = await fetch(
+        "https://react-http-6eb26-default-rtdb.firebaseio.com/cart.json",
+        {
+          method: "PUT",
+          body: JSON.stringify(cart),
+        },
+      );
+	};
 */ 
 
   useEffect(() => {
