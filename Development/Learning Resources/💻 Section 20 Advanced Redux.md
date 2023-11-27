@@ -727,6 +727,17 @@ export default cartSlice;
 ```
 ## 📒 436. Using an Action Creator Thunk
 
+```js
+  dispatch(
+  // 
+      uiActions.showNotification({
+        status: "pending",
+        title: "Sending...",
+        message: "Sending cart data!",
+      }),
+    );
+```
+
 ## 📒 437. Finalizing the Fetching Logic
 
 ## 📒 438. Getting Started with Fetching Data
