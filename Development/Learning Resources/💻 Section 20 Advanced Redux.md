@@ -592,8 +592,7 @@ export default App;
 
 ```
 
-
-
+`ui-slice`가 이미 리덕스에 있으니까 사용해보는게 어떨까?
 `src/store/ui-slice.js`
 ```js
 import { createSlice } from "@reduxjs/toolkit";
