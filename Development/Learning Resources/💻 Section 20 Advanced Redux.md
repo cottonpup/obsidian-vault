@@ -538,7 +538,7 @@ import Notification from "./components/UI/Notification";
 import { sendCartData } from "./store/cart-slice";
 
 // 컴포넌트 밖에 정의한다: WHY?
-// 컴포넌트변하지 않고 초기화하지 않게하기 위해서
+// 컴포넌트 렌더링때마다, 변하지 않고 초기화하지 않게하기 위해서
 let isInitial = true;
 
 function App() {
