@@ -545,7 +545,10 @@ function App() {
   const notification = useSelector((state) => state.ui.notification);
 
 // useEffect 안에 async 를 추가할 수는 없다.
-/*** 
+/*
+const sendCartData = async () => { fetch func.. }
+
+*/ 
 
   useEffect(() => {
     if (isInitial) {
