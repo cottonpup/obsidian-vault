@@ -554,7 +554,11 @@ function App() {
           body: JSON.stringify(cart),
         },
       );
-	};
+
+      if (!response.ok) {
+        throw new Error("Sending cart data failed.");
+      }
+    };
 */ 
 
   useEffect(() => {
