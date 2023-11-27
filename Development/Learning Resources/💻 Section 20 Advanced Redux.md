@@ -724,6 +724,7 @@ const cartSlice = createSlice({
 });
 
 export const sendCartData = (cart) => {
+// 리듀서 안이 아니기때문에 side-effect를 일으켜도 된다!
   return async (dispatch) => {
     dispatch(
       uiActions.showNotification({
