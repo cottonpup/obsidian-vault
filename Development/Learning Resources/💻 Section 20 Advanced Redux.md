@@ -526,6 +526,7 @@ HTTP Request 의 결과값을 알고싶다면, 개발자 도구에서 `Network` 
 [UI 디렉토리 밑에 Notification UI 추가](https://github.com/academind/react-complete-guide-code/tree/19-advanced-redux/extra-files)
 [Practice](https://codesandbox.io/p/devbox/435-handling-http-states-feedback-with-redux-3czzr3)
 
+`src/App.js`
 ```js
 import { Fragment, useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
@@ -588,6 +589,33 @@ function App() {
 }
 
 export default App;
+
+```
+
+`src/store/ui-slice.js`
+```js
+import { createSlice } from "@reduxjs/toolkit";
+
+const uiSlice = createSlice({
+  name: "ui",
+  initialState: { cartIsVisible: false, notification: null },
+  reducers: {
+    toggle(state) {
+      state.cartIsVisible = !state.cartIsVisible;
+    },
+    showNotification(state, action) {
+      state.notification = {
+        status: action.payload.status,
+        title: action.payload.title,
+        message: action.payload.message,
+      };
+    },
+  },
+});
+
+export const uiActions = uiSlice.actions;
+
+export default uiSlice;
 
 ```
 
