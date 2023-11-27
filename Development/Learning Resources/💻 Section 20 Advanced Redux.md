@@ -592,7 +592,9 @@ export default App;
 
 ```
 
-`ui-slice`가 이미 리덕스에 있으니까 사용해보는게 어떨까?
+`useState` 를 사용해서 state를 핸들링해도 된다. 
+하지만 이미 우리에게  `ui-slice`가 이미 리덕스에 있으니까 사용해보는게 어떨까?
+
 `src/store/ui-slice.js`
 ```js
 import { createSlice } from "@reduxjs/toolkit";
