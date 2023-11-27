@@ -739,6 +739,12 @@ export default cartSlice;
     );
 ```
 
+### What is a `Thunk`?
+
+> A function that delays an action until later
+
+
+
 ## 📒 437. Finalizing the Fetching Logic
 
 ## 📒 438. Getting Started with Fetching Data
