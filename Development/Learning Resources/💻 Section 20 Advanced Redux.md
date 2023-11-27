@@ -537,6 +537,7 @@ import Products from './components/Shop/Products';
 import { uiActions } from './store/ui-slice';
 import Notification from './components/UI/Notification';
 
+// 컴포넌트 밖에 정의함으로서
 let isInitial = true;
 
 function App() {
@@ -545,7 +546,9 @@ function App() {
   const cart = useSelector((state) => state.cart);
   const notification = useSelector((state) => state.ui.notification);
 
-// use
+// useEffect(async() => )
+// 위 처럼 useEffect 안에는 async 키워드 사용 불가능!
+// WHY❓
   useEffect(() => {
     const sendCartData = async () => {
       dispatch(
