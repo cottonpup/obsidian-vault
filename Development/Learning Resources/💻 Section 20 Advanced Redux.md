@@ -538,6 +538,7 @@ import { uiActions } from './store/ui-slice';
 import Notification from './components/UI/Notification';
 
 // 컴포넌트 밖에 정의함으로서
+// 컴포넌트 렌더링이 일어날때마다, 값이 변하지 않고 초기화되지 않는다.
 let isInitial = true;
 
 function App() {
