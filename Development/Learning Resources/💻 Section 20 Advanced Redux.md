@@ -741,8 +741,10 @@ export default cartSlice;
 
 ### What is a `Thunk`?
 
-> A function that delays an action until later
-
+> [!done]- What is Thunk?
+>  **A function that delays an action until later**
+>  d
+>  An action creator function that does NOT re
 
 
 ## 📒 437. Finalizing the Fetching Logic
