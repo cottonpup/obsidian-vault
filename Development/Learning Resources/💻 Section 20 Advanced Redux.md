@@ -608,6 +608,7 @@ const uiSlice = createSlice({
     toggle(state) {
       state.cartIsVisible = !state.cartIsVisible;
     },
+    // notification state를 여기서 관리해보자! 
     showNotification(state, action) {
       state.notification = {
         status: action.payload.status,
