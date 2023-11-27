@@ -550,6 +550,8 @@ function App() {
 // useEffect(async() => )
 // 위 처럼 useEffect 안에는 async 키워드 사용 불가능!
 // WHY❓
+// useEffect는 cleanup 함수나 아무것도 리턴하지 않는다.
+// 반대로 async 함수는 promise 를 리턴한다. 
   useEffect(() => {
     const sendCartData = async () => {
       dispatch(
