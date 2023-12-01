@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
+                "file": "Personal/Daily Notes/2023-11-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "당근",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md"
+                "file": "Personal/Daily Notes/2023-11-14.md"
               }
             }
           },
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
+                "file": "Personal/Daily Notes/2023-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
+                "file": "Personal/Daily Notes/2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,6 +186,7 @@
   "active": "24cc3ad625197069",
   "lastOpenFiles": [
     "Development/Development Index.md",
+    "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
     "Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
     "Development/Projects/프로그래머스 레벨 2 문제풀이.md",
     "Development/Projects/코딩연합 팀프로젝트 멘토링 1기.md",
@@ -207,7 +209,6 @@
     "Development/Group Study/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Development/Group Study/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Templates/Map of Content.md",
-    "Development/Learning Resources/💻 Section 20 Advanced Redux.md",
     "_Drawer/Algorithm List.md",
     "_Drawer/How to study as a developer (매우 효과적인 방법!).md",
     "Job Seeking",
