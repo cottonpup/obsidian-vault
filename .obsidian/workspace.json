@@ -11,8 +11,12 @@
             "id": "faab3bccacb57718",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_💭 TEMPORARY/얀베리 세팅하기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -108,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Professional/Professional Index.md"
+                "file": "_💭 TEMPORARY/얀베리 세팅하기.md"
               }
             }
           },
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_💭 TEMPORARY/얀베리 세팅하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_💭 TEMPORARY/얀베리 세팅하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "faab3bccacb57718",
   "lastOpenFiles": [
+    "Screenshot 2023-12-04 at 00.15.18.png",
+    "Professional/Professional Index.md",
+    "_💭 TEMPORARY/얀베리 세팅하기.md",
     "_💭 TEMPORARY",
     "_💭 TEMPORARY/_Drawer/Temp/파인만 공부법.md",
     "_💭 TEMPORARY/_Drawer/Temp/생산적으로 사는 법.md",
@@ -190,7 +199,6 @@
     "💻 Development/Projects/카카오톡 겨울 인턴쉽 지원하기.md",
     "💻 Development/Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
     "Templates/Note Template.md",
-    "Professional/Professional Index.md",
     "🐿️ Personal/Personal Index.md",
     "👩🏻‍💻 Job Seeking/Job Seeking Index.md",
     "💻 Development/Group Study/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
@@ -202,7 +210,6 @@
     "💻 Development/Group Study/면접대비/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "💻 Development/Group Study/면접대비/프론트엔드 기본 면접문제.md",
     "💻 Development/Group Study/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "💻 Development/Group Study/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
     "👩🏻‍💻 Job Seeking",
     "💻 Development/Group Study",
     "Development/Untitled",
@@ -212,7 +219,6 @@
     "🐿️ Personal",
     "💻 Development/Learning Resources",
     "💻 Development/Projects",
-    "💻 Development",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-11-23 at 23.17.01.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-11-23 at 23.16.27.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-11-23 at 23.15.00.png",
