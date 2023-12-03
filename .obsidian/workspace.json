@@ -11,8 +11,12 @@
             "id": "8203a33c07ec5690",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "💻 Development/Learning Resources/💻 Section 20 Advanced Redux.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -108,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/원하는 기업.md"
+                "file": "💻 Development/Learning Resources/💻 Section 20 Advanced Redux.md"
               }
             }
           },
@@ -118,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/원하는 기업.md",
+                "file": "💻 Development/Learning Resources/💻 Section 20 Advanced Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/원하는 기업.md",
+                "file": "💻 Development/Learning Resources/💻 Section 20 Advanced Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +181,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "8203a33c07ec5690",
   "lastOpenFiles": [
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/원하는 기업.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/생산적으로 사는 법.md",
     "_💭 TEMPORARY/npx로 이미 세팅한 파일에서 얀베리 세팅하기.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-04 at 00.15.18.png",

@@ -62,7 +62,7 @@ https://redux-toolkit.js.org/tutorials/quick-start
 	- `ui-slice.js`: `My Cart` 버튼을 눌렀을 때, `Cart` 컴포넌트가 토글되는 걸 관리하는 slice 파일
 ### ui-slice.js 와 index.js 셋업하기
 **`store/ui-slice.js`**
-```js
+```js : ui-slice.js
 import { createSlice } from '@reduxjs/toolkit'
 
 const uiSlice = createSlice({
