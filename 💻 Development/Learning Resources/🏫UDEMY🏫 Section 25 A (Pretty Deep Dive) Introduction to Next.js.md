@@ -14,7 +14,8 @@ A **fullstack** framework for ReactJS
 # Key Features & Benefits
 
 **Server-side Rendering**
-Automatic page pre-rendering: Great for SEO and initial load.
+- Automatic page pre-rendering: Great for SEO and initial load.
+- Blending client-side and server-side: Fetch data on the server and render finished pages
 Next.js 프로덕션을 Source code 툴로 웹사이트를 보면 페이지 자체는 비어있다.
 React - Client-side Rendering
 
