@@ -14,6 +14,8 @@ A **fullstack** framework for ReactJS
 # Key Features & Benefits
 
 **Server-side Rendering**
+Automatic page pre-rendering: Great for SEO and initial load.
 Next.js 프로덕션을 Source code 툴로 웹사이트를 보면 페이지 자체는 비어있다.
 React - Client-side Rendering
 
+리액트에도 SSR를 지원하는 빌트인 기능이 있지만 어려움.
