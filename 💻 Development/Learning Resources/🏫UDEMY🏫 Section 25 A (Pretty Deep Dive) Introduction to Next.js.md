@@ -4,4 +4,6 @@ NextJS? A Framework for React
 Data Fetching & Adding an API
 
 # What is NextJS?
+The React Framework for Production
+A **fullstack** framework for ReactJS
 
