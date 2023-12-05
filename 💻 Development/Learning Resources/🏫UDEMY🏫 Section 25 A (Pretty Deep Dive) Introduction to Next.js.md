@@ -13,7 +13,7 @@ A **fullstack** framework for ReactJS
 
 # Key Features & Benefits
 
-**Server-side Rendering**
+## **Server-side Rendering**
 - Automatic page pre-rendering: Great for SEO and initial load.
 - Blending client-side and server-side: Fetch data on the server and render finished pages.
 
@@ -22,4 +22,4 @@ React - Client-side Rendering
 
 리액트에도 SSR를 지원하는 빌트인 기능이 있지만 어려움.
 
-
+## **File-based Routing**
