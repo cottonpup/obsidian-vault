@@ -11,8 +11,12 @@
             "id": "998c1a4c0ad3a94e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "💻 Development/Learning Resources/［UDEMY］ Section 20 Advanced Redux.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -107,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "💻 Development/Learning Resources/［UDEMY］ Section 20 Advanced Redux.md"
+              }
             }
           },
           {
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "💻 Development/Learning Resources/［UDEMY］ Section 20 Advanced Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "💻 Development/Learning Resources/［UDEMY］ Section 20 Advanced Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +183,9 @@
   },
   "active": "998c1a4c0ad3a94e",
   "lastOpenFiles": [
+    "💻 Development/Learning Resources/Untitled.md",
+    "💻 Development/Learning Resources/［UDEMY］ Section 20 Advanced Redux.md",
     "_💭 TEMPORARY/npx로 이미 세팅한 파일에서 얀베리 세팅하기.md",
-    "💻 Development/Learning Resources/💻 Section 20 Advanced Redux.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/원하는 기업.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/생산적으로 사는 법.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-04 at 00.15.18.png",
@@ -202,7 +211,6 @@
     "💻 Development/Group Study/면접대비/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
     "💻 Development/Group Study/면접대비/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "💻 Development/Group Study/면접대비/프론트엔드 기본 면접문제.md",
-    "💻 Development/Group Study/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
     "👩🏻‍💻 Job Seeking",
     "💻 Development/Group Study",
     "Development/Untitled",
