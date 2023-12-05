@@ -9,4 +9,5 @@ A **fullstack** framework for ReactJS
 
 > NextJS solves common problems and makes building React apps easier!
 
-[^1]: Lots of built-in features(e.g routing) that help you solve common problems & clear guidance on how to use thoes features
+[^1]: Lots of built-in features(e.g routing) that help you solve common problems & clear guidance on how to use thoese features.
+
