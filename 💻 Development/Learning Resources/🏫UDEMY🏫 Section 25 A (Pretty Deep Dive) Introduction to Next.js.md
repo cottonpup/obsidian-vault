@@ -11,3 +11,6 @@ A **fullstack** framework for ReactJS
 
 [^1]: Lots of built-in features(e.g routing) that help you solve common problems & clear guidance on how to use thoese features.
 
+# Key Features & Benefits
+
+Server-side Rendering
