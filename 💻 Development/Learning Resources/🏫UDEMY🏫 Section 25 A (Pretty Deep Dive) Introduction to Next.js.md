@@ -31,4 +31,3 @@ React - Client-side Rendering
 - Storing data, getting data, authentication etc. can be added to your React projects.
 
 # Analyzing the Created Project
-
