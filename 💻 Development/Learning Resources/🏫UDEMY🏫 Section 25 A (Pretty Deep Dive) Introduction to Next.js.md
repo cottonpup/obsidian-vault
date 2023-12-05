@@ -7,3 +7,4 @@ Data Fetching & Adding an API
 The React Framework for Production
 A **fullstack** framework for ReactJS
 
+NextJS solves common problems and 
