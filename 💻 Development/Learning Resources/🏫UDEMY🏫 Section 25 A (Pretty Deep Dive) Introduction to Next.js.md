@@ -27,3 +27,5 @@ React - Client-side Rendering
 - Less code, Less work, highly understandable
 
 ## **Fullstack Capabilities**
+- Easily add backend(server-side) code to your Next/React apps
+- Storing data, getting data, authentication etc. can be added to your React projects.
