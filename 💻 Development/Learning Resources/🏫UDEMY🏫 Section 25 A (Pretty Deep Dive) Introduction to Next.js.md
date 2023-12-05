@@ -30,4 +30,4 @@ React - Client-side Rendering
 - Easily add backend(server-side) code to your Next/React apps
 - Storing data, getting data, authentication etc. can be added to your React projects.
 
-#
+# Creating a New Next.js Project & App
