@@ -23,3 +23,4 @@ React - Client-side Rendering
 리액트에도 SSR를 지원하는 빌트인 기능이 있지만 어려움.
 
 ## **File-based Routing**
+- Define pages 
