@@ -26,3 +26,4 @@ React - Client-side Rendering
 - Define pages and routes with files and folders instead of code.
 - Less code, Less work, highly understandable
 
+## **Fullstack Capabilities**
