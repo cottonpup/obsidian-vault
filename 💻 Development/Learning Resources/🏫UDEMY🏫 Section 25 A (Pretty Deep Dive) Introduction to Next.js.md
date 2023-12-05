@@ -15,3 +15,5 @@ A **fullstack** framework for ReactJS
 
 **Server-side Rendering**
 Next.js 프로덕션을 Source code 툴로 웹사이트를 보면 페이지 자체는 비어있다.
+React - Client-side Rendering
+
