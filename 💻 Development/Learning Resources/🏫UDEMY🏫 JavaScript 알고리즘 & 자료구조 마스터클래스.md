@@ -1,3 +1,4 @@
+# 시간 복잡도
  ```js
  function addUpTo(n) {
   return n * (n + 1) / 2;
@@ -49,4 +50,4 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 ![[Screenshot 2023-12-13 at 11.36.20.png]]
 `O(n^3)` 이 `O(n^2)` 보다 크니까 `O(n^2)` 를 무시
 
-
+# 공간 복잡도
