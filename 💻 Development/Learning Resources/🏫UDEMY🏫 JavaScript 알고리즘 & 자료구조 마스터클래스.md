@@ -27,4 +27,5 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 - 코드 시간 재기
 - `performance.now()` 함수
 	- 수동으로 타이밍을 구하는 건 사실 좋은 방법은 아님.
+	- 기기에 따라 다르게 측정된다.
 - 덧셈공식
