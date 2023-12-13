@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b35720e44bcffb6",
+        "id": "fc7258655caa01e5",
         "type": "tabs",
         "children": [
           {
-            "id": "1857b2426997ff1a",
+            "id": "6a4356967e0dde3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/2022-01-15 TIL.md",
+                "file": "💻 Development/Learning Resources/🏫UDEMY🏫 JavaScript 알고리즘 & 자료구조 마스터클래스.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/2022-01-15 TIL.md"
+                "file": "💻 Development/Learning Resources/🏫UDEMY🏫 JavaScript 알고리즘 & 자료구조 마스터클래스.md"
               }
             }
           },
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/2022-01-15 TIL.md",
+                "file": "💻 Development/Learning Resources/🏫UDEMY🏫 JavaScript 알고리즘 & 자료구조 마스터클래스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/2022-01-15 TIL.md",
+                "file": "💻 Development/Learning Resources/🏫UDEMY🏫 JavaScript 알고리즘 & 자료구조 마스터클래스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,17 +181,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1857b2426997ff1a",
+  "active": "6a4356967e0dde3a",
   "lastOpenFiles": [
+    "💻 Development/Learning Resources/🏫UDEMY🏫 Section 25 A (Pretty Deep Dive) Introduction to Next.js.md",
+    "💻 Development/Learning Resources/🏫UDEMY🏫 JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/2022-01-15 TIL.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/프론트엔드 면접대비.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/생산적으로 사는 법.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/2022-01-15 TIL.md",
     "_💭 TEMPORARY/Next.js 튜토리얼 하나 듣기.md",
     "_💭 TEMPORARY/_Drawer/Files/사이드.png",
     "🐿️ Personal/Untitled",
     "_💭 TEMPORARY/npx로 이미 세팅한 파일에서 얀베리 세팅하기.md",
-    "💻 Development/Learning Resources/🏫UDEMY🏫 Section 25 A (Pretty Deep Dive) Introduction to Next.js.md",
     "💻 Development/Learning Resources/🏫UDEMY🏫 Section 20 Advanced Redux.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/원하는 기업.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-04 at 00.15.18.png",
@@ -213,7 +213,6 @@
     "💻 Development/Group Study/면접대비/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
     "💻 Development/Group Study/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "💻 Development/Group Study/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "💻 Development/Group Study/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "👩🏻‍💻 Job Seeking",
     "💻 Development/Group Study",
     "Development/Untitled",
