@@ -25,4 +25,5 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 ```
 
 - 코드 시간 재기
+- `performance.now()` 함수
 - 
