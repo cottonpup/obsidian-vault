@@ -35,4 +35,8 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 
 > [!faq] 수동으로 코드 시간재기가 좋은 방법이 아니면 뭐가 좋은 방법인가요?
 > Counting Operations -> 연산 수 세기
+> 정확한 수는 중요하지 않음. N이 커질 수록 비례적으로 커지는가? 가 중요.
+
+
+
 
