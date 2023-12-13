@@ -30,6 +30,6 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 	- 기기에 따라 다르게 측정된다.
 - 덧셈공식
 
+> [!faq] 수동으로 코드 시간재기가 좋은 방법이 아니면 뭐가 좋은 방법인가요?
+> Counting Operations
 
-
-> 수동으로 코드 시간재기가 좋은 방법이 아니면
