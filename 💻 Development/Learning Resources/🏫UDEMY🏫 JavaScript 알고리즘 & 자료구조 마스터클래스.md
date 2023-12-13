@@ -60,3 +60,7 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 ![[Screenshot 2023-12-13 at 11.57.20.png]]
 ![[Screenshot 2023-12-13 at 11.57.46.png]]
 # 빌트인 데이터 구조
+![[Screenshot 2023-12-13 at 22.55.51.png]]
+![[Screenshot 2023-12-13 at 22.56.09.png]]
+![[Screenshot 2023-12-13 at 22.56.26.png]]
+![[Screenshot 2023-12-13 at 22.56.40.png]]
