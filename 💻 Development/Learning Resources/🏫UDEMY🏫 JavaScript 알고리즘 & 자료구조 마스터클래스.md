@@ -9,7 +9,9 @@ addUpTo(1000000000);
 var time2 = performance.now();
 console.log(`Time Elapsed: ${(time2 - time1) / 1000} seconds.`)
  ```
+ 
 > O(1)
+
 ```js
 function addUpTo(n) {
   let total = 0;
@@ -24,7 +26,9 @@ addUpTo(1000000000);
 var t2 = performance.now();
 console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 ```
+
 > O(n)
+
 - n additions.
 - n assignments.
 - n comparisons.
