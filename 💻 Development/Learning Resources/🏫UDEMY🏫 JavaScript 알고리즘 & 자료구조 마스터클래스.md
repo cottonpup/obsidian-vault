@@ -38,8 +38,8 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 > Counting Operations -> 연산 수 세기
 > 정확한 수는 중요하지 않음. N이 커질 수록 비례적으로 커지는가? 가 중요.
 
-그렇다면 중첩 for 문은 O(2n) 일까? NOPE
--> O(n^2) 임. 제곱의 값으로 늘어나기 때문에 
+> [!question] 그렇다면 중첩 for 문은 O(2n) 일까? NOPE
+ O(n^2) 임. 제곱의 값으로 늘어나기 때문에 
 
 **기억해야할 건 n이 커질 때 시간에 어떻게 영향을 받나요?**
 
