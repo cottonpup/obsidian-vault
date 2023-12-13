@@ -45,3 +45,4 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 ## 상수는 중요하지 않다.
 ![[Screenshot 2023-12-13 at 11.18.29.png]]
 ![[Screenshot 2023-12-13 at 11.20.26.png]]
+![[Screenshot 2023-12-13 at 11.31.55.png]]
