@@ -54,3 +54,4 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 ![[Screenshot 2023-12-13 at 11.49.51.png]]
 # 로그와 섹션요약
 ![[Screenshot 2023-12-13 at 11.57.20.png]]
+![[Screenshot 2023-12-13 at 11.57.46.png]]
