@@ -38,6 +38,7 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 > Counting Operations -> 연산 수 세기
 > 정확한 수는 중요하지 않음. N이 커질 수록 비례적으로 커지는가? 가 중요.
 
+그렇다면 중첩 for 문은 O(2n) 일까? NOPE
 
 
 
