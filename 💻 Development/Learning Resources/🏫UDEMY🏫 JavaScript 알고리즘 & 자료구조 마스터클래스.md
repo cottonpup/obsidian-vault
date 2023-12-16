@@ -64,3 +64,4 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 ![[Screenshot 2023-12-13 at 22.56.09.png]]
 ![[Screenshot 2023-12-13 at 22.56.26.png]]
 ![[Screenshot 2023-12-13 at 22.56.40.png]]
+# 배열 안의 데이터에 접근이 느린 이유
