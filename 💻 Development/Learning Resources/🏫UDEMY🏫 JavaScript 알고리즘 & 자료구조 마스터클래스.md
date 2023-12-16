@@ -64,4 +64,10 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 ![[Screenshot 2023-12-13 at 22.56.09.png]]
 ![[Screenshot 2023-12-13 at 22.56.26.png]]
 ![[Screenshot 2023-12-13 at 22.56.40.png]]
-# 배열 안의 데이터에 접근이 느린 이유
+# 객체 vs 배열
+## When to use objects
+- When you don't need order
+- When you need fast access / insertion and removal
+## # WHEN TO USE ARRAYS
+- When you need order
+- When you need fast access / insertion and removal (sort of....)
