@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a4356967e0dde3a",
+            "id": "b635600778a7dd37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Development/Learning Resources/🏫UDEMY🏫 JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+                "file": "Tanstack Query.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻 Development/Learning Resources/🏫UDEMY🏫 JavaScript 알고리즘 & 자료구조 마스터클래스.md"
+                "file": "Tanstack Query.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Development/Learning Resources/🏫UDEMY🏫 JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+                "file": "Tanstack Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻 Development/Learning Resources/🏫UDEMY🏫 JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+                "file": "Tanstack Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a4356967e0dde3a",
+  "active": "b635600778a7dd37",
   "lastOpenFiles": [
+    "Tanstack Query.md",
+    "💻 Development/Learning Resources/🏫UDEMY🏫 JavaScript 알고리즘 & 자료구조 마스터클래스.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 22.56.40.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 22.56.26.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 22.56.09.png",
@@ -194,9 +196,7 @@
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 11.36.20.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 11.31.55.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 11.20.26.png",
-    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 11.18.29.png",
     "💻 Development/Learning Resources/🏫UDEMY🏫 Section 25 A (Pretty Deep Dive) Introduction to Next.js.md",
-    "💻 Development/Learning Resources/🏫UDEMY🏫 JavaScript 알고리즘 & 자료구조 마스터클래스.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/2022-01-15 TIL.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/프론트엔드 면접대비.md",
