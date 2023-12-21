@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "Daily/2023-12-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273
+    "width": 303.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Note Template.md"
+                "file": "Daily/2023-12-21.md"
               }
             }
           },
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "Daily/2023-12-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "Daily/2023-12-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,6 +184,7 @@
   },
   "active": "7be5df45153c0a23",
   "lastOpenFiles": [
+    "Templates/Note Template.md",
     "Daily/2023-12-21.md",
     "Daily/2023-12-20.md",
     "Daily/2023-11-22.md",
@@ -221,7 +223,6 @@
     "💻 Development/Projects/SSAFY 에세이 제출하기.md",
     "💻 Development/Projects/카카오톡 겨울 인턴쉽 지원하기.md",
     "💻 Development/Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
-    "Templates/Note Template.md",
     "👩🏻‍💻 Job Seeking",
     "💻 Development/Group Study",
     "Development/Untitled",
