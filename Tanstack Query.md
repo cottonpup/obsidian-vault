@@ -1,6 +1,8 @@
 ---
 Created: 2023-12-21
-tags: 
-topic: 
-parent_dir: Projects
+tags:
+  - Tanstack-query
+  - React-query
+topic: React query
 ---
+Tanstack query does not send HTT
