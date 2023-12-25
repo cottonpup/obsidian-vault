@@ -81,5 +81,9 @@ input과 output 이 없는 문제를 받으면 일단 스스로 인풋과 아웃
 charCount("aaaa") // {a: 4}
 charCount("hello") // {h: 1, e: 1, l: 2, o: 1}
 
-// 2️⃣
+// 2️⃣ 복잡한 입력값과 예시를 알아봄.
+"my phone number is 41242" // number?
+"Hello hi" // 대소문자?
+"" // 빈 인풋?
+
 ```
