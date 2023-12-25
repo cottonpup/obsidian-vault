@@ -6,7 +6,7 @@
   "enabledCssSnippets": [
     "media-grid-snippet"
   ],
-  "textFontFamily": "Nanum Gothic",
-  "interfaceFontFamily": "Nanum Gothic",
-  "monospaceFontFamily": "JetBrains Mono"
+  "textFontFamily": "Space Grotesk",
+  "interfaceFontFamily": "Space Grotesk",
+  "monospaceFontFamily": "Space Grotesk"
 }
