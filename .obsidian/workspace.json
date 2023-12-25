@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+                "file": "Daily/2023-12-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273,
-    "collapsed": true
+    "width": 303.50390243530273
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md"
+                "file": "Daily/2023-12-21.md"
               }
             }
           },
