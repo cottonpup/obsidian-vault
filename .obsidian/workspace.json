@@ -93,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md"
+              }
             }
           },
           {
@@ -114,29 +116,13 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "cbc8544ef8de3330",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "17e6a5c7df823d51",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,7 +136,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cbc8544ef8de3330",
+  "active": "90da7495cf4fd365",
   "lastOpenFiles": [
     "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
     "💻 Development/Learning Resources/Section 25 A (Pretty Deep Dive) Introduction to Next.js.md",
