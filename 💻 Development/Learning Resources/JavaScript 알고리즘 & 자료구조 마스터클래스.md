@@ -71,3 +71,6 @@ n이 커질 때 시간에 어떻게 영향을 받나요?
 ## # WHEN TO USE ARRAYS
 - When you need order
 - When you need fast access / insertion and removal (sort of....)
+
+# 2단계 구체적 예제들
+input과 output 이 없는 문제를 받으면 일단 스스로 인풋과 아웃풋ㅇ
