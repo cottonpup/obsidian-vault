@@ -85,5 +85,7 @@ charCount("hello") // {h: 1, e: 1, l: 2, o: 1}
 "my phone number is 41242" // number?
 "Hello hi" // 대소문자?
 "" // 빈 인풋?
+null // invalid 인풋?
+
 
 ```
