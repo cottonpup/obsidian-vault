@@ -73,4 +73,10 @@ n이 커질 때 시간에 어떻게 영향을 받나요?
 - When you need fast access / insertion and removal (sort of....)
 
 # 2단계 구체적 예제들
-input과 output 이 없는 문제를 받으면 일단 스스로 인풋과 아웃풋ㅇ
+input과 output 이 없는 문제를 받으면 일단 스스로 인풋과 아웃풋을 적어볼 것.
+```js
+// Write a function which takes in a string and returns counts of each character in the string.
+
+charCount("aaaa") // {a: 4}
+charCount("hello") // 
+```
