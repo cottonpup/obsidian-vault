@@ -77,7 +77,9 @@ input과 output 이 없는 문제를 받으면 일단 스스로 인풋과 아웃
 ```js
 // Write a function which takes in a string and returns counts of each character in the string.
 
-// 일단 함수명을 적고 인풋을 가정, 아웃풋의 데이터 형태를 생각하고 아웃풋을 가정
+// 1️⃣ 일단 함수명을 적고 인풋을 가정, 아웃풋의 데이터 형태를 생각하고 아웃풋을 가정
 charCount("aaaa") // {a: 4}
 charCount("hello") // {h: 1, e: 1, l: 2, o: 1}
+
+// 2️⃣
 ```
