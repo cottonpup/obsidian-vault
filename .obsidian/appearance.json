@@ -1,10 +1,11 @@
 {
-  "accentColor": "#00000b",
+  "accentColor": "#eaac8b",
   "cssTheme": "Obsidian Nord",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 15,
   "enabledCssSnippets": [
-    "media-grid-snippet"
+    "media-grid-snippet",
+    "snippet"
   ],
   "textFontFamily": "Space Grotesk",
   "interfaceFontFamily": "Space Grotesk",
