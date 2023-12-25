@@ -1,4 +1,4 @@
-# 시간 복잡도
+****# 시간 복잡도
  ```js
  function addUpTo(n) {
   return n * (n + 1) / 2;
@@ -46,7 +46,7 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
 > [!question] 그렇다면 중첩 for 문은 O(2n) 일까? NOPE
  O(n^2) 임. 제곱의 값으로 늘어나기 때문에 
 
-**n이 커질 때 시간에 어떻게 영향을 받나요?**
+n이 커질 때 시간에 어떻게 영향을 받나요?
 ## 상수는 중요하지 않다.
 ![[Screenshot 2023-12-13 at 11.18.29.png]]
 ![[Screenshot 2023-12-13 at 11.20.26.png]]
