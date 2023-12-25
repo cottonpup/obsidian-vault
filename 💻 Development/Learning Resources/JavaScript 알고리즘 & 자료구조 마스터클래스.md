@@ -86,6 +86,8 @@ charCount("hello") // {h: 1, e: 1, l: 2, o: 1}
 "Hello hi" // 대소문자?
 "" // 빈 인풋?
 null // invalid 인풋?
-
-
 ```
+
+# 3단계 세부 분석
+- 세부화시키기 (Break it down)
+	-  면접
