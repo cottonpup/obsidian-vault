@@ -1,4 +1,4 @@
-****# 시간 복잡도
+시간 복잡도
  ```js
  function addUpTo(n) {
   return n * (n + 1) / 2;
@@ -54,25 +54,25 @@ n이 커질 때 시간에 어떻게 영향을 받나요?
 ![[Screenshot 2023-12-13 at 11.36.20.png]]
 `O(n^3)` 이 `O(n^2)` 보다 크니까 `O(n^2)` 를 무시
 
-# 공간 복잡도
+## 공간 복잡도
 ![[Screenshot 2023-12-13 at 11.49.51.png]]
-# 로그와 섹션요약
+## 로그와 섹션요약
 ![[Screenshot 2023-12-13 at 11.57.20.png]]
 ![[Screenshot 2023-12-13 at 11.57.46.png]]
-# 빌트인 데이터 구조
+## 빌트인 데이터 구조
 ![[Screenshot 2023-12-13 at 22.55.51.png]]
 ![[Screenshot 2023-12-13 at 22.56.09.png]]
 ![[Screenshot 2023-12-13 at 22.56.26.png]]
 ![[Screenshot 2023-12-13 at 22.56.40.png]]
-# 객체 vs 배열
-## When to use objects
+## 객체 vs 배열
+### When to use objects
 - When you don't need order
 - When you need fast access / insertion and removal
-## # WHEN TO USE ARRAYS
+### # WHEN TO USE ARRAYS
 - When you need order
 - When you need fast access / insertion and removal (sort of....)
 
-# 2단계 구체적 예제들
+## 2단계 구체적 예제들
 input과 output 이 없는 문제를 받으면 일단 스스로 인풋과 아웃풋을 적어볼 것.
 ```js
 // Write a function which takes in a string and returns counts of each character in the string.
@@ -88,7 +88,7 @@ charCount("hello") // {h: 1, e: 1, l: 2, o: 1}
 null // invalid 인풋?
 ```
 
-# 3단계 세부 분석
+## 3단계 세부 분석
 - 세부화시키기 (Break it down)
 	- 면접관들이 여러분이 수행하는 작업이 무엇인지에 대해 소통하기를 원함!
 	- 미간을 찌푸린 채 말없이 바로 코드를 입력하지 마세요...
