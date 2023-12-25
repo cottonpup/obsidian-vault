@@ -89,6 +89,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "90da7495cf4fd365",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
             "id": "076a624753dac954",
             "type": "leaf",
             "state": {
@@ -108,45 +116,6 @@
             }
           },
           {
-            "id": "90da7495cf4fd365",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md"
-              }
-            }
-          },
-          {
-            "id": "cbfda71c34b5c116",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "11ecc14b468e3eb3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "cbc8544ef8de3330",
             "type": "leaf",
             "state": {
@@ -163,12 +132,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +150,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7be5df45153c0a23",
+  "active": "cbc8544ef8de3330",
   "lastOpenFiles": [
+    "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
     "💻 Development/Learning Resources/Section 25 A (Pretty Deep Dive) Introduction to Next.js.md",
     "💻 Development/Learning Resources/Section 20 Advanced Redux.md",
-    "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
     "💻 Development/Learning Resources/Untitled.md",
     "💻 Development/Learning Resources/Tanstack Query.md",
     "Daily/2023-12-21.md",
