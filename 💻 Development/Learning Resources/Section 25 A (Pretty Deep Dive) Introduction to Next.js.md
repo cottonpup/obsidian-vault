@@ -1,3 +1,9 @@
+---
+Created: 2023-12-26
+tags: 
+topic: 
+parent_dir: Learning Resources
+---
 What is NextJS And Why?
 File-based Routing & Page Pre-rendering
 NextJS? A Framework for React

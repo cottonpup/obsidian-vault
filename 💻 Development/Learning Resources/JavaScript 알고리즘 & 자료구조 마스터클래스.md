@@ -1,3 +1,9 @@
+---
+Created: 2023-12-26
+tags: 
+topic: 
+parent_dir: Learning Resources
+---
 시간 복잡도
  ```js
  function addUpTo(n) {
