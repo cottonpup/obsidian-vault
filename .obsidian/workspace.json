@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-12-21.md",
+                "file": "Daily/2023-12-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-12-21.md"
+                "file": "Daily/2023-12-26.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-12-21.md",
+                "file": "Daily/2023-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,13 +139,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-12-21.md",
+                "file": "Daily/2023-12-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,12 +167,14 @@
   },
   "active": "7be5df45153c0a23",
   "lastOpenFiles": [
+    "Daily/2023-12-21.md",
+    "Templates/Note Template.md",
+    "Daily/2023-12-26.md",
     "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
     "💻 Development/Learning Resources/Section 25 A (Pretty Deep Dive) Introduction to Next.js.md",
     "💻 Development/Learning Resources/Section 20 Advanced Redux.md",
     "💻 Development/Learning Resources/Untitled.md",
     "💻 Development/Learning Resources/Tanstack Query.md",
-    "Daily/2023-12-21.md",
     "_💭 TEMPORARY/npx로 이미 세팅한 파일에서 얀베리 세팅하기.md",
     "_💭 TEMPORARY/Next.js 튜토리얼 하나 듣기.md",
     "👩🏻‍💻 Job Seeking/Job Seeking Index.md",
@@ -187,7 +190,6 @@
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.33.47.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.13.04.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.12.24.png",
-    "Templates/Note Template.md",
     "Daily/2023-12-20.md",
     "Daily/2023-11-22.md",
     "Daily",
@@ -203,7 +205,6 @@
     "_💭 TEMPORARY/_Drawer/ARCHIVE/생산적으로 사는 법.md",
     "🐿️ Personal/Untitled",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/원하는 기업.md",
-    "Professional/Professional Index.md",
     "_💭 TEMPORARY",
     "👩🏻‍💻 Job Seeking",
     "💻 Development/Group Study",

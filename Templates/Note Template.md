@@ -1,5 +1,6 @@
 ---
 Created: "{{date:YYYY-MM-DD}}"
 tags: 
-topic:
+topic: 
+parent_dir:
 ---
