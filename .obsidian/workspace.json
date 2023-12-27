@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8851b06ce25995a7",
+        "id": "3ba3aa56f475f998",
         "type": "tabs",
         "children": [
           {
-            "id": "7be5df45153c0a23",
+            "id": "a4542f79d4acb9c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily Note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Daily Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,12 +156,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7be5df45153c0a23",
+  "active": "a4542f79d4acb9c5",
   "lastOpenFiles": [
-    "Templates/{{tomorrow}}.md",
-    "Templates/Daily Note.md",
-    "Templates/Note Template.md",
+    "Daily/2023-12-28.md",
     "Daily/2023-12-27.md",
+    "Templates/Daily Note.md",
+    "Templates/{{tomorrow}}.md",
+    "Templates/Note Template.md",
     "💻 Development/Development Index.md",
     "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
     "💻 Development/Learning Resources/Section 20 Advanced Redux.md",
@@ -203,7 +195,6 @@
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 11.57.20.png",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/2022-01-15 TIL.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/프론트엔드 면접대비.md",
     "🐿️ Personal/Untitled",
     "_💭 TEMPORARY",
     "👩🏻‍💻 Job Seeking",
