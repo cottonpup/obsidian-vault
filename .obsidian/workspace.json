@@ -167,8 +167,9 @@
   },
   "active": "7be5df45153c0a23",
   "lastOpenFiles": [
-    "Templates/Note Template.md",
+    "Templates/{{tomorrow}}.md",
     "Templates/Daily Note.md",
+    "Templates/Note Template.md",
     "Daily/2023-12-27.md",
     "💻 Development/Development Index.md",
     "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
@@ -203,7 +204,6 @@
     "_💭 TEMPORARY/_Drawer/ARCHIVE/2022-01-15 TIL.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/프론트엔드 면접대비.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/생산적으로 사는 법.md",
     "🐿️ Personal/Untitled",
     "_💭 TEMPORARY",
     "👩🏻‍💻 Job Seeking",

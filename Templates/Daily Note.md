@@ -2,10 +2,9 @@
 Created: 2023-12-27
 tags: 
 topic: 
-parent_dir:
+parent_dir: Daily
 ---
-  
-# {{date}}  
+
 - [ ] TBU  
 - [ ] TBU  
   
