@@ -1,0 +1,21 @@
+---
+Created: 2023-12-27
+tags: 
+topic: 
+parent_dir:
+---
+  
+# {{date}}  
+- [ ] TBU  
+- [ ] TBU  
+  
+  
+[[{{yesterday}}|< yesterday]] | [[{{tomorrow}}|tomorrow >]]  
+  
+---  
+## 일감 감옥  
+```tasks  
+path includes task  
+not done  
+short mode  
+```
