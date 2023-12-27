@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-12-26.md",
+                "file": "Daily/2023-12-27.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-12-26.md"
+                "file": "Daily/2023-12-27.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-12-26.md",
+                "file": "Daily/2023-12-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-12-26.md",
+                "file": "Daily/2023-12-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
     "💻 Development/Learning Resources/Tanstack Query.md",
     "💻 Development/Learning Resources/Section 25 A (Pretty Deep Dive) Introduction to Next.js.md",
     "Daily/2023-12-21.md",
-    "Daily/2023-12-26.md",
+    "Daily/2023-12-27.md",
     "Templates/Note Template.md",
     "💻 Development/Learning Resources/Untitled.md",
     "_💭 TEMPORARY/npx로 이미 세팅한 파일에서 얀베리 세팅하기.md",
