@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+                "file": "Daily/2023-12-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md"
+                "file": "Daily/2023-12-28.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+                "file": "Daily/2023-12-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+                "file": "Daily/2023-12-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,18 +164,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "a4542f79d4acb9c5",
   "lastOpenFiles": [
-    "Daily/2023-12-30.md",
-    "Daily/2023-12-28.md",
     "Daily/2023-12-29.md",
-    "Daily/2023-12-21.md",
+    "Daily/2023-12-28.md",
+    "Daily/2023-12-30.md",
     "Templates/Daily Note.md",
+    "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+    "Daily/2023-12-21.md",
     "Daily/2023-12-27.md",
     "Templates/{{tomorrow}}.md",
     "Templates/Note Template.md",
     "💻 Development/Development Index.md",
-    "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
     "💻 Development/Learning Resources/Section 20 Advanced Redux.md",
     "💻 Development/Learning Resources/Tanstack Query.md",
     "💻 Development/Learning Resources/Section 25 A (Pretty Deep Dive) Introduction to Next.js.md",
