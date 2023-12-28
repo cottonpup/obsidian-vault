@@ -14,7 +14,7 @@ parent_dir: Daily
 ---  
 ## 일감 감옥  
 ```tasks  
-path includes task  
+path includes Daily  
 not done  
 short mode  
 ```
