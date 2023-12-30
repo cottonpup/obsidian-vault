@@ -1,3 +1,7 @@
+
+https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2023/ep-230323
+
+
 ### **Introduction**
 
 How do you feel in the middle of a crowd? Sam and Neil hear experts talking about the role of crowds in modern life, and the different reactions it evokes in people. And, as usual, they teach you vocabulary along the way.
@@ -16,24 +20,23 @@ Listen to the programme to find out the answer. 
 
 ### Vocabulary
 
-**crowd  
-**a large group of people who gather together for a shared purpose, such as to see a music concert, or a sports event
+**crowd**
+a large group of people who gather together for a shared purpose, such as to see a music concert, or a sports event
 
-**regress  
-**return to a less advanced, more primitive way of thinking or behaving
+**regress**
+return to a less advanced, more primitive way of thinking or behaving
 
-**gullible  
-**
+**gullible**
 easily tricked or deceived; willing to believe everything other people say
 
-**mob mentality  
-**tendency of people in a group to behave in ways that conform with others in the group rather than as individuals
+**mob mentality**
+tendency of people in a group to behave in ways that conform with others in the group rather than as individuals
 
-**correlation  
-**a connection, relationship or link between two or more things 
+**correlation**
+a connection, relationship or link between two or more things 
 
-**flip side  
-**the opposite, less good or less pleasant aspects of something
+**flip side**
+the opposite, less good or less pleasant aspects of something
 
 ### **TRANSCRIPT**
 
