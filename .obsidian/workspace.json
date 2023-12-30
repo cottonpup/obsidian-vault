@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-12-30.md",
+                "file": "⭐️ English/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-12-30.md"
+                "file": "⭐️ English/Untitled.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-12-30.md",
+                "file": "⭐️ English/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-12-30.md",
+                "file": "⭐️ English/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,11 +164,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "a4542f79d4acb9c5",
   "lastOpenFiles": [
+    "Metality",
+    "Daily/2023-12-30.md",
+    "⭐️ English/Untitled.md",
     "⭐️ English",
     "Daily/2023-12/2023-12-28.md",
-    "Daily/2023-12-30.md",
     "Daily/2023-12/2023-12-21.md",
     "Daily/2023-12/2023-12-29.md",
     "Templates/Daily Note.md",
@@ -195,7 +197,6 @@
     "💻 Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
     "💻 Development/Projects/프로그래머스 레벨 2 문제풀이.md",
     "💻 Development/Projects/코딩연합 팀프로젝트 멘토링 1기.md",
-    "💻 Development/Projects/SSAFY 에세이 제출하기.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.41.03.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.33.47.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.13.04.png",
@@ -211,7 +212,6 @@
     "👩🏻‍💻 Job Seeking",
     "💻 Development/Group Study",
     "Development/Untitled",
-    "Documents/Untitled",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
