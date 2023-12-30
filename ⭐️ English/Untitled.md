@@ -1,7 +1,6 @@
 
 https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2023/ep-230323
 
-
 ### **Introduction**
 
 How do you feel in the middle of a crowd? Sam and Neil hear experts talking about the role of crowds in modern life, and the different reactions it evokes in people. And, as usual, they teach you vocabulary along the way.
@@ -122,7 +121,7 @@ c)    an election?
 **A **correlation** is a connection or a link between two things. 
 
 **Neil  
-**And finally, the **flip side** of something means those aspects of it which are less obvious, good, or pleasant. The flip side of this programme is that, once again, our six minutes are up! Bye for now!
+And finally, the flip side** of something means those aspects of it which are less obvious, good, or pleasant. The flip side of this programme is that, once again, our six minutes are up! Bye for now!
 
 **Sam  
 **Bye bye!
