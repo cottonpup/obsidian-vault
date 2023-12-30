@@ -41,48 +41,48 @@ the opposite, less good or less pleasant aspects of something
 
 Note: This is not a word-for-word transcript.
 
-**Sam  
-**Hello. This is 6 Minute English from BBC Learning English. I’m Sam.
+**Sam**
+Hello. This is 6 Minute English from BBC Learning English. I’m Sam.
 
-**Neil  
-**And I’m Neil.
+**Neil**
+And I’m Neil.
 
-**Sam  
-**There was a huge **crowd** of people waiting at the train station this morning, Neil. When the train finally arrived, everyone rushed in and I couldn’t find a seat! I hate crowds!
+**Sam**
+There was a huge **crowd** of people waiting at the train station this morning, Neil. When the train finally arrived, everyone rushed in and I couldn’t find a seat! I hate crowds!
 
-**Neil  
-**But you love going to the football match on Saturday… 
+**Neil**
+But you love going to the football match on Saturday… 
 
-**Sam  
-**Ah, that’s different – more like a big group of friends…
+**Sam**
+Ah, that’s different – more like a big group of friends…
 
-**Neil  
-**Well, whether it’s sporting events, train stations or political protests, **crowds** – that's large groups of people who gather together for a shared activity, are a feature of life. For some, crowds create feelings of excitement and a sense of community, while for others they feel uncomfortable, confusing, or even dangerous. So why is that?
+**Neil**
+Well, whether it’s sporting events, train stations or political protests, **crowds** – that's large groups of people who gather together for a shared activity, are a feature of life. For some, crowds create feelings of excitement and a sense of community, while for others they feel uncomfortable, confusing, or even dangerous. So why is that?
 
-**Sam  
-**In this programme, we’ll be discussing the role of crowds in modern life, asking why they evoke different reactions in people. And, as usual, we’ll be learning some new vocabulary as well. But first, I have a question for you, Neil. The biggest crowd in history happened in 2019 when over 200 million people gathered in the northern Indian city of Allahabad. But what did so many people come together for? Was it:
+**Sam**
+In this programme, we’ll be discussing the role of crowds in modern life, asking why they evoke different reactions in people. And, as usual, we’ll be learning some new vocabulary as well. But first, I have a question for you, Neil. The biggest crowd in history happened in 2019 when over 200 million people gathered in the northern Indian city of Allahabad. But what did so many people come together for? Was it:
 
 a)    a cricket match  
 b)    a religious festival or  
 c)    an election?
 
-**Neil  
-**Well, I know Indians love cricket, but I doubt 200 million people would fit into a stadium! I’ll guess it’s c) an election.
+**Neil**
+Well, I know Indians love cricket, but I doubt 200 million people would fit into a stadium! I’ll guess it’s c) an election.
 
-**Sam  
-**OK, Neil. We’ll find out the answer later in the programme. People gathering for a cricket match, or a music concert are usually happy events. But crowds can have a darker side as well – they can become out of control and sometimes even violent. Here’s, psychologist, Professor John Drury, discussing this idea with, Anand Jagatia, presenter of the BBC World Service programme, appropriately named, CrowdScience. 
+**Sam**
+OK, Neil. We’ll find out the answer later in the programme. People gathering for a cricket match, or a music concert are usually happy events. But crowds can have a darker side as well – they can become out of control and sometimes even violent. Here’s, psychologist, Professor John Drury, discussing this idea with, Anand Jagatia, presenter of the BBC World Service programme, appropriately named, CrowdScience. 
 
-**John Drury  
-**When people get together in a crowd, they **regress** psychologically, their thinking is more primitive, they become more **gullible**, and that's also associated with the supposed tendency towards violence as well. 
+**John Drury**
+When people get together in a crowd, they **regress** psychologically, their thinking is more primitive, they become more **gullible**, and that's also associated with the supposed tendency towards violence as well. 
 
-**Anand Jagatia  
-**But according to John, the idea of **mob mentality**, that people in crowds are irrational and prone to destructive behaviour, just isn't backed up by research.
+**Anand Jagatia**
+But according to John, the idea of **mob mentality**, that people in crowds are irrational and prone to destructive behaviour, just isn't backed up by research.
 
-**Neil  
-**One view is that when people get together in a crowd, they become irrational. Psychologically speaking they **regress** – they return to a less advanced, more primitive way of behaving. They may also become more **gullible**, an adjective meaning easily tricked or willing to believe everything someone says.
+**Neil**
+One view is that when people get together in a crowd, they become irrational. Psychologically speaking they **regress** – they return to a less advanced, more primitive way of behaving. They may also become more **gullible**, an adjective meaning easily tricked or willing to believe everything someone says.
 
-**Sam  
-**Connected to this is the phrase **mob mentality** - the tendency of people in a group to behave in the same way as others in the group rather than as individuals. In crowds, people may do things they would never do alone, like steal or use violence.
+**Sam**
+Connected to this is the phrase **mob mentality** - the tendency of people in a group to behave in the same way as others in the group rather than as individuals. In crowds, people may do things they would never do alone, like steal or use violence.
 
 **Neil**
 But according to Professor Drury, in reality it’s not mob mentality and violence, but rather feelings of safety and togetherness that actually characterise crowds. And according to Dr Anne Templeton, another expert on crowd psychology from the University of Edinburgh, that’s especially true when you identify with the other people in a crowd. Here is Dr Templeton explaining more to BBC World Service programme, CrowdScience. 
@@ -123,5 +123,5 @@ A **correlation** is a connection or a link between two things. 
 **Neil**  
 And finally, the **flip side** of something means those aspects of it which are less obvious, good, or pleasant. The flip side of this programme is that, once again, our six minutes are up! Bye for now!
 
-**Sam  
-**Bye bye!
+**Sam**
+Bye bye!
