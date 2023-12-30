@@ -84,44 +84,44 @@ c)    an election?
 **Sam  
 **Connected to this is the phrase **mob mentality** - the tendency of people in a group to behave in the same way as others in the group rather than as individuals. In crowds, people may do things they would never do alone, like steal or use violence.
 
-**Neil  
-**But according to Professor Drury, in reality it’s not mob mentality and violence, but rather feelings of safety and togetherness that actually characterise crowds. And according to Dr Anne Templeton, another expert on crowd psychology from the University of Edinburgh, that’s especially true when you identify with the other people in a crowd. Here is Dr Templeton explaining more to BBC World Service programme, CrowdScience. 
+**Neil**
+But according to Professor Drury, in reality it’s not mob mentality and violence, but rather feelings of safety and togetherness that actually characterise crowds. And according to Dr Anne Templeton, another expert on crowd psychology from the University of Edinburgh, that’s especially true when you identify with the other people in a crowd. Here is Dr Templeton explaining more to BBC World Service programme, CrowdScience. 
 
-**Dr Anne Templeton  
-**The more people feel like they are part of a group with others in the crowd, the more enjoyable experience they have. There's a **correlation** between having that social identification and feeling safer. So often if we feel like we are in a group with others, we expect them to look after us. The **flip side** of that is when you don't feel as much part of the group, and you're not having a positive experience.
+**Dr Anne Templeton**
+The more people feel like they are part of a group with others in the crowd, the more enjoyable experience they have. There's a **correlation** between having that social identification and feeling safer. So often if we feel like we are in a group with others, we expect them to look after us. The **flip side** of that is when you don't feel as much part of the group, and you're not having a positive experience.
 
-**Neil  
-**Dr Templeton thinks there is a **correlation** – that’s a connection, or a link – between being among people who share your values, and feeling safe. Football fans cheer their team on by wearing the same colours, and singing the same songs, and this works as a kind of glue, bonding the crowd together and making them feel safe.
+**Neil**
+Dr Templeton thinks there is a **correlation** – that’s a connection, or a link – between being among people who share your values, and feeling safe. Football fans cheer their team on by wearing the same colours, and singing the same songs, and this works as a kind of glue, bonding the crowd together and making them feel safe.
 
-**Sam  
-**The disadvantage of this, however, is when you _don’t_ feel part of the crowd you’re with. Dr Templeton calls this the **flip side** - the opposite, less good or less pleasant aspects of something.
+**Sam**
+The disadvantage of this, however, is when you _don’t_ feel part of the crowd you’re with. Dr Templeton calls this the **flip side** - the opposite, less good or less pleasant aspects of something.
 
-**Neil  
-**In today’s world, crowds are important because of the feeling of power they give us. It’s one thing sitting alone shouting at the news on television, but it’s something else altogether to march on a political protest with hundreds of demonstrators, feeling that together you could change the world. Maybe that’s what everyone was doing in 2019, Sam?
+**Neil**
+In today’s world, crowds are important because of the feeling of power they give us. It’s one thing sitting alone shouting at the news on television, but it’s something else altogether to march on a political protest with hundreds of demonstrators, feeling that together you could change the world. Maybe that’s what everyone was doing in 2019, Sam?
 
-**Sam  
-**Right, in my quiz question I asked you why 200 million people gathered in the Indian city of Allahabad in 2019.
+**Sam**
+Right, in my quiz question I asked you why 200 million people gathered in the Indian city of Allahabad in 2019.
 
-**Neil  
-**I guessed it was to vote in an election. Was I right?
+**Neil**
+I guessed it was to vote in an election. Was I right?
 
-**Sam  
-**You were wrong, I’m afraid, Neil! In fact, the biggest crowd in history had gathered for a Hindu religious festival, the Kumbh Mela, which 220 million people attended over fifty days. OK, let’s recap the vocabulary we’ve learned from this programme on **crowds** – large numbers of people who gather together for a shared reason.
+**Sam**
+You were wrong, I’m afraid, Neil! In fact, the biggest crowd in history had gathered for a Hindu religious festival, the Kumbh Mela, which 220 million people attended over fifty days. OK, let’s recap the vocabulary we’ve learned from this programme on **crowds** – large numbers of people who gather together for a shared reason.
 
-**Neil  
-**To **regress** means return to less advanced, more primitive behaviours. **Regress** is the opposite of ‘progress’.
+**Neil**
+To **regress** means return to less advanced, more primitive behaviours. **Regress** is the opposite of ‘progress’.
 
-**Sam  
-**Someone who is **gullible** is easily tricked, and will believe anything people say.
+**Sam**
+Someone who is **gullible** is easily tricked, and will believe anything people say.
 
-**Neil  
-**The phrase, **mob mentality** describes the tendency of people in a group to behave in ways that conform with others in the group rather than as individuals.
+**Neil**
+The phrase, **mob mentality** describes the tendency of people in a group to behave in ways that conform with others in the group rather than as individuals.
 
-**Sam  
-**A **correlation** is a connection or a link between two things. 
+**Sam**
+A **correlation** is a connection or a link between two things. 
 
-**Neil  
-And finally, the flip side** of something means those aspects of it which are less obvious, good, or pleasant. The flip side of this programme is that, once again, our six minutes are up! Bye for now!
+**Neil**  
+And finally, the **flip side** of something means those aspects of it which are less obvious, good, or pleasant. The flip side of this programme is that, once again, our six minutes are up! Bye for now!
 
 **Sam  
 **Bye bye!
