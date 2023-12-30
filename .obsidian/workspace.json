@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🐿️ Personal/Morning Page/2023년 10월 회고.md",
+                "file": "Daily/회고/2023년 10월 회고.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐿️ Personal/Morning Page/2023년 10월 회고.md"
+                "file": "Daily/회고/2023년 10월 회고.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐿️ Personal/Morning Page/2023년 10월 회고.md",
+                "file": "Daily/회고/2023년 10월 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐿️ Personal/Morning Page/2023년 10월 회고.md",
+                "file": "Daily/회고/2023년 10월 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,14 +165,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4542f79d4acb9c5",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
-    "🐿️ Personal/Morning Page/2023-11-22.md",
-    "🐿️ Personal/Morning Page/2023-11-14.md",
+    "Daily/2023-12",
+    "Daily/2023-11",
+    "Daily/회고",
+    "Daily/2023-11/2023-11-22.md",
+    "Daily/회고/2023년 10월 회고.md",
+    "Daily/2023-11/2023-11-14.md",
     "🐿️ Personal/Untitled.md",
-    "Daily/2023-12-29.md",
+    "Daily/2023-12/2023-12-29.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-29 at 21.38.18.png",
-    "Daily/2023-12-28.md",
+    "Daily/2023-12/2023-12-28.md",
     "Daily/2023-12-30.md",
     "Templates/Daily Note.md",
     "Templates/Note Template.md",
@@ -192,8 +196,6 @@
     "💻 Development/Projects/프로그래머스 레벨 2 문제풀이.md",
     "💻 Development/Projects/코딩연합 팀프로젝트 멘토링 1기.md",
     "💻 Development/Projects/SSAFY 에세이 제출하기.md",
-    "💻 Development/Projects/카카오톡 겨울 인턴쉽 지원하기.md",
-    "💻 Development/Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.41.03.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.33.47.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.13.04.png",
@@ -211,8 +213,6 @@
     "Development/Untitled",
     "Documents/Untitled",
     "🐿️ Personal/Documents",
-    "Professional",
-    "🐿️ Personal",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
