@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c29bb09df399b004",
+        "id": "58505aef1f5ee3f8",
         "type": "tabs",
         "children": [
           {
-            "id": "ad7bcee87c563688",
+            "id": "7d0a0ab138f10221",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
+                "file": "Daily/프론트엔드 키워드.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "width",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273,
-    "collapsed": true
+    "width": 253.50390243530273
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -88,6 +87,16 @@
         "id": "bc9b707daeb22ea2",
         "type": "tabs",
         "children": [
+          {
+            "id": "90da7495cf4fd365",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/프론트엔드 키워드.md"
+              }
+            }
+          },
           {
             "id": "076a624753dac954",
             "type": "leaf",
@@ -108,22 +117,12 @@
             }
           },
           {
-            "id": "90da7495cf4fd365",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md"
-              }
-            }
-          },
-          {
-            "id": "cbfda71c34b5c116",
+            "id": "1a71010bfee56d5a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
+                "file": "Daily/프론트엔드 키워드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,35 +134,19 @@
             }
           },
           {
-            "id": "11ecc14b468e3eb3",
+            "id": "9266a2c6083bf0bf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
+                "file": "Daily/프론트엔드 키워드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "cbc8544ef8de3330",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "17e6a5c7df823d51",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,54 +165,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad7bcee87c563688",
+  "active": "7d0a0ab138f10221",
   "lastOpenFiles": [
-    "_Drawer/Files/Screenshot 2023-11-23 at 23.17.01.png",
-    "_Drawer/Files/Screenshot 2023-11-23 at 23.16.27.png",
-    "_Drawer/Files/Screenshot 2023-11-23 at 23.15.00.png",
-    "Courses/(Udemy) React 완벽가이드/Dog Species.md",
-    "Courses/(Udemy) React 완벽가이드/💻 Section 20 Advanced Redux.md",
-    "면접수당 신청서류.md",
-    "Courses/(Udemy) React 완벽가이드/Note Title.md",
-    "Projects/프로그래머스 레벨 2 문제풀이.md",
-    "Courses/(Udemy) React 완벽가이드/Untitled.md",
-    "Courses/(Udemy) React 완벽가이드",
-    "_Drawer/Files/Screenshot 2023-11-23 at 14.29.40.png",
-    "Daily/2023-11-22.md",
-    "_Drawer/Files/Screenshot 2023-11-23 at 13.29.05.png",
-    "_Drawer/Files/Screenshot 2023-11-23 at 13.28.36.png",
-    "_Drawer/Files/Screenshot 2023-11-23 at 13.27.44.png",
-    "_Drawer/Files/KakaoTalk_Photo_2023-11-23-13-21-07 002jpeg.jpeg",
-    "_Drawer/Files/KakaoTalk_Photo_2023-11-23-13-21-07 001jpeg.jpeg",
-    "_Drawer/Files/Screenshot 2023-11-23 at 13.08.54.png",
-    "_Drawer/Files/Screenshot 2023-11-23 at 13.08.30.png",
-    "Daily/2023-11-14.md",
+    "Daily/2024-01-02.md",
+    "Daily/프론트엔드 키워드.md",
+    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-02 at 03.15.11.png",
+    "Daily/2024-01-01.md",
+    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-02 at 01.25.44.png",
+    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-01 at 17.40.15.png",
+    "Templates/Daily Note.md",
+    "⭐️ English/Are you lonely in a crowd? ⏲️ 6 Minute English.md",
+    "Metality",
+    "Daily/2023-12/2023-12-30.md",
+    "⭐️ English",
+    "Daily/2023-12/2023-12-28.md",
+    "Daily/2023-12/2023-12-21.md",
+    "Daily/2023-12/2023-12-29.md",
+    "Templates/Note Template.md",
     "Daily/회고/2023년 10월 회고.md",
-    "Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
-    "Projects/Resume.io 프로젝트 스프린트.md",
-    "Projects/SSAFY 에세이 제출하기.md",
-    "Projects/카카오톡 겨울 인턴쉽 지원하기.md",
-    "Projects/코딩연합",
-    "Projects/코딩연합/첫번째 모임 - 아이스 브레이킹.md",
-    "Projects/코딩연합/코딩연합 팀프로젝트 멘토링 1기.md",
-    "Articles/How to Learn Stuff Quickly.md",
-    "Articles",
-    "Quotes.md",
-    "_Drawer/Quotes.md",
-    "Books",
-    "_Drawer/Files/Screen Recording 2023-11-13 at 14.12.17.mov",
-    "Projects/면접대비/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Projects/면접대비/프론트엔드 기본 면접문제.md",
-    "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "Courses/(Udemy) React 완벽 가이드",
-    "Courses",
-    "Projects/Letty 프로젝트",
-    "copilot-conversations",
-    "Projects/실제면접 후기",
+    "Daily/2023-12",
+    "Daily/2023-11",
+    "Daily/회고",
+    "Daily/2023-11/2023-11-22.md",
+    "Daily/2023-11/2023-11-14.md",
+    "🐿️ Personal/Untitled.md",
+    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-29 at 21.38.18.png",
+    "💻 Development/Learning Resources/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+    "Daily/2023-12-27.md",
+    "Templates/{{tomorrow}}.md",
+    "💻 Development/Development Index.md",
+    "💻 Development/Learning Resources/Section 20 Advanced Redux.md",
+    "💻 Development/Learning Resources/Tanstack Query.md",
+    "💻 Development/Learning Resources/Section 25 A (Pretty Deep Dive) Introduction to Next.js.md",
+    "💻 Development/Learning Resources/Untitled.md",
+    "_💭 TEMPORARY/npx로 이미 세팅한 파일에서 얀베리 세팅하기.md",
+    "_💭 TEMPORARY/Next.js 튜토리얼 하나 듣기.md",
+    "👩🏻‍💻 Job Seeking/Job Seeking Index.md",
+    "💻 Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
+    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.41.03.png",
+    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.33.47.png",
+    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.13.04.png",
+    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.12.24.png",
+    "Daily",
+    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 22.56.40.png",
+    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 22.56.26.png",
+    "🐿️ Personal/Untitled",
+    "_💭 TEMPORARY",
+    "👩🏻‍💻 Job Seeking",
+    "💻 Development/Group Study",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"

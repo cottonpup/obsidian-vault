@@ -1,12 +1,13 @@
 {
-  "accentColor": "",
+  "accentColor": "#eaac8b",
   "cssTheme": "Obsidian Nord",
   "theme": "moonstone",
   "baseFontSize": 15,
   "enabledCssSnippets": [
-    "media-grid-snippet"
+    "media-grid-snippet",
+    "snippet"
   ],
-  "textFontFamily": "Nanum Gothic",
-  "interfaceFontFamily": "Nanum Gothic",
-  "monospaceFontFamily": "JetBrains Mono"
+  "textFontFamily": "Space Grotesk",
+  "interfaceFontFamily": "Space Grotesk",
+  "monospaceFontFamily": "Space Grotesk"
 }

@@ -1,4 +1,11 @@
-.markdown-rendered code {
-    color: #d0d0d5;
-    background: #0a0a23;
+.cm-header-2 {
+  color: #f4a261
+}
+
+.cm-header-1 {
+  color: #e76f51
+}
+
+.inline-title {
+  color: #2a9d8f
 }

@@ -1,10 +1,6 @@
 ---
 Created: "{{date:YYYY-MM-DD}}"
-tags:
+tags: 
+topic: 
+parent_dir:
 ---
-# {{title}}
-
-
----
-# References
-1. 
