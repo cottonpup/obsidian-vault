@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db8fe5f38e4f3fd1",
+        "id": "27d7f1b40921d99b",
         "type": "tabs",
         "children": [
           {
-            "id": "293556f088627cd3",
+            "id": "fc6851bd5f51504a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md"
-          }
+          "state": {}
         }
       },
       {
@@ -146,13 +138,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "293556f088627cd3",
+  "active": "fc6851bd5f51504a",
   "lastOpenFiles": [
+    "_Drawer/프론트엔드 면접 스터디.md",
+    "_Drawer/10월 2일 네트워크 발표.md",
+    "_Drawer/~ meaning in command.md",
+    "_Drawer/Algorithm List.md",
+    "Projects/면접대비/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "Daily/2023-11-22.md",
     "Projects/면접대비/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Projects/면접대비/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "Daily/2023-11-14.md",
@@ -175,12 +171,6 @@
     "Temp/task queue vs microtask queue.md",
     "Temp/TypeScript에서의 Ambient란 무엇이며 언제 사용하나요?.md",
     "Temp/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
-    "Temp/프로미스가 무엇인가.md",
-    "Temp/useReducer vs useState.md",
-    "Temp/공인 IP(Public IP)와 사설IP(Private IP)의 차이.md",
-    "Temp/FLUX 디자인 패턴과 어디서 사용되는지.md",
-    "Temp/파인만 공부법.md",
-    "Temp/생산적으로 사는 법.md",
     "Temp",
     "_Drawer/Files/Screenshot 2023-10-01 at 17.18.51.png",
     "_Drawer/Files/Screenshot 2023-10-01 at 19.39.43.png",
