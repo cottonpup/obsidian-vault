@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-04.md",
+                "file": "프론트엔드 키워드.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-04.md"
+                "file": "프론트엔드 키워드.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-04.md",
+                "file": "프론트엔드 키워드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-04.md",
+                "file": "프론트엔드 키워드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,14 +167,16 @@
   },
   "active": "7d0a0ab138f10221",
   "lastOpenFiles": [
-    "Daily/2024-01-03.md",
+    "글감 목록.md",
+    "프론트엔드 키워드.md",
     "Daily/2024-01-04.md",
+    "Untitled",
+    "Daily/2024-01-03.md",
     "_💭 TEMPORARY/_Drawer/Files/IMG_9186.png",
     "_💭 TEMPORARY/_Drawer/Files/IMG_9180.jpeg",
     "_💭 TEMPORARY/_Drawer/Files/IMG_9175.jpeg",
     "Daily/2024-01-02.md",
     "_💭 TEMPORARY/_Drawer/Files/IMG_9170.jpeg",
-    "Daily/프론트엔드 키워드.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-02 at 03.15.11.png",
     "Daily/2024-01-01.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-02 at 01.25.44.png",
@@ -205,14 +207,12 @@
     "💻 Development/Learning Resources/Section 25 A (Pretty Deep Dive) Introduction to Next.js.md",
     "💻 Development/Learning Resources/Untitled.md",
     "_💭 TEMPORARY/npx로 이미 세팅한 파일에서 얀베리 세팅하기.md",
-    "_💭 TEMPORARY/Next.js 튜토리얼 하나 듣기.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.41.03.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.33.47.png",
     "Daily",
     "🐿️ Personal/Untitled",
     "_💭 TEMPORARY",
     "👩🏻‍💻 Job Seeking",
-    "💻 Development/Group Study",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
