@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프론트엔드 키워드.md",
+                "file": "Daily/2024-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프론트엔드 키워드.md"
+                "file": "Daily/2024-01-04.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프론트엔드 키워드.md",
+                "file": "Daily/2024-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프론트엔드 키워드.md",
+                "file": "Daily/2024-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +167,8 @@
   },
   "active": "7d0a0ab138f10221",
   "lastOpenFiles": [
-    "글감 목록.md",
     "프론트엔드 키워드.md",
+    "글감 목록.md",
     "Daily/2024-01-04.md",
     "Untitled",
     "Daily/2024-01-03.md",
