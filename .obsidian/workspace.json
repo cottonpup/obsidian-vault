@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Development/Learning/React Oauth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34003dc14f7b6338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-01-03.md",
-                "mode": "source",
+                "file": "Daily/2024-01-04.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-03.md"
+                "file": "Daily/2024-01-04.md"
               }
             }
           },
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-03.md",
+                "file": "Daily/2024-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-03.md",
+                "file": "Daily/2024-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,15 +165,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34003dc14f7b6338",
+  "active": "7d0a0ab138f10221",
   "lastOpenFiles": [
+    "Daily/2024-01-03.md",
     "Daily/2024-01-04.md",
     "💻 Development/Learning/React Oauth.md",
     "글감과 스터디 키워드 목록.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-04 at 16.15.49.png",
     "글감 목록.md",
     "Untitled",
-    "Daily/2024-01-03.md",
     "_💭 TEMPORARY/_Drawer/Files/IMG_9186.png",
     "_💭 TEMPORARY/_Drawer/Files/IMG_9180.jpeg",
     "_💭 TEMPORARY/_Drawer/Files/IMG_9175.jpeg",
