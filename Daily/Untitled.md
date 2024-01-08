@@ -5,4 +5,5 @@ Prisma 를 쓸 것!
 
 https://github.com/mirkonasato/fakebase
 
-CRUD 구현
+기본적인 CRUD 구현
+API routes docs 확인하면서 구현하기 
