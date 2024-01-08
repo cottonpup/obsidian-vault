@@ -18,3 +18,6 @@ API routes docs 확인하면서 구현하기
     
     - 전체 글 목록 가져오기
     - 글 삭제하기 (RESTful 하게, 검색 키워드 : RESTful API DELETE method)
+    
+	- API 조건
+    - 허용되는 메소드 이외의 메소드 요청이 들어오면 에러 처리
