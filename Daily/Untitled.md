@@ -12,3 +12,9 @@ API routes docs 확인하면서 구현하기
 오늘 저녁까지 PR 올리기 
 타이틀 이랑 디스크립션 CRUD
 
+1. GET /posts/[postId] 
+2. POST /posts 
+3. PUT /posts/[postId]
+    
+    - 전체 글 목록 가져오기
+    - 글 삭제하기 (RESTful 하게, 검색 키워드 : RESTful API DELETE method)
