@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01/2024-01-11.md",
+                "file": "Daily/2024-01-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01/2024-01-11.md"
+                "file": "Daily/2024-01-12.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01/2024-01-11.md",
+                "file": "Daily/2024-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01/2024-01-11.md",
+                "file": "Daily/2024-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,9 +164,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "0796ce780ae34583",
   "lastOpenFiles": [
     "Daily/2024-01/2024-01-09.md",
+    "Daily/2024-01-12.md",
     "Daily/2024-01/2024-01-11.md",
     "Daily/2024-01/2024-01-08.md",
     "Daily/2024-01/2024-01-03.md",
@@ -208,7 +208,6 @@
     "Daily/2023-11/2023-11-14.md",
     "🐿️ Personal/Untitled.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-29 at 21.38.18.png",
-    "💻 Development/Learning/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.41.03.png",
     "Daily",
     "🐿️ Personal/Untitled",
