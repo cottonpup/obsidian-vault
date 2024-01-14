@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "글감과 스터디 키워드 목록.md",
+                "file": "Daily/2024-01/2024-01-09.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e152c8cf32cefc92",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "글감과 스터디 키워드 목록.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -93,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "글감과 스터디 키워드 목록.md"
+                "file": "Daily/2024-01/2024-01-09.md"
               }
             }
           },
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "글감과 스터디 키워드 목록.md",
+                "file": "Daily/2024-01/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "글감과 스터디 키워드 목록.md",
+                "file": "Daily/2024-01/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,11 +180,12 @@
   },
   "active": "0796ce780ae34583",
   "lastOpenFiles": [
-    "Daily/2024-01-14.md",
-    "Daily/2024-01/2024-01-13.md",
-    "Daily/2024-01/2024-01-12.md",
-    "Daily/2024-01/2024-01-09.md",
     "Daily/2024-01/2024-01-11.md",
+    "Daily/2024-01/2024-01-12.md",
+    "Daily/2024-01/2024-01-13.md",
+    "글감과 스터디 키워드 목록.md",
+    "Daily/2024-01-14.md",
+    "Daily/2024-01/2024-01-09.md",
     "Daily/2024-01/2024-01-08.md",
     "Daily/2024-01/2024-01-03.md",
     "Daily/2024-01/2024-01-04.md",
@@ -180,7 +195,6 @@
     "Daily/Untitled.md",
     "Daily/2024-01",
     "💻 Development/Learning/React Oauth.md",
-    "글감과 스터디 키워드 목록.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-04 at 16.15.49.png",
     "글감 목록.md",
     "Untitled",
