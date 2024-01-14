@@ -10,16 +10,31 @@
           {
             "id": "e152c8cf32cefc92",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily/2024-01-14.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "16689eff8e86c34e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01/2024-01-01.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-14.md"
+                "file": "Daily/2024-01/2024-01-01.md"
               }
             }
           },
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-14.md",
+                "file": "Daily/2024-01/2024-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-14.md",
+                "file": "Daily/2024-01/2024-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +179,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e152c8cf32cefc92",
+  "active": "16689eff8e86c34e",
   "lastOpenFiles": [
+    "Daily/2024-01-14.md",
     "글감과 스터디 키워드 목록.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/투인피니티 면접 대비.md",
     "Daily/2024-01/2024-01-01.md",
@@ -180,7 +195,6 @@
     "Daily/2024-01/2024-01-07.md",
     "Daily/2024-01/2024-01-06.md",
     "Daily/2024-01/2024-01-05.md",
-    "Daily/2024-01-14.md",
     "Daily/2024-01/2024-01-04.md",
     "Daily/Untitled.md",
     "Daily/2024-01",
