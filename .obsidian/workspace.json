@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0796ce780ae34583",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-01/2024-01-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e152c8cf32cefc92",
             "type": "leaf",
             "pinned": true,
@@ -33,8 +21,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +168,10 @@
   },
   "active": "e152c8cf32cefc92",
   "lastOpenFiles": [
+    "Daily/2024-01/2024-01-01.md",
+    "Daily/2024-01/2024-01-02.md",
     "Daily/2024-01/2024-01-03.md",
     "글감과 스터디 키워드 목록.md",
-    "Daily/2024-01/2024-01-02.md",
-    "Daily/2024-01/2024-01-01.md",
     "Daily/2024-01/2024-01-13.md",
     "Daily/2024-01/2024-01-12.md",
     "Daily/2024-01/2024-01-11.md",
