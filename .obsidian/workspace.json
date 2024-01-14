@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-13.md",
+                "file": "글감과 스터디 키워드 목록.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-13.md"
+                "file": "글감과 스터디 키워드 목록.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-13.md",
+                "file": "글감과 스터디 키워드 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-13.md",
+                "file": "글감과 스터디 키워드 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +166,9 @@
   },
   "active": "0796ce780ae34583",
   "lastOpenFiles": [
+    "Daily/2024-01-14.md",
+    "Daily/2024-01/2024-01-13.md",
     "Daily/2024-01/2024-01-12.md",
-    "Daily/2024-01-13.md",
     "Daily/2024-01/2024-01-09.md",
     "Daily/2024-01/2024-01-11.md",
     "Daily/2024-01/2024-01-08.md",
@@ -206,7 +207,6 @@
     "Daily/2023-11",
     "Daily/회고",
     "Daily/2023-11/2023-11-22.md",
-    "Daily/2023-11/2023-11-14.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-29 at 21.38.18.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.41.03.png",
     "Daily",
