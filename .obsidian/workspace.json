@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e152c8cf32cefc92",
+            "id": "4bddc749b2f459c4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-14.md",
+                "file": "Daily/2024-01-15.md",
                 "mode": "source",
                 "source": false
               },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-14.md"
+                "file": "Daily/2024-01-15.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-14.md",
+                "file": "Daily/2024-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-14.md",
+                "file": "Daily/2024-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,10 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e152c8cf32cefc92",
+  "active": "4bddc749b2f459c4",
   "lastOpenFiles": [
-    "Daily/2024-01-15.md",
     "Daily/2024-01-14.md",
+    "Daily/2024-01-15.md",
     "Templates/Daily Note.md",
     "Daily/2024-01/2024-01-13.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-14 at 23.58.41.png",
