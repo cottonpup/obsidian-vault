@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Daily/2024-01/2024-01-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-15.md"
+                "file": "Daily/2024-01/2024-01-13.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Daily/2024-01/2024-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Daily/2024-01/2024-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +181,9 @@
   },
   "active": "ab1bea2fa8e1de65",
   "lastOpenFiles": [
-    "Daily/2024-01-14.md",
+    "글감과 스터디 키워드 목록.md",
     "Daily/2024-01-15.md",
+    "Daily/2024-01-14.md",
     "Templates/Daily Note.md",
     "Daily/2024-01/2024-01-13.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-14 at 23.58.41.png",
@@ -196,7 +197,6 @@
     "Daily/2024-01/2024-01-06.md",
     "Daily/2024-01/2024-01-01.md",
     "Daily/2024-01/2024-01-02.md",
-    "글감과 스터디 키워드 목록.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/투인피니티 면접 대비.md",
     "Daily/2024-01/2024-01-03.md",
     "Daily/2024-01/2024-01-05.md",
