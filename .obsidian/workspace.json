@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Daily/2024-01-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-15.md"
+                "file": "Daily/2024-01-16.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Daily/2024-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Daily/2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +181,9 @@
   },
   "active": "ef7d78649aa0453a",
   "lastOpenFiles": [
-    "Daily/2024-01-14.md",
     "Daily/2024-01-15.md",
+    "Daily/2024-01-16.md",
+    "Daily/2024-01-14.md",
     "Daily/2024-01/2024-01-13.md",
     "글감과 스터디 키워드 목록.md",
     "Templates/Daily Note.md",
@@ -220,7 +221,6 @@
     "Daily/2023-12/2023-12-28.md",
     "Daily/2023-12/2023-12-21.md",
     "Daily/2023-12/2023-12-29.md",
-    "Templates/Note Template.md",
     "Daily/2023-12",
     "Daily/2023-11",
     "Daily/회고",
