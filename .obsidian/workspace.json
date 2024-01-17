@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "12960337843f9dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-16.md"
+                "file": "Daily/2024-01-14.md"
               }
             }
           },
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-16.md",
+                "file": "Daily/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-16.md",
+                "file": "Daily/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,11 +180,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef7d78649aa0453a",
+  "active": "12960337843f9dce",
   "lastOpenFiles": [
-    "Daily/2024-01-14.md",
     "Daily/2024-01-15.md",
     "Daily/2024-01-16.md",
+    "Daily/2024-01-14.md",
     "Daily/2024-01/2024-01-12.md",
     "Daily/2024-01/2024-01-13.md",
     "글감과 스터디 키워드 목록.md",
