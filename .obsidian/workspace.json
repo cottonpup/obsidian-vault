@@ -8,20 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12960337843f9dce",
+            "id": "6ce62842986d4d04",
             "type": "leaf",
             "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c141463f12bf9229",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily/2024-01-17.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -168,10 +180,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12960337843f9dce",
+  "active": "c141463f12bf9229",
   "lastOpenFiles": [
-    "Daily/2024-01/2024-01-16.md",
+    "Daily/2024-01-18.md",
     "Daily/2024-01-17.md",
+    "Daily/2024-01/2024-01-16.md",
     "Daily/2024-01/2024-01-14.md",
     "Daily/2024-01/2024-01-15.md",
     "Daily/2024-01/2024-01-12.md",
@@ -209,7 +222,6 @@
     "Daily/2023-12/2023-12-30.md",
     "⭐️ English",
     "Daily/2023-12/2023-12-28.md",
-    "Daily/2023-12/2023-12-21.md",
     "Daily/2023-12",
     "Daily/2023-11",
     "Daily/회고",
