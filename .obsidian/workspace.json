@@ -11,8 +11,12 @@
             "id": "4d09dda2fc95bf63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/영어 전치사 연구 의미와 용법.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/영어 전치사 연구 의미와 용법.md"
+              }
             }
           },
           {
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/영어 전치사 연구 의미와 용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/영어 전치사 연구 의미와 용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +167,7 @@
   },
   "active": "4d09dda2fc95bf63",
   "lastOpenFiles": [
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/English Shadowing 유진.md",
     "⭐️ English/Are you lonely in a crowd? ⏲️ 6 Minute English.md",
     "Daily/2024-01-21.md",
     "Daily/2024-01/2024-01-19.md",
@@ -188,7 +197,6 @@
     "Daily/2024-01/2024-01-04.md",
     "Daily/Untitled.md",
     "Daily/2024-01",
-    "💻 Development/Learning/React Oauth.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-04 at 16.15.49.png",
     "Untitled",
     "_💭 TEMPORARY/_Drawer/Files/IMG_9186.png",
