@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "98677ab3bfd5da0a",
+        "id": "3e53304d0c3a3b14",
         "type": "tabs",
         "children": [
           {
-            "id": "355747e889137cd5",
+            "id": "4d09dda2fc95bf63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⭐️ English/Are you lonely in a crowd? ⏲️ 6 Minute English.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "⭐️ English/Are you lonely in a crowd? ⏲️ 6 Minute English.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐️ English/Are you lonely in a crowd? ⏲️ 6 Minute English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⭐️ English/Are you lonely in a crowd? ⏲️ 6 Minute English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +157,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "355747e889137cd5",
+  "active": "4d09dda2fc95bf63",
   "lastOpenFiles": [
     "⭐️ English/Are you lonely in a crowd? ⏲️ 6 Minute English.md",
     "Daily/2024-01-21.md",
