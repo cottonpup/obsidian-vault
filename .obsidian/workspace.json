@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "57516d8c71031cd9",
+        "id": "073a30f0e63b6454",
         "type": "tabs",
         "children": [
           {
-            "id": "47865a3141b8cfea",
+            "id": "319358312a32d937",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-24.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-01-24.md"
+              }
             }
           },
           {
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-01-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47865a3141b8cfea",
+  "active": "319358312a32d937",
   "lastOpenFiles": [
+    "Templates/Daily Note.md",
+    "글감과 스터디 키워드 목록.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "Daily/2024-01/2024-01-23.md",
     "Daily/2024-01-24.md",
     "Daily/2024-01/2024-01-22.md",
@@ -185,15 +196,12 @@
     "⭐️ English/Are you lonely in a crowd? ⏲️ 6 Minute English.md",
     "Daily/2024-01/2024-01-20.md",
     "Daily/2024-01/2024-01-16.md",
-    "글감과 스터디 키워드 목록.md",
-    "Templates/Daily Note.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-14 at 23.58.41.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-14 at 23.39.34.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-14 at 23.38.40.png",
     "Daily/2024-01/2024-01-08.md",
     "Daily/2024-01/2024-01-07.md",
     "Daily/2024-01/2024-01-06.md",
-    "Daily/2024-01/2024-01-01.md",
     "Daily/2024-01",
     "Untitled",
     "Metality",
