@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-24.md",
+                "file": "Daily/2024-01/2024-01-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-24.md"
+                "file": "Daily/2024-01/2024-01-23.md"
               }
             }
           },
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-24.md",
+                "file": "Daily/2024-01/2024-01-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-24.md",
+                "file": "Daily/2024-01/2024-01-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +166,8 @@
   },
   "active": "47865a3141b8cfea",
   "lastOpenFiles": [
-    "Daily/2024-01/2024-01-23.md",
     "Daily/2024-01-24.md",
+    "Daily/2024-01/2024-01-23.md",
     "Daily/2024-01/2024-01-22.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-23 at 10.48.54.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-23 at 10.47.48.png",
