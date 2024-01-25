@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "073a30f0e63b6454",
+        "id": "4ead822afc55877e",
         "type": "tabs",
         "children": [
           {
-            "id": "319358312a32d937",
+            "id": "f28d09e92529c20f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-25.md",
+                "file": "Daily/2024-01-26.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -96,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-25.md"
+                "file": "Daily/2024-01-26.md"
               }
             }
           },
@@ -125,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-25.md",
+                "file": "Daily/2024-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-25.md",
+                "file": "Daily/2024-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,10 +165,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "319358312a32d937",
+  "active": "f28d09e92529c20f",
   "lastOpenFiles": [
-    "Daily/2024-01-24.md",
+    "Daily/2024-01-26.md",
     "Daily/2024-01-25.md",
+    "Daily/2024-01-24.md",
     "Daily/2024-01/2024-01-23.md",
     "Templates/Daily Note.md",
     "글감과 스터디 키워드 목록.md",
@@ -204,7 +203,6 @@
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-14 at 23.39.34.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-14 at 23.38.40.png",
     "Daily/2024-01/2024-01-08.md",
-    "Daily/2024-01/2024-01-07.md",
     "Daily/2024-01",
     "Untitled",
     "Metality",
