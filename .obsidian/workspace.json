@@ -10,13 +10,29 @@
           {
             "id": "f28d09e92529c20f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28.md",
+                "file": "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28).md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "31beb8c75e957e2a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-27.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -93,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28.md"
+                "file": "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28).md"
               }
             }
           },
@@ -122,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28.md",
+                "file": "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28.md",
+                "file": "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,11 +191,11 @@
   },
   "active": "f28d09e92529c20f",
   "lastOpenFiles": [
+    "Daily/2024-01-27.md",
+    "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28).md",
     "Daily/2024-01/2024-01-24.md",
-    "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28.md",
     "Daily/Untitled",
     "Daily/2024-01/2024-01-26.md",
-    "Daily/2024-01-27.md",
     "Daily/2024-01/2024-01-22.md",
     "Daily/2024-01/2024-01-25.md",
     "Daily/2024-01/2024-01-23.md",
