@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4b51c5a1576e928",
+  "active": "f28d09e92529c20f",
   "lastOpenFiles": [
     "Daily/2024-01/2024-01-24.md",
     "Daily/Weekly Planner 2024-01-21 ~ 2024-01-28.md",
