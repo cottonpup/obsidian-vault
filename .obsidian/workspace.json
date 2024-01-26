@@ -144,9 +144,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d4b51c5a1576e928",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -164,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f28d09e92529c20f",
+  "active": "d4b51c5a1576e928",
   "lastOpenFiles": [
     "Daily/2024-01/2024-01-24.md",
     "Daily/Weekly Planner 2024-01-21 ~ 2024-01-28.md",
