@@ -34,21 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "24807ae4058f762e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-01-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +190,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24807ae4058f762e",
+  "active": "31beb8c75e957e2a",
   "lastOpenFiles": [
     "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28).md",
     "Daily/2024-01-27.md",
