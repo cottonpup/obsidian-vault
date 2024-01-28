@@ -34,23 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3fc592d540c40715",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-01/2024-01-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "해시",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01/2024-01-22.md"
+                "file": "Daily/2024-01-28.md"
               }
             }
           },
@@ -154,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01/2024-01-22.md",
+                "file": "Daily/2024-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01/2024-01-22.md",
+                "file": "Daily/2024-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,15 +190,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fc592d540c40715",
+  "active": "dc38acdf70b5f7ed",
   "lastOpenFiles": [
+    "Daily/2024-01/2024-01-22.md",
     "Daily/2024-01-28.md",
     "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28).md",
     "Daily/2024-01/2024-01-27.md",
     "Daily/2024-01/2024-01-24.md",
     "Daily/Untitled",
     "Daily/2024-01/2024-01-26.md",
-    "Daily/2024-01/2024-01-22.md",
     "Daily/2024-01/2024-01-25.md",
     "Daily/2024-01/2024-01-23.md",
     "Templates/Daily Note.md",
