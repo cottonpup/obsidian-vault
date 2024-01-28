@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Note.md"
+                "file": "Daily/2024-01/W4/2024-01-28.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Daily/2024-01/W4/2024-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Daily/2024-01/W4/2024-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -202,8 +202,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00511a31d98fb69f",
+  "active": "dc38acdf70b5f7ed",
   "lastOpenFiles": [
+    "Templates/Daily Note.md",
     "Daily/2024-01/Weekly Planner (2024-01-28 ~ 2024-02-04).md",
     "Daily/2024-02/Monthly Planner 2024-02.md",
     "Daily/2024-01/W4/2024-01-28.md",
@@ -227,7 +228,6 @@
     "Daily/2024-01/W4/2024-01-26.md",
     "Daily/2024-01/W4/2024-01-25.md",
     "Daily/2024-01/W4/2024-01-23.md",
-    "Templates/Daily Note.md",
     "글감과 스터디 키워드 목록.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-23 at 10.48.54.png",
