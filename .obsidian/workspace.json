@@ -34,8 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8ce9253100a286b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01/W1/2024-01-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28).md"
+                "file": "Daily/2024-01/W1/2024-01-01.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28).md",
+                "file": "Daily/2024-01/W1/2024-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28).md",
+                "file": "Daily/2024-01/W1/2024-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,12 +183,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,11 +201,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f28d09e92529c20f",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Daily/2024-01/W2",
+    "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28).md",
+    "Daily/2024-01/W1",
     "Daily/2024-01-28.md",
     "Daily/2024-01/2024-01-22.md",
-    "Daily/Weekly Planner (2024-01-21 ~ 2024-01-28).md",
     "Daily/2024-01/2024-01-27.md",
     "Daily/2024-01/2024-01-24.md",
     "Daily/Untitled",
@@ -224,7 +238,6 @@
     "_💭 TEMPORARY/_Drawer/ARCHIVE/영어 전치사 연구 의미와 용법.md",
     "Daily/2024-01-21.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/English Shadowing 유진.md",
-    "⭐️ English/Are you lonely in a crowd? ⏲️ 6 Minute English.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-14 at 23.58.41.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-14 at 23.39.34.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-14 at 23.38.40.png",
@@ -236,7 +249,6 @@
     "Daily/2023-11",
     "Daily/회고",
     "Daily",
-    "🐿️ Personal/Untitled",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
