@@ -34,8 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "16b96de66b47a2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-02/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01/Weekly Planner (2024-01-28 ~ 2024-02-04).md"
+                "file": "Daily/2024-02/Weekly Planner (2024-02-05 ~ 2024-02-11).md"
               }
             }
           },
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01/Weekly Planner (2024-01-28 ~ 2024-02-04).md",
+                "file": "Daily/2024-02/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01/Weekly Planner (2024-01-28 ~ 2024-02-04).md",
+                "file": "Daily/2024-02/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +201,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f28d09e92529c20f",
+  "active": "16b96de66b47a2c5",
   "lastOpenFiles": [
+    "Daily/2024-01/Weekly Planner (2024-01-28 ~ 2024-02-04).md",
+    "Daily/2024-02/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
+    "Daily/2024-02",
     "Daily/2024-01/W4/2024-01-22.md",
     "Daily/2024-01/W3/2024-01-15.md",
     "Daily/2024-01/W4",
@@ -197,12 +213,10 @@
     "Daily/2024-01/W3",
     "Daily/2024-01/W1/2024-01-01.md",
     "Daily/2024-01/W2",
-    "Daily/2024-01/Weekly Planner (2024-01-28 ~ 2024-02-04).md",
     "Daily/2024-01/W1",
     "Daily/2024-01/W4/2024-01-28.md",
     "Daily/2024-01/W4/2024-01-27.md",
     "Daily/2024-01/W4/2024-01-24.md",
-    "Daily/Untitled",
     "Daily/2024-01/W4/2024-01-26.md",
     "Daily/2024-01/W4/2024-01-25.md",
     "Daily/2024-01/W4/2024-01-23.md",
