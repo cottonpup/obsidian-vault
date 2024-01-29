@@ -34,23 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "94dbc42afb22ef0d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md"
+                "file": "Daily/2024-01-29.md"
               }
             }
           },
@@ -153,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
+                "file": "Daily/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
+                "file": "Daily/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,10 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94dbc42afb22ef0d",
+  "active": "a634a11cbfa1899f",
   "lastOpenFiles": [
-    "Daily/2024-01-29.md",
     "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
+    "Daily/2024-01-29.md",
     "Daily/2024-01/W4/2024-01-28.md",
     "Daily/2024-01/W4/2024-01-26.md",
     "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
