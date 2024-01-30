@@ -20,83 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a634a11cbfa1899f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02/W1/2024-01-29.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "43f6f7c7cbe2f5c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02/W1/2024-01-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02ed9753386e1f7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02/W1/2024-01-30.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "72b4db24d9390047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02/W1/2024-01-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d829f6550f38d59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02/W1/2024-01-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6b9103525fa5cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02/W1/2024-01-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W1/2024-01-30.md"
+                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md"
               }
             }
           },
@@ -199,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W1/2024-01-30.md",
+                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W1/2024-01-30.md",
+                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +174,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6b9103525fa5cdd",
+  "active": "f28d09e92529c20f",
   "lastOpenFiles": [
     "Daily/2024-02/W1/2024-01-29.md",
     "Daily/2024-02/W1/2024-01-30.md",
