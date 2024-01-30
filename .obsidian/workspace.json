@@ -20,6 +20,20 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "75b0a263b13bb347",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-02/W1/2024-01-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ]
       }
@@ -176,9 +190,9 @@
   },
   "active": "f28d09e92529c20f",
   "lastOpenFiles": [
-    "Daily/2024-02/W1/2024-01-29.md",
     "Daily/2024-02/W1/2024-01-30.md",
     "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
+    "Daily/2024-02/W1/2024-01-29.md",
     "conflict-files-obsidian-git.md",
     "Daily/2024-02/Monthly Planner 2024-02.md",
     "Daily/2024-01/W3/2024-01-18.md",
