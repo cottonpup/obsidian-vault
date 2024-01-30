@@ -35,7 +35,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md"
+                "file": "Daily/2024-02/W1/2024-01-30.md"
               }
             }
           },
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
+                "file": "Daily/2024-02/W1/2024-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
+                "file": "Daily/2024-02/W1/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,11 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f28d09e92529c20f",
+  "active": "75b0a263b13bb347",
   "lastOpenFiles": [
+    "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
     "Daily/2024-02/W1/2024-01-30.md",
     "Daily/2024-01-30.md",
-    "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
     "Daily/2024-02/W1/2024-01-29.md",
     "conflict-files-obsidian-git.md",
     "Daily/2024-02/Monthly Planner 2024-02.md",
