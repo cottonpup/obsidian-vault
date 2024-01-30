@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-29.md",
+                "file": "Daily/2024-01-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2024-01-29.md",
+            "file": "Daily/2024-01-30.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/2024-01-29.md",
+            "file": "Daily/2024-01-30.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/2024-01-29.md"
+            "file": "Daily/2024-01-30.md"
           }
         }
       },
@@ -149,7 +149,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08c471288e8aa77e",
+  "active": "fc6851bd5f51504a",
   "lastOpenFiles": [
     "Daily/2024-01-30.md",
     "Daily/2024-01-29.md",
