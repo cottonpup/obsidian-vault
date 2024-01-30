@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-03.md",
+                "file": "Daily/2024-01-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2024-01-03.md",
+            "file": "Daily/2024-01-29.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/2024-01-03.md",
+            "file": "Daily/2024-01-29.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/2024-01-03.md"
+            "file": "Daily/2024-01-29.md"
           }
         }
       },
@@ -149,8 +149,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc6851bd5f51504a",
+  "active": "08c471288e8aa77e",
   "lastOpenFiles": [
+    "Daily/2024-01-30.md",
+    "Daily/2024-01-29.md",
     "_💭 TEMPORARY/_Drawer/Files/IMG_9186.png",
     "_💭 TEMPORARY/_Drawer/Files/IMG_9180.jpeg",
     "_💭 TEMPORARY/_Drawer/Files/IMG_9175.jpeg",
@@ -165,7 +167,6 @@
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 11.20.26.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-11-17 at 10.32.14.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 22.55.51.png",
-    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-21 at 16.12.24.png",
     "_💭 TEMPORARY/_Drawer/Files/Screen Recording 2023-11-13 at 14.12.17.mov",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/Sales by Match.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/CORS란?.md",
@@ -188,7 +189,6 @@
     "_💭 TEMPORARY/_Drawer/ARCHIVE/번들러란?.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/누구도 나를 파괴할 수 없다.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/PARA 정리법.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/2022-01-14 TIL.md",
     "_💭 TEMPORARY/_Drawer/투인피니티 면접 대비.md-2",
     "_💭 TEMPORARY/_Drawer/Git 기초강의.md-2",
     "_💭 TEMPORARY/_Drawer/Tailwind class 와 className 차이.md-2",

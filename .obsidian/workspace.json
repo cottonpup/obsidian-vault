@@ -34,9 +34,81 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "43f6f7c7cbe2f5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02ed9753386e1f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-30.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "72b4db24d9390047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d829f6550f38d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6b9103525fa5cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff3072528515abce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -110,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-29.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -139,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-29.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-29.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -189,11 +261,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a634a11cbfa1899f",
+  "active": "ff3072528515abce",
   "lastOpenFiles": [
+    "Daily/2024-01-30.md",
+    "conflict-files-obsidian-git.md",
+    "Daily/2024-02/Monthly Planner 2024-02.md",
+    "Daily/2024-01-29.md",
     "Daily/2024-01/W3/2024-01-18.md",
     "Daily/2024-01/W3/2024-01-20.md",
-    "Daily/2024-01-29.md",
     "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
     "Daily/2024-01/W3/2024-01-15.md",
     "Daily/2024-01/W3/2024-01-16.md",
@@ -208,7 +283,6 @@
     "Daily/2024-01/W4/2024-01-28.md",
     "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
     "Templates/Daily Note.md",
-    "Daily/2024-02/Monthly Planner 2024-02.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-28 at 22.49.23.png",
     "_💭 TEMPORARY/_Drawer/Files/영경의_만다라트.png",
     "Daily/2024-02/W4",
@@ -229,8 +303,6 @@
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-23 at 10.47.48.png",
     "Daily/2024-01/W2/2024-01-14.md",
     "Daily/2024-01/W2/2024-01-13.md",
-    "Daily/2024-01/W2/2024-01-12.md",
-    "Daily/2024-01/W2/2024-01-11.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-22 at 07.36.45.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-22 at 07.29.26.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-22 at 07.29.11.png",
