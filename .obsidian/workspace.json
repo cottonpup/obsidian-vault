@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "75b0a263b13bb347",
+            "id": "e4bd6467b84d63a9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02/W1/2024-01-30.md",
+                "file": "Daily/2024-01/W4/2024-01-30.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -110,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W1/2024-01-30.md"
+                "file": "Daily/2024-01/W4/2024-01-30.md"
               }
             }
           },
@@ -139,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W1/2024-01-30.md",
+                "file": "Daily/2024-01/W4/2024-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W1/2024-01-30.md",
+                "file": "Daily/2024-01/W4/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,13 +188,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75b0a263b13bb347",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
-    "Templates/Daily Note.md",
     "Daily/2024-01-31.md",
-    "Daily/2024-02/W1/2024-01-30.md",
+    "Daily/2024-01/W4/2024-01-30.md",
     "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
-    "Daily/2024-01-30.md",
+    "Daily/2024-02/W1/2024-01-30.md",
+    "Templates/Daily Note.md",
     "Daily/2024-02/W1/2024-01-29.md",
     "conflict-files-obsidian-git.md",
     "Daily/2024-02/Monthly Planner 2024-02.md",
