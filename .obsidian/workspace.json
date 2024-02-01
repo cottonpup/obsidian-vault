@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07fc6910a0cf2658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-02-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe2332915867eded",
+  "active": "07fc6910a0cf2658",
   "lastOpenFiles": [
     "Daily/2024-02/W1/2024-01-31.md",
     "Daily/2024-02-01.md",
