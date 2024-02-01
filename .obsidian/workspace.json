@@ -22,33 +22,20 @@
             }
           },
           {
-            "id": "e4bd6467b84d63a9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02/W1/2024-01-31.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "fe2332915867eded",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily/2024-02-01.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W1/2024-01-31.md"
+                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md"
               }
             }
           },
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W1/2024-01-31.md",
+                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W1/2024-01-31.md",
+                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,13 +189,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4bd6467b84d63a9",
+  "active": "f28d09e92529c20f",
   "lastOpenFiles": [
     "Daily/2024-02-01.md",
+    "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
     "Daily/2024-02/W1/2024-01-31.md",
     "Daily/2024-02/W1/2024-01-30.md",
     "Daily/2024-02/W1/2024-01-30 1.md",
-    "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
     "Templates/Daily Note.md",
     "Daily/2024-02/W1/2024-01-29.md",
     "conflict-files-obsidian-git.md",
