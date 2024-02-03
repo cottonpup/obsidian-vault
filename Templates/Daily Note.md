@@ -4,6 +4,26 @@ tags:
 topic: 
 parent_dir: Daily
 ---
+
+# Words may inspire but only action creates change
+
+----
+# 다음주에 해야 할 일
+- [ ] TBU 
+  
+[[{{yesterday}}|< yesterday]] | [[{{tomorrow}}|tomorrow >]]  
+  
+---  
+# 데일리 루틴
+|         🐣          |     |
+|:-------------------:|:---:|
+|    아침 샤워하기    |     |
+|    양치 3번하기     |     |
+|  다이어리 작성하기  |     |
+| 매일 4시간 공부하기 |     |
+|      풀 업하기      |     |
+
+----
 # 활동표
 |   시간   | 활동 | ✅❌ |
 |:--------:|:----:| ---- |
@@ -26,15 +46,3 @@ parent_dir: Daily
 | 10:00 PM |      |      |
 | 11:00 PM |      |      |
 | 12:00 AM |      |      |
-
-
-
-# Words may inspire but only action creates change
-
-----
-# 다음주에 해야 할 일
-- [ ] TBU 
-  
-[[{{yesterday}}|< yesterday]] | [[{{tomorrow}}|tomorrow >]]  
-  
----  
