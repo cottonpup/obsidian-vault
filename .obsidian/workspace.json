@@ -37,24 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "70c5f681ddff0f66",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fcb56255c25e3821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02/W2/2024-02-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
