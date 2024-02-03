@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "29f55235573890d9",
@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
+                "file": "Daily/2024-02/W2/2024-02-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md"
+                "file": "Daily/2024-02/W2/2024-02-05.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
+                "file": "Daily/2024-02/W2/2024-02-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
+                "file": "Daily/2024-02/W2/2024-02-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,9 +222,10 @@
   },
   "active": "fcb56255c25e3821",
   "lastOpenFiles": [
-    "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
-    "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
     "Daily/2024-02-03.md",
+    "Daily/2024-02/W2/2024-02-05.md",
+    "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
+    "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
     "Daily/2024-02/W1/2024-02-04.md",
     "Daily/2024-02-02.md",
     "Daily/2024-02-01.md",
@@ -247,7 +248,6 @@
     "Daily/2024-01/W4/2024-01-25.md",
     "Daily/2024-01/W4/2024-01-26.md",
     "Daily/2024-01/W4/2024-01-27.md",
-    "Daily/2024-01/W4/2024-01-28.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-28 at 22.49.23.png",
     "_💭 TEMPORARY/_Drawer/Files/영경의_만다라트.png",
     "Daily/2024-02/W4",
