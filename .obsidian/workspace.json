@@ -20,23 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ecd3cf644d0a6be0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02-02.md"
+                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md"
               }
             }
           },
@@ -140,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-02.md",
+                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02-02.md",
+                "file": "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecd3cf644d0a6be0",
+  "active": "f28d09e92529c20f",
   "lastOpenFiles": [
-    "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
     "Daily/2024-02-02.md",
+    "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
     "Daily/2024-02-01.md",
     "Daily/2024-02/W1/2024-01-31.md",
     "Daily/2024-02/W1/2024-01-30.md",
