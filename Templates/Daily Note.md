@@ -4,6 +4,7 @@ tags:
 topic: 
 parent_dir: Daily
 ---
+# 활동표
 |   시간   | 활동 | ✅❌ |
 |:--------:|:----:| ---- |
 | 6:00 AM  |      |      |
@@ -25,6 +26,8 @@ parent_dir: Daily
 | 10:00 PM |      |      |
 | 11:00 PM |      |      |
 | 12:00 AM |      |      |
+
+
 
 # Words may inspire but only action creates change
 
