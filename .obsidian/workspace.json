@@ -20,23 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "bbcadf89bc31fb87",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02-06.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9326ceb5216fcf38",
