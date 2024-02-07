@@ -34,21 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5ed50821cfe32f08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻 Development/Learning/Section 20 Advanced Redux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +191,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ed50821cfe32f08",
+  "active": "c62d3717da803e98",
   "lastOpenFiles": [
     "Daily/2024-01/W2/2024-01-08.md",
     "Daily/2024-02/W2/2024-02-07.md",
