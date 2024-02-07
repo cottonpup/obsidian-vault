@@ -8,7 +8,7 @@ parent_dir: Daily
 # TODO
 
 ----
-# 다음주에 해야 할 일
+# 내일 해야 할 일
 - [ ] TBU 
   
 [[{{yesterday}}|< yesterday]] | [[{{tomorrow}}|tomorrow >]]  
