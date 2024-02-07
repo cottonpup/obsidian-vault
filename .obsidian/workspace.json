@@ -34,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "5ed50821cfe32f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻 Development/Learning/Section 20 Advanced Redux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rebase",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W2/2024-02-07.md"
+                "file": "💻 Development/Learning/Section 20 Advanced Redux.md"
               }
             }
           },
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W2/2024-02-07.md",
+                "file": "💻 Development/Learning/Section 20 Advanced Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W2/2024-02-07.md",
+                "file": "💻 Development/Learning/Section 20 Advanced Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,10 +203,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "81a5364532dd5fdb",
+  "active": "5ed50821cfe32f08",
   "lastOpenFiles": [
-    "Templates/Daily Note.md",
+    "Daily/2024-01/W2/2024-01-08.md",
     "Daily/2024-02/W2/2024-02-07.md",
+    "Templates/Daily Note.md",
     "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
     "Daily/2024-02/W1/2024-02-04.md",
     "Daily/2024-02/W1/2024-02-04 1.md",
@@ -222,7 +236,6 @@
     "Daily/2024-01/W3/2024-01-19.md",
     "Daily/2024-01/W4/2024-01-22.md",
     "Daily/2024-01/W4/2024-01-23.md",
-    "Daily/2024-01/W4/2024-01-24.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-28 at 22.49.23.png",
     "_💭 TEMPORARY/_Drawer/Files/영경의_만다라트.png",
     "Daily/2024-02/W4",
