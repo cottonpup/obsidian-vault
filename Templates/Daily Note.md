@@ -5,7 +5,7 @@ topic:
 parent_dir: Daily
 ---
 
-# Words may inspire but only action creates change
+# TODO
 
 ----
 # 다음주에 해야 할 일
