@@ -48,26 +48,21 @@
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "3b4c8db4acf8a9bc",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2d1d327ff952b5b8",
+            "id": "94a2d1b6ce951b04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
+                "file": "Daily/2024-02/W2/2024-02-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md"
+                "file": "Daily/2024-02/W2/2024-02-07.md"
               }
             }
           },
@@ -170,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
+                "file": "Daily/2024-02/W2/2024-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
+                "file": "Daily/2024-02/W2/2024-02-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,15 +216,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d1d327ff952b5b8",
+  "active": "94a2d1b6ce951b04",
   "lastOpenFiles": [
+    "Daily/2024-02/W2/2024-02-06.md",
+    "Daily/2024-02/W2/2024-02-05.md",
+    "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
     "Daily/2024-02-08.md",
     "Daily/2024-02/W2/2024-02-07.md",
-    "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
-    "Daily/2024-02/W2/2024-02-06.md",
     "Daily/2024-02-07.md",
     "Templates/Daily Note.md",
-    "Daily/2024-02/W2/2024-02-05.md",
     "Daily/2024-02/W2/{{tomorrow}}.md",
     "Daily/2024-02/W1/2024-02-02.md",
     "Daily/2024-02/W2/{{yesterday}}.md",
