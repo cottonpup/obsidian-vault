@@ -49,8 +49,25 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "3b4c8db4acf8a9bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d1d327ff952b5b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02-08.md"
+                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md"
               }
             }
           },
@@ -153,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-08.md",
+                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02-08.md",
+                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,10 +221,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8eee18e7beb0f33",
+  "active": "2d1d327ff952b5b8",
   "lastOpenFiles": [
-    "Daily/2024-02/W2/2024-02-07.md",
     "Daily/2024-02-08.md",
+    "Daily/2024-02/W2/2024-02-07.md",
     "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
     "Daily/2024-02/W2/2024-02-06.md",
     "Daily/2024-02-07.md",
