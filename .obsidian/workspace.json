@@ -34,6 +34,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c4ae7a006c4c0093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -192,12 +204,12 @@
   },
   "active": "94a2d1b6ce951b04",
   "lastOpenFiles": [
+    "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
     "Templates/Daily Note.md",
     "Daily/2024-02/W2/2024-02-08.md",
     "Daily/2024-02/W2/2024-02-07.md",
     "Daily/2024-02/W2/2024-02-06.md",
     "Daily/2024-02/W2/2024-02-05.md",
-    "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
     "Daily/2024-02-07.md",
     "Daily/2024-02/W2/{{tomorrow}}.md",
     "Daily/2024-02/W1/2024-02-02.md",
