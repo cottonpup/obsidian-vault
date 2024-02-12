@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "26b2f1d72c7c3cd2",
+            "id": "ec2b824773d0717f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -108,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Untitled.md"
+                "file": "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md"
               }
             }
           },
@@ -137,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,12 +190,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26b2f1d72c7c3cd2",
+  "active": "ec2b824773d0717f",
   "lastOpenFiles": [
-    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
-    "Templates/Untitled.md",
-    "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
     "Daily/2024-02/W3/2024-02-12.md",
+    "Templates/Weekly Planner.md",
+    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
+    "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
     "Daily/2024-02/W2/2024-02-10.md",
     "Daily/2024-02/W2/2024-02-09.md",
     "Daily/2024-02/W2/2024-02-08.md",
