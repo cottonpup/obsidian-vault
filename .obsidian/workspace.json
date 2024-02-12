@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9df3a3518de67040",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "ef171232fa33fdec",
             "type": "leaf",
             "pinned": true,
@@ -35,8 +21,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.51103591918945,
-    "collapsed": true
+    "width": 208.51103591918945
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -193,12 +177,12 @@
   },
   "active": "ef171232fa33fdec",
   "lastOpenFiles": [
-    "Daily/2024-02-12.md",
+    "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
     "Daily/2024-02-10.md",
+    "Daily/2024-02-12.md",
     "Daily/2024-02-09.md",
     "Daily/2024-02/W2/2024-02-08.md",
     "Templates/Daily Note.md",
-    "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
     "Daily/2024-02/W2/2024-02-07.md",
     "Daily/2024-02/W2/2024-02-06.md",
     "Daily/2024-02/W2/2024-02-05.md",
