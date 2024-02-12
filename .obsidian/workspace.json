@@ -34,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "cf6f1b91e9e58c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-02-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02-10.md"
+                "file": "Daily/2024-02-12.md"
               }
             }
           },
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-10.md",
+                "file": "Daily/2024-02-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02-10.md",
+                "file": "Daily/2024-02-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,10 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef171232fa33fdec",
+  "active": "cf6f1b91e9e58c76",
   "lastOpenFiles": [
-    "Daily/2024-02-09.md",
     "Daily/2024-02-10.md",
+    "Daily/2024-02-12.md",
+    "Daily/2024-02-09.md",
     "Daily/2024-02/W2/2024-02-08.md",
     "Templates/Daily Note.md",
     "Daily/2024-02/W2/Weekly Planner (2024-02-05 ~ 2024-02-11).md",
@@ -222,7 +235,6 @@
     "Daily/2024-02/W1/2024-01-29.md",
     "conflict-files-obsidian-git.md",
     "Daily/2024-02/Monthly Planner 2024-02.md",
-    "Daily/2024-01/W3/2024-01-18.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-28 at 22.49.23.png",
     "_💭 TEMPORARY/_Drawer/Files/영경의_만다라트.png",
     "Daily/2024-02/W4",
