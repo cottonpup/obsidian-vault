@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50bd4d390b7c2b42",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "ec2b824773d0717f",
             "type": "leaf",
             "pinned": true,
@@ -36,19 +22,20 @@
             }
           },
           {
-            "id": "6136aae29d3490c5",
+            "id": "8d8c19d4fe367248",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Job/유튜브 아이디어.md",
+                "file": "Daily/2024-02-14.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Job/유튜브 아이디어.md"
+                "file": "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md"
               }
             }
           },
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Job/유튜브 아이디어.md",
+                "file": "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Job/유튜브 아이디어.md",
+                "file": "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,13 +188,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6136aae29d3490c5",
+  "active": "ec2b824773d0717f",
   "lastOpenFiles": [
-    "Daily/회고/나람쥑 회고 초안.md",
-    "Side Job/유튜브 아이디어.md",
-    "Side Job",
-    "Daily/2024-02-13.md",
+    "Daily/2024-02/W3/2024-02-13.md",
+    "Daily/2024-02-14.md",
     "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
+    "Side Job/유튜브 아이디어.md",
+    "Daily/회고/나람쥑 회고 초안.md",
+    "Side Job",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-13 at 09.50.23.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-13 at 09.24.03.png",
     "Daily/2024-02/W3/2024-02-12.md",
@@ -236,7 +224,6 @@
     "Daily/2024-02/W1/2024-02-01.md",
     "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
     "Daily/2024-02/W1/2024-02-03.md",
-    "Daily/2024-02/W1/2024-01-31.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-28 at 22.49.23.png",
     "_💭 TEMPORARY/_Drawer/Files/영경의_만다라트.png",
     "Daily/2024-02/W4",
