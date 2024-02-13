@@ -47,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02-13.md"
+                "file": "Daily/회고/나람쥑 회고 초안.md"
               }
             }
           },
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-13.md",
+                "file": "Daily/회고/나람쥑 회고 초안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02-13.md",
+                "file": "Daily/회고/나람쥑 회고 초안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,10 +201,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50bd4d390b7c2b42",
+  "active": "6136aae29d3490c5",
   "lastOpenFiles": [
-    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/2024-02-13.md",
+    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/회고/나람쥑 회고 초안.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-13 at 09.50.23.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-13 at 09.24.03.png",
