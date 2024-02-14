@@ -28,11 +28,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02-14.md",
+                "file": "Daily/2024-02/W3/2024-02-14.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "e73c270a61fb65da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-02/W3/2024-02-13.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02-14.md"
+                "file": "Daily/2024-02/W3/2024-02-14.md"
               }
             }
           },
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-14.md",
+                "file": "Daily/2024-02/W3/2024-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02-14.md",
+                "file": "Daily/2024-02/W3/2024-02-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +203,10 @@
   },
   "active": "8d8c19d4fe367248",
   "lastOpenFiles": [
-    "Templates/Daily Note.md",
-    "Daily/2024-02-14.md",
-    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/2024-02/W3/2024-02-13.md",
+    "Daily/2024-02/W3/2024-02-14.md",
+    "Templates/Daily Note.md",
+    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Side Job/유튜브 아이디어.md",
     "Daily/회고/나람쥑 회고 초안.md",
     "Side Job",
