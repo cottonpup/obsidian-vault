@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "8d8c19d4fe367248",
+            "id": "7fdca3c5c628f680",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-14.md",
+                "file": "Daily/2024-02-15.md",
                 "mode": "source",
                 "source": false
               },
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "링크",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-14.md"
+                "file": "Daily/2024-02-15.md"
               }
             }
           },
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-14.md",
+                "file": "Daily/2024-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-14.md",
+                "file": "Daily/2024-02-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,12 +189,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d8c19d4fe367248",
+  "active": "7fdca3c5c628f680",
   "lastOpenFiles": [
-    "Daily/2024-02-14.md",
     "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
-    "Daily/2024-02/W3/2024-02-13.md",
+    "Daily/2024-02-15.md",
     "Daily/2024-02/W3/2024-02-14.md",
+    "Daily/2024-02-14.md",
+    "Daily/2024-02/W3/2024-02-13.md",
     "Templates/Daily Note.md",
     "Side Job/유튜브 아이디어.md",
     "Daily/회고/나람쥑 회고 초안.md",
@@ -226,7 +225,6 @@
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.29.31.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.27.56.png",
     "Daily/2024-02/W1/2024-02-01.md",
-    "Daily/2024-02/W1/Weekly Planner (2024-01-29 ~ 2024-02-04).md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-01-28 at 22.49.23.png",
     "_💭 TEMPORARY/_Drawer/Files/영경의_만다라트.png",
     "Daily/2024-02/W4",
