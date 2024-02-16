@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "7fdca3c5c628f680",
+            "id": "418be1e014ec5b34",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02-15.md",
+                "file": "Daily/2024-02-16.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "c5d7aca548d1dc3a",
+            "id": "7732a764002221f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02-16.md",
+                "file": "Daily/2024-02/W3/2024-02-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02-16.md"
+                "file": "Daily/2024-02/W3/2024-02-14.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-16.md",
+                "file": "Daily/2024-02/W3/2024-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02-16.md",
+                "file": "Daily/2024-02/W3/2024-02-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,13 +201,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5d7aca548d1dc3a",
+  "active": "7732a764002221f7",
   "lastOpenFiles": [
+    "Daily/2024-02-14.md",
     "Daily/2024-02-15.md",
     "Daily/2024-02-16.md",
     "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/2024-02/W3/2024-02-14.md",
-    "Daily/2024-02-14.md",
     "Daily/2024-02/W3/2024-02-13.md",
     "Templates/Daily Note.md",
     "Side Job/유튜브 아이디어.md",
