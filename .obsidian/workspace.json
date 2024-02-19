@@ -22,24 +22,26 @@
             }
           },
           {
-            "id": "0dac94e58b16c605",
+            "id": "0bb7b9fff5928153",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-14.md",
+                "file": "Daily/2024-02-19.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "0bb7b9fff5928153",
+            "id": "7c6341d23aa4182a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-18.md",
+                "file": "Daily/2024-02/Monthly Planner 2024-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-18.md"
+                "file": "Daily/2024-02/Monthly Planner 2024-02.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-18.md",
+                "file": "Daily/2024-02/Monthly Planner 2024-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-18.md",
+                "file": "Daily/2024-02/Monthly Planner 2024-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,14 +201,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0bb7b9fff5928153",
+  "active": "7c6341d23aa4182a",
   "lastOpenFiles": [
+    "Daily/2024-02-19.md",
+    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
+    "Daily/2024-02/W3/2024-02-18.md",
+    "Daily/2024-02/W3/2024-02-14.md",
     "Daily/2024-02/W3/2024-02-16.md",
     "Daily/2024-02/W3/2024-02-15.md",
-    "Daily/2024-02/W3/2024-02-14.md",
     "Daily/2024-02/W3/2024-02-13.md",
-    "Daily/2024-02/W3/2024-02-18.md",
-    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/2024-02/W3/2024-02-14 1.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-16 at 21.53.30.png",
     "Templates/Daily Note.md",
@@ -231,7 +233,6 @@
     "Daily/2024-02/W2/{{yesterday}}.md",
     "💻 Development/Learning/Section 20 Advanced Redux.md",
     "Daily/2024-01/W2/2024-01-08.md",
-    "Daily/2024-02/W1/2024-02-04.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.34.22.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.32.23.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.30.22.png",
