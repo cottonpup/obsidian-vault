@@ -27,6 +27,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Daily/2024-02/W3/2024-02-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bb7b9fff5928153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Daily/2024-02/W3/2024-02-18.md",
                 "mode": "source",
                 "source": false
@@ -34,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,16 +200,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0dac94e58b16c605",
+  "active": "0bb7b9fff5928153",
   "lastOpenFiles": [
-    "Daily/2024-02/W3/2024-02-14.md",
-    "Daily/2024-02/W3/2024-02-18.md",
     "Daily/2024-02/W3/2024-02-16.md",
     "Daily/2024-02/W3/2024-02-15.md",
-    "Daily/2024-02/W3/2024-02-14 1.md",
-    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
-    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-16 at 21.53.30.png",
+    "Daily/2024-02/W3/2024-02-14.md",
     "Daily/2024-02/W3/2024-02-13.md",
+    "Daily/2024-02/W3/2024-02-18.md",
+    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
+    "Daily/2024-02/W3/2024-02-14 1.md",
+    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-16 at 21.53.30.png",
     "Templates/Daily Note.md",
     "Side Job/유튜브 아이디어.md",
     "Daily/회고/나람쥑 회고 초안.md",
