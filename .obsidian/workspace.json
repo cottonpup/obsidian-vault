@@ -22,33 +22,21 @@
             }
           },
           {
-            "id": "0bb7b9fff5928153",
+            "id": "fc6ec4c81913c63b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02-19.md",
+                "file": "Daily/2024-02-20.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7c6341d23aa4182a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02-19.md"
+                "file": "Daily/2024-02-20.md"
               }
             }
           },
@@ -151,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-19.md",
+                "file": "Daily/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02-19.md",
+                "file": "Daily/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c6341d23aa4182a",
+  "active": "fc6ec4c81913c63b",
   "lastOpenFiles": [
     "Daily/2024-02-19.md",
+    "Daily/2024-02-20.md",
     "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/2024-02/W3/2024-02-18.md",
     "Daily/2024-02/W3/2024-02-14.md",
@@ -232,7 +221,6 @@
     "Daily/2024-02/W1/2024-02-02.md",
     "Daily/2024-02/W2/{{yesterday}}.md",
     "💻 Development/Learning/Section 20 Advanced Redux.md",
-    "Daily/2024-01/W2/2024-01-08.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.34.22.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.32.23.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.30.22.png",
