@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "브랜치",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +190,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc6ec4c81913c63b",
+  "active": "c62d3717da803e98",
   "lastOpenFiles": [
     "Daily/2024-02-19.md",
     "Daily/2024-02-20.md",
