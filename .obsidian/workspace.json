@@ -34,6 +34,20 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c99d63b465c6d6b1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-02-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
         "currentTab": 1
@@ -65,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "브랜치",
+                "query": "명함 컴포넌트",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -192,9 +206,9 @@
   },
   "active": "04f111204f26ccc2",
   "lastOpenFiles": [
-    "Daily/2024-02/W3/2024-02-13.md",
-    "Daily/2024-02-22.md",
     "Daily/2024-02-20.md",
+    "Daily/2024-02-22.md",
+    "Daily/2024-02/W3/2024-02-13.md",
     "Daily/2024-02-19.md",
     "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/2024-02/W3/2024-02-18.md",
