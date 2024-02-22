@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-13.md",
+                "file": "Daily/2024-02-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-13.md"
+                "file": "Daily/2024-02-22.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-13.md",
+                "file": "Daily/2024-02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W3/2024-02-13.md",
+                "file": "Daily/2024-02-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,6 +204,8 @@
   },
   "active": "04f111204f26ccc2",
   "lastOpenFiles": [
+    "Daily/2024-02/W3/2024-02-13.md",
+    "Daily/2024-02-22.md",
     "Daily/2024-02-20.md",
     "Daily/2024-02-19.md",
     "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
@@ -211,7 +213,6 @@
     "Daily/2024-02/W3/2024-02-14.md",
     "Daily/2024-02/W3/2024-02-16.md",
     "Daily/2024-02/W3/2024-02-15.md",
-    "Daily/2024-02/W3/2024-02-13.md",
     "Daily/2024-02/W3/2024-02-14 1.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-16 at 21.53.30.png",
     "Templates/Daily Note.md",
@@ -233,7 +234,6 @@
     "Daily/2024-02/W2/{{tomorrow}}.md",
     "Daily/2024-02/W1/2024-02-02.md",
     "Daily/2024-02/W2/{{yesterday}}.md",
-    "💻 Development/Learning/Section 20 Advanced Redux.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.34.22.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.32.23.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.30.22.png",
