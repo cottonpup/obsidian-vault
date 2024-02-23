@@ -22,27 +22,13 @@
             }
           },
           {
-            "id": "04f111204f26ccc2",
+            "id": "66459ece63bc44c9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c99d63b465c6d6b1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02-20.md",
+                "file": "Daily/2024-02-23.md",
                 "mode": "source",
                 "source": false
               },
@@ -125,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02-22.md"
+                "file": "Daily/2024-02-23.md"
               }
             }
           },
@@ -154,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-22.md",
+                "file": "Daily/2024-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02-22.md",
+                "file": "Daily/2024-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,13 +190,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04f111204f26ccc2",
+  "active": "66459ece63bc44c9",
   "lastOpenFiles": [
-    "Daily/2024-02-20.md",
+    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
+    "Daily/2024-02-23.md",
     "Daily/2024-02-22.md",
+    "Daily/2024-02-20.md",
     "Daily/2024-02/W3/2024-02-13.md",
     "Daily/2024-02-19.md",
-    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/2024-02/W3/2024-02-18.md",
     "Daily/2024-02/W3/2024-02-14.md",
     "Daily/2024-02/W3/2024-02-16.md",
@@ -235,7 +222,6 @@
     "Daily/2024-02-07.md",
     "Daily/2024-02/W2/{{tomorrow}}.md",
     "Daily/2024-02/W1/2024-02-02.md",
-    "Daily/2024-02/W2/{{yesterday}}.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.34.22.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.32.23.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.30.22.png",
