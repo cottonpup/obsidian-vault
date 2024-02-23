@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "명함 컴포넌트",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.51103591918945
+    "width": 208.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -190,7 +191,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66459ece63bc44c9",
+  "active": "c62d3717da803e98",
   "lastOpenFiles": [
     "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/2024-02-23.md",
