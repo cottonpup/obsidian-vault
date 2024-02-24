@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02/W4/Weekly Planner.md",
+                "file": "Daily/회고/나람쥑 회고 초안.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W4/Weekly Planner.md"
+                "file": "Daily/회고/나람쥑 회고 초안.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W4/Weekly Planner.md",
+                "file": "Daily/회고/나람쥑 회고 초안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W4/Weekly Planner.md",
+                "file": "Daily/회고/나람쥑 회고 초안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,15 +201,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "0c0d9785fb333721",
   "lastOpenFiles": [
+    "Daily/2024-02/W4/Weekly Planner.md",
     "Daily/2024-03/W4",
     "Daily/2024-03/W3",
     "Daily/2024-03/W2",
     "Daily/2024-03/W1",
     "Daily/2024-02/W4/2024-02-24.md",
     "Daily/2024-02/W4/2024-02-25.md",
-    "Daily/2024-02/W4/Weekly Planner.md",
     "Templates/Weekly Planner.md",
     "Daily/2024-02/W4/Untitled",
     "Daily/2024-03",
@@ -248,7 +248,6 @@
     "Daily/2024-02/W4",
     "Daily/2024-02/W3",
     "Daily/2024-02/W2",
-    "Daily/2024-02/W1",
     "Daily/2024-02/W.canvas",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
