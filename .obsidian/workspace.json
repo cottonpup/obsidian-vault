@@ -34,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "45561889022e1cd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Weekly Planner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02/W4/2024-02-24.md"
+                "file": "Templates/Weekly Planner.md"
               }
             }
           },
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02/W4/2024-02-24.md",
+                "file": "Templates/Weekly Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02/W4/2024-02-24.md",
+                "file": "Templates/Weekly Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,12 +201,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "45561889022e1cd0",
   "lastOpenFiles": [
+    "Daily/2024-02/W4/Weekly Planner.md",
+    "Daily/2024-02/W4/2024-02-24.md",
+    "Daily/2024-02/W4/Untitled",
     "Daily/2024-03",
     "Templates/Daily Note.md",
     "Templates/Weekly Planner.md",
-    "Daily/2024-02/W4/2024-02-24.md",
     "Daily/2024-02/W4/2024-02-19.md",
     "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/2024-02/W4/2024-02-23.md",
@@ -236,8 +250,6 @@
     "Daily/2024-02",
     "Daily/2024-01/W4",
     "Daily/2024-01/W3",
-    "Daily/2024-01/W2",
-    "Daily/2024-01/W1",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
     "DEV/Untitled.canvas"
