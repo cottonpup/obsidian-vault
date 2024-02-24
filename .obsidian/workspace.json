@@ -20,7 +20,13 @@
               },
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "aa18c3b5efcfa3d0",
+        "type": "tabs",
+        "children": [
           {
             "id": "cde0901ebf2f039f",
             "type": "leaf",
