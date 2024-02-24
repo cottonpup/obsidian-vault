@@ -8,19 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec2b824773d0717f",
+            "id": "6cd8f97fac2eea69",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
+                "file": "Daily/2024-02/W4/Weekly Planner.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "97e66f4674c2f370",
+        "type": "tabs",
+        "children": [
           {
             "id": "1ed0aa87714001f4",
             "type": "leaf",
@@ -34,21 +40,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5f77e6da3516897e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/블로깅/2023년 10월 회고.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,20 +194,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "1ed0aa87714001f4",
   "lastOpenFiles": [
+    "Daily/2024-02/W4/Weekly Planner.md",
+    "Daily/2024-02/W4/2024-02-24.md",
+    "Daily/블로깅/2023년 10월 회고.md",
+    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/블로깅/나람쥑 회고 초안.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-24 at 19.56.52.png",
-    "Daily/블로깅/2023년 10월 회고.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-24 at 20.16.49.png",
     "_💭 TEMPORARY/_Drawer/Files/사이드.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-16 at 21.53.30.png",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224202933.png",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224200021.png",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224200010.png",
-    "Daily/2024-02/W4/2024-02-24.md",
     "Daily/2024-01/W4/2024-01-22.md",
-    "Daily/2024-02/W4/Weekly Planner.md",
     "Daily/2024-03/W4",
     "Daily/2024-03/W3",
     "Daily/2024-03/W2",
@@ -225,7 +219,6 @@
     "Daily/2024-03",
     "Templates/Daily Note.md",
     "Daily/2024-02/W4/2024-02-19.md",
-    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/2024-02/W4/2024-02-23.md",
     "Daily/2024-02/W4/2024-02-22.md",
     "Daily/2024-02/W4/2024-02-20.md",
