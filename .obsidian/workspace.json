@@ -20,21 +20,15 @@
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "97e66f4674c2f370",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1ed0aa87714001f4",
+            "id": "cde0901ebf2f039f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02/W4/2024-02-24.md",
+                "file": "Daily/2024-02/W4/2024-02-25.md",
                 "mode": "source",
                 "source": false
               },
@@ -196,8 +190,9 @@
   },
   "active": "6cd8f97fac2eea69",
   "lastOpenFiles": [
-    "Daily/2024-02/W4/2024-02-24.md",
+    "Daily/2024-02/W4/2024-02-25.md",
     "Daily/2024-02/W4/Weekly Planner.md",
+    "Daily/2024-02/W4/2024-02-24.md",
     "Daily/블로깅/2023년 10월 회고.md",
     "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
     "Daily/블로깅/나람쥑 회고 초안.md",
@@ -213,7 +208,6 @@
     "Daily/2024-03/W3",
     "Daily/2024-03/W2",
     "Daily/2024-03/W1",
-    "Daily/2024-02/W4/2024-02-25.md",
     "Templates/Weekly Planner.md",
     "Daily/2024-02/W4/Untitled",
     "Daily/2024-03",
