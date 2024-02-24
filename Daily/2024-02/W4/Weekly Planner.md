@@ -1,7 +1,7 @@
 # 한 주의 계획
 - [ ] 나람쥑
 	- [x] 밀린 회고 작성하기
-	- [ ] Satori 이미지 다운로드 API
+	- [ ] Satori 이미지 다운로드 API `feature/card-img-download-api` 
 	- [ ] JWT 구현
 - [ ] Resume.io
 	- [ ] 페이지 이동 혹은 블록이 접혔다가 펼쳤을 때, 데이터가 사라지고 저장되지 않는 문제가 있다
