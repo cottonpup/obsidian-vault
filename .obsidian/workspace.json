@@ -102,12 +102,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 208.51103591918945
+    "width": 225.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -202,7 +201,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ff346025e169c7f",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
     "Daily/2024-02/W4/2024-02-23.md",
     "Daily/2024-02/W4/2024-02-25.md",
