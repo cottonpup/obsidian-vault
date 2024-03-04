@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "299bfb02cdc601e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-02/W4/2024-02-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jwt",
+                "query": "satori",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-03-04.md"
+                "file": "Daily/2024-02/W4/2024-02-23.md"
               }
             }
           },
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-03-04.md",
+                "file": "Daily/2024-02/W4/2024-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-03-04.md",
+                "file": "Daily/2024-02/W4/2024-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,11 +188,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ce51ba4c760d627",
+  "active": "299bfb02cdc601e4",
   "lastOpenFiles": [
+    "Daily/2024-03-04.md",
     "Daily/2024-02/W4/Weekly Planner.md",
     "Daily/2024-03/W1/2024-02-29.md",
-    "Daily/2024-03-04.md",
     "Daily/2024-02/W4/2024-02-23.md",
     "Daily/2024-02/W4/2024-02-19.md",
     "Daily/2024-03-03.md",
