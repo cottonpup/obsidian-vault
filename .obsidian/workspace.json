@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-03-03.md",
+                "file": "Daily/2024-02/W4/2024-02-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Satori",
+                "query": "jwt",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-03-03.md"
+                "file": "Daily/2024-02/W4/2024-02-19.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-03-03.md",
+                "file": "Daily/2024-02/W4/2024-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-03-03.md",
+                "file": "Daily/2024-02/W4/2024-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +228,8 @@
   },
   "active": "6c01b5d7405ece87",
   "lastOpenFiles": [
-    "Daily/2024-03-01.md",
     "Daily/2024-03-03.md",
+    "Daily/2024-03-01.md",
     "Daily/2024-03/W1/2024-02-29.md",
     "Daily/2024-02/W4/2024-02-23.md",
     "Daily/2024-02/W4/2024-02-25.md",
