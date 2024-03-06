@@ -10,16 +10,31 @@
           {
             "id": "d804a34f6e1e99fa",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Templates/Daily Note.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "423dadfcc76d1889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-03-07.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Note.md"
+                "file": "Daily/2024-03-07.md"
               }
             }
           },
@@ -122,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Daily/2024-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Daily/2024-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +187,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d804a34f6e1e99fa",
+  "active": "423dadfcc76d1889",
   "lastOpenFiles": [
+    "Templates/Daily Note.md",
+    "Daily/2024-03-07.md",
+    "Daily/2024-02/W2/2024-02-05.md",
+    "Daily/2024-02/W3/2024-02-12.md",
+    "Daily/2024-02/W3/2024-02-14.md",
+    "Daily/2024-02/W3/2024-02-18.md",
+    "Daily/2024-01/W2/2024-01-08.md",
+    "Daily/2024-01/W4/2024-01-23.md",
+    "Daily/2024-01/W3/2024-01-16.md",
+    "Daily/2024-01/W1/2024-01-07.md",
+    "Daily/2024-01/W1/2024-01-01.md",
+    "Daily/2024-01/W1/2024-01-02.md",
+    "Daily/2024-01/W1/2024-01-05.md",
+    "Daily/2024-01/W1/2024-01-04.md",
+    "Daily/2024-02/W1/2024-01-29.md",
     "Templates/몽몽질문.md",
     "Daily/2024-03-04.md",
     "Daily/2024-03-05.md",
@@ -185,21 +215,9 @@
     "Daily/2024-03-01.md",
     "Daily/2024-02/W4/2024-02-25.md",
     "Daily/2024-03/W1/2024-02-28.md",
-    "Daily/2024-02/W4/2024-02-24.md",
-    "Daily/2024-01/W2/2024-01-09.md",
-    "Daily/2024-01/W2/2024-01-14.md",
-    "Daily/2024-01/W4/2024-01-22.md",
-    "Daily/2024-02/W3/2024-02-18.md",
-    "Daily/2024-02/W4/2024-02-20.md",
-    "Daily/2024-02/W3/2024-02-13.md",
-    "Daily/2024-01/W3/2024-01-16.md",
-    "Daily/2024-01/W3/2024-01-19.md",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224200021.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-24 at 20.16.49.png",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224202933.png",
-    "Daily/블로깅/2023년 10월 회고.md",
-    "Daily/2024-02/W3/Weekly Planner (2024-02-11 ~ 2024-02-17).md",
-    "Daily/블로깅/나람쥑 회고 초안.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-24 at 19.56.52.png",
     "_💭 TEMPORARY/_Drawer/Files/사이드.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-16 at 21.53.30.png",
@@ -208,11 +226,8 @@
     "Daily/2024-03/W3",
     "Daily/2024-03/W2",
     "Daily/2024-03/W1",
-    "Templates/Weekly Planner.md",
     "Daily/2024-02/W4/Untitled",
     "Daily/2024-03",
-    "Templates/Daily Note.md",
-    "Daily/2024-02/W4/2024-02-22.md",
     "Side Job",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-13 at 09.50.23.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-13 at 09.24.03.png",
