@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Daily/2024-02/W4/2024-02-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "satori",
+                "query": "rebase",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Note.md"
+                "file": "Daily/2024-02/W4/2024-02-25.md"
               }
             }
           },
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Daily/2024-02/W4/2024-02-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Daily/2024-02/W4/2024-02-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,11 +202,11 @@
   },
   "active": "423dadfcc76d1889",
   "lastOpenFiles": [
+    "Templates/Daily Note.md",
     "Daily/2024-03-05.md",
     "Daily/2024-03-07.md",
     "Daily/2024-03-04.md",
     "Daily/2024-03-03.md",
-    "Templates/Daily Note.md",
     "Daily/2024-03-08.md",
     "Daily/2024-02/W2/2024-02-05.md",
     "Daily/2024-02/W3/2024-02-12.md",
