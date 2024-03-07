@@ -15,19 +15,10 @@ parent_dir: Daily
 # 나람쥑
 ## 뚝딱뚝딱
 - [x] Supabase Policy 확인해보기 
-- [ ] 
-twitter-info API PR 올리기
-```js
-    if (!twitterId || twitterId === undefined || twitterId === null) {
-      return res.status(400).json({
-        message: '유저이름을 적어주세요.',
-      });
-    }
-```
+- [x] default 에서 허용되지 않은 메서드 막기
+- [x] refresh token 보내지 않기
+- [x] twitter-info API PR 올리기
 
-refresh token 보내지 않기
-
-default 에서 허용되지 않은 메서드 막기
 
 이미지 API 고치기
 
