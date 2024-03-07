@@ -13,6 +13,8 @@ parent_dir: Daily
 |   독서 시도하기   |  ⬛  |
 |  다이어리 작성하기  | ⬛️  |
 # 나람쥑
+## 뚝딱뚝딱
+- [ ] Supabase Policy 확인해보기 
 twitter-info API PR 올리기
 ```js
     if (!twitterId || twitterId === undefined || twitterId === null) {
