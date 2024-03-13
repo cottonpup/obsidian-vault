@@ -13,13 +13,14 @@ parent_dir: Daily
 |    빨래하기     |  ⬛  |
 |   청소기 밀기   | ⬛️  |
 |   3KM 달리기   | ⬛️  |
-
+- [ ] 포트폴리오 작성하기
+- [ ] 
 
 ---  
 > [!seealso] 오늘의 잘한 일 3가지
-> ![[pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png | 40]]1. 정신ㄱ
-> ![[pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png | 40]]2.
-> ![[pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png | 40]]3.  
+> ![[pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png | 40]]1. 정신과 다녀옴
+> ![[pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png | 40]]2. 스타벅스에 옴 (여기에 오니까 그나마 뭘 좀 하는 거 같다!)
+> ![[pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png | 40]]3. 
 
 > [!success] 오늘의 감사하는 것 3가지
 > 🌈 1. 
