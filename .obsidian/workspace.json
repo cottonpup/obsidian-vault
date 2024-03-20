@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "b19ecf3e8385bfda",
+            "id": "b82139c8eca07b02",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-03-14.md",
+                "file": "Daily/2024-02/W3/2024-02-12.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -90,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-03-14.md"
+                "file": "Daily/2024-02/W3/2024-02-12.md"
               }
             }
           },
@@ -140,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-03-14.md",
+                "file": "Daily/2024-02/W3/2024-02-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-03-14.md",
+                "file": "Daily/2024-02/W3/2024-02-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,19 +187,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b19ecf3e8385bfda",
+  "active": "b82139c8eca07b02",
   "lastOpenFiles": [
+    "Daily/2024-02/W3/2024-02-19.md",
+    "Daily/2024-03/2024-02-29.md",
+    "Daily/2024-03/2024-03-14.md",
+    "Daily/2024-03/2024-03-01.md",
+    "Daily/2024-02/2024-02-28.md",
     "Templates/Daily Note.md",
-    "Daily/2024-03-14.md",
-    "Daily/2024-03-13.md",
-    "Daily/2024-03-11.md",
-    "Daily/2024-03-08.md",
+    "Daily/2024-03/2024-03-13.md",
+    "Daily/2024-03/2024-03-11.md",
+    "Daily/2024-03/2024-03-08.md",
     "Daily/2024-02/W3/2024-02-13.md",
-    "Daily/2024-02/W4/2024-02-25.md",
-    "Daily/2024-03-07.md",
-    "Daily/2024-03-05.md",
-    "Daily/2024-03-04.md",
-    "Daily/2024-03-03.md",
+    "Daily/2024-02/W3/2024-02-25.md",
+    "Daily/2024-03/2024-03-07.md",
+    "Daily/2024-03/2024-03-05.md",
+    "Daily/2024-03/2024-03-04.md",
+    "Daily/2024-03/2024-03-03.md",
     "Daily/2024-02/W2/2024-02-05.md",
     "Daily/2024-02/W3/2024-02-12.md",
     "Daily/2024-02/W3/2024-02-14.md",
@@ -214,10 +215,6 @@
     "Daily/2024-01/W1/2024-01-01.md",
     "Daily/2024-01/W1/2024-01-02.md",
     "Daily/2024-01/W1/2024-01-05.md",
-    "Daily/2024-01/W1/2024-01-04.md",
-    "Daily/2024-02/W1/2024-01-29.md",
-    "Templates/몽몽질문.md",
-    "Daily/2024-02/W4/2024-02-23.md",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224200021.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-24 at 20.16.49.png",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224202933.png",
