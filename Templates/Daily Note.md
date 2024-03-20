@@ -13,7 +13,9 @@ parent_dir: Daily
 |    빨래하기     |  ⬛  |
 |   청소기 밀기   | ⬛️  |
 |   3KM 달리기   | ⬛️  |
-- [ ] 
+
+[[2024-01-17|< yesterday]] | [[2024-01-19|tomorrow >]]  
+
 ---  
 > [!seealso] 오늘의 잘한 일 3가지
 > ![[pms-441597-brown-gosh-designs-brown-dachshund-sausage-dog-_1_-removebg-preview 1.png | 40]]1. 
