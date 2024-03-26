@@ -32,17 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5892fe0c56408e1c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-03-23.md"
+              }
             }
           },
           {
@@ -143,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-03-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-03-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +187,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5892fe0c56408e1c",
+  "active": "ecb4de9a794340a5",
   "lastOpenFiles": [
     "Daily/2024-03-26.md",
     "Daily/2024-03-23.md",
