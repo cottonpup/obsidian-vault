@@ -32,9 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5892fe0c56408e1c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-03-23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-03-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-03-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,11 +191,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecb4de9a794340a5",
+  "active": "5892fe0c56408e1c",
   "lastOpenFiles": [
     "Daily/2024-03-26.md",
-    "Daily/2024-03-21.md",
     "Daily/2024-03-23.md",
+    "Daily/2024-03-21.md",
     "💻 Development/Projects/MS 한빛 여성의 날, 포트폴리오 PPT.md",
     "Templates/Daily Note.md",
     "Daily/2024-01/W3/2024-01-18.md",
