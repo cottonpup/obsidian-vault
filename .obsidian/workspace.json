@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prune",
+                "query": "rebase",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecb4de9a794340a5",
+  "active": "c62d3717da803e98",
   "lastOpenFiles": [
     "Daily/2024-03-23.md",
     "Daily/2024-03-27.md",
