@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-03-23.md",
+                "file": "Daily/2024-03-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-03-23.md"
+                "file": "Daily/2024-03-27.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-03-23.md",
+                "file": "Daily/2024-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-03-23.md",
+                "file": "Daily/2024-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +189,9 @@
   },
   "active": "ecb4de9a794340a5",
   "lastOpenFiles": [
-    "Daily/2024-03-26.md",
     "Daily/2024-03-23.md",
+    "Daily/2024-03-27.md",
+    "Daily/2024-03-26.md",
     "Daily/2024-03-21.md",
     "💻 Development/Projects/MS 한빛 여성의 날, 포트폴리오 PPT.md",
     "Templates/Daily Note.md",
@@ -214,7 +215,6 @@
     "Daily/2024-03/2024-03-05.md",
     "Daily/2024-03/2024-03-04.md",
     "Daily/2024-03/2024-03-03.md",
-    "Daily/2024-02/2024-02-14.md",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224200021.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-24 at 20.16.49.png",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224202933.png",
