@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-03/2024-03-21.md",
-                "mode": "preview",
+                "file": "Daily/2024-04/2024-04-04.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-03/2024-03-21.md"
+                "file": "Daily/2024-04/2024-04-04.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-03/2024-03-21.md",
+                "file": "Daily/2024-04/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-03/2024-03-21.md",
+                "file": "Daily/2024-04/2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,34 +172,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "2595307989ce1501",
   "lastOpenFiles": [
-    "Daily/2024-03/2024-03-23.md",
-    "Daily/2024-03/2024-03-21.md",
-    "Daily/2024-04-04.md",
+    "Daily/2024-04/2024-04-03.md",
+    "Daily/2024-04/2024-04-04.md",
+    "Daily/2024/2024-03/2024-03-21.md",
+    "Daily/2024",
+    "Daily/2023",
+    "Daily/2024-04",
+    "Daily/2024/2024-03/2024-03-23.md",
     "Templates/Weekly Planner.md",
     "Templates/Note Template.md",
     "Templates/Map of Content.md",
     "💻 Development/Development Index.md",
     "글감과 스터디 키워드 목록.md",
-    "Daily/2024-01/W3/2024-01-17.md",
-    "Daily/2024-04-03.md",
+    "Daily/2024/2024-01/W3/2024-01-17.md",
     "Templates/Daily Note.md",
-    "Daily/2024-02/2024-02-25.md",
-    "Daily/2024-03/2024-03-27.md",
-    "Daily/2024-03/2024-03-26.md",
+    "Daily/2024/2024-02/2024-02-25.md",
+    "Daily/2024/2024-03/2024-03-27.md",
+    "Daily/2024/2024-03/2024-03-26.md",
     "💻 Development/Projects/MS 한빛 여성의 날, 포트폴리오 PPT.md",
-    "Daily/2024-01/W3/2024-01-18.md",
-    "Daily/2024-01/2024-01-30.md",
-    "Daily/2024-02/2024-02-03.md",
-    "Daily/2024-01/2024-01-29.md",
-    "Daily/2024-02/2024-02-05.md",
-    "Daily/2024-02/2024-02-12.md",
-    "Daily/2024-02/2024-02-19.md",
-    "Daily/2024-02/2024-02-29.md",
-    "Daily/2024-03/2024-03-14.md",
-    "Daily/2024-03/2024-03-01.md",
-    "Daily/2024-02/2024-02-28.md",
+    "Daily/2024/2024-01/W3/2024-01-18.md",
+    "Daily/2024/2024-01/2024-01-30.md",
+    "Daily/2024/2024-02/2024-02-03.md",
+    "Daily/2024/2024-01/2024-01-29.md",
+    "Daily/2024/2024-02/2024-02-05.md",
+    "Daily/2024/2024-02/2024-02-12.md",
+    "Daily/2024/2024-02/2024-02-19.md",
+    "Daily/2024/2024-02/2024-02-29.md",
+    "Daily/2024/2024-03/2024-03-14.md",
+    "Daily/2024/2024-03/2024-03-01.md",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224200021.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-24 at 20.16.49.png",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224202933.png",
@@ -212,14 +214,11 @@
     "Daily/2024-03/W2",
     "Daily/2024-03/W1",
     "Daily/2024-02/W4/Untitled",
-    "Daily/2024-03",
+    "Daily/2024/2024-03",
     "Side Job",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-13 at 09.50.23.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-13 at 09.24.03.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-06 at 21.34.22.png",
-    "Daily/2024-02/W4",
-    "Daily/2024-02/W3",
-    "Daily/2024-02/W2",
     "Daily/2024-02/W.canvas",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
