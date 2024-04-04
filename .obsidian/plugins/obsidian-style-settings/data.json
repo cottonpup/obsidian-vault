@@ -30,5 +30,9 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-notion-light"
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-notion-light",
+  "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-block",
+  "anuppuccin-theme-settings@@anp-callout-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
+  "anuppuccin-theme-settings@@anp-speech-bubble": true
 }
