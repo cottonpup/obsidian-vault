@@ -27,8 +27,6 @@
   "o-theme-settings@@nav-line": false,
   "o-theme-settings@@s-header-lapel": false,
   "o-theme-settings@@o-folders": "none",
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-notion-light",
   "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-block",
@@ -55,7 +53,6 @@
   "anuppuccin-theme-settings@@anp-background-image-toggle": false,
   "anuppuccin-theme-settings@@anp-status-bar-select": "none",
   "anuppuccin-theme-settings@@anp-collapse-folders": true,
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sky",
   "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
@@ -64,6 +61,6 @@
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
-  "anuppuccin-theme-settings@@ctp-custom-sky@@light": "#8ABAD0",
-  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-sapphire"
+  "anuppuccin-theme-settings@@ctp-custom-sky@@light": "#7A8CB4",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-sky"
 }
