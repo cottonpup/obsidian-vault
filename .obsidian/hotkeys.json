@@ -11,9 +11,10 @@
   "obsidian-admonition:insert-callout": [
     {
       "modifiers": [
-        "Ctrl"
+        "Ctrl",
+        "Mod"
       ],
-      "key": "O"
+      "key": "C"
     }
   ]
 }
