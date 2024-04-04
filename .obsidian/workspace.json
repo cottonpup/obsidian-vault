@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-04-04.md",
-                "mode": "source",
+                "file": "Daily/2024-03/2024-03-21.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-04-04.md"
+                "file": "Daily/2024-03/2024-03-21.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-04-04.md",
+                "file": "Daily/2024-03/2024-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-04-04.md",
+                "file": "Daily/2024-03/2024-03-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +172,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2595307989ce1501",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Daily/2024-03/2024-03-23.md",
+    "Daily/2024-03/2024-03-21.md",
+    "Daily/2024-04-04.md",
     "Templates/Weekly Planner.md",
     "Templates/Note Template.md",
     "Templates/Map of Content.md",
@@ -181,13 +184,10 @@
     "글감과 스터디 키워드 목록.md",
     "Daily/2024-01/W3/2024-01-17.md",
     "Daily/2024-04-03.md",
-    "Daily/2024-04-04.md",
     "Templates/Daily Note.md",
     "Daily/2024-02/2024-02-25.md",
-    "Daily/2024-03-27.md",
-    "Daily/2024-03-23.md",
-    "Daily/2024-03-26.md",
-    "Daily/2024-03-21.md",
+    "Daily/2024-03/2024-03-27.md",
+    "Daily/2024-03/2024-03-26.md",
     "💻 Development/Projects/MS 한빛 여성의 날, 포트폴리오 PPT.md",
     "Daily/2024-01/W3/2024-01-18.md",
     "Daily/2024-01/2024-01-30.md",
@@ -196,7 +196,7 @@
     "Daily/2024-02/2024-02-05.md",
     "Daily/2024-02/2024-02-12.md",
     "Daily/2024-02/2024-02-19.md",
-    "Daily/2024-03/2024-02-29.md",
+    "Daily/2024-02/2024-02-29.md",
     "Daily/2024-03/2024-03-14.md",
     "Daily/2024-03/2024-03-01.md",
     "Daily/2024-02/2024-02-28.md",
