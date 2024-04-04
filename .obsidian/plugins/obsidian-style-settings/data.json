@@ -33,5 +33,5 @@
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-luminescence-light",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-teal",
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
-  "anuppuccin-theme-settings@@anp-rainbow-file-toggle": true
+  "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false
 }
