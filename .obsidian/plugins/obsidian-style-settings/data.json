@@ -57,5 +57,11 @@
   "anuppuccin-theme-settings@@anp-collapse-folders": true,
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-rosewater",
   "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true,
-  "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": true
+  "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": true,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
+  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
+  "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false
 }
