@@ -5,7 +5,8 @@
   "baseFontSize": 15,
   "enabledCssSnippets": [
     "media-grid-snippet",
-    "snippet"
+    "snippet",
+    "extended-colorschemes"
   ],
   "textFontFamily": "Space Grotesk",
   "interfaceFontFamily": "Space Grotesk",
