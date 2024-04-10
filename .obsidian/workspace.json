@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "24b089771a2e824b",
+        "id": "87d4236591a0c547",
         "type": "tabs",
         "children": [
           {
-            "id": "2595307989ce1501",
+            "id": "8dea3ede0a9d9426",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-04/2024-04-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "115207c5e942809d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-04-07.md",
+                "file": "Daily/2024-04-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-04-07.md"
+                "file": "Daily/2024-04-10.md"
               }
             }
           },
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-04-07.md",
+                "file": "Daily/2024-04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-04-07.md",
+                "file": "Daily/2024-04-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,11 +173,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "115207c5e942809d",
+  "active": "8dea3ede0a9d9426",
   "lastOpenFiles": [
+    "Daily/2024-04-10.md",
+    "Daily/2024-04/2024-04-04.md",
     "Daily/2024-04-07.md",
     "Daily/2024-04/2024-04-03.md",
-    "Daily/2024-04/2024-04-04.md",
     "Daily/2024/2024-03/2024-03-21.md",
     "Daily/2024",
     "Daily/2023",
@@ -216,7 +204,6 @@
     "Daily/2024/2024-02/2024-02-19.md",
     "Daily/2024/2024-02/2024-02-29.md",
     "Daily/2024/2024-03/2024-03-14.md",
-    "Daily/2024/2024-03/2024-03-01.md",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224200021.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-24 at 20.16.49.png",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224202933.png",
