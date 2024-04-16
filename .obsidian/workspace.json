@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc8f524ac78119e1",
+        "id": "40cd15f3b2f04b92",
         "type": "tabs",
         "children": [
           {
-            "id": "b42b8ba44b00526d",
+            "id": "9bc882c54c034fed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-04-16.md",
+                "file": "Daily/레디포스트 코딩테스트 준비.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-04-16.md"
+                "file": "Daily/레디포스트 코딩테스트 준비.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-04-16.md",
+                "file": "Daily/레디포스트 코딩테스트 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-04-16.md",
+                "file": "Daily/레디포스트 코딩테스트 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +172,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b42b8ba44b00526d",
+  "active": "9bc882c54c034fed",
   "lastOpenFiles": [
+    "Daily/2024-04-16.md",
+    "Daily/레디포스트 코딩테스트 준비.md",
     "Daily/2024-04/2024-04-04.md",
     "Daily/2024-04-10.md",
-    "Daily/2024-04-16.md",
     "Untitled.md",
     "Daily/2024-04-07.md",
     "Daily/2024-04/2024-04-03.md",
@@ -202,7 +203,6 @@
     "Daily/2024/2024-01/2024-01-29.md",
     "Daily/2024/2024-02/2024-02-05.md",
     "Daily/2024/2024-02/2024-02-12.md",
-    "Daily/2024/2024-02/2024-02-19.md",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224200021.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-24 at 20.16.49.png",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224202933.png",
