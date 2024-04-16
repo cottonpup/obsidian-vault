@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cfddab8abc03da23",
+        "id": "bc8f524ac78119e1",
         "type": "tabs",
         "children": [
           {
-            "id": "a8a0e9b1f836b0a8",
+            "id": "b42b8ba44b00526d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-04-16.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-04-16.md"
+              }
             }
           },
           {
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +172,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8a0e9b1f836b0a8",
+  "active": "b42b8ba44b00526d",
   "lastOpenFiles": [
+    "Daily/2024-04-16.md",
+    "Untitled.md",
     "Daily/2024-04-10.md",
     "Daily/2024-04/2024-04-04.md",
     "Daily/2024-04-07.md",
@@ -194,8 +203,6 @@
     "Daily/2024/2024-02/2024-02-05.md",
     "Daily/2024/2024-02/2024-02-12.md",
     "Daily/2024/2024-02/2024-02-19.md",
-    "Daily/2024/2024-02/2024-02-29.md",
-    "Daily/2024/2024-03/2024-03-14.md",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224200021.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-24 at 20.16.49.png",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224202933.png",
