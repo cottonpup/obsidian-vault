@@ -43,5 +43,7 @@
   "anuppuccin-theme-settings@@anp-speech-bubble": true,
   "anuppuccin-theme-settings@@anp-callout-color-toggle": false,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-notion-dark",
-  "anuppuccin-theme-settings@@anp-decoration-toggle": true
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": false
 }
