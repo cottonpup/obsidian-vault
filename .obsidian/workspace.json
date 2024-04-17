@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "84f61af008241ab9",
-        "type": "tabs",
-        "dimension": 43.87489139878367,
-        "children": [
-          {
-            "id": "9d6159570d660c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-04-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "96ff3ef04480823e",
         "type": "tabs",
-        "dimension": 56.12510860121633,
         "children": [
           {
             "id": "86983bd55fb19097",
@@ -33,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-04-17.md",
+                "file": "Daily/레디포스트 코딩테스트 준비.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-04-18.md"
+                "file": "Daily/레디포스트 코딩테스트 준비.md"
               }
             }
           },
@@ -142,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-04-18.md",
+                "file": "Daily/레디포스트 코딩테스트 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-04-18.md",
+                "file": "Daily/레디포스트 코딩테스트 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,11 +173,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d6159570d660c9c",
+  "active": "86983bd55fb19097",
   "lastOpenFiles": [
-    "Daily/레디포스트 코딩테스트 준비.md",
-    "Daily/2024-04-18.md",
     "Daily/2024-04-17.md",
+    "Daily/2024-04-18.md",
+    "Daily/레디포스트 코딩테스트 준비.md",
     "Templates/Daily Note.md",
     "Daily/2024-04-16.md",
     "Daily/2024-04/2024-04-04.md",
