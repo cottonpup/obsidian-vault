@@ -10,16 +10,33 @@
           {
             "id": "86983bd55fb19097",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily/2024-04-18.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a81431ab42251e99",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/레디포스트 코딩테스트 준비.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-04-18.md"
+                "file": "Daily/레디포스트 코딩테스트 준비.md"
               }
             }
           },
@@ -122,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-04-18.md",
+                "file": "Daily/레디포스트 코딩테스트 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-04-18.md",
+                "file": "Daily/레디포스트 코딩테스트 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,11 +190,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86983bd55fb19097",
+  "active": "a81431ab42251e99",
   "lastOpenFiles": [
+    "Daily/2024-04-18.md",
     "Daily/레디포스트 코딩테스트 준비.md",
     "Daily/2024-04-17.md",
-    "Daily/2024-04-18.md",
     "Templates/Daily Note.md",
     "Daily/2024-04-16.md",
     "Daily/2024-04/2024-04-04.md",
