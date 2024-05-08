@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "커밋",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7853288685b6eaa0",
+  "active": "c62d3717da803e98",
   "lastOpenFiles": [
     "Daily/2024-05-04.md",
     "Daily/2024-05-07.md",
