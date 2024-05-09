@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ad4e0c9d8405ceb",
+        "id": "7876709156f8e765",
         "type": "tabs",
         "children": [
           {
-            "id": "19d67100126adcb9",
+            "id": "7965aeaf068ec2a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19d67100126adcb9",
+  "active": "7965aeaf068ec2a6",
   "lastOpenFiles": [
     "Daily/2024-05-08.md",
     "Daily/2024-05-09.md",
