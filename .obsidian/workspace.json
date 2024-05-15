@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7876709156f8e765",
+        "id": "e7f61d7ed8454824",
         "type": "tabs",
         "children": [
           {
-            "id": "7965aeaf068ec2a6",
+            "id": "4b5d0db8c4596d3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-05-15.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "커밋",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,12 +69,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -93,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-05-15.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,10 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7965aeaf068ec2a6",
+  "active": "c62d3717da803e98",
   "lastOpenFiles": [
-    "Daily/2024-05-11.md",
     "Daily/2024-05-15.md",
+    "Daily/2024-05-11.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 12.12.00.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 12.10.12.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 11.37.43.png",
