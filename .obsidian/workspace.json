@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-17.md",
+                "file": "Templates/Daily Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-17.md"
+                "file": "Templates/Daily Note.md"
               }
             }
           },
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-17.md",
+                "file": "Templates/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-17.md",
+                "file": "Templates/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +175,8 @@
   },
   "active": "4b5d0db8c4596d3b",
   "lastOpenFiles": [
-    "Daily/2024-05-11.md",
     "Daily/2024-05-17.md",
+    "Daily/2024-05-11.md",
     "Daily/2024-05-15.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 12.12.00.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 12.10.12.png",
