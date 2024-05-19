@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Daily/2024-05-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Note.md"
+                "file": "Daily/2024-05-19.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Daily/2024-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Note.md",
+                "file": "Daily/2024-05-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +175,8 @@
   "active": "4b5d0db8c4596d3b",
   "lastOpenFiles": [
     "Daily/2024-05-17.md",
+    "Daily/2024-05-19.md",
+    "Templates/Daily Note.md",
     "Daily/2024-05-11.md",
     "Daily/2024-05-15.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 12.12.00.png",
@@ -198,7 +199,6 @@
     "Daily/2024/2024-04/2024-04-18.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-04-18 at 17.31.17.png",
     "Daily/2024/2024-04/2024-04-17.md",
-    "Templates/Daily Note.md",
     "Daily/2024/2024-04/2024-04-16.md",
     "Daily/2024/2024-04/2024-04-10.md",
     "Untitled.md",
@@ -211,7 +211,6 @@
     "Templates/Weekly Planner.md",
     "Templates/Note Template.md",
     "Templates/Map of Content.md",
-    "💻 Development/Development Index.md",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224200021.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-24 at 20.16.49.png",
     "Daily/2024-03/W4",
