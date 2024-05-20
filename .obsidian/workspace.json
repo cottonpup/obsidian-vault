@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-19.md",
+                "file": "Daily/2024-05-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-19.md"
+                "file": "Daily/2024-05-20.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-19.md",
+                "file": "Daily/2024-05-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-19.md",
+                "file": "Daily/2024-05-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +174,9 @@
   },
   "active": "4b5d0db8c4596d3b",
   "lastOpenFiles": [
-    "Daily/2024-05-17.md",
     "Daily/2024-05-19.md",
+    "Daily/2024-05-20.md",
+    "Daily/2024-05-17.md",
     "Templates/Daily Note.md",
     "Daily/2024-05-11.md",
     "Daily/2024-05-15.md",
@@ -210,7 +211,6 @@
     "Daily/2024/2024-03/2024-03-23.md",
     "Templates/Weekly Planner.md",
     "Templates/Note Template.md",
-    "Templates/Map of Content.md",
     "_💭 TEMPORARY/_Drawer/Files/Pasted image 20240224200021.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-02-24 at 20.16.49.png",
     "Daily/2024-03/W4",
