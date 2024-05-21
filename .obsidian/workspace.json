@@ -35,7 +35,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-20.md"
+                "file": "Daily/2024-05-21.md"
               }
             }
           },
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-20.md",
+                "file": "Daily/2024-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-20.md",
+                "file": "Daily/2024-05-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,10 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27e82aaef4c86178",
+  "active": "4b5d0db8c4596d3b",
   "lastOpenFiles": [
-    "Daily/2024-05-21.md",
     "Daily/2024-05-20.md",
+    "Daily/2024-05-21.md",
     "Daily/2024-05-07.md",
     "Daily/2024-05-19.md",
     "Daily/2024-05-17.md",
