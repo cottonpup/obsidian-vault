@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ec317633f5d15910",
+        "id": "9ad759ed8928e1d4",
         "type": "tabs",
         "children": [
           {
-            "id": "8537578ea233cdb0",
+            "id": "c1bb41e0470a6834",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +164,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8537578ea233cdb0",
+  "active": "c1bb41e0470a6834",
   "lastOpenFiles": [
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/2023-07.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/2023 Timeline.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/도둑맞은 집중력.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
     "💻 Development/Projects/카카오톡 겨울 인턴쉽 지원하기.md",
     "_💭 TEMPORARY/Next.js 튜토리얼 하나 듣기.md",
     "_💭 TEMPORARY/npx로 이미 세팅한 파일에서 얀베리 세팅하기.md",
@@ -206,10 +202,6 @@
     "Daily/2024/2024-04/2024-04-26.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-03 at 00.47.52.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-03 at 00.46.30.png",
-    "Daily/2024/2024-04/2024-04-04.md",
-    "Daily/2024/2024-04/2024-04-07.md",
-    "Daily/2024/2024-04/2024-04-20.md",
-    "Daily/2024/2024-04/레디포스트 회사지원.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-04-18 at 17.31.17.png",
     "Daily/2024",
     "Daily/2023",
