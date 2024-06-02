@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fa89ae619b557c81",
+        "id": "070f75c674899af4",
         "type": "tabs",
         "children": [
           {
-            "id": "54b9834ab6687b4c",
+            "id": "ec1b3d02798f5d41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/2024-06/2024-06-02.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024/2024-06/2024-06-02.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +164,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54b9834ab6687b4c",
+  "active": "ec1b3d02798f5d41",
   "lastOpenFiles": [
+    "Daily/2024/2024-06/2024-06-02.md",
+    "Leetcode.md",
     "💻 Development/Projects/Letty 프로젝트 프론트엔드 삽질노트.md",
     "Daily/2024/2024-02/2024-02-01.md",
-    "Daily/2024/2024-06/2024-06-02.md",
     "💻 Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
     "Daily/2023/2023-11/2023-11-14.md",
     "Daily/2024/2024-05/2024-05-07.md",
@@ -199,7 +192,6 @@
     "💻 Development/Learning/Tanstack Query.md",
     "💻 Development/Learning/Section 25 A (Pretty Deep Dive) Introduction to Next.js.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/Resume.io 클론 프로젝트 분석하기.md",
-    "_💭 TEMPORARY/Untitled.md",
     "Daily/2024/2024-06",
     "Daily/2024/2024-05",
     "Files/Screenshot 2024-05-28 at 22.41.38.png",
