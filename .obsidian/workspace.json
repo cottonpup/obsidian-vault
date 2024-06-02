@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "4d5d2a128c79cdba",
   "lastOpenFiles": [
+    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-28 at 22.41.38.png",
     "Daily/2024-05-17.md",
     "Daily/2024-05-19.md",
     "Daily/2024-05-20.md",
@@ -207,7 +209,6 @@
     "Daily/2024/2024-04/2024-04-10.md",
     "Untitled.md",
     "Daily/2024-04/2024-04-03.md",
-    "Daily/2024/2024-03/2024-03-21.md",
     "Daily/2024",
     "Daily/2023",
     "Daily/2024/2024-04",
