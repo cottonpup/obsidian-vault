@@ -11,8 +11,12 @@
             "id": "8537578ea233cdb0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md"
+              }
             }
           },
           {
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,6 +174,11 @@
   },
   "active": "8537578ea233cdb0",
   "lastOpenFiles": [
+    "💻 Development/Projects/카카오톡 겨울 인턴쉽 지원하기.md",
+    "_💭 TEMPORARY/Next.js 튜토리얼 하나 듣기.md",
+    "_💭 TEMPORARY/npx로 이미 세팅한 파일에서 얀베리 세팅하기.md",
+    "💻 Development/Development Index.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "{{tomorrow}}.md",
     "Daily/2024-06-02.md",
     "Templates/Daily Note.md",
@@ -197,12 +210,7 @@
     "Daily/2024/2024-04/2024-04-07.md",
     "Daily/2024/2024-04/2024-04-20.md",
     "Daily/2024/2024-04/레디포스트 회사지원.md",
-    "Daily/2024/2024-04/2024-04-18.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-04-18 at 17.31.17.png",
-    "Daily/2024/2024-04/2024-04-17.md",
-    "Daily/2024/2024-04/2024-04-16.md",
-    "Daily/2024/2024-04/2024-04-10.md",
-    "Untitled.md",
     "Daily/2024",
     "Daily/2023",
     "Daily/2024/2024-04",
