@@ -11,8 +11,12 @@
             "id": "c1bb41e0470a6834",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/Resume.io 클론 프로젝트 분석하기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/Resume.io 클론 프로젝트 분석하기.md"
+              }
             }
           },
           {
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/Resume.io 클론 프로젝트 분석하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/Resume.io 클론 프로젝트 분석하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,6 +174,14 @@
   },
   "active": "c1bb41e0470a6834",
   "lastOpenFiles": [
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/What happens when you type google.com in your browser and press Enter.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/생산적으로 사는 법.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/신입 개발자 면접 가이드.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/영어 전치사 연구 의미와 용법.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/원하는 기업.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/주니어 개발자 이력서 가이드.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/제텔카스텐 메모법.md",
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/2023-07.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/2023 Timeline.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/도둑맞은 집중력.md",
@@ -174,7 +190,6 @@
     "_💭 TEMPORARY/Next.js 튜토리얼 하나 듣기.md",
     "_💭 TEMPORARY/npx로 이미 세팅한 파일에서 얀베리 세팅하기.md",
     "💻 Development/Development Index.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "{{tomorrow}}.md",
     "Daily/2024-06-02.md",
     "Templates/Daily Note.md",
@@ -185,21 +200,14 @@
     "Daily/2024/2024-05/2024-05-09.md",
     "Daily/2024/2024-05/2024-05-11.md",
     "Daily/2024/2024-05/2024-05-17.md",
-    "Daily/2024/2024-05/2024-05-20.md",
-    "Daily/2024/2024-05/2024-05-19.md",
-    "Daily/2024/2024-05/2024-05-21.md",
-    "Daily/2024/2024-05/2024-05-24.md",
-    "Daily/2024/2024-05/2024-05-03.md",
     "Daily/2024/2024-06",
     "Daily/2024/2024-05",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-28 at 22.41.38.png",
-    "Daily/2024-05-15.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 12.12.00.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 12.10.12.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 11.37.43.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 11.23.01.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 11.22.47.png",
-    "Daily/2024/2024-04/2024-04-26.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-03 at 00.47.52.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-03 at 00.46.30.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-04-18 at 17.31.17.png",
