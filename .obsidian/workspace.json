@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6abd872dd690866d",
+        "id": "d8dc902b4fd2be43",
         "type": "tabs",
         "children": [
           {
-            "id": "4d5d2a128c79cdba",
+            "id": "544dad61496986c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-29.md",
+                "file": "Daily/2024/2024-05/2024-05-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-29.md"
+                "file": "Daily/2024/2024-05/2024-05-04.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-29.md",
+                "file": "Daily/2024/2024-05/2024-05-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-29.md",
+                "file": "Daily/2024/2024-05/2024-05-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,30 +173,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "544dad61496986c9",
   "lastOpenFiles": [
-    "Daily/2024/Untitled",
+    "Daily/2024/2024-05/2024-05-03.md",
+    "Daily/2024/2024-05/2024-05-04.md",
+    "Daily/2024/2024-06",
+    "Daily/2024/2024-05/2024-05-29.md",
+    "Daily/2024/2024-05",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-28 at 22.41.38.png",
-    "Daily/2024-05-17.md",
-    "Daily/2024-05-19.md",
-    "Daily/2024-05-20.md",
-    "Daily/2024-05-21.md",
-    "Daily/2024-05-24.md",
-    "Daily/2024-05-29.md",
-    "Daily/2024-05-07.md",
+    "Daily/2024/2024-05/2024-05-17.md",
+    "Daily/2024/2024-05/2024-05-19.md",
+    "Daily/2024/2024-05/2024-05-20.md",
+    "Daily/2024/2024-05/2024-05-21.md",
+    "Daily/2024/2024-05/2024-05-24.md",
+    "Daily/2024/2024-05/2024-05-07.md",
     "Templates/Daily Note.md",
-    "Daily/2024-05-11.md",
+    "Daily/2024/2024-05/2024-05-11.md",
     "Daily/2024-05-15.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 12.12.00.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 12.10.12.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 11.37.43.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 11.23.01.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-11 at 11.22.47.png",
-    "Daily/2024-05-09.md",
-    "Daily/2024-05-08.md",
-    "Daily/2024-05-04.md",
+    "Daily/2024/2024-05/2024-05-09.md",
+    "Daily/2024/2024-05/2024-05-08.md",
     "Daily/2024/2024-04/2024-04-26.md",
-    "Daily/2024-05-03.md",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-03 at 00.47.52.png",
     "_💭 TEMPORARY/_Drawer/Files/Screenshot 2024-05-03 at 00.46.30.png",
     "Daily/2024/2024-04/2024-04-04.md",
@@ -219,8 +220,6 @@
     "Daily/2024-03/W2",
     "Daily/2024-03/W1",
     "Daily/2024-02/W4/Untitled",
-    "Daily/2024/2024-03",
-    "Side Job",
     "Daily/2024-02/W.canvas",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
