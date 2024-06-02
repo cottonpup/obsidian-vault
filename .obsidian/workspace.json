@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Development/Learning/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+                "file": "🐿️ Personal/Quotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻 Development/Learning/JavaScript 알고리즘 & 자료구조 마스터클래스.md"
+                "file": "🐿️ Personal/Quotes.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Development/Learning/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+                "file": "🐿️ Personal/Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻 Development/Learning/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+                "file": "🐿️ Personal/Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +172,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1bb41e0470a6834",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
-    "💻 Development/Learning/React Oauth.md",
+    "⭐️ English/Are you lonely in a crowd? ⏲️ 6 Minute English.md",
+    "🐿️ Personal/Quotes.md",
+    "🐿️ Personal/Personal Index.md",
+    "💻 Development/Projects/프로그래머스 레벨 2 문제풀이.md",
+    "💻 Development/Projects/카카오톡 겨울 인턴쉽 지원하기.md",
+    "💻 Development/Projects/코딩연합 팀프로젝트 멘토링 1기.md",
     "💻 Development/Learning/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
+    "💻 Development/Learning/React Oauth.md",
     "💻 Development/Learning/Tanstack Query.md",
     "💻 Development/Learning/Section 25 A (Pretty Deep Dive) Introduction to Next.js.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/Resume.io 클론 프로젝트 분석하기.md",
@@ -194,12 +200,6 @@
     "_💭 TEMPORARY/_Drawer/ARCHIVE/2023 Timeline.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/도둑맞은 집중력.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
-    "💻 Development/Projects/카카오톡 겨울 인턴쉽 지원하기.md",
-    "_💭 TEMPORARY/Next.js 튜토리얼 하나 듣기.md",
-    "_💭 TEMPORARY/npx로 이미 세팅한 파일에서 얀베리 세팅하기.md",
-    "💻 Development/Development Index.md",
-    "Daily/2024-06-02.md",
-    "Templates/Daily Note.md",
     "Daily/2024/2024-06",
     "Daily/2024/2024-05",
     "Files/Screenshot 2024-05-28 at 22.41.38.png",

@@ -1,9 +1,12 @@
 ---
 Created: 2023-12-26
-tags: 
+tags:
+  - Algorithms
 topic: 
 parent_dir: Learning Resources
 ---
+[[Algorithms]]
+
 시간 복잡도
  ```js
  function addUpTo(n) {
