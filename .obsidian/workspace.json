@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "12f988224d0cb365",
+        "id": "a3b727b3d192da8b",
         "type": "tabs",
         "children": [
           {
-            "id": "eaa47f9102af908d",
+            "id": "f1bbb7bf500360e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -164,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90da7495cf4fd365",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/프론트엔드 기본 면접문제.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",

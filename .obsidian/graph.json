@@ -1,17 +1,17 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Daily/2024]]",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 11570573
+        "rgb": 16711680
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5253732861586917,
+  "scale": 1.6305349080549698,
   "close": false
 }
