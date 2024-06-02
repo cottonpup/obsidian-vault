@@ -145,12 +145,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eaa47f9102af908d",
+  "active": "90da7495cf4fd365",
   "lastOpenFiles": [
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/프론트엔드 기본 면접문제.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",

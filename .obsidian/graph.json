@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "[\"created\"::2024-06-02]",
+  "search": "[\"created\":2024-01]",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -18,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.815208431845819,
-  "close": true
+  "close": false
 }
