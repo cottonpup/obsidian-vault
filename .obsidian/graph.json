@@ -1,12 +1,20 @@
 {
-  "collapse-filter": false,
-  "search": "[\"created\":2024-01]",
+  "collapse-filter": true,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Daily/2024]]",
+      "color": {
+        "a": 1,
+        "rgb": 11570573
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.815208431845819,
+  "scale": 0.5253732861586917,
   "close": false
 }
