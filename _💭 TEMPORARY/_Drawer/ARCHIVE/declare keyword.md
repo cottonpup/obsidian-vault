@@ -1,2 +1,0 @@
-declare 키워드는 컴파일러에게 해당 변수나 함수가 이미 존재한다는 것을 알리는 역할을 한다. 다른 영역의 코드에서 declare로 선언된 해당 변수나 함수를 참조할 수 있으며 declare로 선언된 부분은 javascript로 컴파일되지 않는다.
-The TypeScript declare keyword is used to declare variables that may not have originated from a TypeScript file.
