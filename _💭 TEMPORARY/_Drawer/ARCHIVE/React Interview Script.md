@@ -1,0 +1,45 @@
+---
+Date: 2023-07-13, 2023-07-14
+Tags: Interview, Interview/React
+---
+%%[[Development]]%%
+- *What is the virtual DOM in React and why is it important?*
+	- The virtual DOM is a lightweight representation of the real DOM. It compares changes with the actual DOM and updates accordingly. In most cases, it is much faster and more efficient.
+		- *You said it's faster in the most case. Then can you tell me when virtual DOM becomes slow?*
+			- If you have complex compnents or when there is frequent updates, then it's better to optimize it. (Like using `Memo()`)
+- *What is the difference between state and props in React?*
+	- State is mutable and you can update by using `setState()` hook. But props are immutable and read-only and it's passed down from the parent component to the child component as an argument.
+- *How do you pass data between components in React? (How to pass down or lift data)*
+	- 
+- *What is Hook? How does it work? And what is the most used hook?*
+	- 
+- *What is the purpose of the `key` attribute in React?*
+	- 
+- *Explain the concept of controlled and uncontrolled components in React.*
+	- 
+- *What is Redux and how does it work with React?*
+	- 
+- *Explain how the `useState` hook works in React.*
+	- 
+- *What is the purpose of the `useEffect` hook in React?*
+	- 
+- *What is the purpose of the `useContext` hook in React?*
+	- 
+- *What is the purpose of the `useReducer` hook in React?*
+	- 
+- *Explain the concept of higher-order components in React.*
+	- 
+- *What is the purpose of the `react-router` library in React?*
+	- 
+- *How do you handle asynchronous data loading in React?*
+	- 
+- *What is the purpose of the `memo` function in React?*
+	- 
+- *Explain the concept of server-side rendering in React.*
+	- 
+- *How do you handle form data in React?*
+	- 
+- *How do you handle immutable data in React and Redux?*
+	- 
+- *What are some best practices for performance optimization in React?*
+	- 

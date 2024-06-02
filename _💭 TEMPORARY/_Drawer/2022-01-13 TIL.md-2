@@ -1,0 +1,97 @@
+
+  
+
+- 영어공부
+
+- [x] Anki 복습
+
+- [x] Paragraph 외우기 🆕
+
+  
+
+- 개발공부
+
+- Tailwindcss
+
+- craco
+
+- Motion UI library
+
+- react spring
+
+- framer motion
+
+- Mocking Service Worker
+
+- pwd command
+
+  
+  
+
+----
+
+  
+
+아마 바쁘면 간단하게 작성하겠지만 첫 TIL이니 오늘 공부한 내용들을 좀 정리 해볼려고 한다 :)
+
+  
+
+# Tailwind
+
+`Tailwind` 를 처음 써보았다. 항상 볼 때마다 써보고 싶었는데 신기했다!
+
+`Vscode extension`도 있어서 쉽게 클래스명을 변경하면서 스타일링 할 수 있었다. `Utility-First css` 라는 데 그게 뭔 뜻인지.. 긁적거렸다.
+
+  
+  
+
+>Utility-first CSS frameworks give a constrained set of primitive classes, called utilities,
+
+that are not named semantically and usually apply a single style, such as margin-bottom.
+
+>
+
+> 유틸리티 우선 CSS 프레임워크는 의미상 명명되지 않고 일반적으로 margin-bottom과 같은 단일 스타일을 적용하는 유틸리티라고 하는 제한된 원시형 클래스 세트를 제공합니다.
+
+  
+  
+
+그렇다고 한다. 🤔 즉, `utility` 는 간단한 CSS 단일 속성을 뜻하는 것 같다. 다크모드 대응에 매우 용이하고 커스터마이징하기 좋았다. 아 그리고 예제는 돈내고 사야한다..
+
+  
+
+## craco
+
+  
+
+Create React App Configuration Override의 줄임말로 CRA 프로젝트에서 `eject`하지 않고 configuration을 커스텀할 수 있는 라이브러리다. 첨 봤다.
+
+  
+
+`eject` 해서 CRA 프로젝트의 configuration을 한번 커스텀해보고 싶다.
+
+  
+
+# Motion UI library
+
+  
+
+Motion UI 정말 와우 소리가 난다! 자주 보던 그 애니메이션들은 보통 직접 구현하는 게 아니였다 ㅋㅋㅋ
+
+  
+
+# Mocking Service Worker
+
+  
+
+API mocking library인데 음 아직은 좀 헷갈린다. 서비스 워커 자주 듣긴 했는데 정확히 뭔지 알아봐야 겠다.
+
+  
+
+[카카오에서 괜찮은 글](https://tech.kakao.com/2021/09/29/mocking-fe/)을 발견했다. 아직 안졸리니 좀 있다 읽어봐야겠다.
+
+  
+
+# `pwd` command
+
+`pwd` 는 print working directory의 준말로 작업중인 디렉토리의 path를 보여준다.. 몰랐음 근데 password처럼 보인다 ㅋㅋㅋ
