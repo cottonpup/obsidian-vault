@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a3b727b3d192da8b",
+        "id": "e36ee653ce349e07",
         "type": "tabs",
         "children": [
           {
-            "id": "f1bbb7bf500360e6",
+            "id": "45bb67a20497209b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-02.md",
+                "file": "Daily/2024-06-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-02.md"
+                "file": "Daily/2024-06-03.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-02.md",
+                "file": "Daily/2024-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-02.md",
+                "file": "Daily/2024-06-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -173,8 +174,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1bbb7bf500360e6",
+  "active": "45bb67a20497209b",
   "lastOpenFiles": [
+    "Daily/2024-06-03.md",
+    "Daily/2024/2024-06/2024-06-02.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/프론트엔드 기본 면접문제.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
@@ -200,8 +203,6 @@
     "_💭 TEMPORARY/_Drawer/ARCHIVE/바이슈코 면접 대비.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/몽몽 공부법.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/면접 질문 아카이브.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/도둑맞은 집중력.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/누구도 나를 파괴할 수 없다.md",
     "_💭 TEMPORARY/💻 Development/Projects",
     "_💭 TEMPORARY/💻 Development/Learning",
     "_💭 TEMPORARY/💻 Development/Group Study",
