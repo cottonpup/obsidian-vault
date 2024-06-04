@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-04.md"
+                "file": "Daily/2024/2024-06/2024-06-02.md"
               }
             }
           },
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-04.md",
+                "file": "Daily/2024/2024-06/2024-06-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-04.md",
+                "file": "Daily/2024/2024-06/2024-06-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,11 +188,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1fa7cde2ef5282ed",
+  "active": "4fe89d327d27563b",
   "lastOpenFiles": [
+    "Daily/2024/2024-06/2024-06-04.md",
     "Daily/2024/2024-06/2024-06-02.md",
     "Daily/2024/2024-06/2024-06-03.md",
-    "Daily/2024/2024-06/2024-06-04.md",
     "Files/Screenshot 2024-06-03 at 15.52.43.png",
     "(20240529)게임배틀_인터페이스정의서_v1.7.xlsx",
     "Files/Screenshot 2024-06-03 at 10.37.10.png",
