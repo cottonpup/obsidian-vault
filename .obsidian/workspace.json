@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rever",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-04.md"
+                "file": "Daily/2024/2024-06/2024-06-03.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-04.md",
+                "file": "Daily/2024/2024-06/2024-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-04.md",
+                "file": "Daily/2024/2024-06/2024-06-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,12 +201,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "45bb67a20497209b",
   "lastOpenFiles": [
-    "Daily/2024/2024-06/2024-06-03.md",
-    "Daily/2024/2024-06/2024-06-04.md",
-    "Files/Screenshot 2024-06-03 at 15.52.43.png",
     "Daily/2024/2024-06/2024-06-02.md",
+    "Daily/2024/2024-06/2024-06-04.md",
+    "Daily/2024/2024-06/2024-06-03.md",
+    "Files/Screenshot 2024-06-03 at 15.52.43.png",
     "(20240529)게임배틀_인터페이스정의서_v1.7.xlsx",
     "Files/Screenshot 2024-06-03 at 10.37.10.png",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/프론트엔드 기본 면접문제.md",
