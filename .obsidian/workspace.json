@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,14 +173,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9305ca06ece777cb",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
-    "Daily/2024/2024-06/2024-06-10.md",
-    "Daily/2024/2024-06/2024-06-07.md",
-    "Daily/2024/2024-06/2024-06-02.md",
-    "Daily/2024/2024-06/2024-06-06.md",
-    "Daily/2024/2024-06/2024-06-04.md",
     "Daily/2024/2024-06/2024-06-03.md",
+    "Daily/2024/2024-06/2024-06-02.md",
+    "Daily/2024/2024-06/2024-06-04.md",
+    "Daily/2024/2024-06/2024-06-06.md",
+    "Daily/2024/2024-06/2024-06-07.md",
+    "Daily/2024/2024-06/2024-06-10.md",
     "Files/Screenshot 2024-06-03 at 15.52.43.png",
     "(20240529)게임배틀_인터페이스정의서_v1.7.xlsx",
     "Files/Screenshot 2024-06-03 at 10.37.10.png",
