@@ -11,7 +11,7 @@
             "id": "0ec0398babf51b12",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -88,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,8 +182,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "45a6353f9c2c1f1d",
+  "active": "0ec0398babf51b12",
   "lastOpenFiles": [
+    "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "_💭 TEMPORARY/2024-02/2024-02-25.md",
     "_💭 TEMPORARY/2024-04/2024-04-07.md",
     "_💭 TEMPORARY/2024-05/2024-05-08.md",
@@ -212,7 +211,6 @@
     "_💭 TEMPORARY/_Drawer/ARCHIVE/생산적으로 사는 법.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/번들러란?.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/백엔드 개발자를 위한 지식 대방출.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/바이슈코 면접 대비.md",
     "_💭 TEMPORARY/💻 Development/Projects",
     "_💭 TEMPORARY/💻 Development/Learning",
     "_💭 TEMPORARY/💻 Development/Group Study",
