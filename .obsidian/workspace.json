@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7bab410024dd1f49",
+        "id": "88e277639b475891",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d4bd7432102c8f",
+            "id": "0ec0398babf51b12",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -88,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md"
+              }
             }
           },
           {
@@ -144,9 +146,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "581a2547259653a8",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "45a6353f9c2c1f1d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -162,10 +180,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "45a6353f9c2c1f1d",
   "lastOpenFiles": [
     "_💭 TEMPORARY/2024-02/2024-02-25.md",
     "_💭 TEMPORARY/2024-04/2024-04-07.md",

@@ -9,5 +9,6 @@
   "obsidian-git",
   "obsidian-style-settings",
   "dataview",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "breadcrumbs"
 ]
