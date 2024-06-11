@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-10.md",
+                "file": "_💭 TEMPORARY/2024-02/2024-02-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-10.md"
+                "file": "_💭 TEMPORARY/2024-02/2024-02-25.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-10.md",
+                "file": "_💭 TEMPORARY/2024-02/2024-02-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-10.md",
+                "file": "_💭 TEMPORARY/2024-02/2024-02-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +174,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c62d3717da803e98",
+  "active": "a4d4bd7432102c8f",
   "lastOpenFiles": [
+    "_💭 TEMPORARY/2024-04/2024-04-07.md",
+    "_💭 TEMPORARY/2024-05/2024-05-08.md",
+    "Daily/2024/2024-06/2024-06-10.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/프론트엔드 기본 면접문제.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
@@ -200,9 +203,6 @@
     "_💭 TEMPORARY/_Drawer/ARCHIVE/백엔드 개발자를 위한 지식 대방출.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/바이슈코 면접 대비.md",
     "_💭 TEMPORARY/_Drawer/ARCHIVE/몽몽 공부법.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/면접 질문 아카이브.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/도둑맞은 집중력.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/누구도 나를 파괴할 수 없다.md",
     "_💭 TEMPORARY/💻 Development/Projects",
     "_💭 TEMPORARY/💻 Development/Learning",
     "_💭 TEMPORARY/💻 Development/Group Study",
