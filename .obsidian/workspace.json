@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rever",
+                "query": "rebase",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -175,7 +174,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4d4bd7432102c8f",
+  "active": "c62d3717da803e98",
   "lastOpenFiles": [
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/프론트엔드 기본 면접문제.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
