@@ -11,8 +11,12 @@
             "id": "84581ea2bf137814",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/2024-06/2024-06-14.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024/2024-06/2024-06-14.md"
+              }
             }
           },
           {
@@ -118,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024/2024-06/2024-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024/2024-06/2024-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,6 +194,7 @@
   },
   "active": "84581ea2bf137814",
   "lastOpenFiles": [
+    "Daily/2024/2024-06/2024-06-14.md",
     "Daily/2024/2024-06/2024-06-03.md",
     "Daily/2024/2024-06/2024-06-02.md",
     "Daily/2024/2024-06/2024-06-04.md",
@@ -211,7 +220,6 @@
     "_💭 TEMPORARY/💻 Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
     "_💭 TEMPORARY/💻 Development/Projects/SSAFY 에세이 제출하기.md",
     "_💭 TEMPORARY/💻 Development/Projects/MS 한빛 여성의 날, 포트폴리오 PPT.md",
-    "_💭 TEMPORARY/💻 Development/Learning/JavaScript 알고리즘 & 자료구조 마스터클래스.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디",
     "_💭 TEMPORARY/💻 Development/Projects",
     "_💭 TEMPORARY/💻 Development/Learning",
