@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-17.md",
+                "file": "Daily/2024/2024-06/2024-06-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-17.md"
+                "file": "Daily/2024/2024-06/2024-06-18.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-17.md",
+                "file": "Daily/2024/2024-06/2024-06-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-17.md",
+                "file": "Daily/2024/2024-06/2024-06-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,8 +193,9 @@
   },
   "active": "84581ea2bf137814",
   "lastOpenFiles": [
-    "Daily/2024/2024-06/2024-06-14.md",
     "Daily/2024/2024-06/2024-06-17.md",
+    "Daily/2024/2024-06/2024-06-18.md",
+    "Daily/2024/2024-06/2024-06-14.md",
     "Daily/2024/2024-06/2024-06-03.md",
     "Daily/2024/2024-06/2024-06-02.md",
     "Daily/2024/2024-06/2024-06-04.md",
@@ -218,7 +219,6 @@
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Projects/프로그래머스 레벨 2 문제풀이.md",
     "_💭 TEMPORARY/💻 Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
-    "_💭 TEMPORARY/💻 Development/Projects/SSAFY 에세이 제출하기.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디",
     "_💭 TEMPORARY/💻 Development/Projects",
     "_💭 TEMPORARY/💻 Development/Learning",
