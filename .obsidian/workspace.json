@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -189,7 +190,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "90da7495cf4fd365",
+  "active": "75e0a865b45c6b6e",
   "lastOpenFiles": [
     "Daily/2024/2024-06/2024-06-25.md",
     "Daily/2024/2024-06/2024-06-18.md",
