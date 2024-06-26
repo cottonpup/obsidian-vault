@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d074cacb277d0b6a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +191,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d074cacb277d0b6a",
+  "active": "5b3e7cab9adc472d",
   "lastOpenFiles": [
     "Daily/2024/2024-06/2024-06-14.md",
     "_💭 TEMPORARY/2024-05/2024-05-08.md",
