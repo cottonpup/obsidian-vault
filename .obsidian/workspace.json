@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "856e0f3a7986da6c",
+        "id": "78ec9960b4a29329",
         "type": "tabs",
         "children": [
           {
-            "id": "5b3e7cab9adc472d",
+            "id": "5c14fb8209d499b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-25.md",
+                "file": "Daily/2024/2024-06/2024-06-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-25.md"
+                "file": "Daily/2024/2024-06/2024-06-27.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-25.md",
+                "file": "Daily/2024/2024-06/2024-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-25.md",
+                "file": "Daily/2024/2024-06/2024-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +190,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5b3e7cab9adc472d",
+  "active": "5c14fb8209d499b2",
   "lastOpenFiles": [
+    "Daily/2024/2024-06/2024-06-25.md",
+    "Daily/2024/2024-06/2024-06-27.md",
     "Daily/2024/2024-06/2024-06-14.md",
     "_💭 TEMPORARY/2024-05/2024-05-08.md",
-    "Daily/2024/2024-06/2024-06-25.md",
     "Files/Screenshot 2024-06-25 at 15.24.30.png",
     "Files/Screenshot 2024-06-25 at 15.16.55.png",
     "Daily/2024/2024-06/2024-06-18.md",
