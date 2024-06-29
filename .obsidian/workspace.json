@@ -11,8 +11,12 @@
             "id": "638cb13fdfbf14e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/2024-06/2024-06-18.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024/2024-06/2024-06-18.md"
+              }
             }
           },
           {
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024/2024-06/2024-06-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024/2024-06/2024-06-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +189,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "638cb13fdfbf14e7",
   "lastOpenFiles": [
+    "Daily/2024/2024-06/2024-06-17.md",
+    "Daily/2024/2024-06/2024-06-18.md",
     "🐿️ Personal/Quotes.md",
     "🐿️ Personal",
     "tracked_files.json",
@@ -215,8 +225,6 @@
     "_💭 TEMPORARY/프론트엔드 면접대비.md",
     "_💭 TEMPORARY/프론트엔드 면접 스터디.md",
     "_💭 TEMPORARY/프로미스가 무엇인가.md",
-    "_💭 TEMPORARY/파인만 공부법.md",
-    "_💭 TEMPORARY/투인피니티 면접 대비.md",
     "_💭 TEMPORARY/블로깅",
     "_💭 TEMPORARY/_Drawer/도둑맞은 집중력.md-2",
     "_💭 TEMPORARY/Screenshot 2024-05-28 at 22.41.38.png",
