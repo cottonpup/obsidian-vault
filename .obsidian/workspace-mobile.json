@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "077c126ff02a9876",
+    "id": "0481c1e83f1a39c5",
     "type": "split",
     "children": [
       {
-        "id": "5327b9312334467d",
+        "id": "0f6b95f63b08d39c",
         "type": "tabs",
         "children": [
           {
-            "id": "adcf0e1857f097fa",
+            "id": "1fd21db7b4332680",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🐿️ Personal/Quotes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cbe7478712cd8e67",
+    "id": "23e6d98258308e96",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f7adcf393d8ffd8c",
+        "id": "5a62871cbadcb6df",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +35,7 @@
         }
       },
       {
-        "id": "959ee6acb3d88a9e",
+        "id": "37d93b967379f25a",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +50,7 @@
         }
       },
       {
-        "id": "a8acf86b5a744746",
+        "id": "486e21757ebd2ae8",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +61,7 @@
         }
       },
       {
-        "id": "e623bda94ebbb015",
+        "id": "107f2c765b36c549",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "e67d7f6e426fa6e2",
+    "id": "242f7ba983e071a9",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2a0c66dde927431d",
+        "id": "885baade59792c7c",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🐿️ Personal/Quotes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,25 +92,22 @@
         }
       },
       {
-        "id": "df272722f92fa99f",
+        "id": "a573e69036737550",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🐿️ Personal/Quotes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "31388c9d85459e38",
+        "id": "a3220d09793062c3",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "🐿️ Personal/Quotes.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,53 +123,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adcf0e1857f097fa",
-  "lastOpenFiles": [
-    "tracked_files.json",
-    "Files/Screenshot 2023-10-01 at 17.18.51.png",
-    "Files/Screenshot 2023-11-22 at 11.18.49.png",
-    "Files/Screenshot 2023-10-01 at 19.39.43.png",
-    "Files/Screenshot 2023-12-13 at 11.20.26.png",
-    "Files/Screenshot 2023-11-17 at 10.32.14.png",
-    "Files/Pasted image 20240224200010.png",
-    "Files/Screenshot 2023-12-13 at 22.55.51.png",
-    "Files/Screenshot 2023-12-21 at 16.12.24.png",
-    "Files/Screenshot 2023-07-20 at 11.58.36 AM.png",
-    "Files/Screenshot 2024-01-14 at 23.58.41.png",
-    "Files/Screen Recording 2023-11-13 at 14.12.17.mov",
-    "Files",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/프론트엔드 기본 면접문제.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Sales by Match.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/CORS란?.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/2022-02-07 TIL.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Tweets From Emiko.dev ☀️.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Prepare for an Interview.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/영어 전치사 연구 의미와 용법.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Frontend Web Developer Roadmap.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/class와 function component의 차이점.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/useCallback() Hook.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/JavaScript 라이브러리에서 TypeScript 선언 파일을 생성할 수 있나요.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Side Effect In Development.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/useEffect() Hook.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/겁쟁이들을 위한 스터디.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Arrays & Hashing.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디",
-    "_💭 TEMPORARY/_Drawer/투인피니티 면접 대비.md-2",
-    "_💭 TEMPORARY/_Drawer/Git 기초강의.md-2",
-    "_💭 TEMPORARY/_Drawer/Tailwind class 와 className 차이.md-2",
-    "_💭 TEMPORARY/_Drawer/도둑맞은 집중력.md-2",
-    "_💭 TEMPORARY/_Drawer/깃 커밋 영어 레퍼런스.md-2",
-    "_💭 TEMPORARY/_Drawer/Frontend Web Developer Roadmap.md-2",
-    "_💭 TEMPORARY/_Drawer/영어 전치사 연구 의미와 용법.md-2"
-  ]
+  "active": "1fd21db7b4332680",
+  "lastOpenFiles": []
 }
