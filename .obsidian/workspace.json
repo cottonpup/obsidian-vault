@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fe44311fcedbf5ce",
+        "id": "c120ba517e8a1b76",
         "type": "tabs",
         "children": [
           {
-            "id": "638cb13fdfbf14e7",
+            "id": "84581ea2bf137814",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/2024-06/2024-06-14.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "깃 취소",
+                "query": "reset",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -89,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Daily/2024/2024-06/2024-06-14.md"
               }
             }
           },
@@ -118,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024/2024-06/2024-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024/2024-06/2024-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,30 +192,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "84581ea2bf137814",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Daily/2024/2024-06/2024-06-29.md",
-    "Daily/2024/2024-06/2024-06-27.md",
-    "Daily/2024/2024-06/2024-06-25.md",
     "Daily/2024/2024-06/2024-06-14.md",
-    "_💭 TEMPORARY/2024-05/2024-05-08.md",
-    "Files/Screenshot 2024-06-25 at 15.24.30.png",
-    "Files/Screenshot 2024-06-25 at 15.16.55.png",
-    "Daily/2024/2024-06/2024-06-18.md",
-    "Daily/2024/2024-06/2024-06-10.md",
-    "Daily/2024/2024-06/2024-06-24.md",
-    "Daily/2024/2024-06/2024-06-19.md",
-    "_💭 TEMPORARY/2024-02/2024-02-13.md",
-    "Files/Screenshot 2024-06-20 at 17.22.30.png",
-    "Files/Screenshot 2024-06-20 at 12.50.38.png",
-    "Files/Screenshot 2024-06-20 at 12.50.21.png",
-    "Files/Screenshot 2024-06-19 at 22.39.51.png",
-    "Files/Screenshot 2024-06-19 at 22.29.42.png",
-    "Files/Screenshot 2024-06-18 at 17.54.40.png",
-    "Files/Screenshot 2024-06-18 at 17.54.20.png",
-    "Files/Screenshot 2024-06-18 at 16.33.59.png",
-    "Daily/2024/2024-06/2024-06-17.md",
     "Daily/2024/2024-06/2024-06-03.md",
     "Daily/2024/2024-06/2024-06-02.md",
     "Daily/2024/2024-06/2024-06-04.md",
@@ -215,12 +203,23 @@
     "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md",
     "_💭 TEMPORARY/2024-02/2024-02-25.md",
     "_💭 TEMPORARY/2024-04/2024-04-07.md",
+    "_💭 TEMPORARY/2024-05/2024-05-08.md",
+    "Daily/2024/2024-06/2024-06-10.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/프론트엔드 기본 면접문제.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
+    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
+    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
+    "_💭 TEMPORARY/💻 Development/Projects/프로그래머스 레벨 2 문제풀이.md",
+    "_💭 TEMPORARY/💻 Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
+    "_💭 TEMPORARY/💻 Development/Projects/SSAFY 에세이 제출하기.md",
+    "_💭 TEMPORARY/💻 Development/Projects/MS 한빛 여성의 날, 포트폴리오 PPT.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디",
     "_💭 TEMPORARY/💻 Development/Projects",
     "_💭 TEMPORARY/💻 Development/Learning",
@@ -231,6 +230,16 @@
     "_💭 TEMPORARY/_Drawer/신입 개발자 면접 가이드.md-2",
     "_💭 TEMPORARY/_Drawer/바이슈코 면접 대비.md-2",
     "_💭 TEMPORARY/_Drawer/도둑맞은 집중력.md-2",
+    "_💭 TEMPORARY/Screenshot 2024-05-28 at 22.41.38.png",
+    "Files/Screenshot 2024-06-03 at 15.52.43.png",
+    "Files/Screenshot 2024-06-03 at 10.37.10.png",
+    "Files/Screenshot 2024-05-28 at 22.41.38.png",
+    "Files/Screenshot 2024-05-11 at 12.12.00.png",
+    "Files/Screenshot 2024-05-11 at 12.10.12.png",
+    "Files/Screenshot 2024-05-11 at 11.37.43.png",
+    "Files/Screenshot 2024-05-11 at 11.23.01.png",
+    "Files/Screenshot 2024-05-11 at 11.22.47.png",
+    "Files/Screenshot 2024-05-03 at 00.47.52.png",
     "Daily/2024-02/W.canvas",
     "Permanent Notes/Untitled.canvas",
     "Projects/프론트엔드 면접 스터디.canvas",
