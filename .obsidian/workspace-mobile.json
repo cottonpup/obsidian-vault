@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "5cf0ea3ac5674cdf",
+    "id": "afd543ad35d73722",
     "type": "split",
     "children": [
       {
-        "id": "27d7f1b40921d99b",
+        "id": "4e77c731d5ce9303",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6851bd5f51504a",
+            "id": "cb0ac4c8fdb5087c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-01-30.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b7486429c3824465",
+    "id": "ad6c56d63958125a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "08c471288e8aa77e",
+        "id": "6be601b37843d0de",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +35,7 @@
         }
       },
       {
-        "id": "530d77eca34c9640",
+        "id": "2cd9f43e8df15e3f",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +50,7 @@
         }
       },
       {
-        "id": "b64145fe14942f78",
+        "id": "4cf326a83648f27e",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +61,7 @@
         }
       },
       {
-        "id": "7400ad260965baa2",
+        "id": "622f26a39867ca5f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "d4549badf9d61e1b",
+    "id": "7ed9b71e726ce0bb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "44cf7abcf23b467d",
+        "id": "abb16ecf5a668633",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2024-01-30.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,40 +92,21 @@
         }
       },
       {
-        "id": "fe740626a1cece14",
+        "id": "a0fc747cc20a97a1",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/2024-01-30.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "c25fad97eb4e1017",
+        "id": "799b81d544efa496",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Daily/2024-01-30.md"
-          }
-        }
-      },
-      {
-        "id": "7dbf0dda0e9bf631",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "3b39b5a91006f190",
-        "type": "leaf",
-        "state": {
-          "type": "review-queue-list-view",
           "state": {}
         }
       }
@@ -144,58 +120,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "fc6851bd5f51504a",
+  "active": "cb0ac4c8fdb5087c",
   "lastOpenFiles": [
-    "Daily/2024-01-30.md",
-    "Daily/2024-01-29.md",
-    "_💭 TEMPORARY/_Drawer/Files/IMG_9186.png",
-    "_💭 TEMPORARY/_Drawer/Files/IMG_9180.jpeg",
-    "_💭 TEMPORARY/_Drawer/Files/IMG_9175.jpeg",
-    "Daily/2024-01-02.md",
-    "_💭 TEMPORARY/_Drawer/Files/IMG_9170.jpeg",
-    "👩🏻‍💻 Job Seeking/Job Seeking Index.md",
-    "👩🏻‍💻 Job Seeking/이큐브랩 면접 준비 및 후기.md",
-    "👩🏻‍💻 Job Seeking",
-    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-10-01 at 17.18.51.png",
-    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-11-22 at 11.18.49.png",
-    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-10-01 at 19.39.43.png",
-    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 11.20.26.png",
-    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-11-17 at 10.32.14.png",
-    "_💭 TEMPORARY/_Drawer/Files/Screenshot 2023-12-13 at 22.55.51.png",
-    "_💭 TEMPORARY/_Drawer/Files/Screen Recording 2023-11-13 at 14.12.17.mov",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Sales by Match.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/CORS란?.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/2022-02-07 TIL.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Tweets From Emiko.dev ☀️.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Drawing 2023-10-16 13.14.39.excalidraw.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Prepare for an Interview.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/영어 전치사 연구 의미와 용법.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Frontend Web Developer Roadmap.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/class와 function component의 차이점.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/useCallback() Hook.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/JavaScript 라이브러리에서 TypeScript 선언 파일을 생성할 수 있나요.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Side Effect In Development.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/useEffect() Hook.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/겁쟁이들을 위한 스터디.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Arrays & Hashing.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/Algorithm List.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/What happens when you type google.com in your browser and press Enter.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/google.com을 치면 일어나는 일.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/번들러란?.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/누구도 나를 파괴할 수 없다.md",
-    "_💭 TEMPORARY/_Drawer/ARCHIVE/PARA 정리법.md",
-    "_💭 TEMPORARY/_Drawer/투인피니티 면접 대비.md-2",
-    "_💭 TEMPORARY/_Drawer/Git 기초강의.md-2",
-    "_💭 TEMPORARY/_Drawer/Tailwind class 와 className 차이.md-2",
-    "_💭 TEMPORARY/_Drawer/Files",
-    "_💭 TEMPORARY/_Drawer/도둑맞은 집중력.md-2",
-    "_💭 TEMPORARY/_Drawer/깃 커밋 영어 레퍼런스.md-2",
-    "_💭 TEMPORARY/_Drawer/Frontend Web Developer Roadmap.md-2",
-    "_💭 TEMPORARY/_Drawer/영어 전치사 연구 의미와 용법.md-2"
+    "Untitled.md"
   ]
 }

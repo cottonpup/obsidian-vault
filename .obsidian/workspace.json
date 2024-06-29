@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "78ec9960b4a29329",
+        "id": "fe44311fcedbf5ce",
         "type": "tabs",
         "children": [
           {
-            "id": "5c14fb8209d499b2",
+            "id": "638cb13fdfbf14e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/2024-06/2024-06-27.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -94,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-27.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -123,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,10 +183,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5c14fb8209d499b2",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
-    "Daily/2024/2024-06/2024-06-25.md",
+    "Untitled.md",
+    "Daily/2024/2024-06/2024-06-29.md",
     "Daily/2024/2024-06/2024-06-27.md",
+    "Daily/2024/2024-06/2024-06-25.md",
     "Daily/2024/2024-06/2024-06-14.md",
     "_💭 TEMPORARY/2024-05/2024-05-08.md",
     "Files/Screenshot 2024-06-25 at 15.24.30.png",
@@ -226,8 +221,6 @@
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 2일 프론트엔드 면접 스터디 - 네트워크 발표.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 26일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디",
     "_💭 TEMPORARY/💻 Development/Projects",
     "_💭 TEMPORARY/💻 Development/Learning",
