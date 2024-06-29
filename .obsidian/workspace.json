@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-18.md",
+                "file": "Daily/2024/2024-06/2024-06-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-18.md"
+                "file": "Daily/2024/2024-06/2024-06-24.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-18.md",
+                "file": "Daily/2024/2024-06/2024-06-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-18.md",
+                "file": "Daily/2024/2024-06/2024-06-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,8 +191,12 @@
   },
   "active": "638cb13fdfbf14e7",
   "lastOpenFiles": [
-    "Daily/2024/2024-06/2024-06-17.md",
+    "Daily/2024/2024-06/2024-06-25.md",
+    "Daily/2024/2024-06/2024-06-27.md",
+    "Daily/2024/2024-06/2024-06-24.md",
+    "Daily/2024/2024-06/2024-06-19.md",
     "Daily/2024/2024-06/2024-06-18.md",
+    "Daily/2024/2024-06/2024-06-17.md",
     "🐿️ Personal/Quotes.md",
     "🐿️ Personal",
     "tracked_files.json",
@@ -221,10 +225,6 @@
     "_💭 TEMPORARY/👩🏻‍💻 Job Seeking/이큐브랩 면접 준비 및 후기.md",
     "_💭 TEMPORARY/👩🏻‍💻 Job Seeking/Job Seeking Index.md",
     "_💭 TEMPORARY/👩🏻‍💻 Job Seeking",
-    "_💭 TEMPORARY/함수 선언문과 함수 표현식은 어떤 차이가 있나요.md",
-    "_💭 TEMPORARY/프론트엔드 면접대비.md",
-    "_💭 TEMPORARY/프론트엔드 면접 스터디.md",
-    "_💭 TEMPORARY/프로미스가 무엇인가.md",
     "_💭 TEMPORARY/블로깅",
     "_💭 TEMPORARY/_Drawer/도둑맞은 집중력.md-2",
     "_💭 TEMPORARY/Screenshot 2024-05-28 at 22.41.38.png",
