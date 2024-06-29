@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "95fe8a5b8263966f",
+    "id": "14fb20fbd1775938",
     "type": "split",
     "children": [
       {
-        "id": "1df2d4fe57c778b3",
+        "id": "ea1f0927d8f18725",
         "type": "tabs",
         "children": [
           {
-            "id": "0065cb2b639a5254",
+            "id": "cc16d741fd4f2630",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4c8a497da9b2b231",
+    "id": "1619b704c4191f27",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "0fc1448d0d3e89cf",
+        "id": "8db7e0c72b373c7a",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +35,7 @@
         }
       },
       {
-        "id": "6c64f72dfb36b36b",
+        "id": "2036267fc6f2c35c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +50,7 @@
         }
       },
       {
-        "id": "43825cb8fba5de25",
+        "id": "dfac3b5860c7ea7e",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "d278d6f9bfbf1edb",
+        "id": "b1c33ef8e3ec9693",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -72,11 +72,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "f5d14ec73335ba7e",
+    "id": "ba752dfeb0756ffb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "462b5a3e33e2d8fa",
+        "id": "a4b9404a512d3cc9",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -92,7 +92,7 @@
         }
       },
       {
-        "id": "7dbd98a532812d90",
+        "id": "287a0cf2d1e3cfee",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -103,7 +103,7 @@
         }
       },
       {
-        "id": "f265f2c5e2501bc2",
+        "id": "b81202685b474a7a",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -123,6 +123,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0065cb2b639a5254",
+  "active": "cc16d741fd4f2630",
   "lastOpenFiles": []
 }
