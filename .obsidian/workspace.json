@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe44311fcedbf5ce",
+        "id": "f4544e3ab385f7cd",
         "type": "tabs",
         "children": [
           {
-            "id": "638cb13fdfbf14e7",
+            "id": "9c6f1df01d68b868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-18.md",
+                "file": "Daily/2024/2024-06/2024-06-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-18.md"
+                "file": "Daily/2024/2024-06/2024-06-19.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-18.md",
+                "file": "Daily/2024/2024-06/2024-06-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-18.md",
+                "file": "Daily/2024/2024-06/2024-06-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,13 +189,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "638cb13fdfbf14e7",
+  "active": "9c6f1df01d68b868",
   "lastOpenFiles": [
-    "Daily/2024/2024-06/2024-06-19.md",
     "Daily/2024/2024-06/2024-06-24.md",
     "Daily/2024/2024-06/2024-06-25.md",
     "Daily/2024/2024-06/2024-06-27.md",
     "Daily/2024/2024-06/2024-06-18.md",
+    "Daily/2024/2024-06/2024-06-19.md",
     "Daily/2024/2024-06/2024-06-17.md",
     "🐿️ Personal/Quotes.md",
     "🐿️ Personal",
