@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -89,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -182,7 +183,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "638cb13fdfbf14e7",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
     "Untitled.md",
     "Daily/2024/2024-06/2024-06-29.md",
