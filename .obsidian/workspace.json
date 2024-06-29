@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f4544e3ab385f7cd",
+        "id": "5cb2800e0c72a6ea",
         "type": "tabs",
         "children": [
           {
-            "id": "9c6f1df01d68b868",
+            "id": "001bb362b4aff7d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/2024-06/2024-06-18.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -92,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024/2024-06/2024-06-18.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,13 +182,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "9c6f1df01d68b868",
+  "active": "9dac6a59f8002037",
   "lastOpenFiles": [
+    "Daily/2024/2024-06/2024-06-18.md",
     "Daily/2024/2024-06/2024-06-19.md",
     "Daily/2024/2024-06/2024-06-24.md",
     "Daily/2024/2024-06/2024-06-25.md",
     "Daily/2024/2024-06/2024-06-27.md",
-    "Daily/2024/2024-06/2024-06-18.md",
     "Daily/2024/2024-06/2024-06-17.md",
     "🐿️ Personal/Quotes.md",
     "🐿️ Personal",
