@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "mobilePullAction": "insert-template",
+  "newFileLocation": "current",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "/Files",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true
+}

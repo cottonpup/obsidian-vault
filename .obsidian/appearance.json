@@ -1,14 +1,10 @@
 {
-  "accentColor": "#eaac8b",
-  "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
-  "baseFontSize": 15,
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#ffc5ab",
   "enabledCssSnippets": [
+    "extended-colorschemes",
     "media-grid-snippet",
-    "snippet",
-    "extended-colorschemes"
-  ],
-  "textFontFamily": "Space Grotesk",
-  "interfaceFontFamily": "Space Grotesk",
-  "monospaceFontFamily": "Space Grotesk"
+    "snippet"
+  ]
 }
