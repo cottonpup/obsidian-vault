@@ -1,10 +1,1 @@
-{
-  "theme": "moonstone",
-  "cssTheme": "AnuPpuccin",
-  "accentColor": "#ffc5ab",
-  "enabledCssSnippets": [
-    "extended-colorschemes",
-    "media-grid-snippet",
-    "snippet"
-  ]
-}
+{}
