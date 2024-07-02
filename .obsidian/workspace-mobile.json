@@ -11,8 +11,12 @@
             "id": "9140398f3a9aa123",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Elll.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Elll.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Elll.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Elll.md"
+          }
         }
       }
     ],
@@ -124,5 +132,7 @@
     }
   },
   "active": "9140398f3a9aa123",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Elll.md"
+  ]
 }
