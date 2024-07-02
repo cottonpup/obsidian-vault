@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8a8d9db9760ea9c4",
+        "id": "63d5c44e1176f4e9",
         "type": "tabs",
         "children": [
           {
-            "id": "434dda27dad0170f",
+            "id": "88fb41ee5718885a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/2024-06/2024-06-27.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024/2024-06/2024-06-27.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +179,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "434dda27dad0170f",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "Daily/2024/2024-06/2024-07-02.md",
+    "Daily/2024/2024-06/2024-06-27.md",
     "Templates/Map of Content 2.md",
     "Templates/Daily Note 2.md",
     "_💭 TEMPORARY/2024-02/2024-02-13.md",
@@ -198,7 +191,6 @@
     "_💭 TEMPORARY/2024-02/2024-02-25.md",
     "Elll.md",
     "Daily/2024/2024-06/2024-06-25.md",
-    "Daily/2024/2024-06/2024-06-27.md",
     "Daily/2024/2024-06/2024-06-18.md",
     "Daily/2024/2024-06/2024-06-19.md",
     "Daily/2024/2024-06/2024-06-24.md",
@@ -218,7 +210,6 @@
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Projects/프로그래머스 레벨 2 문제풀이.md",
-    "_💭 TEMPORARY/💻 Development/Projects/첫번째 모임 - 아이스 브레이킹.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디",
     "_💭 TEMPORARY/💻 Development/Projects",
     "_💭 TEMPORARY/💻 Development/Learning",
