@@ -11,8 +11,12 @@
             "id": "88fb41ee5718885a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/2024-07/2024-07-02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024/2024-07/2024-07-02.md"
+              }
             }
           },
           {
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024/2024-07/2024-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024/2024-07/2024-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "88fb41ee5718885a",
   "lastOpenFiles": [
+    "Templates/Daily Note.md",
+    "Daily/2024/2024-07/2024-07-02.md",
+    "Daily/2024/2024-07",
     "Daily/2024/2024-06/2024-07-02.md",
     "Daily/2024/2024-06/2024-06-27.md",
     "Templates/Map of Content 2.md",
@@ -208,15 +220,12 @@
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 19일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 16일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 12일 프론트엔드 면접 스터디 - 자바스크립트 발표.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 12일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/💻 Development/Projects/프로그래머스 레벨 2 문제풀이.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디",
     "_💭 TEMPORARY/💻 Development/Projects",
     "_💭 TEMPORARY/💻 Development/Learning",
     "_💭 TEMPORARY/💻 Development/Group Study",
     "_💭 TEMPORARY/💻 Development",
     "_💭 TEMPORARY/👩🏻‍💻 Job Seeking",
-    "_💭 TEMPORARY/블로깅",
     "_💭 TEMPORARY/Screenshot 2024-05-28 at 22.41.38.png",
     "Files/영경의_만다라트.png",
     "Files/사이드.png",
