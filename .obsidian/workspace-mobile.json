@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4887c576c9ca2f82",
+        "id": "0acf4c9b1a249764",
         "type": "tabs",
         "children": [
           {
-            "id": "689af95082e620b7",
+            "id": "e7886cd7bff7cff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,15 +158,15 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "689af95082e620b7",
+  "active": "e7886cd7bff7cff1",
   "lastOpenFiles": [
+    "Daily/2024/2024-06/2024-06-24.md",
+    "Daily/2024/2024-06/2024-06-25.md",
     "Daily/2024/2024-06/2024-06-14.md",
     "Daily/2024/2024-06/2024-06-17.md",
     "Daily/2024/2024-06/2024-06-27.md",
     "Daily/2024/2024-06/2024-06-19.md",
     "Daily/2024/2024-06/2024-06-18.md",
-    "Daily/2024/2024-06/2024-06-25.md",
-    "Daily/2024/2024-06/2024-06-24.md",
     "Daily/2024/2024-06/2024-06-04.md"
   ]
 }
