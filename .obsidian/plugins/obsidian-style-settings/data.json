@@ -24,5 +24,11 @@
   "anuppuccin-theme-settings@@anp-table-auto": true,
   "anuppuccin-theme-settings@@anp-table-th-highlight": true,
   "anuppuccin-theme-settings@@anp-td-highlight": "anp-table-row-alt",
-  "anuppuccin-theme-settings@@anp-table-align-td": "left"
+  "anuppuccin-theme-settings@@anp-table-align-td": "left",
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-divider-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-default-rainbow",
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
+  "anuppuccin-theme-settings@@anp-bg-fix": true
 }
