@@ -1,5 +1,10 @@
 {
   "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "media-grid-snippet",
+    "snippet",
+    "extended-colorschemes"
+  ]
 }
