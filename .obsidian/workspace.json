@@ -11,8 +11,12 @@
             "id": "001bb362b4aff7d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/2024-06/2024-06-25.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024/2024-06/2024-06-25.md"
+              }
             }
           },
           {
@@ -117,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024/2024-06/2024-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024/2024-06/2024-06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,13 +190,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "9dac6a59f8002037",
+  "active": "001bb362b4aff7d2",
   "lastOpenFiles": [
+    "Daily/2024/2024-06/2024-06-27.md",
     "Daily/2024/2024-06/2024-06-18.md",
     "Daily/2024/2024-06/2024-06-19.md",
     "Daily/2024/2024-06/2024-06-24.md",
     "Daily/2024/2024-06/2024-06-25.md",
-    "Daily/2024/2024-06/2024-06-27.md",
     "Daily/2024/2024-06/2024-06-17.md",
     "🐿️ Personal/Quotes.md",
     "🐿️ Personal",
