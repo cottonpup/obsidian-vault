@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -188,7 +189,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efc8b191b2f2d3ce",
+  "active": "ed751015f14ffe7e",
   "lastOpenFiles": [
     "_💭 TEMPORARY/2023/2023-12/2023-12-28.md",
     "Daily/2024/2024-06/2024-06-27.md",
