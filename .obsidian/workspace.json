@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_💭 TEMPORARY/2024-05/2024-05-11.md",
+                "file": "Daily/2024/2024-06/2024-06-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "168f1139124b42f4",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_💭 TEMPORARY/2024-05/2024-05-11.md"
+                "file": "Daily/2024/2024-06/2024-06-18.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_💭 TEMPORARY/2024-05/2024-05-11.md",
+                "file": "Daily/2024/2024-06/2024-06-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_💭 TEMPORARY/2024-05/2024-05-11.md",
+                "file": "Daily/2024/2024-06/2024-06-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,6 +191,10 @@
   },
   "active": "ed751015f14ffe7e",
   "lastOpenFiles": [
+    "Daily/2024/2024-06/2024-06-10.md",
+    "_💭 TEMPORARY/2024-05/2024-05-19.md",
+    "_💭 TEMPORARY/2024-05/2024-05-17.md",
+    "_💭 TEMPORARY/2024-05/2024-05-11.md",
     "_💭 TEMPORARY/2023/2023-12/2023-12-28.md",
     "Daily/2024/2024-06/2024-06-27.md",
     "Daily/2024/2024-07/2024-07-02.md",
@@ -217,10 +221,6 @@
     "Quotes.md",
     "🐿️ Personal",
     "tracked_files.json",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/프론트엔드 기본 면접문제.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디",
     "_💭 TEMPORARY/💻 Development/Projects",
     "_💭 TEMPORARY/💻 Development/Learning",
