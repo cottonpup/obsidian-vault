@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-27.md",
+                "file": "_💭 TEMPORARY/2024-05/2024-05-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "continue",
+                "query": "자료구조",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-27.md"
+                "file": "_💭 TEMPORARY/2024-05/2024-05-11.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-27.md",
+                "file": "_💭 TEMPORARY/2024-05/2024-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/2024-06/2024-06-27.md",
+                "file": "_💭 TEMPORARY/2024-05/2024-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed751015f14ffe7e",
+  "active": "efc8b191b2f2d3ce",
   "lastOpenFiles": [
+    "_💭 TEMPORARY/2023/2023-12/2023-12-28.md",
+    "Daily/2024/2024-06/2024-06-27.md",
     "Daily/2024/2024-07/2024-07-02.md",
     "Templates/Weekly Planner.md",
     "Templates/Weekly Planner 2.md",
@@ -201,7 +203,6 @@
     "_💭 TEMPORARY/2024-04/2024-04-07.md",
     "Daily/2024/2024-07",
     "Daily/2024/2024-06/2024-07-02.md",
-    "Daily/2024/2024-06/2024-06-27.md",
     "Templates/Daily Note 2.md",
     "_💭 TEMPORARY/2024-02/2024-02-13.md",
     "Development",
@@ -219,7 +220,6 @@
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/11월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 5일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 30일 프론트엔드 면접 스터디 - 면접 질문.md",
-    "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디/10월 2일 프론트엔드 면접 스터디 - 면접 질문.md",
     "_💭 TEMPORARY/💻 Development/Group Study/그룹 면접 스터디",
     "_💭 TEMPORARY/💻 Development/Projects",
     "_💭 TEMPORARY/💻 Development/Learning",
