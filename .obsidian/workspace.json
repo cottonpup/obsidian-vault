@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "63d5c44e1176f4e9",
+        "id": "936c572f0e227200",
         "type": "tabs",
         "children": [
           {
-            "id": "88fb41ee5718885a",
+            "id": "ed751015f14ffe7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_💭 TEMPORARY/2024-04/2024-04-07.md",
+                "file": "Templates/Daily Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_💭 TEMPORARY/2024-04/2024-04-07.md"
+                "file": "Templates/Daily Note.md"
               }
             }
           },
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_💭 TEMPORARY/2024-04/2024-04-07.md",
+                "file": "Templates/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_💭 TEMPORARY/2024-04/2024-04-07.md",
+                "file": "Templates/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +188,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88fb41ee5718885a",
+  "active": "ed751015f14ffe7e",
   "lastOpenFiles": [
+    "_💭 TEMPORARY/2024-04/2024-04-07.md",
     "Daily/2024/2024-07/2024-07-02.md",
     "Templates/Daily Note.md",
     "Daily/2024/2024-07",
@@ -200,7 +200,6 @@
     "Templates/Daily Note 2.md",
     "_💭 TEMPORARY/2024-02/2024-02-13.md",
     "Development",
-    "_💭 TEMPORARY/2024-04/2024-04-07.md",
     "_💭 TEMPORARY/2024-02/2024-02-25.md",
     "Elll.md",
     "Daily/2024/2024-06/2024-06-25.md",
